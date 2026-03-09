@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-04",
+  "title": "Resumen diario de IA",
+  "top": [
+    {
+      "id": "techcrunch-2026-03-04-nueva-funcion-ia-herramienta-popular",
+      "category": "top",
+      "title": "Ejemplo: Nueva función de IA en una herramienta popular",
+      "url": "https://example.com/noticia-1",
+      "source": "TechCrunch",
+      "published_at": "2026-03-04T08:10:00Z",
+      "summary": "Qué pasó: ...",
+      "why_it_matters": "Por qué importa: ...",
+      "tags": ["producto", "modelos"]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Lanzamientos",
+      "items": [
+        {
+          "id": "openai-2026-03-04-release-version",
+          "category": "lanzamientos",
+          "title": "Ejemplo: Release / versión",
+          "url": "https://example.com/release",
+          "source": "OpenAI",
+          "published_at": "2026-03-04T06:30:00Z",
+          "summary": "Qué pasó: ...",
+          "why_it_matters": "Por qué importa: ...",
+          "tags": ["producto"]
+        }
+      ]
+    }
+  ]
+}

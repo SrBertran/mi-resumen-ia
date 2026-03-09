@@ -1,0 +1,35 @@
+---
+const { item, showWhy = true } = Astro.props;
+
+function formatDate(iso) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(d);
+}
+---
+
+<article class="card" style="border-radius: 14px; padding: 14px;">
+  <div class="meta">
+    <span>{item.source}</span>
+    <span>·</span>
+    <time datetime={item.published_at}>{formatDate(item.published_at)}</time>
+  </div>
+
+  <a
+    href={item.url}
+    target="_blank"
+    rel="noreferrer"
+    style="display:block; margin-top:6px; font-weight:650;"
+  >
+    {item.title}
+  </a>
+
+  {item.summary && <p>{item.summary}</p>}
+  {showWhy && item.why_it_matters && <p style="opacity:.9">{item.why_it_matters}</p>}
+
+  {item.tags?.length ? (
+    <div class="meta" style="margin-top: 10px;">
+      {item.tags.map((t) => <span class="pill">{t}</span>)}
+    </div>
+  ) : null}
+</article>
