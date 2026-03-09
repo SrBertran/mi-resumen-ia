@@ -12,7 +12,7 @@ function formatDate(iso) {
 
 <BaseLayout title={`${daily.title} — ${daily.date}`}>
   <div class="meta" style="justify-content: space-between;">
-    <span>{formatDate(daily.date)}</span>
+    <span>Actualizado {formatDate(daily.generated_at ?? daily.date)}</span>
     <a href="/">Inicio</a>
   </div>
 

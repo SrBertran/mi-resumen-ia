@@ -228,6 +228,7 @@ def main():
     # Date for the daily file (UTC date; you can switch to Europe/Madrid later)
     out = {
         "date": now_utc().strftime("%Y-%m-%d"),
+        "generated_at": now_utc().isoformat().replace("+00:00", "Z"),
         "title": "Resumen diario de IA",
         "top": top,
         "sections": sections,
