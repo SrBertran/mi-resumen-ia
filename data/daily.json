@@ -1,74 +1,93 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T06:45:20.058868Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Apple is going high-end with new ‘Ultra’ products next",
-      "url": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
+      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
       "source": "The Verge",
-      "published_at": "2026-03-08T17:51:15Z",
-      "summary": "Fresh off launching the low-cost MacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end \"ultra\" lineup. According to Bloomberg's Mark Gurman, the next batch of releases …",
+      "published_at": "2026-03-09T22:26:50Z",
+      "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-08-apple-is-going-high-end-with-new-ultra-products"
+      "id": "theverge-2026-03-09-apple-smart-home-display-rumors-now-point-to"
     },
     {
-      "title": "Listen to this: Mabe Fratti’s experimental cello pop",
-      "url": "https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review",
+      "title": "The government shutdown is hitting airports — but not ICE",
+      "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
       "source": "The Verge",
-      "published_at": "2026-03-08T16:00:00Z",
-      "summary": "The opening notes of \"Kravitz,\" which kicks off Mabe Fratti's 2024 record Sentir Que No Sabes, are lodged in my brain permanently. It's not a showy album, by any means. But there's something about the buzzing of her cell…",
+      "published_at": "2026-03-09T21:52:29Z",
+      "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-08-listen-to-this-mabe-fratti-s-experimental-cello"
+      "id": "theverge-2026-03-09-the-government-shutdown-is-hitting-airports----but"
     },
     {
-      "title": "What we&#8217;re listening to, watching, and reading right now.",
-      "url": "https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading",
+      "title": "Everything from the last week of everything is gambling now",
+      "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
       "source": "The Verge",
-      "published_at": "2026-03-08T15:00:00Z",
-      "summary": "There is so much art out there that it’s absolutely impossible to keep up. Whether it&#8217;s a slept-on post-punk album from the ’80s, a new sci-fi novel, or a cult classic horror movie, we’re always finding new obsessi…",
+      "published_at": "2026-03-09T21:18:26Z",
+      "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-08-what-we-8217-re-listening-to-watching-and"
+      "id": "theverge-2026-03-09-everything-from-the-last-week-of-everything-is"
     },
     {
-      "title": "The best Switch 2 controller just got better (and a little worse)",
-      "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
       "source": "The Verge",
-      "published_at": "2026-03-08T14:00:00Z",
-      "summary": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 ha…",
+      "published_at": "2026-03-09T20:45:24Z",
+      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scienti…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-08-the-best-switch-2-controller-just-got-better"
+      "id": "theverge-2026-03-09-employees-across-openai-and-google-support-anthropic-s"
     },
     {
-      "title": "Mientras Occidente debate qué hacer con la IA en los colegios, en China ya hay escuelas convirtiéndola en tutora infantil",
-      "url": "https://www.xataka.com/robotica-e-ia/occidente-le-teme-a-ia-escuelas-china-ha-decidido-convertirla-ninera-tutora-oficial-sus-hijos",
+      "title": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
+      "url": "https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic",
       "source": "Xataka",
-      "published_at": "2026-03-08T13:31:39Z",
-      "summary": "Cualquiera que haya sido niño o padre conoce la escena: la luz del flexo encendida, un problema de matemáticas incomprensible sobre la mesa, las lágrimas cayendo por la frustración de no entender una lección o no lograr …",
+      "published_at": "2026-03-09T20:31:17Z",
+      "summary": "Durante mucho tiempo, cuando hablábamos de inteligencia artificial en Microsoft, había un nombre que aparecía una y otra vez: OpenAI. La relación entre ambas compañías fue determinante para el despegue de ChatGPT y tambi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-08-mientras-occidente-debate-que-hacer-con-la-ia"
+      "id": "xataka-2026-03-09-microsoft-quiere-que-copilot-haga-tareas-mas-complejas"
     }
   ],
   "sections": [
+    {
+      "name": "Lanzamientos",
+      "items": [
+        {
+          "title": "OpenAI to acquire Promptfoo",
+          "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+          "source": "OpenAI",
+          "published_at": "2026-03-09T10:00:00Z",
+          "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-09-openai-to-acquire-promptfoo"
+        }
+      ]
+    },
     {
       "name": "Investigación",
       "items": [
@@ -88,8 +107,195 @@
       ]
     },
     {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+          "source": "Hugging Face",
+          "published_at": "2026-03-09T18:36:33Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-09-granite-4-0-1b-speech-compact-multilingual-and"
+        },
+        {
+          "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+          "url": "https://huggingface.co/blog/ulysses-sp",
+          "source": "Hugging Face",
+          "published_at": "2026-03-09T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-09-ulysses-sequence-parallelism-training-with-million-token-contexts"
+        },
+        {
+          "title": "LeRobot v0.5.0: Scaling Every Dimension",
+          "url": "https://huggingface.co/blog/lerobot-release-v050",
+          "source": "Hugging Face",
+          "published_at": "2026-03-09T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-09-lerobot-v0-5-0-scaling-every-dimension"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
+        {
+          "title": "Bluesky CEO Jay Graber will step aside",
+          "url": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
+          "source": "The Verge",
+          "published_at": "2026-03-09T20:24:43Z",
+          "summary": "Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-bluesky-ceo-jay-graber-will-step-aside"
+        },
+        {
+          "title": "You can get three months of Disney Plus and Hulu for $15",
+          "url": "https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-03-09T20:14:44Z",
+          "summary": "If you’re looking for a way to stream the Oscars this weekend, or catch up on nominees like The Secret Agent, the Disney Plus and Hulu bundle is worth a look. The ceremony will stream live on Hulu for the first time on M…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-you-can-get-three-months-of-disney-plus"
+        },
+        {
+          "title": "Apple&#8217;s new M5 Max feels like a huge upgrade if you bought your laptop three years ago",
+          "url": "https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1",
+          "source": "The Verge",
+          "published_at": "2026-03-09T20:00:33Z",
+          "summary": "We've been busy testing many new MacBooks, ranging from the new $1,099 M5 MacBook Air, going all the way up the $6,149 16-inch MacBook Pro with the M5 Max chip. While these computers are identical in design to last year'…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-apple-8217-s-new-m5-max-feels-like"
+        },
+        {
+          "title": "Apple Studio Display XDR review: pro at a premium",
+          "url": "https://www.theverge.com/tech/891436/apple-studio-display-xdr-review",
+          "source": "The Verge",
+          "published_at": "2026-03-09T20:00:00Z",
+          "summary": "It's been almost exactly four years since Apple released the 5K Studio Display that so many wanted, even if it didn't really deliver as a high-end display. Apple has now revamped the Studio Display lineup, sort of, with …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-apple-studio-display-xdr-review-pro-at-a"
+        },
+        {
+          "title": "One of this rugged phone&#8217;s cameras is a pop-out action cam",
+          "url": "https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera",
+          "source": "The Verge",
+          "published_at": "2026-03-09T19:43:41Z",
+          "summary": "What if your smartphone's camera wasn't locked to the back of the device? Honor's Robot Phone, which we got to see in action at MWC 2026, features a camera attached to a stabilized gimbal arm that can pop-up and look aro…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-one-of-this-rugged-phone-8217-s-cameras"
+        },
+        {
+          "title": "‘Cash Apples’ is giving away $500,000 to people who click on trees in a web browser",
+          "url": "https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser",
+          "source": "The Verge",
+          "published_at": "2026-03-09T19:30:06Z",
+          "summary": "Want to make real money just by clicking on virtual trees? Starting today at 1PM PT / 4PM ET, residents of the United States can begin an online hunt for golden apples in a cutesy web game - collect enough of them, and C…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-cash-apples-is-giving-away-500-000-to"
+        },
+        {
+          "title": "Lo mejor y lo peor del Internet que conocemos se ha construido sobre el anonimato. La IA trae malas noticias",
+          "url": "https://www.xataka.com/robotica-e-ia/mucha-gente-se-esconde-detras-cuentas-anonimas-pensando-que-nadie-puede-descubrirlos-ia-tiene-malas-noticias-para-ellos",
+          "source": "Xataka",
+          "published_at": "2026-03-09T17:00:00Z",
+          "summary": "Las cuentas sin foto de perfil ni nombre real plagan las redes sociales, puede que hasta tú, que lees estas líneas, seas dueño o dueña de una. No juzgamos, motivos para no dar &nbsp;la cara en redes hay muchos y, de hech…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-09-lo-mejor-y-lo-peor-del-internet-que"
+        },
+        {
+          "title": "Europa busca un lugar donde colocar su gigafactoría de IA. España y Portugal le están enseñando todo su plumaje renovable",
+          "url": "https://www.xataka.com/robotica-e-ia/europa-busca-lugar-donde-colocar-su-gigafactoria-ia-espana-portugal-le-estan-ensenando-todo-su-plumaje-renovable",
+          "source": "Xataka",
+          "published_at": "2026-03-09T16:00:00Z",
+          "summary": "Hay un concepto con el que conviene familiarizarse: soberanía tecnológica. Estados Unidos la busca en materia de semiconductores para no depender de Taiwán. China la quiere con el mismo objetivo y con la intención de ref…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-09-europa-busca-un-lugar-donde-colocar-su-gigafactoria"
+        },
+        {
+          "title": "España prepara un centro de datos destinado específicamente a tener una IA para la guerra. La sorpresa: está en Soria",
+          "url": "https://www.xataka.com/robotica-e-ia/espana-prepara-centro-datos-destinado-especificamente-a-tener-ia-para-guerra-sorpresa-esta-soria",
+          "source": "Xataka",
+          "published_at": "2026-03-09T13:31:18Z",
+          "summary": "Hace más de dos mil años, en el cerro de Numancia , sus habitantes prefirieron resistir hasta el final antes que rendirse al asedio de las legiones de Publio Cornelio Escipión Emiliano. Aquella historia de desafío frente…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-09-espana-prepara-un-centro-de-datos-destinado-especificamente"
+        },
+        {
+          "title": "Es posible que en el futuro la IA nos quite el trabajo a todos. Por el momento se lo está quitando a muy poquitos",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-parecia-dispuesta-a-arrasar-empleo-cualificado-nuevo-estudio-datos-reales-dice-algo-distinto-apenas-ha-movido-paro",
+          "source": "Xataka",
+          "published_at": "2026-03-09T11:30:00Z",
+          "summary": "Llevamos años escuchando que la inteligencia artificial va a destruir millones de empleos cualificados. El propio Dario Amodei, CEO de Anthropic, contaba el año pasado que la IA podría afectar a la mitad de los trabajos …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-09-es-posible-que-en-el-futuro-la-ia"
+        },
+        {
+          "title": "Mientras Occidente debate qué hacer con la IA en los colegios, en China ya hay escuelas convirtiéndola en tutora infantil",
+          "url": "https://www.xataka.com/robotica-e-ia/occidente-le-teme-a-ia-escuelas-china-ha-decidido-convertirla-ninera-tutora-oficial-sus-hijos",
+          "source": "Xataka",
+          "published_at": "2026-03-08T13:31:39Z",
+          "summary": "Cualquiera que haya sido niño o padre conoce la escena: la luz del flexo encendida, un problema de matemáticas incomprensible sobre la mesa, las lágrimas cayendo por la frustración de no entender una lección o no lograr …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-08-mientras-occidente-debate-que-hacer-con-la-ia"
+        },
         {
           "title": "Cómo programar un resumen diario de tus nuevas newsletters enviado por inteligencia artificial a tu correo electrónico",
           "url": "https://www.xataka.com/basics/como-programar-resumen-diario-tus-nuevas-newsletters-enviado-inteligencia-artificial-a-tu-correo-electronico",
@@ -102,32 +308,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-08-como-programar-un-resumen-diario-de-tus-nuevas"
-        },
-        {
-          "title": "The cute and cursed story of Furby",
-          "url": "https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby",
-          "source": "The Verge",
-          "published_at": "2026-03-08T12:17:40Z",
-          "summary": "The hottest toy of 1998 was sort of adorable, and sort of annoying. It couldn't do much - couldn't do anything, really - but it could look at you, it could say some nonsense phrases, and it seemed uncannily aware of the …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-08-the-cute-and-cursed-story-of-furby"
-        },
-        {
-          "title": "The uncomfortable truth about hybrid vehicles",
-          "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
-          "source": "The Verge",
-          "published_at": "2026-03-08T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in f…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-08-the-uncomfortable-truth-about-hybrid-vehicles"
         },
         {
           "title": "NVIDIA ha perdido la esperanza en China, por eso ha comenzado a fabricar sus propias GPU de nueva generación para IA",
@@ -154,84 +334,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-08-la-vigilancia-ciudadana-y-las-armas-autonomas-merecian"
-        },
-        {
-          "title": "Sony appears to be testing dynamic pricing on PlayStation games",
-          "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-          "source": "The Verge",
-          "published_at": "2026-03-07T17:52:10Z",
-          "summary": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-07-sony-appears-to-be-testing-dynamic-pricing-on"
-        },
-        {
-          "title": "Time’s running out to get a free gift card when you preorder a new MacBook",
-          "url": "https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-03-07T17:00:00Z",
-          "summary": "This has been a week to remember here at The Verge. MWC 2026 in Barcelona lead straight into Apple’s week of product announcements. There was truly something for everyone, whether you’ve been wanting a company to make a …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-07-time-s-running-out-to-get-a-free"
-        },
-        {
-          "title": "Vizio accounts are becoming Walmart accounts",
-          "url": "https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts",
-          "source": "The Verge",
-          "published_at": "2026-03-07T15:35:57Z",
-          "summary": "Walmart bought Vizio in 2024, and now it's taking the next steps to formally fold the TV maker into itself by phasing out Vizio accounts. Now, when you purchase a new Vizio TV, you'll be asked to sign in or create a Walm…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-07-vizio-accounts-are-becoming-walmart-accounts"
-        },
-        {
-          "title": "The OpenClaw superfan meetup serves optimism and lobster",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-          "source": "The Verge",
-          "published_at": "2026-03-07T14:00:00Z",
-          "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-07-the-openclaw-superfan-meetup-serves-optimism-and-lobster"
-        },
-        {
-          "title": "Las mejores aplicaciones para tener una inteligencia artificial local en tu móvil o PC, sin necesitar conexión y con mayor privacidad",
-          "url": "https://www.xataka.com/basics/mejores-aplicaciones-para-tener-inteligencia-artificial-local-tu-movil-pc-necesitar-conexion-mayor-privacidad",
-          "source": "Xataka",
-          "published_at": "2026-03-07T11:01:39Z",
-          "summary": "Vamos a decirte los mejores programas para instalar una IA local en tu móvil o tu ordenador. De esta manera, podrás tener la inteligencia artificial directamente en el dispositivo instalada, sin necesitar conexión a Inte…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-07-las-mejores-aplicaciones-para-tener-una-inteligencia-artificial"
-        },
-        {
-          "title": "Los centros de datos han provocado que en EEUU la factura de la luz salga más cara. Y el Gobierno ha dicho basta",
-          "url": "https://www.xataka.com/energia/centros-datos-han-provocado-que-eeuu-factura-luz-salga-cara-gobierno-ha-dicho-basta",
-          "source": "Xataka",
-          "published_at": "2026-03-07T10:31:39Z",
-          "summary": "Cada vez que le pides a una IA generativa que te resuelva un problema, un servidor al otro lado del mundo necesita energía para procesarlo y refrigeración para no fundirse. El problema es que ese contador de la luz que g…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-07-los-centros-de-datos-han-provocado-que-en"
         }
       ]
     }
