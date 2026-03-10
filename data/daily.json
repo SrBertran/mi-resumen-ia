@@ -1,72 +1,72 @@
 {
   "date": "2026-03-10",
-  "generated_at": "2026-03-10T06:45:20.058868Z",
+  "generated_at": "2026-03-10T10:05:22.868485Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
+      "url": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
       "source": "The Verge",
-      "published_at": "2026-03-09T22:26:50Z",
-      "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami…",
+      "published_at": "2026-03-10T10:01:33Z",
+      "summary": "Meta's methods for identifying deepfakes are \"not robust or comprehensive enough\" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Oversight Board - a se…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-09-apple-smart-home-display-rumors-now-point-to"
+      "id": "theverge-2026-03-10-meta-s-deepfake-moderation-isn-t-good-enough"
     },
     {
-      "title": "The government shutdown is hitting airports — but not ICE",
-      "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+      "title": "You Could Be Next",
+      "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
       "source": "The Verge",
-      "published_at": "2026-03-09T21:52:29Z",
-      "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast …",
+      "published_at": "2026-03-10T09:00:01Z",
+      "summary": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-09-the-government-shutdown-is-hitting-airports----but"
+      "id": "theverge-2026-03-10-you-could-be-next"
     },
     {
-      "title": "Everything from the last week of everything is gambling now",
-      "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
-      "source": "The Verge",
-      "published_at": "2026-03-09T21:18:26Z",
-      "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-09-everything-from-the-last-week-of-everything-is"
-    },
-    {
-      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
-      "source": "The Verge",
-      "published_at": "2026-03-09T20:45:24Z",
-      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scienti…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-09-employees-across-openai-and-google-support-anthropic-s"
-    },
-    {
-      "title": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
-      "url": "https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic",
+      "title": "Un inversor de OpenAI tiene claro el futuro del empleo: \"es improbable que un niño de cinco años de hoy necesite trabajar nunca\"",
+      "url": "https://www.xataka.com/robotica-e-ia/inversor-openai-tiene-claro-futuro-trabajo-improbable-que-nino-cinco-anos-hoy-necesite-trabajar-nunca",
       "source": "Xataka",
-      "published_at": "2026-03-09T20:31:17Z",
-      "summary": "Durante mucho tiempo, cuando hablábamos de inteligencia artificial en Microsoft, había un nombre que aparecía una y otra vez: OpenAI. La relación entre ambas compañías fue determinante para el despegue de ChatGPT y tambi…",
+      "published_at": "2026-03-10T07:30:00Z",
+      "summary": "El impacto de la IA en el mercado laboral será tan importante que algunos ya vaticinan que la humanidad no estará obligada a trabajar en un futuro inmediato. Según Vinod Khosla, cofundador de Sun Microsystems y uno de lo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-09-microsoft-quiere-que-copilot-haga-tareas-mas-complejas"
+      "id": "xataka-2026-03-10-un-inversor-de-openai-tiene-claro-el-futuro"
+    },
+    {
+      "title": "Las empresas de software se hundieron en bolsa por una sencilla razón: los inversores tienen pánico de la IA",
+      "url": "https://www.xataka.com/robotica-e-ia/empresas-software-se-hundieron-bolsa-sencilla-razon-inversores-tienen-panico-ia",
+      "source": "Xataka",
+      "published_at": "2026-03-10T07:01:18Z",
+      "summary": "El pasado 23 de febrero fue un día nefasto para algunos gigantes del software. Empresas como CrowdStrike, Expedia, AppLovin, Adobe o Datadog fueron nombres destacados en la lista del S&amp;P 500 . Algo que tienen en comú…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-03-10-las-empresas-de-software-se-hundieron-en-bolsa"
+    },
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "source": "Hugging Face",
+      "published_at": "2026-03-10T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-03-10-keep-the-tokens-flowing-lessons-from-16-open-source"
     }
   ],
   "sections": [
@@ -85,24 +85,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-09-openai-to-acquire-promptfoo"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Military AI Policy Needs Democratic Oversight",
-          "url": "https://spectrum.ieee.org/military-ai-governance",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-08T10:00:03Z",
-          "summary": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation , raising an uncomfortable but important question: who gets to set the guardrails …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-08-military-ai-policy-needs-democratic-oversight"
         }
       ]
     },
@@ -153,6 +135,71 @@
     {
       "name": "General",
       "items": [
+        {
+          "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+          "source": "The Verge",
+          "published_at": "2026-03-09T22:26:50Z",
+          "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-apple-smart-home-display-rumors-now-point-to"
+        },
+        {
+          "title": "The government shutdown is hitting airports — but not ICE",
+          "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+          "source": "The Verge",
+          "published_at": "2026-03-09T21:52:29Z",
+          "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-the-government-shutdown-is-hitting-airports----but"
+        },
+        {
+          "title": "Everything from the last week of everything is gambling now",
+          "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
+          "source": "The Verge",
+          "published_at": "2026-03-09T21:18:26Z",
+          "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-everything-from-the-last-week-of-everything-is"
+        },
+        {
+          "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+          "source": "The Verge",
+          "published_at": "2026-03-09T20:45:24Z",
+          "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scienti…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-09-employees-across-openai-and-google-support-anthropic-s"
+        },
+        {
+          "title": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
+          "url": "https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic",
+          "source": "Xataka",
+          "published_at": "2026-03-09T20:31:17Z",
+          "summary": "Durante mucho tiempo, cuando hablábamos de inteligencia artificial en Microsoft, había un nombre que aparecía una y otra vez: OpenAI. La relación entre ambas compañías fue determinante para el despegue de ChatGPT y tambi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-09-microsoft-quiere-que-copilot-haga-tareas-mas-complejas"
+        },
         {
           "title": "Bluesky CEO Jay Graber will step aside",
           "url": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
@@ -206,33 +253,7 @@
           "id": "theverge-2026-03-09-apple-studio-display-xdr-review-pro-at-a"
         },
         {
-          "title": "One of this rugged phone&#8217;s cameras is a pop-out action cam",
-          "url": "https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera",
-          "source": "The Verge",
-          "published_at": "2026-03-09T19:43:41Z",
-          "summary": "What if your smartphone's camera wasn't locked to the back of the device? Honor's Robot Phone, which we got to see in action at MWC 2026, features a camera attached to a stabilized gimbal arm that can pop-up and look aro…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-one-of-this-rugged-phone-8217-s-cameras"
-        },
-        {
-          "title": "‘Cash Apples’ is giving away $500,000 to people who click on trees in a web browser",
-          "url": "https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser",
-          "source": "The Verge",
-          "published_at": "2026-03-09T19:30:06Z",
-          "summary": "Want to make real money just by clicking on virtual trees? Starting today at 1PM PT / 4PM ET, residents of the United States can begin an online hunt for golden apples in a cutesy web game - collect enough of them, and C…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-cash-apples-is-giving-away-500-000-to"
-        },
-        {
-          "title": "Lo mejor y lo peor del Internet que conocemos se ha construido sobre el anonimato. La IA trae malas noticias",
+          "title": "Foto de paisaje, nick aleatorio, cero rastro personal. El perfil anónimo perfecto... hasta que llega una IA y lo desmonta en minutos",
           "url": "https://www.xataka.com/robotica-e-ia/mucha-gente-se-esconde-detras-cuentas-anonimas-pensando-que-nadie-puede-descubrirlos-ia-tiene-malas-noticias-para-ellos",
           "source": "Xataka",
           "published_at": "2026-03-09T17:00:00Z",
@@ -242,7 +263,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-09-lo-mejor-y-lo-peor-del-internet-que"
+          "id": "xataka-2026-03-09-foto-de-paisaje-nick-aleatorio-cero-rastro-personal"
         },
         {
           "title": "Europa busca un lugar donde colocar su gigafactoría de IA. España y Portugal le están enseñando todo su plumaje renovable",
@@ -321,19 +342,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-08-nvidia-ha-perdido-la-esperanza-en-china-por"
-        },
-        {
-          "title": "\"La vigilancia ciudadana y las armas autónomas merecían más deliberación\" dimite la directora de robótica de OpenAI",
-          "url": "https://www.xataka.com/robotica-e-ia/vigilancia-ciudadana-armas-autonomas-merecian-deliberacion-dimite-directora-robotica-openai",
-          "source": "Xataka",
-          "published_at": "2026-03-08T06:56:00Z",
-          "summary": "Hace una semana justo contábamos que \" A rey muerto, rey puesto \": el paso de Anthropic al puro ostracismo tras ser considerado como un \"riesgo para la cadena de suministro\" de Estados Unidos prácticamente se solapaba co…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-08-la-vigilancia-ciudadana-y-las-armas-autonomas-merecian"
         }
       ]
     }
