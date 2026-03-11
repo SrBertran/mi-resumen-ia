@@ -1,78 +1,130 @@
 {
-  "date": "2026-03-10",
-  "generated_at": "2026-03-10T10:05:22.868485Z",
+  "date": "2026-03-11",
+  "generated_at": "2026-03-11T06:45:32.081900Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
-      "url": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
+      "title": "How the spiraling Iran conflict could affect data centers and electricity costs",
+      "url": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
       "source": "The Verge",
-      "published_at": "2026-03-10T10:01:33Z",
-      "summary": "Meta's methods for identifying deepfakes are \"not robust or comprehensive enough\" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Oversight Board - a se…",
+      "published_at": "2026-03-10T22:25:06Z",
+      "summary": "Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-10-meta-s-deepfake-moderation-isn-t-good-enough"
+      "id": "theverge-2026-03-10-how-the-spiraling-iran-conflict-could-affect-data"
     },
     {
-      "title": "You Could Be Next",
-      "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+      "title": "A live-action Samurai Champloo is in the works",
+      "url": "https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works",
       "source": "The Verge",
-      "published_at": "2026-03-10T09:00:01Z",
-      "summary": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she …",
+      "published_at": "2026-03-10T21:55:10Z",
+      "summary": "Though the live-action Cowboy Bebop was a big disappointment, Shinichir&#333; Watanabe is ready to give it another go with one of his other iconic pieces of IP. Variety reports that Watanabe has given his blessing and ag…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-10-you-could-be-next"
+      "id": "theverge-2026-03-10-a-live-action-samurai-champloo-is-in-the-works"
     },
     {
-      "title": "Un inversor de OpenAI tiene claro el futuro del empleo: \"es improbable que un niño de cinco años de hoy necesite trabajar nunca\"",
-      "url": "https://www.xataka.com/robotica-e-ia/inversor-openai-tiene-claro-futuro-trabajo-improbable-que-nino-cinco-anos-hoy-necesite-trabajar-nunca",
-      "source": "Xataka",
-      "published_at": "2026-03-10T07:30:00Z",
-      "summary": "El impacto de la IA en el mercado laboral será tan importante que algunos ya vaticinan que la humanidad no estará obligada a trabajar en un futuro inmediato. Según Vinod Khosla, cofundador de Sun Microsystems y uno de lo…",
+      "title": "Listen to the Live Nation CEO&#8217;s alleged threats to a concert venue",
+      "url": "https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial",
+      "source": "The Verge",
+      "published_at": "2026-03-10T21:41:58Z",
+      "summary": "Was it a threat or a reality check? That's a key question in the government's anti-monopoly case against Live Nation, which is currently in limbo after the Justice Department reached a settlement with the company and as …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-10-un-inversor-de-openai-tiene-claro-el-futuro"
+      "id": "theverge-2026-03-10-listen-to-the-live-nation-ceo-8217-s"
     },
     {
-      "title": "Las empresas de software se hundieron en bolsa por una sencilla razón: los inversores tienen pánico de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/empresas-software-se-hundieron-bolsa-sencilla-razon-inversores-tienen-panico-ia",
-      "source": "Xataka",
-      "published_at": "2026-03-10T07:01:18Z",
-      "summary": "El pasado 23 de febrero fue un día nefasto para algunos gigantes del software. Empresas como CrowdStrike, Expedia, AppLovin, Adobe o Datadog fueron nombres destacados en la lista del S&amp;P 500 . Algo que tienen en comú…",
+      "title": "Ford is giving its commercial fleet business an AI makeover",
+      "url": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
+      "source": "The Verge",
+      "published_at": "2026-03-10T21:30:00Z",
+      "summary": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI. The generative AI system analyzes data generated by commercial vehicles - including vehicle speed, se…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-10-las-empresas-de-software-se-hundieron-en-bolsa"
+      "id": "theverge-2026-03-10-ford-is-giving-its-commercial-fleet-business-an"
     },
     {
-      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-      "url": "https://huggingface.co/blog/async-rl-training-landscape",
-      "source": "Hugging Face",
-      "published_at": "2026-03-10T00:00:00Z",
-      "summary": "Qué pasó: (resumen pendiente)",
+      "title": "Nosh Robotics’ $1,500 robot chef doesn&#8217;t need any help with dinner",
+      "url": "https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch",
+      "source": "The Verge",
+      "published_at": "2026-03-10T21:20:26Z",
+      "summary": "Anyone who finds themselves wishing they could spend less time on meal prep might have a solution in the form of the recently-launched Nosh One from Nosh Robotics, an AI kitchen appliance that can autonomously cook for y…",
       "why_it_matters": "",
       "tags": [
-        "herramientas"
+        "ia"
       ],
-      "category": "herramientas",
-      "id": "huggingface-2026-03-10-keep-the-tokens-flowing-lessons-from-16-open-source"
+      "category": "general",
+      "id": "theverge-2026-03-10-nosh-robotics-1-500-robot-chef-doesn-8217"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+          "source": "Google AI",
+          "published_at": "2026-03-10T13:00:00Z",
+          "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-10-gemini-in-google-sheets-just-achieved-state-of-the-art-performance"
+        },
+        {
+          "title": "Improving instruction hierarchy in frontier LLMs",
+          "url": "https://openai.com/index/instruction-hierarchy-challenge",
+          "source": "OpenAI",
+          "published_at": "2026-03-10T11:00:00Z",
+          "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-10-improving-instruction-hierarchy-in-frontier-llms"
+        },
+        {
+          "title": "New ways to learn math and science in ChatGPT",
+          "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-10T10:00:00Z",
+          "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-10-new-ways-to-learn-math-and-science-in"
+        },
+        {
+          "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+          "url": "https://deepmind.google/blog/10-years-of-alphago/",
+          "source": "DeepMind",
+          "published_at": "2026-03-09T13:52:36Z",
+          "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-09-from-games-to-biology-and-beyond-10-years"
+        },
         {
           "title": "OpenAI to acquire Promptfoo",
           "url": "https://openai.com/index/openai-to-acquire-promptfoo",
@@ -89,8 +141,114 @@
       ]
     },
     {
+      "name": "Negocio",
+      "items": [
+        {
+          "title": "Las redes sociales nacieron para humanos: Meta acaba de comprar una pensada para agentes de IA",
+          "url": "https://www.xataka.com/robotica-e-ia/redes-sociales-nacieron-para-humanos-meta-acaba-comprar-pensada-para-agentes-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-10T16:00:41Z",
+          "summary": "Si miramos atrás, la historia de las redes sociales está profundamente ligada a una idea muy concreta: conectar personas. Durante años, plataformas como Facebook se presentaron como lugares donde mantener el contacto con…",
+          "why_it_matters": "",
+          "tags": [
+            "negocio"
+          ],
+          "category": "negocio",
+          "id": "xataka-2026-03-10-las-redes-sociales-nacieron-para-humanos-meta-acaba"
+        },
+        {
+          "title": "Una startup malagueña es la app de IA europea más usada del mundo según Andreessen Horowitz. Se llama Freepik",
+          "url": "https://www.xataka.com/robotica-e-ia/startup-malaguena-app-ia-europea-usada-mundo-andreessen-horowitz-se-llama-freepik",
+          "source": "Xataka",
+          "published_at": "2026-03-10T11:15:53Z",
+          "summary": "La firma de capital riesgo Andreessen Horowitz ha elaborado su ya tradicional ranking con las 100 aplicaciones de IA para usuarios finales más destacables del mundo. Hay muchas predecibles en los primeros puestos, pero t…",
+          "why_it_matters": "",
+          "tags": [
+            "negocio"
+          ],
+          "category": "negocio",
+          "id": "xataka-2026-03-10-una-startup-malaguena-es-la-app-de-ia"
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
+        {
+          "title": "El Pentágono etiquetó a Anthropic como un riesgo para la seguridad nacional. Así que Anthropic ha demandado al Pentágono",
+          "url": "https://www.xataka.com/empresas-y-economia/pentagono-etiqueto-a-anthropic-como-riesgo-para-seguridad-nacional-asi-que-anthropic-ha-demandado-al-pentagono",
+          "source": "Xataka",
+          "published_at": "2026-03-10T15:48:49Z",
+          "summary": "El culebrón entre Anthropic y el Pentágono tiene un nuevo capítulo (y ya van...). Después deln tira y afloja de las últimas semanas, Anthropic se plantó y eso acabó provocando que EEUU metiera a la empresa en la lista ne…",
+          "why_it_matters": "",
+          "tags": [
+            "regulación"
+          ],
+          "category": "regulación",
+          "id": "xataka-2026-03-10-el-pentagono-etiqueto-a-anthropic-como-un-riesgo"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "An AI Agent Blackmailed a Developer. Now What?",
+          "url": "https://spectrum.ieee.org/agentic-ai-agents-blackmail-developer",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-10T16:08:43Z",
+          "summary": "On 12 February, a Github contributor going by MJ Rathbun posted a personal attack against Scott Shambaugh , a volunteer maintainer for an open-source project. Shambaugh had rejected Rathbun’s code earlier in the day. Rat…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-10-an-ai-agent-blackmailed-a-developer-now-what"
+        }
+      ]
+    },
+    {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "How NVIDIA Builds Open Data for AI",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+          "source": "Hugging Face",
+          "published_at": "2026-03-10T19:49:28Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-10-how-nvidia-builds-open-data-for-ai"
+        },
+        {
+          "title": "Introducing Storage Buckets on the Hugging Face Hub",
+          "url": "https://huggingface.co/blog/storage-buckets",
+          "source": "Hugging Face",
+          "published_at": "2026-03-10T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-10-introducing-storage-buckets-on-the-hugging-face-hub"
+        },
+        {
+          "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+          "url": "https://huggingface.co/blog/async-rl-training-landscape",
+          "source": "Hugging Face",
+          "published_at": "2026-03-10T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-10-keep-the-tokens-flowing-lessons-from-16-open-source"
+        },
         {
           "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
           "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
@@ -103,32 +261,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-03-09-granite-4-0-1b-speech-compact-multilingual-and"
-        },
-        {
-          "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-          "url": "https://huggingface.co/blog/ulysses-sp",
-          "source": "Hugging Face",
-          "published_at": "2026-03-09T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-09-ulysses-sequence-parallelism-training-with-million-token-contexts"
-        },
-        {
-          "title": "LeRobot v0.5.0: Scaling Every Dimension",
-          "url": "https://huggingface.co/blog/lerobot-release-v050",
-          "source": "Hugging Face",
-          "published_at": "2026-03-09T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-09-lerobot-v0-5-0-scaling-every-dimension"
         }
       ]
     },
@@ -136,56 +268,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+          "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+          "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
           "source": "The Verge",
-          "published_at": "2026-03-09T22:26:50Z",
-          "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami…",
+          "published_at": "2026-03-10T20:48:49Z",
+          "summary": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireles…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-apple-smart-home-display-rumors-now-point-to"
+          "id": "theverge-2026-03-10-i-ve-tested-the-latest-switch-2-controllers"
         },
         {
-          "title": "The government shutdown is hitting airports — but not ICE",
-          "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+          "title": "Razer’s BlackShark V2 Pro gaming headset is $90, which is a new low price",
+          "url": "https://www.theverge.com/gadgets/892489/razer-blackshark-v2-pro-wireless-gaming-headset-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-03-09T21:52:29Z",
-          "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast …",
+          "published_at": "2026-03-10T19:25:40Z",
+          "summary": "If you’re looking for a reliable wireless gaming headset under $100, the Xbox version of the Razer BlackShark V2 Pro is worth a look. Right now, it’s down to a new low of $89.99 ($110 off) at Amazon in black and white. D…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-the-government-shutdown-is-hitting-airports----but"
+          "id": "theverge-2026-03-10-razer-s-blackshark-v2-pro-gaming-headset-is"
         },
         {
-          "title": "Everything from the last week of everything is gambling now",
-          "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
+          "title": "Pokopia Pokédex review: a classic, reimagined",
+          "url": "https://www.theverge.com/games/892066/pokopia-pokedex-review",
           "source": "The Verge",
-          "published_at": "2026-03-09T21:18:26Z",
-          "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would…",
+          "published_at": "2026-03-10T19:00:24Z",
+          "summary": "Thirty years ago, Nintendo struck gold with the release of the original Pok&#233;mon games. Soon, kids across the world were introduced to dozens of magical creatures that they could befriend and learn more about using s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-everything-from-the-last-week-of-everything-is"
+          "id": "theverge-2026-03-10-pokopia-pokedex-review-a-classic-reimagined"
         },
         {
-          "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+          "title": "States’ trial against Live Nation could move forward as soon as next week",
+          "url": "https://www.theverge.com/policy/892353/live-nation-ticketmaster-doj-states-settlement",
           "source": "The Verge",
-          "published_at": "2026-03-09T20:45:24Z",
-          "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scienti…",
+          "published_at": "2026-03-10T18:18:51Z",
+          "summary": "The Live Nation trial is not over yet. Several states look to be headed to trial on their own as soon as Monday unless they hash out a settlement in the next few days. On Tuesday, a day after the Justice Department revea…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-employees-across-openai-and-google-support-anthropic-s"
+          "id": "theverge-2026-03-10-states-trial-against-live-nation-could-move-forward"
+        },
+        {
+          "title": "Judge orders Perplexity to stop AI agents from shopping on Amazon",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
+          "source": "The Verge",
+          "published_at": "2026-03-10T18:11:43Z",
+          "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesn…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-10-judge-orders-perplexity-to-stop-ai-agents-from"
+        },
+        {
+          "title": "Creíamos que los programadores humanos acabarían siendo revisores de código. Anthropic se acaba de cargar eso",
+          "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-programadores-humanos-acabarian-siendo-revisores-codigo-anthropic-se-acaba-cargar-eso",
+          "source": "Xataka",
+          "published_at": "2026-03-10T17:01:55Z",
+          "summary": "El ascenso de la IA generativa al mundo del desarrollo de software parecía seguir un guión claro: los modelos escribirían el código y los humanos se encargarían de revisarlo. Era el nuevo equilibrio. Pues bien, Anthropic…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-creiamos-que-los-programadores-humanos-acabarian-siendo-revisores"
+        },
+        {
+          "title": "El problema de OpenAI con Oracle es simple: está construyendo con dinero futuro los centros de datos del pasado",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-esta-pisando-freno-stargate-razon-oracle-construye-centros-datos-ayer-deuda-manana",
+          "source": "Xataka",
+          "published_at": "2026-03-10T13:15:00Z",
+          "summary": "Si Stargate olía raro es porque lo hacía . Lo acaba de demostrar la decisión de Oracle y OpenAI que han decidido frenar sus planes de expansión para el centro de datos que iba a ser buque insignia del proyecto. Esto no e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-el-problema-de-openai-con-oracle-es-simple"
+        },
+        {
+          "title": "La IA ya está en ese punto donde tenemos \"asistentes\" para absolutamente. Como por ejemplo para las Fallas",
+          "url": "https://www.xataka.com/magnet/estamos-punto-donde-tenemos-chatbots-ia-para-fallas-se-llama-amparito-hemos-probado",
+          "source": "Xataka",
+          "published_at": "2026-03-10T12:00:00Z",
+          "summary": "Bona vesprada, bonico. Así nos saluda Amparito, el chatbot IA que promete ser nuestro oráculo durante las Fallas 2026. ¿Era necesario? Tengo mis dudas. Lo que sí es: el síntoma inequívoco de que la IA se ha convertido en…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-la-ia-ya-esta-en-ese-punto-donde"
+        },
+        {
+          "title": "El precio de la RAM se ha desbocado y el mejor ejemplo para ver la debacle es un PC de 100 euros: la Raspberry Pi",
+          "url": "https://www.xataka.com/componentes/8-gb-ram-han-pasado-40-dolares-a-130-cinco-meses-que-hay",
+          "source": "Xataka",
+          "published_at": "2026-03-10T10:00:00Z",
+          "summary": "A estas alturas de la película, ya no se nos escapa que estamos de lleno en una nueva crisis de los componentes. Lo que empezó con la crisis de la RAM terminó mutando en la crisis de los SSD y de cualquier dispositivo qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-el-precio-de-la-ram-se-ha-desbocado"
+        },
+        {
+          "title": "Un inversor de OpenAI sobre el futuro del empleo: \"Es improbable que un niño que hoy tenga cinco años busque trabajo en el futuro\"",
+          "url": "https://www.xataka.com/robotica-e-ia/inversor-openai-tiene-claro-futuro-trabajo-improbable-que-nino-cinco-anos-hoy-necesite-trabajar-nunca",
+          "source": "Xataka",
+          "published_at": "2026-03-10T07:30:00Z",
+          "summary": "El impacto de la IA en el mercado laboral será tan importante que algunos ya vaticinan que la humanidad no estará obligada a trabajar en un futuro inmediato. Según Vinod Khosla, cofundador de Sun Microsystems y uno de lo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-un-inversor-de-openai-sobre-el-futuro-del"
+        },
+        {
+          "title": "El hundimiento de las empresas de software en bolsa tiene una contrapartida: a las de hardware les está yendo genial",
+          "url": "https://www.xataka.com/robotica-e-ia/empresas-software-se-hundieron-bolsa-sencilla-razon-inversores-tienen-panico-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-10T07:00:00Z",
+          "summary": "El pasado 23 de febrero fue un día nefasto para algunos gigantes del software. Empresas como CrowdStrike, Expedia, AppLovin, Adobe o Datadog fueron nombres destacados en la lista del S&amp;P 500 . Algo que tienen en comú…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-el-hundimiento-de-las-empresas-de-software-en"
         },
         {
           "title": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
@@ -199,149 +422,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-09-microsoft-quiere-que-copilot-haga-tareas-mas-complejas"
-        },
-        {
-          "title": "Bluesky CEO Jay Graber will step aside",
-          "url": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
-          "source": "The Verge",
-          "published_at": "2026-03-09T20:24:43Z",
-          "summary": "Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-bluesky-ceo-jay-graber-will-step-aside"
-        },
-        {
-          "title": "You can get three months of Disney Plus and Hulu for $15",
-          "url": "https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-03-09T20:14:44Z",
-          "summary": "If you’re looking for a way to stream the Oscars this weekend, or catch up on nominees like The Secret Agent, the Disney Plus and Hulu bundle is worth a look. The ceremony will stream live on Hulu for the first time on M…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-you-can-get-three-months-of-disney-plus"
-        },
-        {
-          "title": "Apple&#8217;s new M5 Max feels like a huge upgrade if you bought your laptop three years ago",
-          "url": "https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1",
-          "source": "The Verge",
-          "published_at": "2026-03-09T20:00:33Z",
-          "summary": "We've been busy testing many new MacBooks, ranging from the new $1,099 M5 MacBook Air, going all the way up the $6,149 16-inch MacBook Pro with the M5 Max chip. While these computers are identical in design to last year'…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-apple-8217-s-new-m5-max-feels-like"
-        },
-        {
-          "title": "Apple Studio Display XDR review: pro at a premium",
-          "url": "https://www.theverge.com/tech/891436/apple-studio-display-xdr-review",
-          "source": "The Verge",
-          "published_at": "2026-03-09T20:00:00Z",
-          "summary": "It's been almost exactly four years since Apple released the 5K Studio Display that so many wanted, even if it didn't really deliver as a high-end display. Apple has now revamped the Studio Display lineup, sort of, with …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-apple-studio-display-xdr-review-pro-at-a"
-        },
-        {
-          "title": "Foto de paisaje, nick aleatorio, cero rastro personal. El perfil anónimo perfecto... hasta que llega una IA y lo desmonta en minutos",
-          "url": "https://www.xataka.com/robotica-e-ia/mucha-gente-se-esconde-detras-cuentas-anonimas-pensando-que-nadie-puede-descubrirlos-ia-tiene-malas-noticias-para-ellos",
-          "source": "Xataka",
-          "published_at": "2026-03-09T17:00:00Z",
-          "summary": "Las cuentas sin foto de perfil ni nombre real plagan las redes sociales, puede que hasta tú, que lees estas líneas, seas dueño o dueña de una. No juzgamos, motivos para no dar &nbsp;la cara en redes hay muchos y, de hech…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-09-foto-de-paisaje-nick-aleatorio-cero-rastro-personal"
-        },
-        {
-          "title": "Europa busca un lugar donde colocar su gigafactoría de IA. España y Portugal le están enseñando todo su plumaje renovable",
-          "url": "https://www.xataka.com/robotica-e-ia/europa-busca-lugar-donde-colocar-su-gigafactoria-ia-espana-portugal-le-estan-ensenando-todo-su-plumaje-renovable",
-          "source": "Xataka",
-          "published_at": "2026-03-09T16:00:00Z",
-          "summary": "Hay un concepto con el que conviene familiarizarse: soberanía tecnológica. Estados Unidos la busca en materia de semiconductores para no depender de Taiwán. China la quiere con el mismo objetivo y con la intención de ref…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-09-europa-busca-un-lugar-donde-colocar-su-gigafactoria"
-        },
-        {
-          "title": "España prepara un centro de datos destinado específicamente a tener una IA para la guerra. La sorpresa: está en Soria",
-          "url": "https://www.xataka.com/robotica-e-ia/espana-prepara-centro-datos-destinado-especificamente-a-tener-ia-para-guerra-sorpresa-esta-soria",
-          "source": "Xataka",
-          "published_at": "2026-03-09T13:31:18Z",
-          "summary": "Hace más de dos mil años, en el cerro de Numancia , sus habitantes prefirieron resistir hasta el final antes que rendirse al asedio de las legiones de Publio Cornelio Escipión Emiliano. Aquella historia de desafío frente…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-09-espana-prepara-un-centro-de-datos-destinado-especificamente"
-        },
-        {
-          "title": "Es posible que en el futuro la IA nos quite el trabajo a todos. Por el momento se lo está quitando a muy poquitos",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-parecia-dispuesta-a-arrasar-empleo-cualificado-nuevo-estudio-datos-reales-dice-algo-distinto-apenas-ha-movido-paro",
-          "source": "Xataka",
-          "published_at": "2026-03-09T11:30:00Z",
-          "summary": "Llevamos años escuchando que la inteligencia artificial va a destruir millones de empleos cualificados. El propio Dario Amodei, CEO de Anthropic, contaba el año pasado que la IA podría afectar a la mitad de los trabajos …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-09-es-posible-que-en-el-futuro-la-ia"
-        },
-        {
-          "title": "Mientras Occidente debate qué hacer con la IA en los colegios, en China ya hay escuelas convirtiéndola en tutora infantil",
-          "url": "https://www.xataka.com/robotica-e-ia/occidente-le-teme-a-ia-escuelas-china-ha-decidido-convertirla-ninera-tutora-oficial-sus-hijos",
-          "source": "Xataka",
-          "published_at": "2026-03-08T13:31:39Z",
-          "summary": "Cualquiera que haya sido niño o padre conoce la escena: la luz del flexo encendida, un problema de matemáticas incomprensible sobre la mesa, las lágrimas cayendo por la frustración de no entender una lección o no lograr …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-08-mientras-occidente-debate-que-hacer-con-la-ia"
-        },
-        {
-          "title": "Cómo programar un resumen diario de tus nuevas newsletters enviado por inteligencia artificial a tu correo electrónico",
-          "url": "https://www.xataka.com/basics/como-programar-resumen-diario-tus-nuevas-newsletters-enviado-inteligencia-artificial-a-tu-correo-electronico",
-          "source": "Xataka",
-          "published_at": "2026-03-08T13:01:39Z",
-          "summary": "Vamos a decirte cómo crear un resumen de todas las newsletters recibidas en tu correo electrónico utilizando inteligencia artificial .&nbsp;Para esto, vamos a utilizar el servicio Make &nbsp;para crear un&nbsp; workflow …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-08-como-programar-un-resumen-diario-de-tus-nuevas"
-        },
-        {
-          "title": "NVIDIA ha perdido la esperanza en China, por eso ha comenzado a fabricar sus propias GPU de nueva generación para IA",
-          "url": "https://www.xataka.com/robotica-e-ia/nvidia-ha-perdido-esperanza-china-eso-ha-comenzado-a-fabricar-sus-gpu-nueva-generacion-para-ia",
-          "source": "Xataka",
-          "published_at": "2026-03-08T11:01:39Z",
-          "summary": "NVIDIA afronta este 2026 un año crucial . Se han convertido en uno de los mayores inversores estratégicos en ecosistema de la IA con decenas de inversiones milmillonarias en otras empresas, modelos, infraestructura y rob…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-08-nvidia-ha-perdido-la-esperanza-en-china-por"
         }
       ]
     }
