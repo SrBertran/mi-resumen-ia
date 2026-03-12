@@ -1,72 +1,72 @@
 {
-  "date": "2026-03-10",
-  "generated_at": "2026-03-10T10:05:22.868485Z",
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12T07:01:03.795914Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
-      "url": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
-      "source": "The Verge",
-      "published_at": "2026-03-10T10:01:33Z",
-      "summary": "Meta's methods for identifying deepfakes are \"not robust or comprehensive enough\" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Oversight Board - a se…",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "Google AI",
+      "published_at": "2026-03-12T15:00:00Z",
+      "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-03-10-meta-s-deepfake-moderation-isn-t-good-enough"
+      "category": "lanzamientos",
+      "id": "googleai-2026-03-12-how-ai-is-helping-improve-heart-health-in"
     },
     {
-      "title": "You Could Be Next",
-      "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
-      "source": "The Verge",
-      "published_at": "2026-03-10T09:00:01Z",
-      "summary": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-10-you-could-be-next"
-    },
-    {
-      "title": "Un inversor de OpenAI tiene claro el futuro del empleo: \"es improbable que un niño de cinco años de hoy necesite trabajar nunca\"",
-      "url": "https://www.xataka.com/robotica-e-ia/inversor-openai-tiene-claro-futuro-trabajo-improbable-que-nino-cinco-anos-hoy-necesite-trabajar-nunca",
-      "source": "Xataka",
-      "published_at": "2026-03-10T07:30:00Z",
-      "summary": "El impacto de la IA en el mercado laboral será tan importante que algunos ya vaticinan que la humanidad no estará obligada a trabajar en un futuro inmediato. Según Vinod Khosla, cofundador de Sun Microsystems y uno de lo…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-03-10-un-inversor-de-openai-tiene-claro-el-futuro"
-    },
-    {
-      "title": "Las empresas de software se hundieron en bolsa por una sencilla razón: los inversores tienen pánico de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/empresas-software-se-hundieron-bolsa-sencilla-razon-inversores-tienen-panico-ia",
-      "source": "Xataka",
-      "published_at": "2026-03-10T07:01:18Z",
-      "summary": "El pasado 23 de febrero fue un día nefasto para algunos gigantes del software. Empresas como CrowdStrike, Expedia, AppLovin, Adobe o Datadog fueron nombres destacados en la lista del S&amp;P 500 . Algo que tienen en comú…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-03-10-las-empresas-de-software-se-hundieron-en-bolsa"
-    },
-    {
-      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-      "url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+      "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
       "source": "Hugging Face",
-      "published_at": "2026-03-10T00:00:00Z",
+      "published_at": "2026-03-12T03:53:34Z",
       "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "herramientas"
+        "investigación"
       ],
-      "category": "herramientas",
-      "id": "huggingface-2026-03-10-keep-the-tokens-flowing-lessons-from-16-open-source"
+      "category": "investigación",
+      "id": "huggingface-2026-03-12-how-nvidia-ai-q-reached-1-on-deepresearch-bench"
+    },
+    {
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "source": "The Verge",
+      "published_at": "2026-03-11T22:51:53Z",
+      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists include…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-11-one-of-grammarly-s-experts-is-suing-the"
+    },
+    {
+      "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
+      "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
+      "source": "The Verge",
+      "published_at": "2026-03-11T22:22:33Z",
+      "summary": "Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a report from Bloomberg's Mark Gurman. Gurman also reports that the outer display will …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-11-iphone-fold-rumor-ipad-like-multitasking-but-no-ipad"
+    },
+    {
+      "title": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
+      "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
+      "source": "The Verge",
+      "published_at": "2026-03-11T21:50:28Z",
+      "summary": "Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penumbra Collectors Pack, all four Amnesia titles (The Dark Descent, A Machine for Pig…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-11-some-of-the-best-horror-games-ever-made"
     }
   ],
   "sections": [
@@ -74,61 +74,144 @@
       "name": "Lanzamientos",
       "items": [
         {
-          "title": "OpenAI to acquire Promptfoo",
-          "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+          "title": "Rakuten fixes issues twice as fast with Codex",
+          "url": "https://openai.com/index/rakuten",
           "source": "OpenAI",
-          "published_at": "2026-03-09T10:00:00Z",
-          "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+          "published_at": "2026-03-11T13:00:00Z",
+          "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-03-09-openai-to-acquire-promptfoo"
+          "id": "openai-2026-03-11-rakuten-fixes-issues-twice-as-fast-with-codex"
+        },
+        {
+          "title": "Designing AI agents to resist prompt injection",
+          "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+          "source": "OpenAI",
+          "published_at": "2026-03-11T11:30:00Z",
+          "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-11-designing-ai-agents-to-resist-prompt-injection"
+        },
+        {
+          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "url": "https://openai.com/index/wayfair",
+          "source": "OpenAI",
+          "published_at": "2026-03-11T11:00:00Z",
+          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-11-wayfair-boosts-catalog-accuracy-and-support-speed-with"
+        },
+        {
+          "title": "From model to agent: Equipping the Responses API with a computer environment",
+          "url": "https://openai.com/index/equip-responses-api-computer-environment",
+          "source": "OpenAI",
+          "published_at": "2026-03-11T11:00:00Z",
+          "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-11-from-model-to-agent-equipping-the-responses-api"
+        },
+        {
+          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+          "source": "Google AI",
+          "published_at": "2026-03-10T13:00:00Z",
+          "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-10-gemini-in-google-sheets-just-achieved-state-of-the-art-performance"
+        },
+        {
+          "title": "Improving instruction hierarchy in frontier LLMs",
+          "url": "https://openai.com/index/instruction-hierarchy-challenge",
+          "source": "OpenAI",
+          "published_at": "2026-03-10T11:00:00Z",
+          "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-10-improving-instruction-hierarchy-in-frontier-llms"
+        },
+        {
+          "title": "New ways to learn math and science in ChatGPT",
+          "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-10T10:00:00Z",
+          "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-10-new-ways-to-learn-math-and-science-in"
         }
       ]
     },
     {
-      "name": "Herramientas",
+      "name": "Negocio",
       "items": [
         {
-          "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-          "source": "Hugging Face",
-          "published_at": "2026-03-09T18:36:33Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "Las redes sociales nacieron para humanos: Meta acaba de comprar una pensada para agentes de IA",
+          "url": "https://www.xataka.com/robotica-e-ia/redes-sociales-nacieron-para-humanos-meta-acaba-comprar-pensada-para-agentes-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-10T16:00:41Z",
+          "summary": "Si miramos atrás, la historia de las redes sociales está profundamente ligada a una idea muy concreta: conectar personas. Durante años, plataformas como Facebook se presentaron como lugares donde mantener el contacto con…",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "negocio"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-09-granite-4-0-1b-speech-compact-multilingual-and"
+          "category": "negocio",
+          "id": "xataka-2026-03-10-las-redes-sociales-nacieron-para-humanos-meta-acaba"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "Why AI Chatbots Agree With You Even When You’re Wrong",
+          "url": "https://spectrum.ieee.org/ai-sycophancy",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-11T12:00:03Z",
+          "summary": "In April of 2025, OpenAI released a new version of GPT-4o, one of the AI algorithms users could select to power ChatGPT, the company’s chatbot. The next week, OpenAI reverted to the previous version. “The update we remov…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-11-why-ai-chatbots-agree-with-you-even-when"
         },
         {
-          "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-          "url": "https://huggingface.co/blog/ulysses-sp",
-          "source": "Hugging Face",
-          "published_at": "2026-03-09T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "An AI Agent Blackmailed a Developer. Now What?",
+          "url": "https://spectrum.ieee.org/agentic-ai-agents-blackmail-developer",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-10T16:08:43Z",
+          "summary": "On 12 February, a Github contributor going by MJ Rathbun posted a personal attack against Scott Shambaugh , a volunteer maintainer for an open-source project. Shambaugh had rejected Rathbun’s code earlier in the day. Rat…",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "investigación"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-09-ulysses-sequence-parallelism-training-with-million-token-contexts"
-        },
-        {
-          "title": "LeRobot v0.5.0: Scaling Every Dimension",
-          "url": "https://huggingface.co/blog/lerobot-release-v050",
-          "source": "Hugging Face",
-          "published_at": "2026-03-09T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-09-lerobot-v0-5-0-scaling-every-dimension"
+          "category": "investigación",
+          "id": "ieee-2026-03-10-an-ai-agent-blackmailed-a-developer-now-what"
         }
       ]
     },
@@ -136,212 +219,212 @@
       "name": "General",
       "items": [
         {
-          "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+          "title": "Valve says it will fight New York&#8217;s loot box lawsuit",
+          "url": "https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2",
           "source": "The Verge",
-          "published_at": "2026-03-09T22:26:50Z",
-          "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami…",
+          "published_at": "2026-03-11T21:23:35Z",
+          "summary": "Valve wants players to know that it plans on fighting New York Attorney General Letitia James' lawsuit, which last month accused the company of promoting \"illegal gambling\" through its in-game loot boxes. In an email sen…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-apple-smart-home-display-rumors-now-point-to"
+          "id": "theverge-2026-03-11-valve-says-it-will-fight-new-york-8217"
         },
         {
-          "title": "The government shutdown is hitting airports — but not ICE",
-          "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+          "title": "The Live Nation settlement has industry insiders baffled",
+          "url": "https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states",
           "source": "The Verge",
-          "published_at": "2026-03-09T21:52:29Z",
-          "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast …",
+          "published_at": "2026-03-11T19:31:03Z",
+          "summary": "Instead of moving forward with a jury trial against Live Nation-Ticketmaster as expected, the Justice Department announced a settlement Monday that omitted what used to be on the top of its wish list: a breakup. What the…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-the-government-shutdown-is-hitting-airports----but"
+          "id": "theverge-2026-03-11-the-live-nation-settlement-has-industry-insiders-baffled"
         },
         {
-          "title": "Everything from the last week of everything is gambling now",
-          "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
+          "title": "Grammarly says it will stop using AI to clone experts without permission",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
           "source": "The Verge",
-          "published_at": "2026-03-09T21:18:26Z",
-          "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would…",
+          "published_at": "2026-03-11T18:45:50Z",
+          "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful considera…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-everything-from-the-last-week-of-everything-is"
+          "id": "theverge-2026-03-11-grammarly-says-it-will-stop-using-ai-to"
         },
         {
-          "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+          "title": "Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC",
+          "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
           "source": "The Verge",
-          "published_at": "2026-03-09T20:45:24Z",
-          "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scienti…",
+          "published_at": "2026-03-11T18:02:31Z",
+          "summary": "Microsoft seems more determined than ever to combine Xbox and Windows - to the point that its next-gen Xbox, codenamed Project Helix, will play PC games too. Today, we learned Helix will go alpha in 2027. But the company…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-employees-across-openai-and-google-support-anthropic-s"
+          "id": "theverge-2026-03-11-microsoft-8217-s-xbox-mode-is-coming-to"
         },
         {
-          "title": "Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic",
-          "url": "https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic",
-          "source": "Xataka",
-          "published_at": "2026-03-09T20:31:17Z",
-          "summary": "Durante mucho tiempo, cuando hablábamos de inteligencia artificial en Microsoft, había un nombre que aparecía una y otra vez: OpenAI. La relación entre ambas compañías fue determinante para el despegue de ChatGPT y tambi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-09-microsoft-quiere-que-copilot-haga-tareas-mas-complejas"
-        },
-        {
-          "title": "Bluesky CEO Jay Graber will step aside",
-          "url": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
+          "title": "Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027",
+          "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
           "source": "The Verge",
-          "published_at": "2026-03-09T20:24:43Z",
-          "summary": "Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired…",
+          "published_at": "2026-03-11T17:28:28Z",
+          "summary": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codena…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-bluesky-ceo-jay-graber-will-step-aside"
+          "id": "theverge-2026-03-11-microsoft-s-next-xbox-project-helix-won-8217"
         },
         {
-          "title": "You can get three months of Disney Plus and Hulu for $15",
-          "url": "https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale",
+          "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
           "source": "The Verge",
-          "published_at": "2026-03-09T20:14:44Z",
-          "summary": "If you’re looking for a way to stream the Oscars this weekend, or catch up on nominees like The Secret Agent, the Disney Plus and Hulu bundle is worth a look. The ceremony will stream live on Hulu for the first time on M…",
+          "published_at": "2026-03-11T16:50:45Z",
+          "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularit…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-you-can-get-three-months-of-disney-plus"
+          "id": "theverge-2026-03-11-openai-s-sora-video-generator-is-reportedly-coming"
         },
         {
-          "title": "Apple&#8217;s new M5 Max feels like a huge upgrade if you bought your laptop three years ago",
-          "url": "https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1",
+          "title": "Alternative app store AltStore PAL is joining the fediverse",
+          "url": "https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse",
           "source": "The Verge",
-          "published_at": "2026-03-09T20:00:33Z",
-          "summary": "We've been busy testing many new MacBooks, ranging from the new $1,099 M5 MacBook Air, going all the way up the $6,149 16-inch MacBook Pro with the M5 Max chip. While these computers are identical in design to last year'…",
+          "published_at": "2026-03-11T16:00:00Z",
+          "summary": "AltStore PAL, the alternative iOS app store available in the European Union and Japan, is joining the social web. In a post on Wednesday, AltStore PAL announced that users across Mastodon, Threads, and Bluesky can now in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-09-apple-8217-s-new-m5-max-feels-like"
+          "id": "theverge-2026-03-11-alternative-app-store-altstore-pal-is-joining-the"
         },
         {
-          "title": "Apple Studio Display XDR review: pro at a premium",
-          "url": "https://www.theverge.com/tech/891436/apple-studio-display-xdr-review",
-          "source": "The Verge",
-          "published_at": "2026-03-09T20:00:00Z",
-          "summary": "It's been almost exactly four years since Apple released the 5K Studio Display that so many wanted, even if it didn't really deliver as a high-end display. Apple has now revamped the Studio Display lineup, sort of, with …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-09-apple-studio-display-xdr-review-pro-at-a"
-        },
-        {
-          "title": "Foto de paisaje, nick aleatorio, cero rastro personal. El perfil anónimo perfecto... hasta que llega una IA y lo desmonta en minutos",
-          "url": "https://www.xataka.com/robotica-e-ia/mucha-gente-se-esconde-detras-cuentas-anonimas-pensando-que-nadie-puede-descubrirlos-ia-tiene-malas-noticias-para-ellos",
+          "title": "China ha convertido OpenClaw en un fenómeno viral. Y luego ha prohibido a sus funcionarios usarlo",
+          "url": "https://www.xataka.com/robotica-e-ia/china-ha-convertido-openclaw-fenomeno-viral-luego-ha-prohibido-a-sus-funcionarios-usarlo",
           "source": "Xataka",
-          "published_at": "2026-03-09T17:00:00Z",
-          "summary": "Las cuentas sin foto de perfil ni nombre real plagan las redes sociales, puede que hasta tú, que lees estas líneas, seas dueño o dueña de una. No juzgamos, motivos para no dar &nbsp;la cara en redes hay muchos y, de hech…",
+          "published_at": "2026-03-11T15:31:54Z",
+          "summary": "La aparición del agente de IA OpenClaw ha hecho que estemos viviendo una especie de segundo \" momento DeepSeek \". Lo saben bien en China, donde su uso ha explotado de tal forma que el Gobierno ha tenido que actuar. Y pro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-09-foto-de-paisaje-nick-aleatorio-cero-rastro-personal"
+          "id": "xataka-2026-03-11-china-ha-convertido-openclaw-en-un-fenomeno-viral"
         },
         {
-          "title": "Europa busca un lugar donde colocar su gigafactoría de IA. España y Portugal le están enseñando todo su plumaje renovable",
-          "url": "https://www.xataka.com/robotica-e-ia/europa-busca-lugar-donde-colocar-su-gigafactoria-ia-espana-portugal-le-estan-ensenando-todo-su-plumaje-renovable",
+          "title": "Claude no funciona: cómo comprobar si está caído o es un problema tuyo",
+          "url": "https://www.xataka.com/basics/claude-no-funciona-como-comprobar-esta-caido-problema-tuyo",
           "source": "Xataka",
-          "published_at": "2026-03-09T16:00:00Z",
-          "summary": "Hay un concepto con el que conviene familiarizarse: soberanía tecnológica. Estados Unidos la busca en materia de semiconductores para no depender de Taiwán. China la quiere con el mismo objetivo y con la intención de ref…",
+          "published_at": "2026-03-11T15:06:06Z",
+          "summary": "Vamos a decirte&nbsp; cómo saber si Claude está caído &nbsp;y no funciona debido a un error que está sucediéndole a todos. Como cualquier otro servicio online, los sistemas de&nbsp; inteligencia artificial como Claude ta…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-09-europa-busca-un-lugar-donde-colocar-su-gigafactoria"
+          "id": "xataka-2026-03-11-claude-no-funciona-como-comprobar-si-esta-caido"
         },
         {
-          "title": "España prepara un centro de datos destinado específicamente a tener una IA para la guerra. La sorpresa: está en Soria",
-          "url": "https://www.xataka.com/robotica-e-ia/espana-prepara-centro-datos-destinado-especificamente-a-tener-ia-para-guerra-sorpresa-esta-soria",
+          "title": "Mientras EEUU intenta detenerla a cualquier precio, la industria china exporta más chips que nunca: tiene la IA a su favor",
+          "url": "https://www.xataka.com/empresas-y-economia/eeuu-intenta-detenerla-a-cualquier-precio-industria-china-exporta-chips-que-nunca-tiene-ia-a-su-favor",
           "source": "Xataka",
-          "published_at": "2026-03-09T13:31:18Z",
-          "summary": "Hace más de dos mil años, en el cerro de Numancia , sus habitantes prefirieron resistir hasta el final antes que rendirse al asedio de las legiones de Publio Cornelio Escipión Emiliano. Aquella historia de desafío frente…",
+          "published_at": "2026-03-11T14:31:54Z",
+          "summary": "Durante los dos primeros meses de 2026 China exportó circuitos integrados por un valor de 43.300 millones de dólares, según SCMP , lo que representa un incremento del 72,6% frente al mismo periodo de 2025. Esta informaci…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-09-espana-prepara-un-centro-de-datos-destinado-especificamente"
+          "id": "xataka-2026-03-11-mientras-eeuu-intenta-detenerla-a-cualquier-precio-la"
         },
         {
-          "title": "Es posible que en el futuro la IA nos quite el trabajo a todos. Por el momento se lo está quitando a muy poquitos",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-parecia-dispuesta-a-arrasar-empleo-cualificado-nuevo-estudio-datos-reales-dice-algo-distinto-apenas-ha-movido-paro",
+          "title": "Cómo tener tu propia IA especializada con los datos y conocimientos que tú le des usando NotebookLM",
+          "url": "https://www.xataka.com/basics/como-tener-tu-propia-ia-especializada-datos-conocimientos-que-tu-le-des-usando-notebooklm",
           "source": "Xataka",
-          "published_at": "2026-03-09T11:30:00Z",
-          "summary": "Llevamos años escuchando que la inteligencia artificial va a destruir millones de empleos cualificados. El propio Dario Amodei, CEO de Anthropic, contaba el año pasado que la IA podría afectar a la mitad de los trabajos …",
+          "published_at": "2026-03-11T10:56:58Z",
+          "summary": "Vamos a explicarte cómo tener una IA entrenada con tus propios datos , de forma que luego puedas hacerle preguntas relacionadas con ellos. Para esto vamos a utilizar NotebookLM , que poco a poco se está convirtiendo en l…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-09-es-posible-que-en-el-futuro-la-ia"
+          "id": "xataka-2026-03-11-como-tener-tu-propia-ia-especializada-con-los"
         },
         {
-          "title": "Mientras Occidente debate qué hacer con la IA en los colegios, en China ya hay escuelas convirtiéndola en tutora infantil",
-          "url": "https://www.xataka.com/robotica-e-ia/occidente-le-teme-a-ia-escuelas-china-ha-decidido-convertirla-ninera-tutora-oficial-sus-hijos",
+          "title": "Si la pregunta es cuánto está arrasando OpenClaw la respuesta es... en China están haciendo cola para instalarlo",
+          "url": "https://www.xataka.com/aplicaciones/pregunta-cuanto-esta-arrasando-openclaw-respuesta-china-estan-haciendo-cola-para-instalarlo",
           "source": "Xataka",
-          "published_at": "2026-03-08T13:31:39Z",
-          "summary": "Cualquiera que haya sido niño o padre conoce la escena: la luz del flexo encendida, un problema de matemáticas incomprensible sobre la mesa, las lágrimas cayendo por la frustración de no entender una lección o no lograr …",
+          "published_at": "2026-03-11T10:45:53Z",
+          "summary": "Uno de los fenómenos en IA de 2026 es OpenClaw , una de las herramientas más potentes ( y a su vez peligrosas ) jamás lanzadas. En China, hace apenas unos días, cerca de mil personas hicieron cola frente a la sede de la …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-08-mientras-occidente-debate-que-hacer-con-la-ia"
+          "id": "xataka-2026-03-11-si-la-pregunta-es-cuanto-esta-arrasando-openclaw"
         },
         {
-          "title": "Cómo programar un resumen diario de tus nuevas newsletters enviado por inteligencia artificial a tu correo electrónico",
-          "url": "https://www.xataka.com/basics/como-programar-resumen-diario-tus-nuevas-newsletters-enviado-inteligencia-artificial-a-tu-correo-electronico",
+          "title": "ChatGPT ha pasado de ofrecerte ayuda a insinuarte secretos. Es más efectivo para engancharte",
+          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-ha-pasado-ofrecerte-ayuda-a-insinuarte-secretos-efectivo-para-engancharte",
           "source": "Xataka",
-          "published_at": "2026-03-08T13:01:39Z",
-          "summary": "Vamos a decirte cómo crear un resumen de todas las newsletters recibidas en tu correo electrónico utilizando inteligencia artificial .&nbsp;Para esto, vamos a utilizar el servicio Make &nbsp;para crear un&nbsp; workflow …",
+          "published_at": "2026-03-11T08:31:54Z",
+          "summary": "Hay algo que ha cambiado en ChatGPT y que resulta difícil de nombrar con precisión. No es una función nueva ni está en las notas de actualización. Es más sutil: el modelo ha empezado a terminar sus respuestas con una esp…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-08-como-programar-un-resumen-diario-de-tus-nuevas"
+          "id": "xataka-2026-03-11-chatgpt-ha-pasado-de-ofrecerte-ayuda-a-insinuarte"
         },
         {
-          "title": "NVIDIA ha perdido la esperanza en China, por eso ha comenzado a fabricar sus propias GPU de nueva generación para IA",
-          "url": "https://www.xataka.com/robotica-e-ia/nvidia-ha-perdido-esperanza-china-eso-ha-comenzado-a-fabricar-sus-gpu-nueva-generacion-para-ia",
+          "title": "La buena noticia es que los modelos de IA son cada vez más potentes. La mala es que todos acaban diciendo lo mismo",
+          "url": "https://www.xataka.com/robotica-e-ia/buena-noticia-que-modelos-ia-cada-vez-potentes-mala-que-todos-acaban-diciendo",
           "source": "Xataka",
-          "published_at": "2026-03-08T11:01:39Z",
-          "summary": "NVIDIA afronta este 2026 un año crucial . Se han convertido en uno de los mayores inversores estratégicos en ecosistema de la IA con decenas de inversiones milmillonarias en otras empresas, modelos, infraestructura y rob…",
+          "published_at": "2026-03-11T07:01:54Z",
+          "summary": "Tenemos inteligencia artificial. Lo que no tenemos es diversidad artificial. Esa es la conclusión a la que han llegado un grupo de investigadores que hicieron un test relativamente sencillo: preguntaron un montón de cosa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-08-nvidia-ha-perdido-la-esperanza-en-china-por"
+          "id": "xataka-2026-03-11-la-buena-noticia-es-que-los-modelos-de"
+        },
+        {
+          "title": "Se suponía que el rol de los desarrolladores del futuro iba a ser \"revisar\" el código que escribía la IA. Claude acaba de sepultarlo",
+          "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-programadores-humanos-acabarian-siendo-revisores-codigo-anthropic-se-acaba-cargar-eso",
+          "source": "Xataka",
+          "published_at": "2026-03-10T17:00:00Z",
+          "summary": "El ascenso de la IA generativa al mundo del desarrollo de software parecía seguir un guión claro: los modelos escribirían el código y los humanos se encargarían de revisarlo. Era el nuevo equilibrio. Pues bien, Anthropic…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-se-suponia-que-el-rol-de-los-desarrolladores"
+        },
+        {
+          "title": "Tras entrar en la \"lista negra\", Anthropic ha recurrido a una medida desesperada: llevar al Pentágono a juicio",
+          "url": "https://www.xataka.com/empresas-y-economia/pentagono-etiqueto-a-anthropic-como-riesgo-para-seguridad-nacional-asi-que-anthropic-ha-demandado-al-pentagono",
+          "source": "Xataka",
+          "published_at": "2026-03-10T15:48:00Z",
+          "summary": "El culebrón entre Anthropic y el Pentágono tiene un nuevo capítulo (y ya van...). Después deln tira y afloja de las últimas semanas, Anthropic se plantó y eso acabó provocando que EEUU metiera a la empresa en la lista ne…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-10-tras-entrar-en-la-lista-negra-anthropic-ha"
         }
       ]
     }
