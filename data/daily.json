@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generated_at": "2026-03-12T07:01:03.795914Z",
+  "generated_at": "2026-03-12T10:36:05.569899Z",
   "title": "Resumen diario de IA",
   "top": [
     {
@@ -15,6 +15,19 @@
       ],
       "category": "lanzamientos",
       "id": "googleai-2026-03-12-how-ai-is-helping-improve-heart-health-in"
+    },
+    {
+      "title": "Construir centros de datos en Oriente Medio parecía un negocio redondo. Hasta que llegó Irán",
+      "url": "https://www.xataka.com/empresas-y-economia/construir-centros-datos-oriente-medio-parecia-negocio-redondo-que-llego-iran",
+      "source": "Xataka",
+      "published_at": "2026-03-12T08:01:54Z",
+      "summary": "Hace unos días contábamos que Irán había atacado dos centros de datos en Emiratos Árabes y uno en Bahréin. Es el primer ataque deliberado sobre un centro de datos y la prueba de que se ha convertido en una infraestructur…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-03-12-construir-centros-de-datos-en-oriente-medio-parecia"
     },
     {
       "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
@@ -54,19 +67,6 @@
       ],
       "category": "general",
       "id": "theverge-2026-03-11-iphone-fold-rumor-ipad-like-multitasking-but-no-ipad"
-    },
-    {
-      "title": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
-      "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
-      "source": "The Verge",
-      "published_at": "2026-03-11T21:50:28Z",
-      "summary": "Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penumbra Collectors Pack, all four Amnesia titles (The Dark Descent, A Machine for Pig…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-11-some-of-the-best-horror-games-ever-made"
     }
   ],
   "sections": [
@@ -150,19 +150,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-10-improving-instruction-hierarchy-in-frontier-llms"
-        },
-        {
-          "title": "New ways to learn math and science in ChatGPT",
-          "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-03-10T10:00:00Z",
-          "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-10-new-ways-to-learn-math-and-science-in"
         }
       ]
     },
@@ -218,6 +205,19 @@
     {
       "name": "General",
       "items": [
+        {
+          "title": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
+          "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
+          "source": "The Verge",
+          "published_at": "2026-03-11T21:50:28Z",
+          "summary": "Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penumbra Collectors Pack, all four Amnesia titles (The Dark Descent, A Machine for Pig…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-11-some-of-the-best-horror-games-ever-made"
+        },
         {
           "title": "Valve says it will fight New York&#8217;s loot box lawsuit",
           "url": "https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2",
@@ -412,19 +412,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-10-se-suponia-que-el-rol-de-los-desarrolladores"
-        },
-        {
-          "title": "Tras entrar en la \"lista negra\", Anthropic ha recurrido a una medida desesperada: llevar al Pentágono a juicio",
-          "url": "https://www.xataka.com/empresas-y-economia/pentagono-etiqueto-a-anthropic-como-riesgo-para-seguridad-nacional-asi-que-anthropic-ha-demandado-al-pentagono",
-          "source": "Xataka",
-          "published_at": "2026-03-10T15:48:00Z",
-          "summary": "El culebrón entre Anthropic y el Pentágono tiene un nuevo capítulo (y ya van...). Después deln tira y afloja de las últimas semanas, Anthropic se plantó y eso acabó provocando que EEUU metiera a la empresa en la lista ne…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-10-tras-entrar-en-la-lista-negra-anthropic-ha"
         }
       ]
     }
