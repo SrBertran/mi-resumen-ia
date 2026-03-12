@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generated_at": "2026-03-12T12:28:04.456881Z",
+  "generated_at": "2026-03-12T12:41:01.291649Z",
   "title": "Resumen diario de IA",
   "top": [
     {
@@ -15,6 +15,19 @@
       ],
       "category": "lanzamientos",
       "id": "googleai-2026-03-12-how-ai-is-helping-improve-heart-health-in"
+    },
+    {
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+      "source": "The Verge",
+      "published_at": "2026-03-12T12:30:00Z",
+      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-12-you-can-now-ask-google-maps-complex-real-world"
     },
     {
       "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
@@ -54,19 +67,6 @@
       ],
       "category": "general",
       "id": "xataka-2026-03-12-como-ordenar-los-archivos-de-tu-ordenador-con"
-    },
-    {
-      "title": "Iran-linked cyber attack targets US medtech giant Stryker",
-      "url": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack",
-      "source": "The Verge",
-      "published_at": "2026-03-12T11:28:53Z",
-      "summary": "US medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hacking group linked to Iran. The attack impacted Stryker's internal Microsoft envir…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-12-iran-linked-cyber-attack-targets-us-medtech-giant-stryker"
     }
   ],
   "sections": [
@@ -188,6 +188,19 @@
       "name": "General",
       "items": [
         {
+          "title": "Iran-linked cyber attack targets US medtech giant Stryker",
+          "url": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack",
+          "source": "The Verge",
+          "published_at": "2026-03-12T11:28:53Z",
+          "summary": "US medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hacking group linked to Iran. The attack impacted Stryker's internal Microsoft envir…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-12-iran-linked-cyber-attack-targets-us-medtech-giant-stryker"
+        },
+        {
           "title": "Construir centros de datos en Oriente Medio parecía un negocio redondo. Hasta que llegó Irán",
           "url": "https://www.xataka.com/empresas-y-economia/construir-centros-datos-oriente-medio-parecia-negocio-redondo-que-llego-iran",
           "source": "Xataka",
@@ -277,19 +290,6 @@
           ],
           "category": "general",
           "id": "theverge-2026-03-11-grammarly-says-it-will-stop-using-ai-to"
-        },
-        {
-          "title": "Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC",
-          "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
-          "source": "The Verge",
-          "published_at": "2026-03-11T18:02:31Z",
-          "summary": "Microsoft seems more determined than ever to combine Xbox and Windows - to the point that its next-gen Xbox, codenamed Project Helix, will play PC games too. Today, we learned Helix will go alpha in 2027. But the company…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-11-microsoft-8217-s-xbox-mode-is-coming-to"
         },
         {
           "title": "China ha convertido OpenClaw en un fenómeno viral. Y luego ha prohibido a sus funcionarios usarlo",
