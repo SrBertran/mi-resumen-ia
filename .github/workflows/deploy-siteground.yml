@@ -3,7 +3,7 @@ name: Deploy to SiteGround
 on:
   workflow_dispatch:
   schedule:
-    - cron: "40 6 * * *"  # 10 min después del digest, en UTC (ajústalo si quieres)
+    - cron: "40 6 * * *"  # 10 min después del digest, en UTC
 
 permissions:
   contents: write
@@ -11,6 +11,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,17 +50,19 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Install lftp
-        run: sudo apt-get update && sudo apt-get install -y lftp
-      
-      - name: Deploy dist/ via SCP (SSH key)
-        uses: appleboy/scp-action@v0.1.7
+      - name: Start ssh-agent and add key
+        uses: webfactory/ssh-agent@v0.9.0
         with:
-          host: ${{ secrets.SG_HOST }}
-          username: ${{ secrets.SG_USERNAME }}
-          key: ${{ secrets.SG_SSH_KEY }}
-          port: ${{ secrets.SG_PORT }}
-          source: "dist/*"
-          target: "${{ secrets.SG_REMOTE_PATH }}"
-          strip_components: 1
-          overwrite: true
+          ssh-private-key: ${{ secrets.SG_SSH_KEY }}
+
+      - name: Deploy dist/ via rsync over SSH
+        env:
+          SG_HOST: ${{ secrets.SG_HOST }}
+          SG_PORT: ${{ secrets.SG_PORT }}
+          SG_USERNAME: ${{ secrets.SG_USERNAME }}
+          SG_REMOTE_PATH: ${{ secrets.SG_REMOTE_PATH }}
+        run: |
+          rsync -az --delete \
+            -e "ssh -p $SG_PORT -o StrictHostKeyChecking=no" \
+            dist/ \
+            $SG_USERNAME@$SG_HOST:$SG_REMOTE_PATH/
