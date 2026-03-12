@@ -51,38 +51,15 @@ jobs:
 
       - name: Install lftp
         run: sudo apt-get update && sudo apt-get install -y lftp
-
-      - name: Deploy dist/ via SFTP
-        env:
-          SG_HOST: ${{ secrets.SG_HOST }}
-          SG_USERNAME: ${{ secrets.SG_USERNAME }}
-          SG_PASSWORD: ${{ secrets.SG_PASSWORD }}
-          SG_PORT: ${{ secrets.SG_PORT }}
-          SG_REMOTE_PATH: ${{ secrets.SG_REMOTE_PATH }}
-        run: |
-          lftp -e "
-          set sftp:auto-confirm yes;
-          set ssl:verify-certificate no;
-
-          # evita jobs eternos
-          set net:timeout 20;
-          set net:max-retries 2;
-          set net:reconnect-interval-base 5;
-
-          # log útil
-          set cmd:trace yes;
-          set cmd:trace-read yes;
-
-          open -u $SG_USERNAME,$SG_PASSWORD sftp://$SG_HOST:$SG_PORT;
-
-          # ver dónde estás subiendo
-          pwd;
-          ls -la;
-
-          # subir solo dist con límites razonables
-          mirror -R --delete --only-newer --parallel=2 --verbose dist $SG_REMOTE_PATH;
-
-          # verifica que quedó index.html
-          ls -la $SG_REMOTE_PATH;
-          bye
-          "
+      
+      - name: Deploy dist/ via SCP (SSH key)
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SG_HOST }}
+          username: ${{ secrets.SG_USERNAME }}
+          key: ${{ secrets.SG_SSH_KEY }}
+          port: ${{ secrets.SG_PORT }}
+          source: "dist/*"
+          target: "${{ secrets.SG_REMOTE_PATH }}"
+          strip_components: 1
+          overwrite: true
