@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generated_at": "2026-03-12T10:55:16.797447Z",
+  "generated_at": "2026-03-12T12:28:04.456881Z",
   "title": "Resumen diario de IA",
   "top": [
     {
@@ -17,56 +17,56 @@
       "id": "googleai-2026-03-12-how-ai-is-helping-improve-heart-health-in"
     },
     {
-      "title": "Construir centros de datos en Oriente Medio parecía un negocio redondo. Hasta que llegó Irán",
-      "url": "https://www.xataka.com/empresas-y-economia/construir-centros-datos-oriente-medio-parecia-negocio-redondo-que-llego-iran",
+      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "source": "The Verge",
+      "published_at": "2026-03-12T12:00:34Z",
+      "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" P…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-12-perplexity-8217-s-personal-computer-turns-your-spare"
+    },
+    {
+      "title": "JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes",
+      "url": "https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic",
+      "source": "The Verge",
+      "published_at": "2026-03-12T12:00:00Z",
+      "summary": "Karaoke is more fun for everyone when the person holding the mic sounds as good as a song's original performer. So the latest addition to JBL's PartyBox Bluetooth speaker line, the On-the-Go 2 Plus, comes with one of the…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-12-jbl-s-new-party-speaker-comes-with-a"
+    },
+    {
+      "title": "Cómo ordenar los archivos de tu ordenador con Claude Cowork: crea subcarpetas, reorganiza, cambia nombre o formato",
+      "url": "https://www.xataka.com/basics/como-ordenar-archivos-tu-ordenador-claude-cowork-crea-subcarpetas-reorganiza-cambia-nombre-formato",
       "source": "Xataka",
-      "published_at": "2026-03-12T08:01:54Z",
-      "summary": "Hace unos días contábamos que Irán había atacado dos centros de datos en Emiratos Árabes y uno en Bahréin. Es el primer ataque deliberado sobre un centro de datos y la prueba de que se ha convertido en una infraestructur…",
+      "published_at": "2026-03-12T11:37:54Z",
+      "summary": "Vamos a decirte cómo ordenar los archivos de tus carpetas con IA , utilizando Claude Cowork . Se trata de una de las opciones de Claude , que es como un agente de IA capaz de controlar elementos de tu ordenador y hacer c…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-12-construir-centros-de-datos-en-oriente-medio-parecia"
+      "id": "xataka-2026-03-12-como-ordenar-los-archivos-de-tu-ordenador-con"
     },
     {
-      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-      "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-      "source": "Hugging Face",
-      "published_at": "2026-03-12T03:53:34Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "huggingface-2026-03-12-how-nvidia-ai-q-reached-1-on-deepresearch-bench"
-    },
-    {
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "title": "Iran-linked cyber attack targets US medtech giant Stryker",
+      "url": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack",
       "source": "The Verge",
-      "published_at": "2026-03-11T22:51:53Z",
-      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists include…",
+      "published_at": "2026-03-12T11:28:53Z",
+      "summary": "US medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hacking group linked to Iran. The attack impacted Stryker's internal Microsoft envir…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-11-one-of-grammarly-s-experts-is-suing-the"
-    },
-    {
-      "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
-      "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
-      "source": "The Verge",
-      "published_at": "2026-03-11T22:22:33Z",
-      "summary": "Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a report from Bloomberg's Mark Gurman. Gurman also reports that the outer display will …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-11-iphone-fold-rumor-ipad-like-multitasking-but-no-ipad"
+      "id": "theverge-2026-03-12-iran-linked-cyber-attack-targets-us-medtech-giant-stryker"
     }
   ],
   "sections": [
@@ -137,43 +137,25 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-03-10-gemini-in-google-sheets-just-achieved-state-of-the-art-performance"
-        },
-        {
-          "title": "Improving instruction hierarchy in frontier LLMs",
-          "url": "https://openai.com/index/instruction-hierarchy-challenge",
-          "source": "OpenAI",
-          "published_at": "2026-03-10T11:00:00Z",
-          "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-10-improving-instruction-hierarchy-in-frontier-llms"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Las redes sociales nacieron para humanos: Meta acaba de comprar una pensada para agentes de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/redes-sociales-nacieron-para-humanos-meta-acaba-comprar-pensada-para-agentes-ia",
-          "source": "Xataka",
-          "published_at": "2026-03-10T16:00:41Z",
-          "summary": "Si miramos atrás, la historia de las redes sociales está profundamente ligada a una idea muy concreta: conectar personas. Durante años, plataformas como Facebook se presentaron como lugares donde mantener el contacto con…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-03-10-las-redes-sociales-nacieron-para-humanos-meta-acaba"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+          "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+          "source": "Hugging Face",
+          "published_at": "2026-03-12T03:53:34Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-03-12-how-nvidia-ai-q-reached-1-on-deepresearch-bench"
+        },
         {
           "title": "Why AI Chatbots Agree With You Even When You’re Wrong",
           "url": "https://spectrum.ieee.org/ai-sycophancy",
@@ -205,6 +187,45 @@
     {
       "name": "General",
       "items": [
+        {
+          "title": "Construir centros de datos en Oriente Medio parecía un negocio redondo. Hasta que llegó Irán",
+          "url": "https://www.xataka.com/empresas-y-economia/construir-centros-datos-oriente-medio-parecia-negocio-redondo-que-llego-iran",
+          "source": "Xataka",
+          "published_at": "2026-03-12T08:01:54Z",
+          "summary": "Hace unos días contábamos que Irán había atacado dos centros de datos en Emiratos Árabes y uno en Bahréin. Es el primer ataque deliberado sobre un centro de datos y la prueba de que se ha convertido en una infraestructur…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-12-construir-centros-de-datos-en-oriente-medio-parecia"
+        },
+        {
+          "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+          "source": "The Verge",
+          "published_at": "2026-03-11T22:51:53Z",
+          "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists include…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-11-one-of-grammarly-s-experts-is-suing-the"
+        },
+        {
+          "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
+          "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
+          "source": "The Verge",
+          "published_at": "2026-03-11T22:22:33Z",
+          "summary": "Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a report from Bloomberg's Mark Gurman. Gurman also reports that the outer display will …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-11-iphone-fold-rumor-ipad-like-multitasking-but-no-ipad"
+        },
         {
           "title": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
           "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
@@ -269,45 +290,6 @@
           ],
           "category": "general",
           "id": "theverge-2026-03-11-microsoft-8217-s-xbox-mode-is-coming-to"
-        },
-        {
-          "title": "Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027",
-          "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-          "source": "The Verge",
-          "published_at": "2026-03-11T17:28:28Z",
-          "summary": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codena…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-11-microsoft-s-next-xbox-project-helix-won-8217"
-        },
-        {
-          "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-          "source": "The Verge",
-          "published_at": "2026-03-11T16:50:45Z",
-          "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularit…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-11-openai-s-sora-video-generator-is-reportedly-coming"
-        },
-        {
-          "title": "Alternative app store AltStore PAL is joining the fediverse",
-          "url": "https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse",
-          "source": "The Verge",
-          "published_at": "2026-03-11T16:00:00Z",
-          "summary": "AltStore PAL, the alternative iOS app store available in the European Union and Japan, is joining the social web. In a post on Wednesday, AltStore PAL announced that users across Mastodon, Threads, and Bluesky can now in…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-11-alternative-app-store-altstore-pal-is-joining-the"
         },
         {
           "title": "China ha convertido OpenClaw en un fenómeno viral. Y luego ha prohibido a sus funcionarios usarlo",
@@ -401,7 +383,7 @@
           "id": "xataka-2026-03-11-la-buena-noticia-es-que-los-modelos-de"
         },
         {
-          "title": "Se suponía que el rol de los desarrolladores del futuro iba a ser \"revisar\" el código que escribía la IA. Claude acaba de sepultarlo",
+          "title": "Anthropic ya tenía una IA capaz de escribir código. Ahora tiene una IA capaz de revisar lo que escribió su otra IA",
           "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-programadores-humanos-acabarian-siendo-revisores-codigo-anthropic-se-acaba-cargar-eso",
           "source": "Xataka",
           "published_at": "2026-03-10T17:00:00Z",
@@ -411,7 +393,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-10-se-suponia-que-el-rol-de-los-desarrolladores"
+          "id": "xataka-2026-03-10-anthropic-ya-tenia-una-ia-capaz-de-escribir"
         }
       ]
     }
