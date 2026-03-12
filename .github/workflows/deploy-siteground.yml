@@ -30,14 +30,6 @@ jobs:
         run: |
           python scripts/pipeline.py
 
-      - name: Commit daily.json
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/daily.json
-          git commit -m "chore: update daily digest" || exit 0
-          git push
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
