@@ -42,24 +42,11 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Install rsync
-        run: sudo apt-get update && sudo apt-get install -y rsync
-
-      - name: Load SSH key
-        run: |
-          echo "${{ secrets.SG_SSH_KEY_B64 }}" | base64 -d > /tmp/sg_key
-          chmod 600 /tmp/sg_key
-          eval "$(ssh-agent -s)"
-          ssh-add /tmp/sg_key
-
-      - name: Deploy dist/ via rsync over SSH
-        env:
-          SG_HOST: ${{ secrets.SG_HOST }}
-          SG_PORT: ${{ secrets.SG_PORT }}
-          SG_USERNAME: ${{ secrets.SG_USERNAME }}
-          SG_REMOTE_PATH: ${{ secrets.SG_REMOTE_PATH }}
-        run: |
-          rsync -az --delete \
-            -e "ssh -p $SG_PORT -o StrictHostKeyChecking=no" \
-            dist/ \
-            $SG_USERNAME@$SG_HOST:$SG_REMOTE_PATH/
+      - name: Deploy dist/ via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: dist/
+          server-dir: ${{ secrets.FTP_SERVER_DIR }}
