@@ -1,17 +1,36 @@
 ---
-return Astro.redirect("/hoy");
+import daily from "../../data/daily.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import NewsCard from "../components/NewsCard.astro";
+
+function formatDate(iso) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(d);
+}
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title={`${daily.title} — ${daily.date}`}>
+  <div class="meta" style="justify-content: space-between;">
+    <span>Actualizado {formatDate(daily.generated_at ?? daily.date)}</span>
+    <a href="/">Inicio</a>
+  </div>
+
+  <h1 class="h1">{daily.title}</h1>
+
+  <section class="card" style="margin-top: 16px;">
+    <h2 style="margin:0 0 10px;">Top del día</h2>
+    <div class="stack">
+      {daily.top?.map((n) => <NewsCard item={n} />)}
+    </div>
+  </section>
+
+  {daily.sections?.map((s) => (
+    <section>
+      <div class="sectionTitle">{s.name}</div>
+      <div class="stack">
+        {s.items?.map((n) => <NewsCard item={n} showWhy={false} />)}
+      </div>
+    </section>
+  ))}
+</BaseLayout>
