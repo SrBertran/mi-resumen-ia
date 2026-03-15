@@ -1,93 +1,75 @@
 {
-  "date": "2026-03-14",
-  "generated_at": "2026-03-14T06:44:40.314468Z",
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T06:46:11.209573Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "States’ anti-monopoly case against Live Nation continues Monday",
-      "url": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+      "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+      "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
       "source": "The Verge",
-      "published_at": "2026-03-13T22:08:39Z",
-      "summary": "The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's alleged concert industry monopoly beginning on Monday, following a brief hearing on Fri…",
+      "published_at": "2026-03-14T21:57:07Z",
+      "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the ran…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-13-states-anti-monopoly-case-against-live-nation-continues-monday"
+      "id": "theverge-2026-03-14-trump-administration-is-allegedly-collecting-10-billion-on"
     },
     {
-      "title": "Spotify tests letting users directly customize their Taste Profile",
-      "url": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+      "title": "Meta is reportedly laying off up to 20 percent of its staff",
+      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
       "source": "The Verge",
-      "published_at": "2026-03-13T21:44:23Z",
-      "summary": "Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is …",
+      "published_at": "2026-03-14T18:48:56Z",
+      "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminat…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-13-spotify-tests-letting-users-directly-customize-their-taste"
+      "id": "theverge-2026-03-14-meta-is-reportedly-laying-off-up-to-20"
     },
     {
-      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-      "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+      "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+      "url": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-03-13T20:51:48Z",
-      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news dur…",
+      "published_at": "2026-03-14T15:46:28Z",
+      "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantag…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-13-microsoft-s-copilot-ai-assistant-is-coming-to"
+      "id": "theverge-2026-03-14-hulu-disney-plus-and-the-pixel-watch-4"
     },
     {
-      "title": "Trump Mobile is just one in the crowd of conservative carriers",
-      "url": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
+      "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
+      "url": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
       "source": "The Verge",
-      "published_at": "2026-03-13T20:51:39Z",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its conservative carrier competition. Trump Mobile isn't unique. I mean, it is in some pr…",
+      "published_at": "2026-03-14T15:30:00Z",
+      "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-13-trump-mobile-is-just-one-in-the-crowd"
+      "id": "theverge-2026-03-14-prediction-markets-want-the-oscars-to-be-your"
     },
     {
-      "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
-      "url": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
-      "source": "The Verge",
-      "published_at": "2026-03-13T20:51:15Z",
-      "summary": "It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site would relaunch, promising a \"social discovery built by communities, not by algorithms…",
+      "title": "La carrera de la IA ya no es quién tiene el modelo más potente. Es quién lanza un OpenClaw más fácil y seguro",
+      "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro",
+      "source": "Xataka",
+      "published_at": "2026-03-14T15:15:54Z",
+      "summary": "2026 empezó con un terremoto en el mundo de la IA, y no vino de parte de ninguna de las grandes tecnológicas, sino de un programador desconocido y su proyecto de código abierto OpenClaw (antes Clawdbot y Moltbot) . No ha…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-13-digg-s-open-beta-shuts-down-after-just"
+      "id": "xataka-2026-03-14-la-carrera-de-la-ia-ya-no-es"
     }
   ],
   "sections": [
-    {
-      "name": "Lanzamientos",
-      "items": [
-        {
-          "title": "How AI is helping improve heart health in rural Australia",
-          "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-          "source": "Google AI",
-          "published_at": "2026-03-12T15:00:00Z",
-          "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-12-how-ai-is-helping-improve-heart-health-in"
-        }
-      ]
-    },
     {
       "name": "Herramientas",
       "items": [
@@ -110,6 +92,123 @@
       "name": "General",
       "items": [
         {
+          "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
+          "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
+          "source": "The Verge",
+          "published_at": "2026-03-14T15:00:00Z",
+          "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-macbook-air-m5-review-a-small-update-for"
+        },
+        {
+          "title": "Los centros de datos se han quedado sin \"enchufes\" en el centro de Europa, así que están migrando al norte y al sur",
+          "url": "https://www.xataka.com/energia/europa-se-ha-quedado-enchufes-para-inteligencia-artificial-como-megacentros-datos-huyen-al-norte-al-sur",
+          "source": "Xataka",
+          "published_at": "2026-03-14T14:01:54Z",
+          "summary": "El apetito insaciable de la Inteligencia Artificial (IA) está redibujando el mapa de Europa. Históricamente, el mercado europeo de centros de datos ha estado dominado por un puñado de áreas metropolitanas conocidas en el…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-14-los-centros-de-datos-se-han-quedado-sin"
+        },
+        {
+          "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+          "url": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
+          "source": "The Verge",
+          "published_at": "2026-03-14T14:00:00Z",
+          "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the Fren…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-a-scavengers-reign-artist-explores-contemplative-sci-fi-in"
+        },
+        {
+          "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
+          "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
+          "source": "The Verge",
+          "published_at": "2026-03-14T13:00:00Z",
+          "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immers…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-asus-new-open-earbuds-are-a-wonderful-companion"
+        },
+        {
+          "title": "Los fabricantes chinos de memorias ya no son actores secundarios: son el salvavidas del mercado de consumo",
+          "url": "https://www.xataka.com/empresas-y-economia/fabricantes-chinos-memorias-no-actores-secundarios-salvavidas-mercado-consumo",
+          "source": "Xataka",
+          "published_at": "2026-03-14T12:15:53Z",
+          "summary": "La industria de la memoria DRAM se enfrenta a una profunda transformación estructural. Los tres mayores fabricantes de chips de memoria del planeta, las compañías surcoreanas SK Hynix y Samsung Electronics, y la estadoun…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-14-los-fabricantes-chinos-de-memorias-ya-no-son"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra review: show off",
+          "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+          "source": "The Verge",
+          "published_at": "2026-03-14T12:00:00Z",
+          "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-samsung-galaxy-s26-ultra-review-show-off"
+        },
+        {
+          "title": "5 great indie games from GDC 2026",
+          "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+          "source": "The Verge",
+          "published_at": "2026-03-14T12:00:00Z",
+          "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-5-great-indie-games-from-gdc-2026"
+        },
+        {
+          "title": "Wordle’s creator made a fun new puzzle game",
+          "url": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+          "source": "The Verge",
+          "published_at": "2026-03-14T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer ho…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-wordle-s-creator-made-a-fun-new-puzzle"
+        },
+        {
+          "title": "Cómo llevar tu contabilidad de gastos con IA: crea y actualiza un Excel con tus movimientos, totales y balances personalizados",
+          "url": "https://www.xataka.com/basics/como-llevar-tu-contabilidad-gastos-ia-crea-actualiza-excel-tus-movimientos-totales-balances-personalizados",
+          "source": "Xataka",
+          "published_at": "2026-03-14T11:01:54Z",
+          "summary": "Vamos a explicarte cómo crear un Excel con tus movimientos mensuales usando inteligencia artificial , y a partir de tus extractos bancarios. Iremos mucho más allá de las hojas de cálculo que pueda generar tu banco con tu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-14-como-llevar-tu-contabilidad-de-gastos-con-ia"
+        },
+        {
           "title": "Google tiene clarísimo el futuro de Android: un sistema gobernado por agentes de IA",
           "url": "https://www.xataka.com/robotica-e-ia/google-tiene-clarisimo-futuro-android-sistema-gobernado-agentes-ia",
           "source": "Xataka",
@@ -123,62 +222,10 @@
           "id": "xataka-2026-03-13-google-tiene-clarisimo-el-futuro-de-android-un"
         },
         {
-          "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used",
-          "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
-          "source": "The Verge",
-          "published_at": "2026-03-13T19:39:11Z",
-          "summary": "Instagram will no longer support end-to-end encrypted messages starting May 8th. In a statement to The Verge, Meta spokesperson Dina El-Kassaby Luce says the platform is discontinuing the feature because \"very few people…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-13-instagram-is-getting-rid-of-end-to-end-encrypted-dms"
-        },
-        {
-          "title": "Google Pixel 10A review: Just buy the 9A",
-          "url": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
-          "source": "The Verge",
-          "published_at": "2026-03-13T18:36:36Z",
-          "summary": "I'm not entirely sure why the Pixel 10A exists. Google hasn't upgraded the chipset, cameras, or battery in the new phone, and the tweaks it's made elsewhere are minimal at best. The flatter camera island is good, I guess…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-13-google-pixel-10a-review-just-buy-the-9a"
-        },
-        {
-          "title": "Backbone’s versatile pro controller is nearly matching its best price to date",
-          "url": "https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-03-13T17:52:48Z",
-          "summary": "Mobile gaming has come a long way over the course of the last decade or so, but we all know that smartphones simply can’t match the visceral, tactile feel you get while playing with a dedicated controller. Luckily, Backb…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-13-backbone-s-versatile-pro-controller-is-nearly-matching"
-        },
-        {
-          "title": "Adobe will pay $75 million to settle US cancellation fee lawsuit",
-          "url": "https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions",
-          "source": "The Verge",
-          "published_at": "2026-03-13T17:52:01Z",
-          "summary": "Adobe says it will pay $75 million to resolve a lawsuit filed by the US government alleging that the creative software giant harmed consumers by making its subscriptions intentionally hard to cancel and concealing termin…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-13-adobe-will-pay-75-million-to-settle-us"
-        },
-        {
           "title": "Antes hacía documentos de Word. Ahora hago apps hasta para lo más tonto",
           "url": "https://www.xataka.com/aplicaciones/antes-documentos-word-ahora-hago-apps-para-tonto",
           "source": "Xataka",
-          "published_at": "2026-03-13T17:31:54Z",
+          "published_at": "2026-03-13T17:30:00Z",
           "summary": "En Xataka, los compañeros estábamos organizando algunas gestiones. Unas que, hasta ahora, estábamos haciendo de la forma más cutre posible: mediante bullets en Slack. Hasta que mi compañero, Javier Pastor, decidió crear …",
           "why_it_matters": "",
           "tags": [
@@ -199,19 +246,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-13-una-mujer-paso-seis-meses-en-prision-porque"
-        },
-        {
-          "title": "Ninja’s star Creami ice cream maker is on sale for $169",
-          "url": "https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-03-13T17:00:00Z",
-          "summary": "If you’ve ever wanted more control over what goes into your ice cream, the Ninja Creami 5‑in‑1 Ice Cream Maker makes it easy. The ice cream maker lets you whip up dessert exactly as you want it from the comfort of your h…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-13-ninja-s-star-creami-ice-cream-maker-is"
         },
         {
           "title": "Bytedance ha encontrado un bug para conseguir chips de NVIDIA y evitar las restricciones: usarlos en un lugar donde estén permitidos",
@@ -251,58 +285,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-13-si-la-pregunta-es-quien-va-ganando-en"
-        },
-        {
-          "title": "Si Ucrania impulsó el uso de drones, Irán ha disparado el algoritmo Terminator. Y eso ya era un problema en la ciencia ficción",
-          "url": "https://www.xataka.com/magnet/ucrania-impulso-uso-drones-iran-ha-disparado-algoritmo-terminator-bombardear-rapido-que-pensamiento-humano",
-          "source": "Xataka",
-          "published_at": "2026-03-13T13:30:00Z",
-          "summary": "En la guerra del Golfo de 1991, la coalición internacional tardó más de un mes en lanzar unos 100.000 ataques aéreos tras semanas de planificación. Tres décadas después, la capacidad de procesar información militar ha ca…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-si-ucrania-impulso-el-uso-de-drones-iran"
-        },
-        {
-          "title": "MACROHARD es la burla de Elon Musk a Microsoft: un agente de IA que ninguna otra empresa puede conseguir. Aún",
-          "url": "https://www.xataka.com/robotica-e-ia/tesla-presenta-agente-capaz-emular-funcionamiento-empresa-se-llama-macrohard-nadie-puede-hacerlo",
-          "source": "Xataka",
-          "published_at": "2026-03-13T12:30:00Z",
-          "summary": "Elon Musk está empeñado en unificar su imperio. Después de la compra de xAI por parte de SpaceX , ahora ha anunciado un proyecto conjunto entre Tesla y su empresa de inteligencia artificial. Se trata del agente de IA MAC…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-macrohard-es-la-burla-de-elon-musk-a"
-        },
-        {
-          "title": "API de ChatGPT: qué es, para qué sirve, precios y cómo puedes obtener una para usarla en tus proyectos",
-          "url": "https://www.xataka.com/basics/api-chatgpt-que-sirve-precios-como-puedes-obtener-para-usarla-tus-proyectos",
-          "source": "Xataka",
-          "published_at": "2026-03-13T12:06:58Z",
-          "summary": "Vamos a explicarte&nbsp; qué es y cómo obtener una API de ChatGPT . Se trata de un código esencial para poder vincular los modelos de&nbsp; inteligencia artificial &nbsp;GPT a la hora de desarrollar una app o crear un&nb…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-api-de-chatgpt-que-es-para-que-sirve"
-        },
-        {
-          "title": "Qué es Antigravity, cómo funciona y qué puedes hacer con la IDE con inteligencia artificial de Google",
-          "url": "https://www.xataka.com/basics/que-antigravity-como-funciona-que-puedes-hacer-ide-inteligencia-artificial-google",
-          "source": "Xataka",
-          "published_at": "2026-03-13T10:52:59Z",
-          "summary": "Vamos a explicarte qué es Antigravity y qué puedes hacer con esta herramienta de desarrollo de Google. Se trata de un popular entorno para desarrolladores impulsado por inteligencia artificial , que facilita al máximo la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-que-es-antigravity-como-funciona-y-que-puedes"
         }
       ]
     }
