@@ -1,108 +1,181 @@
 {
-  "date": "2026-03-15",
-  "generated_at": "2026-03-15T06:46:11.209573Z",
+  "date": "2026-03-16",
+  "generated_at": "2026-03-16T06:56:17.106939Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
-      "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+      "title": "Aether OS is a computer in a browser built for the AT Protocol",
+      "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
       "source": "The Verge",
-      "published_at": "2026-03-14T21:57:07Z",
-      "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the ran…",
+      "published_at": "2026-03-15T19:35:57Z",
+      "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-14-trump-administration-is-allegedly-collecting-10-billion-on"
+      "id": "theverge-2026-03-15-aether-os-is-a-computer-in-a-browser"
     },
     {
-      "title": "Meta is reportedly laying off up to 20 percent of its staff",
-      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+      "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+      "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
       "source": "The Verge",
-      "published_at": "2026-03-14T18:48:56Z",
-      "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminat…",
+      "published_at": "2026-03-15T16:45:00Z",
+      "summary": "Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-14-meta-is-reportedly-laying-off-up-to-20"
+      "id": "theverge-2026-03-15-sotomayor-s-wabi-sabi-is-the-funnest-record"
     },
     {
-      "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
-      "url": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-03-14T15:46:28Z",
-      "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantag…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-14-hulu-disney-plus-and-the-pixel-watch-4"
-    },
-    {
-      "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
-      "url": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
-      "source": "The Verge",
-      "published_at": "2026-03-14T15:30:00Z",
-      "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-03-14-prediction-markets-want-the-oscars-to-be-your"
-    },
-    {
-      "title": "La carrera de la IA ya no es quién tiene el modelo más potente. Es quién lanza un OpenClaw más fácil y seguro",
-      "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro",
+      "title": "Si la polémica es que la IA roba obras en su entrenamiento, la Unión Europea tiene la solución: que las licencien",
+      "url": "https://www.xataka.com/robotica-e-ia/polemica-que-ia-roba-obras-su-entrenamiento-union-europea-tiene-solucion-que-licencien",
       "source": "Xataka",
-      "published_at": "2026-03-14T15:15:54Z",
-      "summary": "2026 empezó con un terremoto en el mundo de la IA, y no vino de parte de ninguna de las grandes tecnológicas, sino de un programador desconocido y su proyecto de código abierto OpenClaw (antes Clawdbot y Moltbot) . No ha…",
+      "published_at": "2026-03-15T15:31:53Z",
+      "summary": "Hace unas semanas el Washington Post publicó esta imagen del “Proyecto Panama” : Se trata de un almacén con cientos de miles de libros esperando su turno para ser escaneados y destrozados en el proceso. Es parte de un pr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-14-la-carrera-de-la-ia-ya-no-es"
+      "id": "xataka-2026-03-15-si-la-polemica-es-que-la-ia-roba"
+    },
+    {
+      "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+      "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+      "source": "The Verge",
+      "published_at": "2026-03-15T14:13:25Z",
+      "summary": "David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expressed concern that Ira…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-15-ai-czar-david-sacks-wants-trump-to-get"
+    },
+    {
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "source": "The Verge",
+      "published_at": "2026-03-15T14:00:00Z",
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The cat…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-15-ai-companies-want-to-harvest-improv-actors-skills"
     }
   ],
   "sections": [
     {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-          "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-          "source": "Hugging Face",
-          "published_at": "2026-03-13T20:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-13-beyond-semantic-similarity-introducing-nvidia-nemo-retriever-s"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
-          "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
-          "source": "The Verge",
-          "published_at": "2026-03-14T15:00:00Z",
-          "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame…",
+          "title": "Cómo crear una IA especializada para tu próximo viaje con NotebookLM: planifica itinerarios y responde a tus dudas",
+          "url": "https://www.xataka.com/basics/como-crear-ia-especializada-para-tu-proximo-viaje-notebooklm-planifica-itinerarios-responde-a-tus-dudas",
+          "source": "Xataka",
+          "published_at": "2026-03-15T13:01:54Z",
+          "summary": "Vamos a explicarte cómo crear una IA especializada para tu próximo viaje , capaz de ayudarte a planificar itinerarios o resolver tus dudas. Vamos a utilizar NotebookLM para crear una tu propia IA especializada con los da…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-14-macbook-air-m5-review-a-small-update-for"
+          "id": "xataka-2026-03-15-como-crear-una-ia-especializada-para-tu-proximo"
+        },
+        {
+          "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+          "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+          "source": "The Verge",
+          "published_at": "2026-03-15T13:00:00Z",
+          "summary": "Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation.…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-15-samsung-s-galaxy-buds-4-pro-are-the"
+        },
+        {
+          "title": "The fast rise and epic fall of Clubhouse",
+          "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+          "source": "The Verge",
+          "published_at": "2026-03-15T12:24:20Z",
+          "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as pop…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-15-the-fast-rise-and-epic-fall-of-clubhouse"
+        },
+        {
+          "title": "Live-service games are a mess",
+          "url": "https://www.theverge.com/column/893294/live-service-games-mess",
+          "source": "The Verge",
+          "published_at": "2026-03-15T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers'…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-15-live-service-games-are-a-mess"
+        },
+        {
+          "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+          "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+          "source": "The Verge",
+          "published_at": "2026-03-15T11:00:00Z",
+          "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-15-the-100-000-fee-for-h-1bs-is-causing"
+        },
+        {
+          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+          "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+          "source": "The Verge",
+          "published_at": "2026-03-14T21:57:07Z",
+          "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the ran…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-trump-administration-is-allegedly-collecting-10-billion-on"
+        },
+        {
+          "title": "Meta is reportedly laying off up to 20 percent of its staff",
+          "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+          "source": "The Verge",
+          "published_at": "2026-03-14T18:48:56Z",
+          "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminat…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-14-meta-is-reportedly-laying-off-up-to-20"
+        },
+        {
+          "title": "La carrera de la IA ya no es quién tiene el modelo más potente. Es quién lanza un OpenClaw más fácil y seguro",
+          "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro",
+          "source": "Xataka",
+          "published_at": "2026-03-14T15:15:54Z",
+          "summary": "2026 empezó con un terremoto en el mundo de la IA, y no vino de parte de ninguna de las grandes tecnológicas, sino de un programador desconocido y su proyecto de código abierto OpenClaw (antes Clawdbot y Moltbot) . No ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-14-la-carrera-de-la-ia-ya-no-es"
         },
         {
           "title": "Los centros de datos se han quedado sin \"enchufes\" en el centro de Europa, así que están migrando al norte y al sur",
@@ -118,32 +191,6 @@
           "id": "xataka-2026-03-14-los-centros-de-datos-se-han-quedado-sin"
         },
         {
-          "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
-          "url": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
-          "source": "The Verge",
-          "published_at": "2026-03-14T14:00:00Z",
-          "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the Fren…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-a-scavengers-reign-artist-explores-contemplative-sci-fi-in"
-        },
-        {
-          "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
-          "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
-          "source": "The Verge",
-          "published_at": "2026-03-14T13:00:00Z",
-          "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immers…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-asus-new-open-earbuds-are-a-wonderful-companion"
-        },
-        {
           "title": "Los fabricantes chinos de memorias ya no son actores secundarios: son el salvavidas del mercado de consumo",
           "url": "https://www.xataka.com/empresas-y-economia/fabricantes-chinos-memorias-no-actores-secundarios-salvavidas-mercado-consumo",
           "source": "Xataka",
@@ -157,45 +204,6 @@
           "id": "xataka-2026-03-14-los-fabricantes-chinos-de-memorias-ya-no-son"
         },
         {
-          "title": "Samsung Galaxy S26 Ultra review: show off",
-          "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
-          "source": "The Verge",
-          "published_at": "2026-03-14T12:00:00Z",
-          "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-samsung-galaxy-s26-ultra-review-show-off"
-        },
-        {
-          "title": "5 great indie games from GDC 2026",
-          "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
-          "source": "The Verge",
-          "published_at": "2026-03-14T12:00:00Z",
-          "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-5-great-indie-games-from-gdc-2026"
-        },
-        {
-          "title": "Wordle’s creator made a fun new puzzle game",
-          "url": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
-          "source": "The Verge",
-          "published_at": "2026-03-14T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer ho…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-wordle-s-creator-made-a-fun-new-puzzle"
-        },
-        {
           "title": "Cómo llevar tu contabilidad de gastos con IA: crea y actualiza un Excel con tus movimientos, totales y balances personalizados",
           "url": "https://www.xataka.com/basics/como-llevar-tu-contabilidad-gastos-ia-crea-actualiza-excel-tus-movimientos-totales-balances-personalizados",
           "source": "Xataka",
@@ -207,84 +215,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-14-como-llevar-tu-contabilidad-de-gastos-con-ia"
-        },
-        {
-          "title": "Google tiene clarísimo el futuro de Android: un sistema gobernado por agentes de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/google-tiene-clarisimo-futuro-android-sistema-gobernado-agentes-ia",
-          "source": "Xataka",
-          "published_at": "2026-03-13T20:31:53Z",
-          "summary": "La forma en la que usamos las apps en el móvil podría estar entrando en una nueva etapa. Hasta ahora, la experiencia en Android se ha basado en algo muy simple: abrir aplicaciones y realizar acciones paso a paso dentro d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-google-tiene-clarisimo-el-futuro-de-android-un"
-        },
-        {
-          "title": "Antes hacía documentos de Word. Ahora hago apps hasta para lo más tonto",
-          "url": "https://www.xataka.com/aplicaciones/antes-documentos-word-ahora-hago-apps-para-tonto",
-          "source": "Xataka",
-          "published_at": "2026-03-13T17:30:00Z",
-          "summary": "En Xataka, los compañeros estábamos organizando algunas gestiones. Unas que, hasta ahora, estábamos haciendo de la forma más cutre posible: mediante bullets en Slack. Hasta que mi compañero, Javier Pastor, decidió crear …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-antes-hacia-documentos-de-word-ahora-hago-apps"
-        },
-        {
-          "title": "Una mujer pasó seis meses en prisión porque una IA se equivocó de cara. Lo terrible es que nadie lo comprobó",
-          "url": "https://www.xataka.com/robotica-e-ia/mujer-paso-seis-meses-prision-porque-ia-se-equivoco-cara-terrible-que-nadie-comprobo",
-          "source": "Xataka",
-          "published_at": "2026-03-13T17:15:54Z",
-          "summary": "Angela Lipps es una residente de Tennessee (EEUU) que nunca se ha subido a un avión ni ha salido de viaje a otros estados del país. Aun así terminó en una celda de seguridad a 2.000 km de su hogar por una razón terrorífi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-una-mujer-paso-seis-meses-en-prision-porque"
-        },
-        {
-          "title": "Bytedance ha encontrado un bug para conseguir chips de NVIDIA y evitar las restricciones: usarlos en un lugar donde estén permitidos",
-          "url": "https://www.xataka.com/empresas-y-economia/bytedance-ha-encontrado-bug-para-conseguir-chips-nvidia-evitar-restricciones-usarlos-lugar-donde-esten-permitidos",
-          "source": "Xataka",
-          "published_at": "2026-03-13T16:15:54Z",
-          "summary": "Como las aguas están muy revueltas en materia de chips para IA , la matriz de TikTok se ha sacado de la manga una estrategia para sortear las restricciones de exportación EEUU para los chips de NVIDIA: en lugar de import…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-bytedance-ha-encontrado-un-bug-para-conseguir-chips"
-        },
-        {
-          "title": "Meta se gastó un dineral en talento y centros de datos para la IA. Nueve meses después el resultado es: cero modelos",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-se-gasto-dineral-talento-centros-datos-para-ia-nueve-meses-despues-resultado-cero-modelos",
-          "source": "Xataka",
-          "published_at": "2026-03-13T14:31:54Z",
-          "summary": "Mark Zuckerberg quiso ser el Florentino Pérez de la IA. El pasado verano comenzó a fichar galácticos en este segmento y consiguiendo talento a base de soltar pilas de millones de dólares . El más sonado , por supuesto, f…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-meta-se-gasto-un-dineral-en-talento-y"
-        },
-        {
-          "title": "Si la pregunta es quién va ganando en la batalla medioambiente vs IA, Elon Musk tiene la respuesta: 41 turbinas de gas metano",
-          "url": "https://www.xataka.com/energia/pregunta-quien-va-ganando-batalla-medioambiente-vs-ia-elon-musk-tiene-respuesta-41-turbinas-gas-metano",
-          "source": "Xataka",
-          "published_at": "2026-03-13T14:01:54Z",
-          "summary": "Hace poco contábamos que xAI tenía el centro de datos más grande y con mayor capacidad de cómputo del mundo . Ocupa como 13 campos de fútbol y ya ha alcanzado el gigavatio de potencia, el primero del mundo en lograr esa …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-13-si-la-pregunta-es-quien-va-ganando-en"
         }
       ]
     }
