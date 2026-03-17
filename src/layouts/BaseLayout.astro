@@ -197,6 +197,14 @@ const { title } = Astro.props;
         font-weight: 600;
       }
 
+      .h2.principal {
+        font-size: clamp(2.21rem, 4.25vw, 2.89rem);
+        margin: 12px 0 16px;
+        letter-spacing: -0.02em;
+        font-weight: 500;
+        color: var(--muted);
+      }
+
       .meta {
         display: flex;
         gap: 10px;
@@ -325,6 +333,10 @@ const { title } = Astro.props;
       @media (max-width: 720px) {
         .h1 {
           font-size: 2.3rem;
+        }
+
+        .h2.principal {
+          font-size: 1.95rem;
         }
 
         .meta-spread {
