@@ -1,220 +1,347 @@
 {
-  "date": "2026-03-16",
-  "generated_at": "2026-03-16T06:56:17.106939Z",
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17T06:47:26.684106Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Aether OS is a computer in a browser built for the AT Protocol",
-      "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+      "title": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
+      "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
       "source": "The Verge",
-      "published_at": "2026-03-15T19:35:57Z",
-      "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, …",
+      "published_at": "2026-03-17T00:08:31Z",
+      "summary": "After a chaotic week following the Justice Department's mid-trial settlement with Live Nation-Ticketmaster, the antitrust trial picked back up surprisingly smoothly on Monday - this time, with dozens of states leading th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-15-aether-os-is-a-computer-in-a-browser"
+      "id": "theverge-2026-03-17-the-live-nation-trial-restarts-with-a-8216"
     },
     {
-      "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
-      "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
-      "source": "The Verge",
-      "published_at": "2026-03-15T16:45:00Z",
-      "summary": "Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed…",
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "source": "Hugging Face",
+      "published_at": "2026-03-16T21:58:40Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-03-15-sotomayor-s-wabi-sabi-is-the-funnest-record"
+      "category": "herramientas",
+      "id": "huggingface-2026-03-16-the-first-healthcare-robotics-dataset-and-foundational-physical"
     },
     {
-      "title": "Si la polémica es que la IA roba obras en su entrenamiento, la Unión Europea tiene la solución: que las licencien",
-      "url": "https://www.xataka.com/robotica-e-ia/polemica-que-ia-roba-obras-su-entrenamiento-union-europea-tiene-solucion-que-licencien",
-      "source": "Xataka",
-      "published_at": "2026-03-15T15:31:53Z",
-      "summary": "Hace unas semanas el Washington Post publicó esta imagen del “Proyecto Panama” : Se trata de un almacén con cientos de miles de libros esperando su turno para ser escaneados y destrozados en el proceso. Es parte de un pr…",
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "source": "The Verge",
+      "published_at": "2026-03-16T21:56:05Z",
+      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Je…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-03-15-si-la-polemica-es-que-la-ia-roba"
+      "id": "theverge-2026-03-16-dlss-5-looks-like-a-real-time-generative-ai"
     },
     {
-      "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
-      "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
       "source": "The Verge",
-      "published_at": "2026-03-15T14:13:25Z",
-      "summary": "David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expressed concern that Ira…",
+      "published_at": "2026-03-16T21:44:11Z",
+      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed clas…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-15-ai-czar-david-sacks-wants-trump-to-get"
+      "id": "theverge-2026-03-16-teens-sue-elon-musk-s-xai-over-grok"
     },
     {
-      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
+      "url": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
       "source": "The Verge",
-      "published_at": "2026-03-15T14:00:00Z",
-      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The cat…",
+      "published_at": "2026-03-16T21:21:31Z",
+      "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Sprin…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-15-ai-companies-want-to-harvest-improv-actors-skills"
+      "id": "theverge-2026-03-16-ecovacs-deebot-x8-and-x9-pro-omni-robovacs"
     }
   ],
   "sections": [
     {
+      "name": "Lanzamientos",
+      "items": [
+        {
+          "title": "Why Codex Security Doesn’t Include a SAST Report",
+          "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+          "source": "OpenAI",
+          "published_at": "2026-03-16T00:00:00Z",
+          "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-16-why-codex-security-doesn-t-include-a-sast"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "With Nvidia Groq 3, the Era of AI Inference Is (Probably) Here",
+          "url": "https://spectrum.ieee.org/nvidia-groq-3",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-16T21:04:33Z",
+          "summary": "This week, over 30,000 people are descending upon San Jose, Calif., to attend Nvidia GTC , the so-called Superbowl of AI—a nickname that may or may not have been coined by Nvidia. At the main event Jensen Huang, Nvidia C…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-16-with-nvidia-groq-3-the-era-of-ai"
+        },
+        {
+          "title": "Laser Chip Brings Multiplexing to AI Data Centers",
+          "url": "https://spectrum.ieee.org/ai-data-centers-dwdm-optics",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-16T14:18:58Z",
+          "summary": "As the bandwidth and power demands of AI data centers necessitate a transition from electrical to optical scaleup networking , one component has been conspicuously absent from the co-packaged optics arsenal: the laser it…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-16-laser-chip-brings-multiplexing-to-ai-data-centers"
+        },
+        {
+          "title": "Exploring Light and Life: Nanophotonics and AI for Molecular Sequencing and Single-Cell Phenotyping",
+          "url": "https://events.bizzabo.com/823847",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-16T10:00:04Z",
+          "summary": "The biosphere transmits data 9 orders of magnitude faster than the technosphere. A new class of nanophotonic tools is beginning to close that gap. In this webinar, Prof. Dionne will present VINPix: Si-photonic resonators…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-16-exploring-light-and-life-nanophotonics-and-ai-for"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Cómo crear una IA especializada para tu próximo viaje con NotebookLM: planifica itinerarios y responde a tus dudas",
-          "url": "https://www.xataka.com/basics/como-crear-ia-especializada-para-tu-proximo-viaje-notebooklm-planifica-itinerarios-responde-a-tus-dudas",
+          "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+          "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
+          "source": "The Verge",
+          "published_at": "2026-03-16T20:41:55Z",
+          "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-16-benjamin-netanyahu-is-struggling-to-prove-he-8217"
+        },
+        {
+          "title": "Nvidia says China’s BYD and Geely will use its robotaxi platform",
+          "url": "https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos",
+          "source": "The Verge",
+          "published_at": "2026-03-16T20:30:00Z",
+          "summary": "Nvidia added two leading Chinese automakers, BYD and Geely, to its robotaxi program, as the chipmaker seeks to put its stamp on the growing autonomous vehicle market worldwide. At its GTC conference today, Nvidia announc…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-16-nvidia-says-china-s-byd-and-geely-will"
+        },
+        {
+          "title": "I met Olaf — the Frozen robot who might be the future of Disney Parks",
+          "url": "https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close",
+          "source": "The Verge",
+          "published_at": "2026-03-16T20:30:00Z",
+          "summary": "You know Olaf. Before KPop Demon Hunters, before the Wicked movies, it was Disney's Frozen that blasted show tunes like \"Let It Go\" and \"Into the Unknown\" into our lives. My little girls loved belting those tunes. So whe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-16-i-met-olaf----the-frozen-robot-who"
+        },
+        {
+          "title": "Creíamos que la IA estaba matando el trabajo en la industria  tech. En realidad está cambiando las reglas de juego: Crossover 1x41",
+          "url": "https://www.xataka.com/crossover/creiamos-que-ia-estaba-matando-trabajo-industria-tech-realidad-esta-cambiando-reglas-juego-crossover-1x41",
           "source": "Xataka",
-          "published_at": "2026-03-15T13:01:54Z",
-          "summary": "Vamos a explicarte cómo crear una IA especializada para tu próximo viaje , capaz de ayudarte a planificar itinerarios o resolver tus dudas. Vamos a utilizar NotebookLM para crear una tu propia IA especializada con los da…",
+          "published_at": "2026-03-16T20:01:54Z",
+          "summary": "Es posible que en el futuro la IA nos quite el trabajo a todos, pero por el momento se lo está quitando a muy poquitos . Así lo afirmaba un reciente estudio de Anthropic sobre el impacto de la IA en el mercado laboral, y…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-15-como-crear-una-ia-especializada-para-tu-proximo"
+          "id": "xataka-2026-03-16-creiamos-que-la-ia-estaba-matando-el-trabajo"
         },
         {
-          "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
-          "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
-          "source": "The Verge",
-          "published_at": "2026-03-15T13:00:00Z",
-          "summary": "Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-15-samsung-s-galaxy-buds-4-pro-are-the"
-        },
-        {
-          "title": "The fast rise and epic fall of Clubhouse",
-          "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
-          "source": "The Verge",
-          "published_at": "2026-03-15T12:24:20Z",
-          "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as pop…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-15-the-fast-rise-and-epic-fall-of-clubhouse"
-        },
-        {
-          "title": "Live-service games are a mess",
-          "url": "https://www.theverge.com/column/893294/live-service-games-mess",
-          "source": "The Verge",
-          "published_at": "2026-03-15T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers'…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-15-live-service-games-are-a-mess"
-        },
-        {
-          "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
-          "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
-          "source": "The Verge",
-          "published_at": "2026-03-15T11:00:00Z",
-          "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-15-the-100-000-fee-for-h-1bs-is-causing"
-        },
-        {
-          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
-          "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
-          "source": "The Verge",
-          "published_at": "2026-03-14T21:57:07Z",
-          "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the ran…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-trump-administration-is-allegedly-collecting-10-billion-on"
-        },
-        {
-          "title": "Meta is reportedly laying off up to 20 percent of its staff",
-          "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
-          "source": "The Verge",
-          "published_at": "2026-03-14T18:48:56Z",
-          "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminat…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-14-meta-is-reportedly-laying-off-up-to-20"
-        },
-        {
-          "title": "La carrera de la IA ya no es quién tiene el modelo más potente. Es quién lanza un OpenClaw más fácil y seguro",
-          "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro",
+          "title": "NVIDIA acaba de abrir la puerta a un nuevo salto gráfico en videojuegos: así es DLSS 5 y su apuesta por el renderizado neuronal",
+          "url": "https://www.xataka.com/videojuegos/nvidia-acaba-abrir-puerta-a-nuevo-salto-grafico-videojuegos-asi-dlss-5-su-apuesta-renderizado-neuronal",
           "source": "Xataka",
-          "published_at": "2026-03-14T15:15:54Z",
-          "summary": "2026 empezó con un terremoto en el mundo de la IA, y no vino de parte de ninguna de las grandes tecnológicas, sino de un programador desconocido y su proyecto de código abierto OpenClaw (antes Clawdbot y Moltbot) . No ha…",
+          "published_at": "2026-03-16T19:45:00Z",
+          "summary": "Si juegas en PC es muy probable que ya te hayas cruzado con tres letras que se repiten cada vez más en los ajustes gráficos de los juegos: DLSS. Durante los últimos años esta tecnología de NVIDIA se ha convertido en una …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-14-la-carrera-de-la-ia-ya-no-es"
+          "id": "xataka-2026-03-16-nvidia-acaba-de-abrir-la-puerta-a-un"
         },
         {
-          "title": "Los centros de datos se han quedado sin \"enchufes\" en el centro de Europa, así que están migrando al norte y al sur",
-          "url": "https://www.xataka.com/energia/europa-se-ha-quedado-enchufes-para-inteligencia-artificial-como-megacentros-datos-huyen-al-norte-al-sur",
+          "title": "La Comunidad Valenciana tiene un plan \"anti IA\" para que nadie copie en los exámenes de las oposiciones",
+          "url": "https://www.xataka.com/robotica-e-ia/comunidad-valenciana-tiene-plan-anti-ia-nadie-copie-examenes-oposiciones",
           "source": "Xataka",
-          "published_at": "2026-03-14T14:01:54Z",
-          "summary": "El apetito insaciable de la Inteligencia Artificial (IA) está redibujando el mapa de Europa. Históricamente, el mercado europeo de centros de datos ha estado dominado por un puñado de áreas metropolitanas conocidas en el…",
+          "published_at": "2026-03-16T19:01:54Z",
+          "summary": "Gran parte del éxito de las gafas IA , como las Ray-Ban Meta , es precisamente que no parecen un dispositivo tecnológico. Parecen unas gafas normales que se integran perfectamente en nuestro look. Y ese es justamente el …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-14-los-centros-de-datos-se-han-quedado-sin"
+          "id": "xataka-2026-03-16-la-comunidad-valenciana-tiene-un-plan-anti-ia"
         },
         {
-          "title": "Los fabricantes chinos de memorias ya no son actores secundarios: son el salvavidas del mercado de consumo",
-          "url": "https://www.xataka.com/empresas-y-economia/fabricantes-chinos-memorias-no-actores-secundarios-salvavidas-mercado-consumo",
-          "source": "Xataka",
-          "published_at": "2026-03-14T12:15:53Z",
-          "summary": "La industria de la memoria DRAM se enfrenta a una profunda transformación estructural. Los tres mayores fabricantes de chips de memoria del planeta, las compañías surcoreanas SK Hynix y Samsung Electronics, y la estadoun…",
+          "title": "Sony&#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight",
+          "url": "https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill",
+          "source": "The Verge",
+          "published_at": "2026-03-16T18:07:30Z",
+          "summary": "Sony's upgraded PlayStation Spectral Super Resolution (PSSR) technology is rolling out to several titles on the PS5 Pro, including Cyberpunk 2077, Final Fantasy VII Rebirth, Silent Hill 2, and more. Digital Foundry got a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-14-los-fabricantes-chinos-de-memorias-ya-no-son"
+          "id": "theverge-2026-03-16-sony-8217-s-ai-graphics-upscaling-for-ps5"
         },
         {
-          "title": "Cómo llevar tu contabilidad de gastos con IA: crea y actualiza un Excel con tus movimientos, totales y balances personalizados",
-          "url": "https://www.xataka.com/basics/como-llevar-tu-contabilidad-gastos-ia-crea-actualiza-excel-tus-movimientos-totales-balances-personalizados",
+          "title": "EEUU bloqueó sus chips más avanzados a China para frenar su IA. El resultado: China fabrica tokens más baratos que nadie",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-bloqueo-sus-chips-avanzados-a-china-para-frenar-su-ia-resultado-china-fabrica-tokens-baratos-que-nadie",
           "source": "Xataka",
-          "published_at": "2026-03-14T11:01:54Z",
-          "summary": "Vamos a explicarte cómo crear un Excel con tus movimientos mensuales usando inteligencia artificial , y a partir de tus extractos bancarios. Iremos mucho más allá de las hojas de cálculo que pueda generar tu banco con tu…",
+          "published_at": "2026-03-16T17:31:54Z",
+          "summary": "El mes pasado los modelos de IA chinos superaron a los americanos en uso en OpenRouter, una plataforma de IA que permite detectar tendencias interesantes. Y esta de hecho acaba de confirmarse este mes y se ha acelerado, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-14-como-llevar-tu-contabilidad-de-gastos-con-ia"
+          "id": "xataka-2026-03-16-eeuu-bloqueo-sus-chips-mas-avanzados-a-china"
+        },
+        {
+          "title": "Qué es Google AI Studio y qué puedes hacer con esta herramienta de creación con inteligencia artificial",
+          "url": "https://www.xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial",
+          "source": "Xataka",
+          "published_at": "2026-03-16T17:20:23Z",
+          "summary": "Vamos a explicarte qué es y qué puedes hacer con Google AI Studio , la suite de creación con inteligencia artificial de Google. Es una página web dirigida a todo tipos de usuarios, desde expertos de inteligencia artifici…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-16-que-es-google-ai-studio-y-que-puedes"
+        },
+        {
+          "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+          "source": "The Verge",
+          "published_at": "2026-03-16T17:04:06Z",
+          "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantiall…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-16-encyclopedia-britannica-is-suing-openai-for-allegedly-memorizing"
+        },
+        {
+          "title": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off",
+          "url": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-03-16T17:00:00Z",
+          "summary": "Since Amazon rolled out its redesigned Fire TV OS, Amazon’s latest streaming sticks are even better than ever. And right now, both the Fire TV Stick 4K Max and Fire TV Stick 4K Plus are back at their best prices yet duri…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-16-amazon-s-fire-tv-stick-4k-max-and"
+        },
+        {
+          "title": "Pokémon Go sacó a millones de jugadores a la calle. Millones de jugadores que en realidad estaban entrenando a una IA",
+          "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-capturabamos-pokemon-movil-que-no-sabiamos-que-realidad-estabamos-preparando-mundo-para-maquinas",
+          "source": "Xataka",
+          "published_at": "2026-03-16T16:01:54Z",
+          "summary": "En 2016 salió al mercado de móviles Pokémon Go , un spinoff de la popular franquicia de entretenimiento con una premisa muy interesante: capturar pokémon en tu ciudad utilizando el GPS de tu móvil. El juego lo petó muy r…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-16-pokemon-go-saco-a-millones-de-jugadores-a"
+        },
+        {
+          "title": "ChatGPT tiene un modo \"adulto\" para mantener conversaciones eróticas. Los asesores de OpenAI creen que es una mala idea",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-penso-que-poner-modo-erotico-a-chatgpt-era-buena-idea-sus-asesores-bienestar-llaman-coach-suicidio-sexy",
+          "source": "Xataka",
+          "published_at": "2026-03-16T15:00:00Z",
+          "summary": "Tratar a los adultos como adultos. Así es como Sam Altman anunciaba la decisión de OpenAI de permitir un \"modo adulto\" en ChatGPT para tener conversaciones eróticas. Tiene sentido desde el punto de vista económico ya que…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-16-chatgpt-tiene-un-modo-adulto-para-mantener-conversaciones"
+        },
+        {
+          "title": "La IA y la automatización prometían más prosperidad. Los salarios en España no están contando la misma historia",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos",
+          "source": "Xataka",
+          "published_at": "2026-03-16T14:00:00Z",
+          "summary": "Cada vez que aparece una nueva tecnología que promete transformarlo todo , hay un grupo que acaba pagando un alto precio por ello. Con la llegada de la IA, por ejemplo, los jóvenes y los empleos administrativos son los m…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-16-la-ia-y-la-automatizacion-prometian-mas-prosperidad"
+        },
+        {
+          "title": "La industria tecnológica solo ha conseguido domiciliarnos la fibra óptica en todos estos años. Sam Altman tiene un plan",
+          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ha-tenido-otra-idea-estupenda-para-al-fin-cobrarle-al-usuario-todo-dinero-que-necesita-recibo-a-fin-mes",
+          "source": "Xataka",
+          "published_at": "2026-03-16T11:00:00Z",
+          "summary": "Estamos acostumbrados a pagar la factura de la luz o del agua porque se han convertido en bienes básicos y totalmente universales. Pues bien, Sam Altman, CEO de OpenAI, tiene claro que la inteligencia artificial será exa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-16-la-industria-tecnologica-solo-ha-conseguido-domiciliarnos-la"
+        },
+        {
+          "title": "La IA se ha construido saqueando contenido de Internet. La Unión Europea quiere que sus creadores reciban dinero a cambio",
+          "url": "https://www.xataka.com/robotica-e-ia/polemica-que-ia-roba-obras-su-entrenamiento-union-europea-tiene-solucion-que-licencien",
+          "source": "Xataka",
+          "published_at": "2026-03-15T15:30:00Z",
+          "summary": "Hace unas semanas el Washington Post publicó esta imagen del “Proyecto Panama” : Se trata de un almacén con cientos de miles de libros esperando su turno para ser escaneados y destrozados en el proceso. Es parte de un pr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-15-la-ia-se-ha-construido-saqueando-contenido-de"
         }
       ]
     }
