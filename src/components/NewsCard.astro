@@ -28,8 +28,8 @@ function formatDate(iso) {
   {showWhy && item.why_it_matters && <p style="opacity:.9">{item.why_it_matters}</p>}
 
   {item.tags?.length ? (
-    <div class="meta" style="margin-top: 10px;">
-      {item.tags.map((t) => <span class="pill">{t}</span>)}
+    <div class="tag-row">
+      {item.tags.map((t) => <span class="tag-label"><strong>Tag:</strong>&nbsp;{t}</span>)}
     </div>
   ) : null}
 </article>

@@ -1,0 +1,60 @@
+---
+const {
+  metaLeft = "",
+  metaRightLabel = "",
+  metaRightHref = "/",
+  heroTitle = "Fresh Ai News",
+  heroSubtitle = "",
+  officialSources = [],
+  fallbackTopics = [],
+  tickerLabel = "Fuentes oficiales",
+} = Astro.props;
+
+const hasNav = Array.isArray(officialSources) && officialSources.length > 0;
+const hasFallback = !hasNav && Array.isArray(fallbackTopics) && fallbackTopics.length > 0;
+const primaryRoutes = new Set(["/", "/hoy"]);
+const currentPath = Astro.url?.pathname ?? "/";
+const showBreadcrumb = !primaryRoutes.has(currentPath) && Boolean(metaRightLabel && metaRightHref);
+const breadcrumbCurrent = showBreadcrumb ? heroSubtitle : "";
+---
+
+<header class="masthead">
+  {metaLeft && (
+    <div class="meta meta-spread meta-eyebrow masthead__meta">
+      <span>{metaLeft}</span>
+    </div>
+  )}
+
+  <div class="masthead__titles">
+    <h1 class="h1">{heroTitle}</h1>
+    {heroSubtitle && <h2 class="h2 principal">{heroSubtitle}</h2>}
+  </div>
+
+  {hasNav ? (
+    <nav class="masthead__ticker" aria-label={tickerLabel}>
+      {officialSources.map((source) => (
+        <a href={`/oficiales/${source.id}`}>
+          {source.name}
+        </a>
+      ))}
+    </nav>
+  ) : hasFallback ? (
+    <div class="masthead__ticker">
+      {fallbackTopics.map((topic) => (
+        <span>{topic}</span>
+      ))}
+    </div>
+  ) : null}
+
+  {showBreadcrumb ? (
+    <nav class="masthead__breadcrumb" aria-label="Breadcrumb">
+      <a href={metaRightHref}>{metaRightLabel}</a>
+      {breadcrumbCurrent && (
+        <>
+          <span aria-hidden="true">/</span>
+          <span class="masthead__breadcrumbCurrent">{breadcrumbCurrent}</span>
+        </>
+      )}
+    </nav>
+  ) : null}
+</header>

@@ -1,0 +1,70 @@
+---
+import daily from "../../../data/daily.json";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import SiteFooter from "../../components/SiteFooter.astro";
+
+export function getStaticPaths() {
+  const officialSources = Array.isArray(daily.official_sources) ? daily.official_sources : [];
+  return officialSources.map((source) => ({
+    params: { source: source.id },
+  }));
+}
+
+const { source } = Astro.params;
+const officialPages = Array.isArray(daily.official_pages) ? daily.official_pages : [];
+const officialSources = Array.isArray(daily.official_sources) ? daily.official_sources : [];
+const current = officialPages.find((entry) => entry.id === source);
+const sourceMeta = officialSources.find((entry) => entry.id === source);
+
+if (!sourceMeta) {
+  Astro.response.status = 404;
+}
+
+const pageTitle = sourceMeta ? `${sourceMeta.name} — ${daily.title}` : `Fuente no encontrada — ${daily.title}`;
+---
+
+<BaseLayout title={pageTitle}>
+  <SiteHeader
+    metaRightLabel="Inicio"
+    metaRightHref="/"
+    heroTitle="Fresh Ai News"
+    heroSubtitle={sourceMeta ? sourceMeta.name : "Fuente no encontrada"}
+    officialSources={officialSources}
+  />
+
+  {sourceMeta ? (
+    <>
+      <p>Colección de artículos más recientes provenientes directamente de {sourceMeta.name}.</p>
+
+      {current?.items?.length ? (
+        <section class="stack">
+          {current.items.map((item) => (
+            <NewsCard item={item} />
+          ))}
+        </section>
+      ) : (
+        <section class="card">
+          <p>No hay artículos disponibles para esta fuente todavía.</p>
+        </section>
+      )}
+    </>
+  ) : (
+    <section class="card">
+      <h2 class="sectionTitle">Fuente no encontrada</h2>
+      <p>
+        La fuente solicitada no se encuentra en la última salida del pipeline. Vuelve al <a href="/oficiales">listado
+        de fuentes</a> o regresa al <a href="/">inicio</a>.
+      </p>
+    </section>
+  )}
+
+  <SiteFooter
+    metaRightLabel="Ir al top"
+    metaRightHref="#top"
+    heroTitle="Fresh Ai News"
+    heroSubtitle={sourceMeta ? sourceMeta.name : "Fuente no encontrada"}
+    officialSources={officialSources}
+  />
+</BaseLayout>

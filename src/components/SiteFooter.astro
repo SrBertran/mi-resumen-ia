@@ -1,0 +1,55 @@
+---
+const {
+  metaLeft = "",
+  metaRightLabel = "",
+  metaRightHref = "/",
+  heroTitle = "Fresh Ai News",
+  heroSubtitle = "",
+  officialSources = [],
+  fallbackTopics = [],
+  tickerLabel = "Fuentes oficiales",
+} = Astro.props;
+
+const hasNav = Array.isArray(officialSources) && officialSources.length > 0;
+const hasFallback = !hasNav && Array.isArray(fallbackTopics) && fallbackTopics.length > 0;
+---
+
+<footer class="site-footer">
+  <div class="site-footer__line" role="contentinfo">
+    {metaLeft && <span class="site-footer__chunk">{metaLeft}</span>}
+
+    <span class="site-footer__chunk site-footer__brand">
+      <span>{heroTitle}</span>
+      {heroSubtitle && <span aria-hidden="true"> · </span>}
+      {heroSubtitle && <span>{heroSubtitle}</span>}
+    </span>
+
+    {hasNav ? (
+      <span class="site-footer__chunk site-footer__nav" aria-label={tickerLabel}>
+        {officialSources.map((source, index) => (
+          <span class="site-footer__navItem">
+            <a href={`/oficiales/${source.id}`}>
+              {source.name}
+            </a>
+            {index < officialSources.length - 1 && <span aria-hidden="true"> · </span>}
+          </span>
+        ))}
+      </span>
+    ) : hasFallback ? (
+      <span class="site-footer__chunk site-footer__nav">
+        {fallbackTopics.map((topic, index) => (
+          <span class="site-footer__navItem">
+            <span>{topic}</span>
+            {index < fallbackTopics.length - 1 && <span aria-hidden="true"> · </span>}
+          </span>
+        ))}
+      </span>
+    ) : null}
+
+    {metaRightLabel ? (
+      <span class="site-footer__chunk site-footer__chunk--right">
+        {metaRightHref ? <a href={metaRightHref}>{metaRightLabel}</a> : metaRightLabel}
+      </span>
+    ) : null}
+  </div>
+</footer>

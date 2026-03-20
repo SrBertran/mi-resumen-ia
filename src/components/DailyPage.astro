@@ -1,5 +1,7 @@
 ---
 import NewsCard from "./NewsCard.astro";
+import SiteHeader from "./SiteHeader.astro";
+import SiteFooter from "./SiteFooter.astro";
 
 const { daily } = Astro.props;
 
@@ -8,23 +10,83 @@ function formatDate(iso) {
   if (Number.isNaN(d.getTime())) return iso;
   return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(d);
 }
+
+const topStories = daily.top ?? [];
+const [primaryTop, ...otherTop] = topStories;
+const officialSources = Array.isArray(daily.official_sources) ? daily.official_sources : [];
+const fallbackTopics = !officialSources.length
+  ? (daily.sections ?? []).slice(0, 4).map((s) => s.name)
+  : [];
 ---
 
-<div class="meta meta-spread meta-eyebrow">
-  <span>Actualizado {formatDate(daily.generated_at ?? daily.date)}</span>
-  <a href="/">Inicio</a>
-</div>
+<SiteHeader
+  metaRightLabel="Inicio"
+  metaRightHref="/"
+  heroTitle="Fresh Ai News"
+  heroSubtitle={daily.title}
+  officialSources={officialSources}
+  fallbackTopics={fallbackTopics}
+  tickerLabel="Fuentes oficiales"
+/>
 
-<h1 class="h1">Fresh Ai News</h1>
-<h2 class="h2 principal">{daily.title}</h2>
+{primaryTop && (
+  <section class="lede-grid">
+    <article class="lede-primary">
+      <div class="lede-primary__eyebrow">Top del día</div>
+      <a class="lede-primary__title" href={primaryTop.url} target="_blank" rel="noreferrer">
+        {primaryTop.title}
+      </a>
+      {primaryTop.summary && <p>{primaryTop.summary}</p>}
+      <div class="meta">
+        <span>{primaryTop.source}</span>
+        <span>·</span>
+        <time datetime={primaryTop.published_at}>{formatDate(primaryTop.published_at)}</time>
+      </div>
+    </article>
+    <div class="lede-secondary">
+      <div class="sectionTitle">Titulares rápidos</div>
+      {otherTop.length ? (
+        <ul class="lede-secondary__list">
+          {otherTop.slice(0, 3).map((story) => (
+            <li class="lede-secondary__item">
+              <a class="lede-secondary__link" href={story.url} target="_blank" rel="noreferrer">
+                {story.title}
+              </a>
+              <div class="meta">
+                <span>{story.source}</span>
+                <span>·</span>
+                <time datetime={story.published_at}>{formatDate(story.published_at)}</time>
+              </div>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="lede-secondary__empty">Sin más titulares hoy</p>
+      )}
+    </div>
+  </section>
+)}
 
-<section class="card featured-card">
-  <div class="section-label">Top del día</div>
-  <h2 class="sectionHeading">Selecciones esenciales</h2>
-  <div class="stack">
-    {daily.top?.map((n) => <NewsCard item={n} />)}
-  </div>
-</section>
+{otherTop.length > 3 && (
+  <section>
+    <div class="sectionTitle">Más del top</div>
+    <div class="digest-grid">
+      {otherTop.slice(3).map((story) => (
+        <article class="digest-card">
+          <a class="digest-card__title" href={story.url} target="_blank" rel="noreferrer">
+            {story.title}
+          </a>
+          <div class="meta meta--compact">
+            <span>{story.source}</span>
+            <span>·</span>
+            <time datetime={story.published_at}>{formatDate(story.published_at)}</time>
+          </div>
+          {story.summary && <p>{story.summary}</p>}
+        </article>
+      ))}
+    </div>
+  </section>
+)}
 
 {daily.sections?.map((s) => (
   <section>
@@ -34,3 +96,13 @@ function formatDate(iso) {
     </div>
   </section>
 ))}
+
+<SiteFooter
+  metaRightLabel="Ir al top"
+  metaRightHref="#top"
+  heroTitle="Fresh Ai News"
+  heroSubtitle={daily.title}
+  officialSources={officialSources}
+  fallbackTopics={fallbackTopics}
+  tickerLabel="Fuentes oficiales"
+/>

@@ -1,0 +1,56 @@
+---
+import daily from "../../../data/daily.json";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import SiteFooter from "../../components/SiteFooter.astro";
+
+const officialSources = Array.isArray(daily.official_sources) ? daily.official_sources : [];
+const officialPages = Array.isArray(daily.official_pages) ? daily.official_pages : [];
+
+const getCount = (id) => officialPages.find((entry) => entry.id === id)?.items?.length ?? 0;
+---
+
+<BaseLayout title={`Fuentes oficiales — ${daily.title}`}>
+  <SiteHeader
+    metaRightLabel="Inicio"
+    metaRightHref="/"
+    heroTitle="Fresh Ai News"
+    heroSubtitle="Fuentes oficiales"
+    officialSources={officialSources}
+  />
+
+  <p>
+    Explora los anuncios, publicaciones y notas técnicas directamente desde los equipos de investigación y producto que
+    seguimos en el pipeline.
+  </p>
+
+  <section class="stack">
+    {officialSources.map((source) => (
+      <article class="card">
+        <div class="meta meta--compact">
+          <span>Fuente verificada</span>
+        </div>
+        <h2 class="sectionHeading">{source.name}</h2>
+        <p>
+          {getCount(source.id) ? `Últimas ${getCount(source.id)} entradas disponibles.` : "Aún sin artículos recientes."}
+        </p>
+        <div class="meta">
+          <span>{source.url}</span>
+        </div>
+        <p style="margin-top: 18px;">
+          <a href={`/oficiales/${source.id}`}>Ver artículos internos</a>
+          <span style="margin: 0 8px;">·</span>
+          <a href={source.url} target="_blank" rel="noreferrer">Visitar feed original</a>
+        </p>
+      </article>
+    ))}
+  </section>
+
+  <SiteFooter
+    metaRightLabel="Ir al top"
+    metaRightHref="#top"
+    heroTitle="Fresh Ai News"
+    heroSubtitle="Fuentes oficiales"
+    officialSources={officialSources}
+  />
+</BaseLayout>

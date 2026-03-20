@@ -9,27 +9,34 @@ from unidecode import unidecode
 
 
 # --- Config ---
-FEEDS = [
-    # General tech / AI
+GENERAL_TECH_FEEDS = [
     ("TechCrunch", "https://techcrunch.com/tag/artificial-intelligence/feed/"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
     ("VentureBeat", "https://venturebeat.com/category/ai/feed/"),
     ("IEEE Spectrum", "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"),
+]
 
-    # Official sources
+OFFICIAL_SOURCES = [
     ("OpenAI", "https://openai.com/news/rss.xml"),
-    ("Anthropic", "https://www.anthropic.com/news/rss.xml"),
+    ("Anthropic", "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"),
     ("Google AI", "https://blog.google/technology/ai/rss/"),
     ("DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("Meta AI", "https://ai.meta.com/blog/rss/"),
+    ("Meta AI", "https://rsshub.app/meta/ai/blog"),
+] 
 
-    # Dev / research-ish
+OFFICIAL_FEED_URLS = {feed_url for _, feed_url in OFFICIAL_SOURCES}
+OFFICIAL_LOOKBACK_DAYS = 7
+
+DEV_RESEARCH_FEEDS = [
     ("Hugging Face", "https://huggingface.co/blog/feed.xml"),
+]
 
-    # ES
+SPANISH_FEEDS = [
     ("Xataka", "https://www.xataka.com/tag/inteligencia-artificial/rss2.xml"),
     ("Hipertextual", "https://hipertextual.com/tag/inteligencia-artificial/feed"),
 ]
+
+FEEDS = GENERAL_TECH_FEEDS + OFFICIAL_SOURCES + DEV_RESEARCH_FEEDS + SPANISH_FEEDS
 
 LOOKBACK_HOURS = 48  # últimas 48h
 MAX_ITEMS_TOTAL = 60
@@ -154,52 +161,82 @@ def extract_summary(entry) -> str:
     return (txt[:220] + "…") if len(txt) > 220 else txt
 
 
+def build_item_from_entry(source: str, entry) -> tuple[dict, datetime] | None:
+    url = normalize_url(entry.get("link") or "")
+    if not url:
+        return None
+
+    published = safe_parse_date(entry)
+    if not published:
+        return None
+
+    title = (entry.get("title") or "").strip()
+    if not title:
+        return None
+
+    item = {
+        "title": title,
+        "url": url,
+        "source": source,
+        "published_at": published.isoformat().replace("+00:00", "Z"),
+        "summary": extract_summary(entry) or "Qué pasó: (resumen pendiente)",
+        "why_it_matters": "",
+        "tags": [],
+    }
+
+    category, tags = classify(item)
+    item["category"] = category
+    item["tags"] = tags
+    item["id"] = build_id(source, published, title)
+    return item, published
+
+
 def main():
-    cutoff = now_utc() - timedelta(hours=LOOKBACK_HOURS)
+    now = now_utc()
+    cutoff = now - timedelta(hours=LOOKBACK_HOURS)
+    official_cutoff = now - timedelta(days=OFFICIAL_LOOKBACK_DAYS)
 
     items = []
     seen_urls = set()
+    official_items = {name: [] for name, _ in OFFICIAL_SOURCES}
 
     for source, feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
+        is_official = feed_url in OFFICIAL_FEED_URLS
+        latest_official_item = None
         for entry in feed.entries[:50]:
-            url = normalize_url(entry.get("link") or "")
-            if not url or url in seen_urls:
+            built = build_item_from_entry(source, entry)
+            if not built:
+                continue
+            item, published = built
+
+            if is_official and latest_official_item is None:
+                latest_official_item = item
+
+            relevant_cutoff = official_cutoff if is_official else cutoff
+            if published < relevant_cutoff:
                 continue
 
-            published = safe_parse_date(entry)
-            if not published:
+            url = item["url"]
+            if url in seen_urls:
                 continue
-            if published < cutoff:
-                continue
-
-            title = (entry.get("title") or "").strip()
-            if not title:
-                continue
-
-            item = {
-                "title": title,
-                "url": url,
-                "source": source,
-                "published_at": published.isoformat().replace("+00:00", "Z"),
-                "summary": extract_summary(entry) or "Qué pasó: (resumen pendiente)",
-                "why_it_matters": "",  # lo rellenaremos más adelante con LLM
-                "tags": [],
-            }
-            category, tags = classify(item)
-            item["category"] = category
-            item["tags"] = tags
-
-            item["id"] = build_id(source, published, title)
 
             seen_urls.add(url)
             items.append(item)
+            if is_official:
+                official_items[source].append(item)
+
+        if is_official and not official_items[source] and latest_official_item:
+            official_items[source].append(latest_official_item)
 
     # Sort newest first
     items.sort(key=lambda x: x["published_at"], reverse=True)
 
     # Limit total
     items = items[:MAX_ITEMS_TOTAL]
+
+    for entries in official_items.values():
+        entries.sort(key=lambda x: x["published_at"], reverse=True)
 
     # Top N: newest N for now (later we can score)
     top = items[:TOP_N]
@@ -225,13 +262,29 @@ def main():
         if cat in section_items and section_items[cat]:
             sections.append({"name": display, "items": section_items[cat]})
 
+    # Build collections for official sources
+    official_pages = []
+    for name, _ in OFFICIAL_SOURCES:
+        related = official_items.get(name, [])
+        if related:
+            official_pages.append({
+                "id": source_key(name),
+                "name": name,
+                "items": related,
+            })
+
     # Date for the daily file (UTC date; you can switch to Europe/Madrid later)
     out = {
-        "date": now_utc().strftime("%Y-%m-%d"),
-        "generated_at": now_utc().isoformat().replace("+00:00", "Z"),
+        "date": now.strftime("%Y-%m-%d"),
+        "generated_at": now.isoformat().replace("+00:00", "Z"),
         "title": "Resumen diario de IA",
         "top": top,
         "sections": sections,
+        "official_sources": [
+            {"id": source_key(name), "name": name, "url": feed_url}
+            for name, feed_url in OFFICIAL_SOURCES
+        ],
+        "official_pages": official_pages,
     }
 
     with open("data/daily.json", "w", encoding="utf-8") as f:

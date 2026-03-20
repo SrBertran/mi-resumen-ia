@@ -1,38 +1,9 @@
 ---
 import daily from "../../data/daily.json";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import NewsCard from "../components/NewsCard.astro";
-
-function formatDate(iso) {
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(d);
-}
+import DailyPage from "../components/DailyPage.astro";
 ---
 
 <BaseLayout title={`${daily.title} — ${daily.date}`}>
-  <div class="meta meta-spread meta-eyebrow">
-    <span>Actualizado {formatDate(daily.generated_at ?? daily.date)}</span>
-    <a href="/">Inicio</a>
-  </div>
-
-  <h1 class="h1">Fresh Ai News</h1>
-  <h2 class="h2 principal">{daily.title}</h2>
-
-  <section class="card featured-card">
-    <div class="section-label">Top del día</div>
-    <h2 class="sectionHeading">Selecciones esenciales</h2>
-    <div class="stack">
-      {daily.top?.map((n) => <NewsCard item={n} />)}
-    </div>
-  </section>
-
-  {daily.sections?.map((s) => (
-    <section>
-      <div class="sectionTitle">{s.name}</div>
-      <div class="stack">
-        {s.items?.map((n) => <NewsCard item={n} showWhy={false} />)}
-      </div>
-    </section>
-  ))}
+  <DailyPage daily={daily} />
 </BaseLayout>
