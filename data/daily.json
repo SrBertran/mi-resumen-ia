@@ -1,72 +1,72 @@
 {
-  "date": "2026-03-21",
-  "generated_at": "2026-03-21T06:44:19.457303Z",
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T06:45:08.855164Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses",
-      "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+      "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+      "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
       "source": "The Verge",
-      "published_at": "2026-03-20T23:46:30Z",
-      "summary": "A California jury determined that Elon Musk misled Twitter investors before making a $44 billion deal to buy the company in 2022, reports CNBC. The New York Times reports that Musk had testified this month that he didn't…",
+      "published_at": "2026-03-21T21:02:56Z",
+      "summary": "Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-20-jury-finds-elon-musk-8217-s-8216-stupid"
+      "id": "theverge-2026-03-21-halide-co-founder-is-suing-former-partner-for-bringing"
     },
     {
-      "title": "An automated moderation error left Tumblr users panicked",
-      "url": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
-      "source": "The Verge",
-      "published_at": "2026-03-20T22:00:34Z",
-      "summary": "Tumblr users were left scrambling on Wednesday after dozens of accounts were banned in the same afternoon by an automated system. Numerous users contacted The Verge about the incident, claiming that the wave of bans disp…",
+      "title": "Micron sabía que la crisis de la memoria RAM le iba a venir fenomenal. La realidades que  le ha ido aún mejor",
+      "url": "https://www.xataka.com/empresas-y-economia/micron-sabia-que-crisis-memoria-ram-le-iba-a-venir-fenomenal-realidad-le-ha-ido-mejor",
+      "source": "Xataka",
+      "published_at": "2026-03-21T17:31:53Z",
+      "summary": "Como no podía ser de otra manera, las empresas que más se están beneficiando de la crisis de la RAM son precisamente aquellas que tienen el producto y, por tanto, son las que ponen el precio. Micron es una de esas pocas …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-20-an-automated-moderation-error-left-tumblr-users-panicked"
+      "id": "xataka-2026-03-21-micron-sabia-que-la-crisis-de-la-memoria"
     },
     {
-      "title": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
-      "url": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery",
+      "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+      "url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
       "source": "The Verge",
-      "published_at": "2026-03-20T19:59:05Z",
-      "summary": "Nintendo plans to release a Switch 2 revision in the European Union that will let users replace their own batteries, Nikkei reports. The current version of the Switch 2 has a glued-in battery. But Nintendo apparently pla…",
+      "published_at": "2026-03-21T17:00:00Z",
+      "summary": "Less than a week ago, Apple announced the forthcoming AirPods Max 2, a pair of over-ear headphones that leverage the company’s H2 chip for AI-powered live translation, conversation awareness, and a host of newer features…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-20-a-new-nintendo-switch-2-could-be-the"
+      "id": "theverge-2026-03-21-the-airpods-pro-3-are-50-off-right"
     },
     {
-      "title": "Future Sony PlayStation games will use AI to imagine new frames",
-      "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+      "title": "Here are 20 of our favorite outdoor deals from REI’s Member Days Sale",
+      "url": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
       "source": "The Verge",
-      "published_at": "2026-03-20T19:46:23Z",
-      "summary": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new…",
+      "published_at": "2026-03-21T14:40:00Z",
+      "summary": "REI’s latest sale is in full swing. The outdoor retailer’s exclusive shopping event runs through Monday, March 23rd, bringing with it a batch of discounts on Garmin watches, tents, portable stoves, and a slew of Verge-ap…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-20-future-sony-playstation-games-will-use-ai-to"
+      "id": "theverge-2026-03-21-here-are-20-of-our-favorite-outdoor-deals"
     },
     {
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "source": "Hugging Face",
-      "published_at": "2026-03-20T19:38:16Z",
-      "summary": "Qué pasó: (resumen pendiente)",
+      "title": "The gen AI Kool-Aid tastes like eugenics",
+      "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+      "source": "The Verge",
+      "published_at": "2026-03-21T14:00:00Z",
+      "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious abou…",
       "why_it_matters": "",
       "tags": [
-        "herramientas"
+        "ia"
       ],
-      "category": "herramientas",
-      "id": "huggingface-2026-03-20-build-a-domain-specific-embedding-model-in-under-a"
+      "category": "general",
+      "id": "theverge-2026-03-21-the-gen-ai-kool-aid-tastes-like-eugenics"
     }
   ],
   "sections": [
@@ -139,19 +139,6 @@
           "id": "googleai-2026-03-17-our-latest-investment-in-open-source-security-for"
         },
         {
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
-        },
-        {
           "title": "Introducing GPT-5.4 mini and nano",
           "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "source": "OpenAI",
@@ -163,6 +150,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-17-introducing-gpt-5-4-mini-and-nano"
+        },
+        {
+          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "url": "https://openai.com/index/japan-teen-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-03-17T10:00:00Z",
+          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
         },
         {
           "title": "Equipping workers with insights about compensation",
@@ -207,38 +207,25 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-03-20-ai-aims-for-autonomous-wheelchair-navigation"
-        },
-        {
-          "title": "Startups Bring Optical Metamaterials to AI Data Centers",
-          "url": "https://spectrum.ieee.org/optical-metamaterials-ai-data-centers",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-19T19:19:43Z",
-          "summary": "Light-warping physics made “invisibility cloaks” a possibility. Now two startups hope to harness the science underlying this advance to boost the bandwidth of data centers and speed artificial intelligence. Roughly 20 ye…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-19-startups-bring-optical-metamaterials-to-ai-data-centers"
-        },
-        {
-          "title": "How Your Virtual Twin Could One Day Save Your Life",
-          "url": "https://spectrum.ieee.org/living-heart-project-virtual-twins",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-19T12:00:05Z",
-          "summary": "One morning in May 2019, a cardiac surgeon stepped into the operating room at Boston Children’s Hospital more prepared than ever before to perform a high-risk procedure to rebuild a child’s heart. The surgeon was experie…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-19-how-your-virtual-twin-could-one-day-save"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Build a Domain-Specific Embedding Model in Under a Day",
+          "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+          "source": "Hugging Face",
+          "published_at": "2026-03-20T19:38:16Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-03-20-build-a-domain-specific-embedding-model-in-under-a"
+        },
         {
           "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
           "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
@@ -257,6 +244,97 @@
     {
       "name": "General",
       "items": [
+        {
+          "title": "Oeuf is a punishing platformer in a cozy shell",
+          "url": "https://www.theverge.com/entertainment/895435/oeuf-review",
+          "source": "The Verge",
+          "published_at": "2026-03-21T13:00:00Z",
+          "summary": "The funny shape of eggs is the curious lifeblood of Oeuf, the new physics platformer by prolific developer Increpare Games. In a gaming landscape saturated with complex systems dropped into simple games, that grapples wi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-oeuf-is-a-punishing-platformer-in-a-cozy"
+        },
+        {
+          "title": "El mayor problema de los trenes en la India no es la puntualidad, sino el atropello de elefantes. Están usando IA para salvarlos",
+          "url": "https://www.xataka.com/movilidad/india-tiene-plan-trenes-dejen-atropellar-elefantes-usar-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-21T13:00:00Z",
+          "summary": "Lanzo una pregunta al aire: ¿cuál dirías que es el principal problema de los trenes en España? Habrá quien diga que la impuntualidad , otras personas que se quejen del precio y también, de esas estaciones de la España va…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-21-el-mayor-problema-de-los-trenes-en-la"
+        },
+        {
+          "title": "Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
+          "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published_at": "2026-03-21T12:30:00Z",
+          "summary": "Amazon’s Big Spring Sale doesn’t kick off until next week, but the retailer is already dropping a host of good deals, especially on robot vacuums. We recently saw Ecovacs’ Deebot X8 and X9 Pro Omni drop to $599 ($501 off…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-dreame-s-self-cleaning-l10s-pro-ultra-is-nearly"
+        },
+        {
+          "title": "The new MacBook Pro is still fast as hell",
+          "url": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
+          "source": "The Verge",
+          "published_at": "2026-03-21T12:00:00Z",
+          "summary": "Apple's flagship 16-inch MacBook Pro has reigned supreme in the world of creator-focused laptops since its M-series processor overhaul in 2021. Since then, we've mostly seen the same design with year-over-year chip bumps…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-the-new-macbook-pro-is-still-fast-as"
+        },
+        {
+          "title": "An early contender for movie of the year",
+          "url": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+          "source": "The Verge",
+          "published_at": "2026-03-21T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 120, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get ready for Pen Opinions, and also you can read all the old editions at the Installer h…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-an-early-contender-for-movie-of-the-year"
+        },
+        {
+          "title": "Gemini task automation is slow, clunky, and super impressive",
+          "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+          "source": "The Verge",
+          "published_at": "2026-03-21T11:30:00Z",
+          "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subset right now - a hand…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-gemini-task-automation-is-slow-clunky-and-super"
+        },
+        {
+          "title": "Kodiak CEO says making trucks drive themselves is only half the battle",
+          "url": "https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview",
+          "source": "The Verge",
+          "published_at": "2026-03-21T11:00:00Z",
+          "summary": "This year is shaping up to be a big one for self-driving trucks. In addition to Aurora's plan to deploy hundreds of autonomous big rigs and Waabi expanding into robotaxis, you've also got Kodiak AI aiming to launch its o…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-21-kodiak-ceo-says-making-trucks-drive-themselves-is"
+        },
         {
           "title": "OpenClaw es el agente de IA que le está volando la cabeza a la industria de la IA. Lo hemos probado: Crossover 1x42",
           "url": "https://www.xataka.com/crossover/openclaw-agente-ia-que-le-esta-volando-cabeza-a-industria-ia-hemos-probado-crossover-1x42",
@@ -282,84 +360,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-20-xiaomi-acaba-de-entrar-en-la-carrera-de"
-        },
-        {
-          "title": "Windows 11 is finally getting a movable taskbar",
-          "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
-          "source": "The Verge",
-          "published_at": "2026-03-20T19:00:00Z",
-          "summary": "It's taken almost five years, but Microsoft is finally bringing back the ability to move the Windows taskbar to the top or sides of your screen. The movable taskbar is part of some much bigger changes coming to Windows 1…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-windows-11-is-finally-getting-a-movable-taskbar"
-        },
-        {
-          "title": "Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely",
-          "url": "https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic",
-          "source": "The Verge",
-          "published_at": "2026-03-20T19:00:00Z",
-          "summary": "In 2015, Microsoft decided that you shouldn't be in control of updating your PC anymore. At first, it seemed like a good idea to keep malware at bay - but soon, users discovered their computers were automatically shuttin…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-microsoft-is-ending-the-windows-update-nightmare---"
-        },
-        {
-          "title": "This is Microsoft&#8217;s plan to fix Windows 11",
-          "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes",
-          "source": "The Verge",
-          "published_at": "2026-03-20T18:56:15Z",
-          "summary": "Microsoft has faced a breakdown of trust in Windows 11 and a backlash over AI additions to its operating system in recent months. After promising to rebuild trust in Windows earlier this year, Microsoft's Windows chief, …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-this-is-microsoft-8217-s-plan-to-fix"
-        },
-        {
-          "title": "Trump takes another shot at dismantling state AI regulation",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-          "source": "The Verge",
-          "published_at": "2026-03-20T18:17:02Z",
-          "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of chil…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-trump-takes-another-shot-at-dismantling-state-ai"
-        },
-        {
-          "title": "These electronic Polaroids are powered by your phone’s NFC chip",
-          "url": "https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet",
-          "source": "The Verge",
-          "published_at": "2026-03-20T18:05:07Z",
-          "summary": "E Ink displays have expanded beyond e-readers. They're now used in digital photo frames, smartphones, and even the price tags found on grocery store shelves. VidaBay's Classic Plus NFC E-Ink Fridge Magnet - which looks l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-these-electronic-polaroids-are-powered-by-your-phone"
-        },
-        {
-          "title": "Nine months later, the Trump phone still doesn’t exist",
-          "url": "https://www.theverge.com/tech/898110/trump-phone-t1-release-certification",
-          "source": "The Verge",
-          "published_at": "2026-03-20T17:46:49Z",
-          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Once again, we're waiting for a response. It's been more than a month sin…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-20-nine-months-later-the-trump-phone-still-doesn"
         },
         {
           "title": "El gran problema de OpenAI todos estos años ha sido una indefinición crónica. Ahora quiere resolverlo con una superapp",
@@ -412,19 +412,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-20-creiamos-que-teniamos-una-burbuja-de-la-ia"
-        },
-        {
-          "title": "Las IA se han convertido en herramientas de acompañamiento contra la soledad. Para algunos investigadores es \"comida basura\"",
-          "url": "https://www.xataka.com/robotica-e-ia/amigos-ia-comida-basura-para-soledad-te-sacian-momento-te-dejan-vacio-despues",
-          "source": "Xataka",
-          "published_at": "2026-03-19T12:00:00Z",
-          "summary": "Cada vez estamos más solos y eso es un problema , pero tranquilos que la IA ha llegado para salvarnos. Mark Zuckerberg cree que los amigos IA pueden llenar ese vacío . En Corea del Sur &nbsp; están enviando robots IA a p…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-19-las-ia-se-han-convertido-en-herramientas-de"
         }
       ]
     }
@@ -488,19 +475,6 @@
           "id": "openai-2026-03-19-openai-to-acquire-astral"
         },
         {
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
-        },
-        {
           "title": "Introducing GPT-5.4 mini and nano",
           "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "source": "OpenAI",
@@ -512,6 +486,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-17-introducing-gpt-5-4-mini-and-nano"
+        },
+        {
+          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "url": "https://openai.com/index/japan-teen-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-03-17T10:00:00Z",
+          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
         },
         {
           "title": "Equipping workers with insights about compensation",
