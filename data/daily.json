@@ -1,78 +1,117 @@
 {
-  "date": "2026-03-24",
-  "generated_at": "2026-03-24T06:47:04.766137Z",
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T06:46:49.078611Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "source": "Hugging Face",
-      "published_at": "2026-03-24T02:01:52Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-03-24-a-new-framework-for-evaluating-voice-agents-eva"
-    },
-    {
-      "title": "The US government just banned consumer routers made outside the US",
-      "url": "https://www.theverge.com/news/899172/fcc-foreign-router-ban",
+      "title": "The BB-777 is the ultimate in boombox nostalgia",
+      "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
       "source": "The Verge",
-      "published_at": "2026-03-23T22:47:23Z",
-      "summary": "In December, the Federal Communications Commission banned all future drones made in foreign countries from being imported into the United States, unless or until their maker gets an exemption. Now, the FCC has done the e…",
+      "published_at": "2026-03-25T02:00:00Z",
+      "summary": "Bumpboxx is fully embracing nostalgia with its latest boombox, the BB-777, which is modeled very closely on the legendary Sharp GF-777. A real deal GF-777 will set you back over $2,000 for one in working order. Plus, tha…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-23-the-us-government-just-banned-consumer-routers-made"
+      "id": "theverge-2026-03-25-the-bb-777-is-the-ultimate-in-boombox-nostalgia"
     },
     {
-      "title": "The kid-friendly Fitbit Ace is $100, which matches its best price",
-      "url": "https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal",
+      "title": "Instagram and Facebook are about to be filled with affiliate content",
+      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
       "source": "The Verge",
-      "published_at": "2026-03-23T21:10:28Z",
-      "summary": "If you’re trying to figure out how to keep your kids occupied this spring break, the Fitbit Ace LTE is an easy way to get them outdoors and off their phones. The kid-friendly smartwatch encourages movement with trackable…",
+      "published_at": "2026-03-24T23:00:00Z",
+      "summary": "Instagram and Facebook content will soon have shopping links baked into posts, essentially cutting out third-party \"link in bio\"-style tools. Meta announced Tuesday that it's adding commerce features on the two platforms…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-23-the-kid-friendly-fitbit-ace-is-100-which-matches"
+      "id": "theverge-2026-03-24-instagram-and-facebook-are-about-to-be-filled"
     },
     {
-      "title": "Kalshi says it will block politicians and athletes from trading in markets they’re tied to",
-      "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
+      "title": "Meta misled users about its products’ safety, jury decides",
+      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
       "source": "The Verge",
-      "published_at": "2026-03-23T20:24:43Z",
-      "summary": "The prediction market platform Kalshi says it's rolling out new guardrails to \"preemptively block\" political candidates and athletes from trading in their own markets, as reported earlier by Axios. In addition to blockin…",
+      "published_at": "2026-03-24T21:54:29Z",
+      "summary": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-23-kalshi-says-it-will-block-politicians-and-athletes"
+      "id": "theverge-2026-03-24-meta-misled-users-about-its-products-safety-jury"
     },
     {
-      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
-      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+      "title": "NASA wants to put a $20 billion base on the Moon",
+      "url": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman",
       "source": "The Verge",
-      "published_at": "2026-03-23T19:49:11Z",
-      "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended. First, there's \"…",
+      "published_at": "2026-03-24T21:47:24Z",
+      "summary": "NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the Moon. Isaacman announced the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-23-google-s-new-pixel-10-ads-made-me"
+      "id": "theverge-2026-03-24-nasa-wants-to-put-a-20-billion-base"
+    },
+    {
+      "title": "What is ICE actually doing at the airport?",
+      "url": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+      "source": "The Verge",
+      "published_at": "2026-03-24T21:17:28Z",
+      "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to thin…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-03-24-what-is-ice-actually-doing-at-the-airport"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Helping developers build safer AI experiences for teens",
+          "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T11:00:00Z",
+          "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
+        },
+        {
+          "title": "Update on the OpenAI Foundation",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-update-on-the-openai-foundation"
+        },
+        {
+          "title": "Powering product discovery in ChatGPT",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
+        },
         {
           "title": "Creating with Sora Safely",
           "url": "https://openai.com/index/creating-with-sora-safely",
@@ -111,77 +150,56 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-19-openai-to-acquire-astral"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Measuring progress toward AGI: A cognitive framework",
-          "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-          "source": "DeepMind",
-          "published_at": "2026-03-17T16:03:47Z",
-          "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+          "title": "Silicon Valley empieza a mirar más allá del salario y las acciones: los tokens de IA como indicador de productividad",
+          "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-haber-encontrado-nuevo-bonus-perfecto-para-ingenieros-software-no-acciones-tokens-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-23T14:45:00Z",
+          "summary": "El CEO de NVIDIA lleva semanas convirtiendo los tokens de IA en el centro de todas sus conversaciones públicas. La última idea de Jensen Huang vincula estos tokens a la eficiencia de los ingenieros y a cómo se ficha a lo…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-03-17-measuring-progress-toward-agi-a-cognitive-framework"
-        },
-        {
-          "title": "Bringing the power of Personal Intelligence to more people",
-          "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-          "source": "Google AI",
-          "published_at": "2026-03-17T16:00:00Z",
-          "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-17-bringing-the-power-of-personal-intelligence-to-more"
-        },
-        {
-          "title": "Our latest investment in open source security for the AI era",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-          "source": "Google AI",
-          "published_at": "2026-03-17T16:00:00Z",
-          "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-17-our-latest-investment-in-open-source-security-for"
-        },
-        {
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
-        },
-        {
-          "title": "Introducing GPT-5.4 mini and nano",
-          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-introducing-gpt-5-4-mini-and-nano"
+          "category": "regulación",
+          "id": "xataka-2026-03-23-silicon-valley-empieza-a-mirar-mas-alla-del"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "These AI Workstations Look Like PCs, but Pack a Stronger Punch",
+          "url": "https://spectrum.ieee.org/ai-workstation-looks-like-pcs",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-24T14:00:05Z",
+          "summary": "The rise of generative AI has spurred demand for AI workstations that can run or train models on local hardware. Yet modern PCs have proven inadequate for this task . A typical laptop only has enough memory to load a lar…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-24-these-ai-workstations-look-like-pcs-but-pack"
+        },
+        {
+          "title": "The Coming Drone-War Inflection in Ukraine",
+          "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-24T13:00:05Z",
+          "summary": "WHEN KYIV-BORN ENGINEER Yaroslav Azhnyuk thinks about the future, his mind conjures up dystopian images. He talks about “swarms of autonomous drones carrying other autonomous drones to protect them against autonomous dro…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-24-the-coming-drone-war-inflection-in-ukraine"
+        },
         {
           "title": "Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
           "url": "https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny",
@@ -207,19 +225,24 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-03-23-why-thermal-metrology-must-evolve-for-next-generation-semiconductors"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "What Happens If AI Makes Things Too Easy for Us?",
-          "url": "https://spectrum.ieee.org/frictionless-ai-psychology",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-22T13:00:04Z",
-          "summary": "Most people who regularly use AI tools would say they’re making their lives easier. The technology promises to streamline and take over tasks both professionally and personally—whether that’s summarizing documents, draft…",
+          "title": "A New Framework for Evaluating Voice Agents (EVA)",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+          "source": "Hugging Face",
+          "published_at": "2026-03-24T02:01:52Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-03-22-what-happens-if-ai-makes-things-too-easy"
+          "category": "herramientas",
+          "id": "huggingface-2026-03-24-a-new-framework-for-evaluating-voice-agents-eva"
         }
       ]
     },
@@ -227,95 +250,160 @@
       "name": "General",
       "items": [
         {
-          "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
           "source": "The Verge",
-          "published_at": "2026-03-23T19:42:33Z",
-          "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot…",
+          "published_at": "2026-03-24T21:08:10Z",
+          "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall S…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-23-nvidia-ceo-jensen-huang-says-8216-i-think"
+          "id": "theverge-2026-03-24-openai-just-gave-up-on-sora-and-its"
         },
         {
-          "title": "Two of my favorite color e-book readers are the cheapest they’ve been in months",
-          "url": "https://www.theverge.com/gadgets/899019/kindle-colorsoft-kobo-libra-colour-ebook-reader-amazon-big-spring-sale-2026-deal",
+          "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
           "source": "The Verge",
-          "published_at": "2026-03-23T19:30:00Z",
-          "summary": "Color isn’t essential in an e-reader, but let’s be honest, it’s a nice perk that can bring digital books, magazines, comics, cookbooks, and other publications to life. The catch is that color ebook readers tend to be sub…",
+          "published_at": "2026-03-24T20:43:14Z",
+          "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-23-two-of-my-favorite-color-e-book-readers-are"
+          "id": "theverge-2026-03-24-arm-s-first-cpu-ever-will-plug-into"
         },
         {
-          "title": "Apple could put ads in Maps as soon as this summer",
-          "url": "https://www.theverge.com/tech/899053/apple-maps-advertising-rumor",
+          "title": "Apple is testing a standalone app for its overhauled Siri",
+          "url": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
           "source": "The Verge",
-          "published_at": "2026-03-23T18:54:44Z",
-          "summary": "Apple will soon bring advertisements to its Maps app on mobile and the web, according to a report from Bloomberg's Mark Gurman. The ads, which Apple could reportedly announce this month before rolling them out in the sum…",
+          "published_at": "2026-03-24T20:41:24Z",
+          "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-23-apple-could-put-ads-in-maps-as-soon"
+          "id": "theverge-2026-03-24-apple-is-testing-a-standalone-app-for-its"
         },
         {
-          "title": "Donut Lab’s solid-state battery could barely hold a charge after getting damaged",
-          "url": "https://www.theverge.com/transportation/898881/donut-lab-solid-state-battery-damage-test",
+          "title": "The man who coined Metaverse now says Meta&#8217;s glasses are creepy",
+          "url": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
           "source": "The Verge",
-          "published_at": "2026-03-23T17:35:52Z",
-          "summary": "Donut Lab is on a mission to prove to the world its solid-state battery is real, one independent test at a time. We've seen speed charging tests, extreme heat tests, and not-a-supercapacitor tests. Today's test is to see…",
+          "published_at": "2026-03-24T20:08:14Z",
+          "summary": "Neal Stephenson didn't invent the virtual reality headset. But Meta certainly knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase \"Metaverse\" to describe a virtual reality world experienced…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-23-donut-lab-s-solid-state-battery-could-barely-hold"
+          "id": "theverge-2026-03-24-the-man-who-coined-metaverse-now-says-meta"
         },
         {
-          "title": "Apple’s WWDC 2026 event starts June 8th",
-          "url": "https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri",
+          "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
+          "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
           "source": "The Verge",
-          "published_at": "2026-03-23T17:21:53Z",
-          "summary": "Apple has set a date for this year's Worldwide Developers Conference (WWDC), scheduling the keynote and Platforms State of the Union for June 8th through June 12th at Apple Park. As usual, we will be tuned in to find out…",
+          "published_at": "2026-03-24T19:22:29Z",
+          "summary": "iOS 26.4 is here, and it comes with a bunch of small but notable updates. That includes a new Playlist Playground launching in beta in Apple Music, which uses AI to generate a song playlist - complete with a title, descr…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-23-apple-s-wwdc-2026-event-starts-june-8th"
+          "id": "theverge-2026-03-24-apple-launches-ios-26-4-with-ai-playlists"
         },
         {
-          "title": "PDP’s wireless guitar controller has returned to its best price to date",
-          "url": "https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal",
-          "source": "The Verge",
-          "published_at": "2026-03-23T17:05:12Z",
-          "summary": "The early 2020s were kind of a dark time if you were a fan of Rock Band. PlayStation 5 and Xbox Series X owners didn&#8217;t get an improved, more feature-packed guitar controller until early 2024 when PDP launched the R…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-23-pdp-s-wireless-guitar-controller-has-returned-to"
-        },
-        {
-          "title": "\"Tokenmaxxing\": Jensen Huang cree que ha llegado la hora de pagar a los desarrolladores con créditos para IA",
-          "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-haber-encontrado-nuevo-bonus-perfecto-para-ingenieros-software-no-acciones-tokens-ia",
+          "title": "Terence Tao es el mejor matemático del mundo: ha reconocido que está usando la IA para resolver uno de los Problemas del Milenio",
+          "url": "https://www.xataka.com/robotica-e-ia/terence-tao-mejor-matematico-mundo-ha-reconocido-que-esta-usando-ia-para-resolver-uno-problemas-milenio",
           "source": "Xataka",
-          "published_at": "2026-03-23T14:45:00Z",
-          "summary": "El CEO de NVIDIA lleva semanas convirtiendo los tokens de IA en el centro de todas sus conversaciones públicas. La última idea de Jensen Huang vincula estos tokens a la eficiencia de los ingenieros y a cómo se ficha a lo…",
+          "published_at": "2026-03-24T16:30:00Z",
+          "summary": "Afirmar con rotundidad qué persona es la mejor del mundo en algo es arriesgado. Si nos ceñimos a la investigación de vanguardia en el ámbito de las matemáticas el alemán Peter Scholze, el británico James Maynard o el chi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-23-tokenmaxxing-jensen-huang-cree-que-ha-llegado-la"
+          "id": "xataka-2026-03-24-terence-tao-es-el-mejor-matematico-del-mundo"
+        },
+        {
+          "title": "Qué tener en cuenta y peligros al usar la inteligencia artificial para hacer tu declaración de la Renta",
+          "url": "https://www.xataka.com/basics/que-tener-cuenta-peligros-al-usar-inteligencia-artificial-para-hacer-tu-declaracion-renta",
+          "source": "Xataka",
+          "published_at": "2026-03-24T13:04:59Z",
+          "summary": "Estamos en plena era de la inteligencia artificial , donde ya está normalizado el uso de Chatbots de IA como Claude , ChatGPT o Gemini para ayudarnos con muchas cosas. Sin embargo, usar la IA para la declaración de la Re…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-que-tener-en-cuenta-y-peligros-al-usar"
+        },
+        {
+          "title": "Huawei lleva seis años maquinando un plan y ahora están listos destronar a la indestronable: NVIDIA",
+          "url": "https://www.xataka.com/robotica-e-ia/huawei-lleva-seis-anos-maquinando-plan-ahora-estan-listos-destronar-a-indestronable-nvidia",
+          "source": "Xataka",
+          "published_at": "2026-03-24T12:00:54Z",
+          "summary": "Con el inicio de la guerra tecnológica entre Estados Unidos y China, a Huawei se le dio una misión: convertirse en la punta de lanza de las tecnológicas chinas. Tras unos primeros años duros que fueron como una peregrina…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-huawei-lleva-seis-anos-maquinando-un-plan-y"
+        },
+        {
+          "title": "Cómo usar Claude en Excel: cómo activar esta función de la inteligencia artificial en Office",
+          "url": "https://www.xataka.com/basics/como-usar-claude-excel-como-activar-esta-funcion-inteligencia-artificial-office",
+          "source": "Xataka",
+          "published_at": "2026-03-24T11:30:52Z",
+          "summary": "Vamos a explicarte cómo usar Claude en Excel , de forma que puedas usar esta inteligencia artificial en tus hojas de cálculo. Se trata de una extensión de Claude exclusiva para usar en Microsoft Excel, tanto en las versi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-como-usar-claude-en-excel-como-activar-esta"
+        },
+        {
+          "title": "Jensen Huang cree que hemos alcanzado el \"que viene el lobo de la IA\". Es perfecta para alimentar a un Tamagotchi",
+          "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi",
+          "source": "Xataka",
+          "published_at": "2026-03-24T10:30:00Z",
+          "summary": "La inteligencia artificial se ha convertido en una liga de fútbol. Hay divisiones en las que se persiguen títulos como tener &nbsp;la IA más potente , la más rápida, la más capaz en una tarea concreta o la más polivalent…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-jensen-huang-cree-que-hemos-alcanzado-el-que"
+        },
+        {
+          "title": "12 nuevos trabajadores al día: el plan de OpenAI para ganar la carrera de la IA es duplicar su plantilla en un año",
+          "url": "https://www.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla",
+          "source": "Xataka",
+          "published_at": "2026-03-24T09:30:00Z",
+          "summary": "OpenAI acaba de darse cuenta de que habían estado &nbsp;lanzando productos sin ton ni son y necesitan enfocarse en algo. Y ese algo es el sector empresarial, donde una Anthropic con un plan de negocio mucho más claro les…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-12-nuevos-trabajadores-al-dia-el-plan-de"
+        },
+        {
+          "title": "La IA que te conoce pero no te espía: la apuesta de Lenovo para diferenciarse en un mercado saturado de chatbots",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-que-te-conoce-no-te-espia-apuesta-lenovo-para-diferenciarse-mercado-saturado-chatbots",
+          "source": "Xataka",
+          "published_at": "2026-03-24T08:00:54Z",
+          "summary": "Hace menos de un año, los equipos de IA de Lenovo trabajaban en silos, en islas independientes unas de otras. Los ingenieros de los Motorola no hablaban con los de los ThinkPad . Los de las tablets iban a lo suyo. Y las …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-24-la-ia-que-te-conoce-pero-no-te"
         },
         {
           "title": "El inminente cuello de botella en IA no es ni la RAM ni el gas: es que el nodo N3 de TSMC está absolutamente saturado",
@@ -342,84 +430,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-23-que-es-claude-dispatch-y-como-activarlo-para"
-        },
-        {
-          "title": "Mark Zuckerberg se gastó millones en un equipo de \"superinteligencia\". Lo está dedicando a crearle un agente IA personal",
-          "url": "https://www.xataka.com/robotica-e-ia/pregunta-que-esta-haciendo-equipo-superinteligencia-meta-respuesta-agente-ia-personal-para-zuckerberg",
-          "source": "Xataka",
-          "published_at": "2026-03-23T10:30:00Z",
-          "summary": "Mark Zuckerberg se gastó millones en contratar al equipo de ingenieros que llevarían a Meta a competir de tú a tú con los grandes de la IA. Mientras seguimos esperando a que eso pase , la empresa está avanzando en otro t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-23-mark-zuckerberg-se-gasto-millones-en-un-equipo"
-        },
-        {
-          "title": "El mercado de smartphones está cayendo un 13% este año. Amazon ha decidido que es buen momento para lanzar uno",
-          "url": "https://www.xataka.com/robotica-e-ia/2014-amazon-fracaso-estrepitosamente-su-fire-phone-ia-le-ha-dado-excusa-perfecta-para-volver-a-andadas",
-          "source": "Xataka",
-          "published_at": "2026-03-23T08:16:00Z",
-          "summary": "En 2014 Jeff Bezos aún era el mandamás absoluto de Amazon. Y se le ocurrió que Amazon debía tener su propio smartphone, así qu ela empresa acabó lanzando el Fire Phone . Aquel dispositivo presumía de una pantalla 3D que …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-23-el-mercado-de-smartphones-esta-cayendo-un-13"
-        },
-        {
-          "title": "China está rediseñando su universidad para ganar la guerra de la IA. Las artes son la primera baja",
-          "url": "https://www.xataka.com/magnet/universidades-top-china-esta-eliminando-carreras-artes-su-explicacion-ia-futuro",
-          "source": "Xataka",
-          "published_at": "2026-03-22T18:30:00Z",
-          "summary": "\"Todos suspiramos al escuchar la noticia, pero no hubo grandes emociones\". Sixth Tone recoge la reacción de un estudiante de fotografía de la Universidad de Comunicación de China&nbsp;al escuchar la noticia. El centro de…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-22-china-esta-redisenando-su-universidad-para-ganar-la"
-        },
-        {
-          "title": "Cómo crear un chatbot con la IA de Claude que responda únicamente basándose en tus propios documentos",
-          "url": "https://www.xataka.com/basics/como-crear-chatbot-ia-claude-que-responda-unicamente-basandose-tus-propios-documentos",
-          "source": "Xataka",
-          "published_at": "2026-03-22T13:01:53Z",
-          "summary": "Vamos a&nbsp;explicarte cómo crear un chatbot con la IA de Claude que responda únicamente basándose en tus propios documentos . Así, si tienes fuentes de información fiables o quieres trabajar o hacer peticiones alrededo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-22-como-crear-un-chatbot-con-la-ia-de"
-        },
-        {
-          "title": "Hay centros de datos siendo vigilados y custodiados por perros-robot porque al parecer el futuro ya es el presente",
-          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-grandes-planeta-estan-vigilados-perros-perros-robot",
-          "source": "Xataka",
-          "published_at": "2026-03-22T11:00:00Z",
-          "summary": "El despliegue de centros de datos para entrenar a la inteligencia artificial es una muestra de poder tecnológico, pero también económico. Sólo este año, las grandes estadounidenses se van a dejar más dinero que lo que la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-22-hay-centros-de-datos-siendo-vigilados-y-custodiados"
-        },
-        {
-          "title": "La IA y la borrachera de información en internet han roto la lectura: hoy la verdadera inteligencia está en descartar",
-          "url": "https://www.xataka.com/robotica-e-ia/pregunta-como-sobrevivir-al-tsunami-informacion-era-ia-respuesta-simple-aprendiendo-a-no-leer",
-          "source": "Xataka",
-          "published_at": "2026-03-22T10:00:00Z",
-          "summary": "Esta mañana he contado las pestañas abiertas en Dia, mi navegador . Veinticinco. Había ahí un análisis de Counterpoint que abrí hace cinco días para leer \"en cuanto pueda\" pero que todavía no he tocado. Un hilo de X con …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-22-la-ia-y-la-borrachera-de-informacion-en"
         }
       ]
     }
@@ -457,6 +467,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Helping developers build safer AI experiences for teens",
+          "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T11:00:00Z",
+          "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
+        },
+        {
+          "title": "Update on the OpenAI Foundation",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-update-on-the-openai-foundation"
+        },
+        {
+          "title": "Powering product discovery in ChatGPT",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
+        },
+        {
           "title": "Creating with Sora Safely",
           "url": "https://openai.com/index/creating-with-sora-safely",
           "source": "OpenAI",
@@ -494,32 +543,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-19-openai-to-acquire-astral"
-        },
-        {
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-openai-japan-announces-japan-teen-safety-blueprint-to"
-        },
-        {
-          "title": "Introducing GPT-5.4 mini and nano",
-          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-          "source": "OpenAI",
-          "published_at": "2026-03-17T10:00:00Z",
-          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-17-introducing-gpt-5-4-mini-and-nano"
         }
       ]
     },
@@ -558,19 +581,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-03-17-bringing-the-power-of-personal-intelligence-to-more"
-        },
-        {
-          "title": "Our latest investment in open source security for the AI era",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-          "source": "Google AI",
-          "published_at": "2026-03-17T16:00:00Z",
-          "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-17-our-latest-investment-in-open-source-security-for"
         }
       ]
     },
