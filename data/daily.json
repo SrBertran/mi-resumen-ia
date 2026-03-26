@@ -1,78 +1,143 @@
 {
-  "date": "2026-03-25",
-  "generated_at": "2026-03-25T06:46:49.078611Z",
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T06:50:02.720070Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The BB-777 is the ultimate in boombox nostalgia",
-      "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+      "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+      "url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
       "source": "The Verge",
-      "published_at": "2026-03-25T02:00:00Z",
-      "summary": "Bumpboxx is fully embracing nostalgia with its latest boombox, the BB-777, which is modeled very closely on the legendary Sharp GF-777. A real deal GF-777 will set you back over $2,000 for one in working order. Plus, tha…",
+      "published_at": "2026-03-26T00:33:07Z",
+      "summary": "One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little power mig…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-25-the-bb-777-is-the-ultimate-in-boombox-nostalgia"
+      "id": "theverge-2026-03-26-intel-and-lg-display-may-have-beaten-apple"
     },
     {
-      "title": "Instagram and Facebook are about to be filled with affiliate content",
-      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
+      "title": "The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal",
       "source": "The Verge",
-      "published_at": "2026-03-24T23:00:00Z",
-      "summary": "Instagram and Facebook content will soon have shopping links baked into posts, essentially cutting out third-party \"link in bio\"-style tools. Meta announced Tuesday that it's adding commerce features on the two platforms…",
+      "published_at": "2026-03-25T22:30:00Z",
+      "summary": "Amazon’s third annual Big Spring Sale might be a great opportunity to pick up a color ebook reader or an RGB-equipped table lamp, but the pickings are slimmer when it comes to noise-canceling headphones. Sure, the Sony W…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-24-instagram-and-facebook-are-about-to-be-filled"
+      "id": "theverge-2026-03-25-the-sonos-ace-are-a-hefty-25-percent"
     },
     {
-      "title": "Meta misled users about its products’ safety, jury decides",
-      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
+      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "source": "The Verge",
-      "published_at": "2026-03-24T21:54:29Z",
-      "summary": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations,…",
+      "published_at": "2026-03-25T21:58:00Z",
+      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which starts today and runs through March 31st, the retail behemoth is hoping to lur…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-24-meta-misled-users-about-its-products-safety-jury"
+      "id": "theverge-2026-03-25-the-best-deals-we-ve-found-from-amazon"
     },
     {
-      "title": "NASA wants to put a $20 billion base on the Moon",
-      "url": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman",
+      "title": "The portable Fanttik X9 Pro tire inflator is down to its best price in months",
+      "url": "https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-03-24T21:47:24Z",
-      "summary": "NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the Moon. Isaacman announced the …",
+      "published_at": "2026-03-25T21:14:15Z",
+      "summary": "If you’ve ever had to deal with a flat tire, you know how quickly it can derail your day. That’s why it’s worth considering a portable inflator like the Fanttik X9 Pro. The small, rechargeable air pump that can quickly i…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-24-nasa-wants-to-put-a-20-billion-base"
+      "id": "theverge-2026-03-25-the-portable-fanttik-x9-pro-tire-inflator-is"
     },
     {
-      "title": "What is ICE actually doing at the airport?",
-      "url": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
       "source": "The Verge",
-      "published_at": "2026-03-24T21:17:28Z",
-      "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to thin…",
+      "published_at": "2026-03-25T21:10:32Z",
+      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-24-what-is-ice-actually-doing-at-the-airport"
+      "id": "theverge-2026-03-25-meta-is-laying-off-hundreds-of-employees-as"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Lyria 3 Pro: Create longer tracks in more",
+          "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+          "source": "DeepMind",
+          "published_at": "2026-03-25T16:01:39Z",
+          "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-25-lyria-3-pro-create-longer-tracks-in-more"
+        },
+        {
+          "title": "Build with Lyria 3, our newest music generation model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+          "source": "Google AI",
+          "published_at": "2026-03-25T16:00:00Z",
+          "summary": "Google Lyria teaser",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-25-build-with-lyria-3-our-newest-music-generation"
+        },
+        {
+          "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+          "source": "Google AI",
+          "published_at": "2026-03-25T16:00:00Z",
+          "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-25-lyria-3-pro-create-longer-tracks-in-more"
+        },
+        {
+          "title": "Inside our approach to the Model Spec",
+          "url": "https://openai.com/index/our-approach-to-the-model-spec",
+          "source": "OpenAI",
+          "published_at": "2026-03-25T10:00:00Z",
+          "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-25-inside-our-approach-to-the-model-spec"
+        },
+        {
+          "title": "Introducing the OpenAI Safety Bug Bounty program",
+          "url": "https://openai.com/index/safety-bug-bounty",
+          "source": "OpenAI",
+          "published_at": "2026-03-25T00:00:00Z",
+          "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-25-introducing-the-openai-safety-bug-bounty-program"
+        },
         {
           "title": "Helping developers build safer AI experiences for teens",
           "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
@@ -137,37 +202,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-19-how-we-monitor-internal-coding-agents-for-misalignment"
-        },
-        {
-          "title": "OpenAI to acquire Astral",
-          "url": "https://openai.com/index/openai-to-acquire-astral",
-          "source": "OpenAI",
-          "published_at": "2026-03-19T00:00:00Z",
-          "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-19-openai-to-acquire-astral"
-        }
-      ]
-    },
-    {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "Silicon Valley empieza a mirar más allá del salario y las acciones: los tokens de IA como indicador de productividad",
-          "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-haber-encontrado-nuevo-bonus-perfecto-para-ingenieros-software-no-acciones-tokens-ia",
-          "source": "Xataka",
-          "published_at": "2026-03-23T14:45:00Z",
-          "summary": "El CEO de NVIDIA lleva semanas convirtiendo los tokens de IA en el centro de todas sus conversaciones públicas. La última idea de Jensen Huang vincula estos tokens a la eficiencia de los ingenieros y a cómo se ficha a lo…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-03-23-silicon-valley-empieza-a-mirar-mas-alla-del"
         }
       ]
     },
@@ -175,11 +209,37 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "These AI Workstations Look Like PCs, but Pack a Stronger Punch",
+          "title": "Training Driving AI at 50,000× Real Time",
+          "url": "https://spectrum.ieee.org/gm-scalable-driving-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-25T19:00:05Z",
+          "summary": "This is a sponsored article brought to you by General Motors. Visit their new Engineering Blog for more insights. Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpre…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-25-training-driving-ai-at-50-000x-real-time"
+        },
+        {
+          "title": "What Happens When You Host an AI Café",
+          "url": "https://spectrum.ieee.org/ai-community-engagement",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-25T14:00:05Z",
+          "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies a…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-25-what-happens-when-you-host-an-ai-cafe"
+        },
+        {
+          "title": "These AI Workstations Look Like PCs but Pack a Stronger Punch",
           "url": "https://spectrum.ieee.org/ai-workstation-looks-like-pcs",
           "source": "IEEE Spectrum",
           "published_at": "2026-03-24T14:00:05Z",
-          "summary": "The rise of generative AI has spurred demand for AI workstations that can run or train models on local hardware. Yet modern PCs have proven inadequate for this task . A typical laptop only has enough memory to load a lar…",
+          "summary": "The rise of generative AI has spurred demand for AI workstations that can run or train models on local hardware. Yet modern PCs have proven inadequate for this task . A typical laptop has only enough memory to load a lar…",
           "why_it_matters": "",
           "tags": [
             "investigación"
@@ -199,50 +259,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-03-24-the-coming-drone-war-inflection-in-ukraine"
-        },
-        {
-          "title": "Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
-          "url": "https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-23T13:00:04Z",
-          "summary": "This is a sponsored article brought to you by PNY Technologies . In today’s data-driven world, data scientists face mounting challenges in preparing, scaling, and processing massive datasets. Traditional CPU-based system…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-23-transforming-data-science-with-nvidia-rtx-pro-6000"
-        },
-        {
-          "title": "Why Thermal Metrology Must Evolve for Next-Generation Semiconductors",
-          "url": "https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-23T10:00:04Z",
-          "summary": "An in-depth examination of how rising power density, 3D integration, and novel materials are outpacing legacy thermal measurement — and what advanced metrology must deliver. What Attendees will Learn Why heat is now the …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-23-why-thermal-metrology-must-evolve-for-next-generation-semiconductors"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "A New Framework for Evaluating Voice Agents (EVA)",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-          "source": "Hugging Face",
-          "published_at": "2026-03-24T02:01:52Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-24-a-new-framework-for-evaluating-voice-agents-eva"
         }
       ]
     },
@@ -250,72 +266,85 @@
       "name": "General",
       "items": [
         {
-          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+          "title": "Spotify is letting artists manually approve releases to combat AI fakes",
+          "url": "https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones",
           "source": "The Verge",
-          "published_at": "2026-03-24T21:08:10Z",
-          "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall S…",
+          "published_at": "2026-03-25T21:01:23Z",
+          "summary": "Spotify is beta-testing a new feature called Artist Profile Protection that lets artists review releases before they go live. Sometimes songs end up on the wrong artist pages because of metadata mixups or shared names. B…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-24-openai-just-gave-up-on-sora-and-its"
+          "id": "theverge-2026-03-25-spotify-is-letting-artists-manually-approve-releases-to"
         },
         {
-          "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+          "title": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
+          "url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
           "source": "The Verge",
-          "published_at": "2026-03-24T20:43:14Z",
-          "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference…",
+          "published_at": "2026-03-25T20:36:58Z",
+          "summary": "Razer is giving its Blade 16 gaming laptop a speed and battery boost for 2026. The high-end gaming laptop keeps the same thin chassis and RTX 50-series GPU options as last year's model, but it's now making the switch fro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-24-arm-s-first-cpu-ever-will-plug-into"
+          "id": "theverge-2026-03-25-razer-s-new-blade-16-gaming-laptop-has"
         },
         {
-          "title": "Apple is testing a standalone app for its overhauled Siri",
-          "url": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+          "title": "The surprise hit Nex Playground is the latest console to get a price hike",
+          "url": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
           "source": "The Verge",
-          "published_at": "2026-03-24T20:41:24Z",
-          "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent …",
+          "published_at": "2026-03-25T20:25:10Z",
+          "summary": "Everything about video games is getting more expensive, and soon that will include a budget-friendly console. The Nex Playground - a Kinect-like device aimed at families that made headlines by outselling the Xbox over th…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-24-apple-is-testing-a-standalone-app-for-its"
+          "id": "theverge-2026-03-25-the-surprise-hit-nex-playground-is-the-latest"
         },
         {
-          "title": "The man who coined Metaverse now says Meta&#8217;s glasses are creepy",
-          "url": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+          "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+          "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
           "source": "The Verge",
-          "published_at": "2026-03-24T20:08:14Z",
-          "summary": "Neal Stephenson didn't invent the virtual reality headset. But Meta certainly knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase \"Metaverse\" to describe a virtual reality world experienced…",
+          "published_at": "2026-03-25T20:02:48Z",
+          "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-g…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-24-the-man-who-coined-metaverse-now-says-meta"
+          "id": "theverge-2026-03-25-disney-s-big-bets-on-the-metaverse-and"
         },
         {
-          "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
-          "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
+          "title": "Woot is offering over 20 percent off Switch 2 controllers and games today",
+          "url": "https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals",
           "source": "The Verge",
-          "published_at": "2026-03-24T19:22:29Z",
-          "summary": "iOS 26.4 is here, and it comes with a bunch of small but notable updates. That includes a new Playlist Playground launching in beta in Apple Music, which uses AI to generate a song playlist - complete with a title, descr…",
+          "published_at": "2026-03-25T19:04:34Z",
+          "summary": "Woot is running a day-long sale coinciding with the start of Amazon’s Big Spring Sale. Many products across multiple tech categories are discounted, including dozens of video games and accessories. What’s more, you can g…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-24-apple-launches-ios-26-4-with-ai-playlists"
+          "id": "theverge-2026-03-25-woot-is-offering-over-20-percent-off-switch"
         },
         {
-          "title": "Terence Tao es el mejor matemático del mundo: ha reconocido que está usando la IA para resolver uno de los Problemas del Milenio",
+          "title": "Lista de equipaje con Claude: cómo crear una lista interactiva para que no se te olvide las cosas que llevar en la maleta",
+          "url": "https://www.xataka.com/basics/lista-equipaje-claude-como-crear-lista-interactiva-no-se-te-olvide-cosas-que-llevar-maleta",
+          "source": "Xataka",
+          "published_at": "2026-03-25T11:27:58Z",
+          "summary": "Vamos a explicarte cómo crear una lista de equipaje interactiva con todo lo que tienes que llevar en la maleta. Esto lo vamos a hacer con Claude , una inteligencia artificial que creará un módulo con elementos que podrás…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-25-lista-de-equipaje-con-claude-como-crear-una"
+        },
+        {
+          "title": "El mejor matemático del mundo está resolviendo uno de los problemas más complejos de la historia con un aliado: la IA",
           "url": "https://www.xataka.com/robotica-e-ia/terence-tao-mejor-matematico-mundo-ha-reconocido-que-esta-usando-ia-para-resolver-uno-problemas-milenio",
           "source": "Xataka",
           "published_at": "2026-03-24T16:30:00Z",
@@ -325,7 +354,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-24-terence-tao-es-el-mejor-matematico-del-mundo"
+          "id": "xataka-2026-03-24-el-mejor-matematico-del-mundo-esta-resolviendo-uno"
         },
         {
           "title": "Qué tener en cuenta y peligros al usar la inteligencia artificial para hacer tu declaración de la Renta",
@@ -341,17 +370,17 @@
           "id": "xataka-2026-03-24-que-tener-en-cuenta-y-peligros-al-usar"
         },
         {
-          "title": "Huawei lleva seis años maquinando un plan y ahora están listos destronar a la indestronable: NVIDIA",
+          "title": "Tras seis años de silenciosa planificación, Huawei ya tiene listo su gran movimiento: destronar a NVIDIA",
           "url": "https://www.xataka.com/robotica-e-ia/huawei-lleva-seis-anos-maquinando-plan-ahora-estan-listos-destronar-a-indestronable-nvidia",
           "source": "Xataka",
-          "published_at": "2026-03-24T12:00:54Z",
+          "published_at": "2026-03-24T12:00:00Z",
           "summary": "Con el inicio de la guerra tecnológica entre Estados Unidos y China, a Huawei se le dio una misión: convertirse en la punta de lanza de las tecnológicas chinas. Tras unos primeros años duros que fueron como una peregrina…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-24-huawei-lleva-seis-anos-maquinando-un-plan-y"
+          "id": "xataka-2026-03-24-tras-seis-anos-de-silenciosa-planificacion-huawei-ya"
         },
         {
           "title": "Cómo usar Claude en Excel: cómo activar esta función de la inteligencia artificial en Office",
@@ -367,7 +396,7 @@
           "id": "xataka-2026-03-24-como-usar-claude-en-excel-como-activar-esta"
         },
         {
-          "title": "Jensen Huang cree que hemos alcanzado el \"que viene el lobo de la IA\". Es perfecta para alimentar a un Tamagotchi",
+          "title": "Según Jensen Huang ya hemos llegado a la AGI: el problema es que de momento solo sirve para alimentar Tamagotchis",
           "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi",
           "source": "Xataka",
           "published_at": "2026-03-24T10:30:00Z",
@@ -377,10 +406,10 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-24-jensen-huang-cree-que-hemos-alcanzado-el-que"
+          "id": "xataka-2026-03-24-segun-jensen-huang-ya-hemos-llegado-a-la"
         },
         {
-          "title": "12 nuevos trabajadores al día: el plan de OpenAI para ganar la carrera de la IA es duplicar su plantilla en un año",
+          "title": "A OpenAI se le multiplican los problemas en la carrera por la IA. Su solución: pasar de 4.500 a 8.000 trabajadores",
           "url": "https://www.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla",
           "source": "Xataka",
           "published_at": "2026-03-24T09:30:00Z",
@@ -390,46 +419,20 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-24-12-nuevos-trabajadores-al-dia-el-plan-de"
+          "id": "xataka-2026-03-24-a-openai-se-le-multiplican-los-problemas-en"
         },
         {
-          "title": "La IA que te conoce pero no te espía: la apuesta de Lenovo para diferenciarse en un mercado saturado de chatbots",
+          "title": "\"Cualquier interacción con ChatGPT está en la nube y eso es arriesgado\": la apuesta de Lenovo por modelos IA en local",
           "url": "https://www.xataka.com/empresas-y-economia/ia-que-te-conoce-no-te-espia-apuesta-lenovo-para-diferenciarse-mercado-saturado-chatbots",
           "source": "Xataka",
-          "published_at": "2026-03-24T08:00:54Z",
+          "published_at": "2026-03-24T08:00:00Z",
           "summary": "Hace menos de un año, los equipos de IA de Lenovo trabajaban en silos, en islas independientes unas de otras. Los ingenieros de los Motorola no hablaban con los de los ThinkPad . Los de las tablets iban a lo suyo. Y las …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-24-la-ia-que-te-conoce-pero-no-te"
-        },
-        {
-          "title": "El inminente cuello de botella en IA no es ni la RAM ni el gas: es que el nodo N3 de TSMC está absolutamente saturado",
-          "url": "https://www.xataka.com/empresas-y-economia/fabricante-chips-importante-planeta-tiene-problema-debe-encontrar-forma-no-morir-exito",
-          "source": "Xataka",
-          "published_at": "2026-03-23T11:30:00Z",
-          "summary": "Las GPU de última generación para inteligencia artificial (IA) que están diseñando NVIDIA, AMD o Huawei, entre otras compañías, son un prodigio de la tecnología . Sin embargo, su rendimiento está profundamente condiciona…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-23-el-inminente-cuello-de-botella-en-ia-no"
-        },
-        {
-          "title": "Qué es Claude Dispatch y cómo activarlo para usar Cowork en tu ordenador desde el móvil",
-          "url": "https://www.xataka.com/basics/que-claude-dispatch-como-activarlo-para-usar-cowork-tu-ordenador-movil",
-          "source": "Xataka",
-          "published_at": "2026-03-23T10:37:35Z",
-          "summary": "Vamos a decirte qué es Claude Dispatch, una nueva opción de Claude que permite controlar tu ordenador desde el móvil. Está relacionada con Claude Cowork , y de hecho es como un mando a distancia para controlar esta intel…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-23-que-es-claude-dispatch-y-como-activarlo-para"
+          "id": "xataka-2026-03-24-cualquier-interaccion-con-chatgpt-esta-en-la-nube"
         }
       ]
     }
@@ -467,6 +470,32 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Inside our approach to the Model Spec",
+          "url": "https://openai.com/index/our-approach-to-the-model-spec",
+          "source": "OpenAI",
+          "published_at": "2026-03-25T10:00:00Z",
+          "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-25-inside-our-approach-to-the-model-spec"
+        },
+        {
+          "title": "Introducing the OpenAI Safety Bug Bounty program",
+          "url": "https://openai.com/index/safety-bug-bounty",
+          "source": "OpenAI",
+          "published_at": "2026-03-25T00:00:00Z",
+          "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-25-introducing-the-openai-safety-bug-bounty-program"
+        },
+        {
           "title": "Helping developers build safer AI experiences for teens",
           "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
           "source": "OpenAI",
@@ -530,19 +559,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-19-how-we-monitor-internal-coding-agents-for-misalignment"
-        },
-        {
-          "title": "OpenAI to acquire Astral",
-          "url": "https://openai.com/index/openai-to-acquire-astral",
-          "source": "OpenAI",
-          "published_at": "2026-03-19T00:00:00Z",
-          "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-19-openai-to-acquire-astral"
         }
       ]
     },
@@ -570,17 +586,30 @@
       "name": "Google AI",
       "items": [
         {
-          "title": "Bringing the power of Personal Intelligence to more people",
-          "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+          "title": "Build with Lyria 3, our newest music generation model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
           "source": "Google AI",
-          "published_at": "2026-03-17T16:00:00Z",
-          "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+          "published_at": "2026-03-25T16:00:00Z",
+          "summary": "Google Lyria teaser",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-03-17-bringing-the-power-of-personal-intelligence-to-more"
+          "id": "googleai-2026-03-25-build-with-lyria-3-our-newest-music-generation"
+        },
+        {
+          "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+          "source": "Google AI",
+          "published_at": "2026-03-25T16:00:00Z",
+          "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-25-lyria-3-pro-create-longer-tracks-in-more"
         }
       ]
     },
@@ -589,17 +618,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "Measuring progress toward AGI: A cognitive framework",
-          "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+          "title": "Lyria 3 Pro: Create longer tracks in more",
+          "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
           "source": "DeepMind",
-          "published_at": "2026-03-17T16:03:47Z",
-          "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+          "published_at": "2026-03-25T16:01:39Z",
+          "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-03-17-measuring-progress-toward-agi-a-cognitive-framework"
+          "id": "deepmind-2026-03-25-lyria-3-pro-create-longer-tracks-in-more"
         }
       ]
     }
