@@ -1,78 +1,156 @@
 {
-  "date": "2026-03-26",
-  "generated_at": "2026-03-26T06:50:02.720070Z",
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T06:50:15.962584Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
-      "url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
       "source": "The Verge",
-      "published_at": "2026-03-26T00:33:07Z",
-      "summary": "One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little power mig…",
+      "published_at": "2026-03-27T00:33:44Z",
+      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the jud…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-26-intel-and-lg-display-may-have-beaten-apple"
+      "id": "theverge-2026-03-27-judge-sides-with-anthropic-to-temporarily-block-the"
     },
     {
-      "title": "The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale",
-      "url": "https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal",
+      "title": "Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage",
+      "url": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
       "source": "The Verge",
-      "published_at": "2026-03-25T22:30:00Z",
-      "summary": "Amazon’s third annual Big Spring Sale might be a great opportunity to pick up a color ebook reader or an RGB-equipped table lamp, but the pickings are slimmer when it comes to noise-canceling headphones. Sure, the Sony W…",
+      "published_at": "2026-03-26T23:53:16Z",
+      "summary": "Federal Communications Commission Chair Brendan Carr never meant to threaten broadcast licenses over their coverage of the war in Iran, he told reporters after an event hosted by FGS and Semafor. \"My comments weren't act…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-25-the-sonos-ace-are-a-hefty-25-percent"
+      "id": "theverge-2026-03-26-brendan-carr-says-his-broadcast-license-threat-wasn"
     },
     {
-      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
       "source": "The Verge",
-      "published_at": "2026-03-25T21:58:00Z",
-      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which starts today and runs through March 31st, the retail behemoth is hoping to lur…",
+      "published_at": "2026-03-26T23:40:22Z",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-25-the-best-deals-we-ve-found-from-amazon"
+      "id": "theverge-2026-03-26-david-sacks-is-no-longer-the-white-house"
     },
     {
-      "title": "The portable Fanttik X9 Pro tire inflator is down to its best price in months",
-      "url": "https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale",
+      "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
+      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
       "source": "The Verge",
-      "published_at": "2026-03-25T21:14:15Z",
-      "summary": "If you’ve ever had to deal with a flat tire, you know how quickly it can derail your day. That’s why it’s worth considering a portable inflator like the Fanttik X9 Pro. The small, rechargeable air pump that can quickly i…",
+      "published_at": "2026-03-26T22:30:00Z",
+      "summary": "A good robovac can save you a surprising amount of time. Luckily, Amazon’s Big Spring Sale is a great time to pick one up, as you can currently find deals on everything from basic, budget-friendly robovacs to high-end mo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-25-the-portable-fanttik-x9-pro-tire-inflator-is"
+      "id": "theverge-2026-03-26-robot-vacuums-from-eufy-and-roborock-are-over"
     },
     {
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "title": "Apple’s Mac Pro is dead, apparently for good this time",
+      "url": "https://www.theverge.com/tech/902050/mac-pro-discontinued",
       "source": "The Verge",
-      "published_at": "2026-03-25T21:10:32Z",
-      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, a…",
+      "published_at": "2026-03-26T22:21:05Z",
+      "summary": "The most expensive Mac you could get is no longer available on Apple's website, as 9to5Mac reports that the \"cheese grater\" Mac Pro workstation has been discontinued. It had been a part of the lineup since replacing the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-25-meta-is-laying-off-hundreds-of-employees-as"
+      "id": "theverge-2026-03-26-apple-s-mac-pro-is-dead-apparently-for"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T17:00:00Z",
+          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-watch-james-manyika-talk-ai-and-creativity-with"
+        },
+        {
+          "title": "Transform your headphones into a live personal translator on iOS.",
+          "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T16:00:00Z",
+          "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-transform-your-headphones-into-a-live-personal-translator"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "source": "DeepMind",
+          "published_at": "2026-03-26T15:23:35Z",
+          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T15:21:00Z",
+          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
+        },
+        {
+          "title": "Search Live is expanding globally",
+          "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T15:00:00Z",
+          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-search-live-is-expanding-globally"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "source": "DeepMind",
+          "published_at": "2026-03-25T16:46:20Z",
+          "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-25-protecting-people-from-harmful-manipulation"
+        },
         {
           "title": "Lyria 3 Pro: Create longer tracks in more",
           "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
@@ -189,19 +267,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-23-creating-with-sora-safely"
-        },
-        {
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "OpenAI",
-          "published_at": "2026-03-19T10:00:00Z",
-          "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-19-how-we-monitor-internal-coding-agents-for-misalignment"
         }
       ]
     },
@@ -233,32 +298,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-03-25-what-happens-when-you-host-an-ai-cafe"
-        },
-        {
-          "title": "These AI Workstations Look Like PCs but Pack a Stronger Punch",
-          "url": "https://spectrum.ieee.org/ai-workstation-looks-like-pcs",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-24T14:00:05Z",
-          "summary": "The rise of generative AI has spurred demand for AI workstations that can run or train models on local hardware. Yet modern PCs have proven inadequate for this task . A typical laptop has only enough memory to load a lar…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-24-these-ai-workstations-look-like-pcs-but-pack"
-        },
-        {
-          "title": "The Coming Drone-War Inflection in Ukraine",
-          "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-24T13:00:05Z",
-          "summary": "WHEN KYIV-BORN ENGINEER Yaroslav Azhnyuk thinks about the future, his mind conjures up dystopian images. He talks about “swarms of autonomous drones carrying other autonomous drones to protect them against autonomous dro…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-24-the-coming-drone-war-inflection-in-ukraine"
         }
       ]
     },
@@ -266,69 +305,108 @@
       "name": "General",
       "items": [
         {
-          "title": "Spotify is letting artists manually approve releases to combat AI fakes",
-          "url": "https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones",
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
           "source": "The Verge",
-          "published_at": "2026-03-25T21:01:23Z",
-          "summary": "Spotify is beta-testing a new feature called Artist Profile Protection that lets artists review releases before they go live. Sometimes songs end up on the wrong artist pages because of metadata mixups or shared names. B…",
+          "published_at": "2026-03-26T21:44:37Z",
+          "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-25-spotify-is-letting-artists-manually-approve-releases-to"
+          "id": "theverge-2026-03-26-google-is-making-it-easier-to-import-another"
         },
         {
-          "title": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
-          "url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
           "source": "The Verge",
-          "published_at": "2026-03-25T20:36:58Z",
-          "summary": "Razer is giving its Blade 16 gaming laptop a speed and battery boost for 2026. The high-end gaming laptop keeps the same thin chassis and RTX 50-series GPU options as last year's model, but it's now making the switch fro…",
+          "published_at": "2026-03-26T21:31:27Z",
+          "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Go…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-25-razer-s-new-blade-16-gaming-laptop-has"
+          "id": "theverge-2026-03-26-apple-will-reportedly-allow-other-ai-chatbots-to"
         },
         {
-          "title": "The surprise hit Nex Playground is the latest console to get a price hike",
-          "url": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
+          "title": "Anker’s wireless charging pad offers Qi2 speeds for $15",
+          "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_at": "2026-03-25T20:25:10Z",
-          "summary": "Everything about video games is getting more expensive, and soon that will include a budget-friendly console. The Nex Playground - a Kinect-like device aimed at families that made headlines by outselling the Xbox over th…",
+          "published_at": "2026-03-26T21:00:00Z",
+          "summary": "I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow always ends up on the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-25-the-surprise-hit-nex-playground-is-the-latest"
+          "id": "theverge-2026-03-26-anker-s-wireless-charging-pad-offers-qi2-speeds"
         },
         {
-          "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
-          "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
           "source": "The Verge",
-          "published_at": "2026-03-25T20:02:48Z",
-          "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-g…",
+          "published_at": "2026-03-26T20:51:31Z",
+          "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jaz…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-25-disney-s-big-bets-on-the-metaverse-and"
+          "id": "theverge-2026-03-26-apple-s-ai-playlist-playground-is-bad-at"
         },
         {
-          "title": "Woot is offering over 20 percent off Switch 2 controllers and games today",
-          "url": "https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals",
+          "title": "Streaming keeps getting more expensive: all the latest price hikes",
+          "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
           "source": "The Verge",
-          "published_at": "2026-03-25T19:04:34Z",
-          "summary": "Woot is running a day-long sale coinciding with the start of Amazon’s Big Spring Sale. Many products across multiple tech categories are discounted, including dozens of video games and accessories. What’s more, you can g…",
+          "published_at": "2026-03-26T19:13:26Z",
+          "summary": "Death. Taxes. All your streaming services getting a little more expensive all the time. These are the new certainties in life, it seems. Netflix has raised the cost of its subscription repeatedly in recent years. Disney …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-25-woot-is-offering-over-20-percent-off-switch"
+          "id": "theverge-2026-03-26-streaming-keeps-getting-more-expensive-all-the-latest"
+        },
+        {
+          "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
+          "url": "https://www.xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion",
+          "source": "Xataka",
+          "published_at": "2026-03-26T17:00:13Z",
+          "summary": "En los últimos años, el coste de muchos drones se ha reducido hasta el punto de que muchos modelos militares son infinitamente más baratos que el misil que intenta derribarlos. Al mismo tiempo, los avances en inteligenci…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-26-china-acaba-de-ensenarle-al-mundo-lo-que"
+        },
+        {
+          "title": "Cursos gratis de Claude creados por Anthropic: 15 cursos oficiales con certificación para aprender y exprimir su IA",
+          "url": "https://www.xataka.com/basics/cursos-gratis-claude-creados-anthropic-15-cursos-oficiales-certificacion-para-aprender-exprimir-su-ia",
+          "source": "Xataka",
+          "published_at": "2026-03-26T13:04:35Z",
+          "summary": "Te traemos una colección de 15 cursos gratis de Claude creados por Anthropic , la empresa creadora de Claude . Son cursos autoguiados, gratuitos, y otorgan una certificación oficial de Anthropic cuando los terminas. Tamp…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-26-cursos-gratis-de-claude-creados-por-anthropic-15"
+        },
+        {
+          "title": "Las mejores alternativas a Sora para crear vídeos con inteligencia artificial",
+          "url": "https://www.xataka.com/basics/mejores-alternativas-a-sora-para-crear-videos-inteligencia-artificial",
+          "source": "Xataka",
+          "published_at": "2026-03-26T11:14:38Z",
+          "summary": "Ahora que OpenAI ha decidido cerrar Sora , se abre la puerta para encontrar alternativas para crear vídeos con IA que intenten estar a la altura. No es fácil, porque modelos como Sora 2 estaban ofreciendo unos resultados…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-26-las-mejores-alternativas-a-sora-para-crear-videos"
         },
         {
           "title": "Lista de equipaje con Claude: cómo crear una lista interactiva para que no se te olvide las cosas que llevar en la maleta",
@@ -342,97 +420,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-25-lista-de-equipaje-con-claude-como-crear-una"
-        },
-        {
-          "title": "El mejor matemático del mundo está resolviendo uno de los problemas más complejos de la historia con un aliado: la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/terence-tao-mejor-matematico-mundo-ha-reconocido-que-esta-usando-ia-para-resolver-uno-problemas-milenio",
-          "source": "Xataka",
-          "published_at": "2026-03-24T16:30:00Z",
-          "summary": "Afirmar con rotundidad qué persona es la mejor del mundo en algo es arriesgado. Si nos ceñimos a la investigación de vanguardia en el ámbito de las matemáticas el alemán Peter Scholze, el británico James Maynard o el chi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-el-mejor-matematico-del-mundo-esta-resolviendo-uno"
-        },
-        {
-          "title": "Qué tener en cuenta y peligros al usar la inteligencia artificial para hacer tu declaración de la Renta",
-          "url": "https://www.xataka.com/basics/que-tener-cuenta-peligros-al-usar-inteligencia-artificial-para-hacer-tu-declaracion-renta",
-          "source": "Xataka",
-          "published_at": "2026-03-24T13:04:59Z",
-          "summary": "Estamos en plena era de la inteligencia artificial , donde ya está normalizado el uso de Chatbots de IA como Claude , ChatGPT o Gemini para ayudarnos con muchas cosas. Sin embargo, usar la IA para la declaración de la Re…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-que-tener-en-cuenta-y-peligros-al-usar"
-        },
-        {
-          "title": "Tras seis años de silenciosa planificación, Huawei ya tiene listo su gran movimiento: destronar a NVIDIA",
-          "url": "https://www.xataka.com/robotica-e-ia/huawei-lleva-seis-anos-maquinando-plan-ahora-estan-listos-destronar-a-indestronable-nvidia",
-          "source": "Xataka",
-          "published_at": "2026-03-24T12:00:00Z",
-          "summary": "Con el inicio de la guerra tecnológica entre Estados Unidos y China, a Huawei se le dio una misión: convertirse en la punta de lanza de las tecnológicas chinas. Tras unos primeros años duros que fueron como una peregrina…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-tras-seis-anos-de-silenciosa-planificacion-huawei-ya"
-        },
-        {
-          "title": "Cómo usar Claude en Excel: cómo activar esta función de la inteligencia artificial en Office",
-          "url": "https://www.xataka.com/basics/como-usar-claude-excel-como-activar-esta-funcion-inteligencia-artificial-office",
-          "source": "Xataka",
-          "published_at": "2026-03-24T11:30:52Z",
-          "summary": "Vamos a explicarte cómo usar Claude en Excel , de forma que puedas usar esta inteligencia artificial en tus hojas de cálculo. Se trata de una extensión de Claude exclusiva para usar en Microsoft Excel, tanto en las versi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-como-usar-claude-en-excel-como-activar-esta"
-        },
-        {
-          "title": "Según Jensen Huang ya hemos llegado a la AGI: el problema es que de momento solo sirve para alimentar Tamagotchis",
-          "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi",
-          "source": "Xataka",
-          "published_at": "2026-03-24T10:30:00Z",
-          "summary": "La inteligencia artificial se ha convertido en una liga de fútbol. Hay divisiones en las que se persiguen títulos como tener &nbsp;la IA más potente , la más rápida, la más capaz en una tarea concreta o la más polivalent…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-segun-jensen-huang-ya-hemos-llegado-a-la"
-        },
-        {
-          "title": "A OpenAI se le multiplican los problemas en la carrera por la IA. Su solución: pasar de 4.500 a 8.000 trabajadores",
-          "url": "https://www.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla",
-          "source": "Xataka",
-          "published_at": "2026-03-24T09:30:00Z",
-          "summary": "OpenAI acaba de darse cuenta de que habían estado &nbsp;lanzando productos sin ton ni son y necesitan enfocarse en algo. Y ese algo es el sector empresarial, donde una Anthropic con un plan de negocio mucho más claro les…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-a-openai-se-le-multiplican-los-problemas-en"
-        },
-        {
-          "title": "\"Cualquier interacción con ChatGPT está en la nube y eso es arriesgado\": la apuesta de Lenovo por modelos IA en local",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-que-te-conoce-no-te-espia-apuesta-lenovo-para-diferenciarse-mercado-saturado-chatbots",
-          "source": "Xataka",
-          "published_at": "2026-03-24T08:00:00Z",
-          "summary": "Hace menos de un año, los equipos de IA de Lenovo trabajaban en silos, en islas independientes unas de otras. Los ingenieros de los Motorola no hablaban con los de los ThinkPad . Los de las tablets iban a lo suyo. Y las …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-24-cualquier-interaccion-con-chatgpt-esta-en-la-nube"
         }
       ]
     }
@@ -546,19 +533,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-23-creating-with-sora-safely"
-        },
-        {
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "OpenAI",
-          "published_at": "2026-03-19T10:00:00Z",
-          "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-19-how-we-monitor-internal-coding-agents-for-misalignment"
         }
       ]
     },
@@ -585,6 +559,58 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T17:00:00Z",
+          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-watch-james-manyika-talk-ai-and-creativity-with"
+        },
+        {
+          "title": "Transform your headphones into a live personal translator on iOS.",
+          "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T16:00:00Z",
+          "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-transform-your-headphones-into-a-live-personal-translator"
+        },
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T15:21:00Z",
+          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
+        },
+        {
+          "title": "Search Live is expanding globally",
+          "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+          "source": "Google AI",
+          "published_at": "2026-03-26T15:00:00Z",
+          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-03-26-search-live-is-expanding-globally"
+        },
         {
           "title": "Build with Lyria 3, our newest music generation model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
@@ -617,6 +643,32 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "source": "DeepMind",
+          "published_at": "2026-03-26T15:23:35Z",
+          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
+        },
+        {
+          "title": "Protecting people from harmful manipulation",
+          "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "source": "DeepMind",
+          "published_at": "2026-03-25T16:46:20Z",
+          "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-03-25-protecting-people-from-harmful-manipulation"
+        },
         {
           "title": "Lyria 3 Pro: Create longer tracks in more",
           "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
