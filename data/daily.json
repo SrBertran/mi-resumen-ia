@@ -1,72 +1,72 @@
 {
-  "date": "2026-03-27",
-  "generated_at": "2026-03-27T06:50:15.962584Z",
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T06:46:12.613161Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "title": "Sony temporarily suspends memory card sales due to shortages",
+      "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
       "source": "The Verge",
-      "published_at": "2026-03-27T00:33:44Z",
-      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the jud…",
+      "published_at": "2026-03-27T22:21:11Z",
+      "summary": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products includes CFexpress Typ…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-27-judge-sides-with-anthropic-to-temporarily-block-the"
+      "id": "theverge-2026-03-27-sony-temporarily-suspends-memory-card-sales-due-to"
     },
     {
-      "title": "Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage",
-      "url": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
-      "source": "The Verge",
-      "published_at": "2026-03-26T23:53:16Z",
-      "summary": "Federal Communications Commission Chair Brendan Carr never meant to threaten broadcast licenses over their coverage of the war in Iran, he told reporters after an event hosted by FGS and Semafor. \"My comments weren't act…",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "source": "OpenAI",
+      "published_at": "2026-03-27T22:00:00Z",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-03-26-brendan-carr-says-his-broadcast-license-threat-wasn"
+      "category": "lanzamientos",
+      "id": "openai-2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company"
     },
     {
-      "title": "David Sacks is no longer the White House AI and Crypto Czar",
-      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "title": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
+      "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
       "source": "The Verge",
-      "published_at": "2026-03-26T23:40:22Z",
-      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was…",
+      "published_at": "2026-03-27T20:30:00Z",
+      "summary": "If you spend a lot of time presenting or chatting over video, you know how big a difference a decent webcam can make. Thankfully, if you’re looking to level up your setup at home or at work, the last-gen Insta360 Link 2C…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-26-david-sacks-is-no-longer-the-white-house"
+      "id": "theverge-2026-03-27-insta360-s-last-gen-link-2c-is-fantastic-4k"
     },
     {
-      "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
-      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
+      "title": "The White House has an app now, and Trump wants you to report people to ICE on it",
+      "url": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
       "source": "The Verge",
-      "published_at": "2026-03-26T22:30:00Z",
-      "summary": "A good robovac can save you a surprising amount of time. Luckily, Amazon’s Big Spring Sale is a great time to pick one up, as you can currently find deals on everything from basic, budget-friendly robovacs to high-end mo…",
+      "published_at": "2026-03-27T19:59:53Z",
+      "summary": "A new official White House app on Android and iOS takes the content from the White House website and copies it into app format. A tweet announcing the app on Friday morning appeared alongside a video joking about missile…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-26-robot-vacuums-from-eufy-and-roborock-are-over"
+      "id": "theverge-2026-03-27-the-white-house-has-an-app-now-and"
     },
     {
-      "title": "Apple’s Mac Pro is dead, apparently for good this time",
-      "url": "https://www.theverge.com/tech/902050/mac-pro-discontinued",
+      "title": "Wait, the Trump phone might actually exist",
+      "url": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
       "source": "The Verge",
-      "published_at": "2026-03-26T22:21:05Z",
-      "summary": "The most expensive Mac you could get is no longer available on Apple's website, as 9to5Mac reports that the \"cheese grater\" Mac Pro workstation has been discontinued. It had been a part of the lineup since replacing the …",
+      "published_at": "2026-03-27T19:44:05Z",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week I think I've found an FCC listing for the phone, showing it's r…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-26-apple-s-mac-pro-is-dead-apparently-for"
+      "id": "theverge-2026-03-27-wait-the-trump-phone-might-actually-exist"
     }
   ],
   "sections": [
@@ -230,19 +230,6 @@
           "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
         },
         {
-          "title": "Update on the OpenAI Foundation",
-          "url": "https://openai.com/index/update-on-the-openai-foundation",
-          "source": "OpenAI",
-          "published_at": "2026-03-24T09:00:00Z",
-          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-24-update-on-the-openai-foundation"
-        },
-        {
           "title": "Powering product discovery in ChatGPT",
           "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
           "source": "OpenAI",
@@ -254,6 +241,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
+        },
+        {
+          "title": "Update on the OpenAI Foundation",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-update-on-the-openai-foundation"
         },
         {
           "title": "Creating with Sora Safely",
@@ -271,33 +271,38 @@
       ]
     },
     {
+      "name": "Regulación",
+      "items": [
+        {
+          "title": "No contenta con reventar la demanda y los precios de la RAM, la IA ya apunta a otra víctima: las baterías",
+          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-se-han-comido-ram-mundial-ahora-amenazan-comerse-baterias",
+          "source": "Xataka",
+          "published_at": "2026-03-27T08:00:00Z",
+          "summary": "Si la pregunta es “de qué tienen hambre los centros de datos”, la respuesta es un simple “sí”. Llevábamos un tiempo sin hablar de la crisis de la memoria RAM no porque hubiera acabado , sino porque era tontería seguir re…",
+          "why_it_matters": "",
+          "tags": [
+            "regulación"
+          ],
+          "category": "regulación",
+          "id": "xataka-2026-03-27-no-contenta-con-reventar-la-demanda-y-los"
+        }
+      ]
+    },
+    {
       "name": "Investigación",
       "items": [
         {
-          "title": "Training Driving AI at 50,000× Real Time",
-          "url": "https://spectrum.ieee.org/gm-scalable-driving-ai",
+          "title": "How NYU’s Quantum Institute Bridges Science and Application",
+          "url": "https://spectrum.ieee.org/nyu-quantum-institute",
           "source": "IEEE Spectrum",
-          "published_at": "2026-03-25T19:00:05Z",
-          "summary": "This is a sponsored article brought to you by General Motors. Visit their new Engineering Blog for more insights. Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpre…",
+          "published_at": "2026-03-27T10:02:05Z",
+          "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering . Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hospitals. This isn’t …",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-03-25-training-driving-ai-at-50-000x-real-time"
-        },
-        {
-          "title": "What Happens When You Host an AI Café",
-          "url": "https://spectrum.ieee.org/ai-community-engagement",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-03-25T14:00:05Z",
-          "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies a…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-03-25-what-happens-when-you-host-an-ai-cafe"
+          "id": "ieee-2026-03-27-how-nyu-s-quantum-institute-bridges-science-and"
         }
       ]
     },
@@ -305,69 +310,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Google is making it easier to import another AI’s memory into Gemini",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-          "source": "The Verge",
-          "published_at": "2026-03-26T21:44:37Z",
-          "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly …",
+          "title": "Miles de personas se han enamorado de siete perros abandonados y a la fuga en medio de China. Solo era otro vídeo IA",
+          "url": "https://www.xataka.com/magnet/gran-engano-siete-perros-virales-como-economia-clic-ia-se-inventaron-escape-pelicula",
+          "source": "Xataka",
+          "published_at": "2026-03-27T19:31:32Z",
+          "summary": "La imagen era innegablemente poderosa, casi cinematográfica. En la gélida oscuridad de la noche, con temperaturas bajo cero, una manada de siete perros caminaba en formación por el arcén de una autopista. El vídeo de ape…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-26-google-is-making-it-easier-to-import-another"
+          "id": "xataka-2026-03-27-miles-de-personas-se-han-enamorado-de-siete"
         },
         {
-          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
-          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "title": "The latest in data centers, AI, and energy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
           "source": "The Verge",
-          "published_at": "2026-03-26T21:31:27Z",
-          "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Go…",
+          "published_at": "2026-03-27T18:35:53Z",
+          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-26-apple-will-reportedly-allow-other-ai-chatbots-to"
+          "id": "theverge-2026-03-27-the-latest-in-data-centers-ai-and-energy"
         },
         {
-          "title": "Anker’s wireless charging pad offers Qi2 speeds for $15",
-          "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+          "title": "Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off",
+          "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_at": "2026-03-26T21:00:00Z",
-          "summary": "I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow always ends up on the …",
+          "published_at": "2026-03-27T18:30:00Z",
+          "summary": "If you’re constantly switching between working at home and on the go, Anker’s latest 160W Prime Charger can lighten your load by replacing multiple chargers with a single device. It’s normally $149.99, but right now you …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-26-anker-s-wireless-charging-pad-offers-qi2-speeds"
+          "id": "theverge-2026-03-27-anker-s-160w-prime-charger-can-power-three"
         },
         {
-          "title": "Apple’s AI Playlist Playground is bad at music",
-          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "title": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
+          "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_at": "2026-03-26T20:51:31Z",
-          "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jaz…",
+          "published_at": "2026-03-27T16:30:00Z",
+          "summary": "The Nuki Smart Lock is the best retrofit smart lock currently available for people who want a minimalist, feature-packed upgrade to their preexisting deadlock. It’s currently selling for $149 at Amazon — its cheapest pri…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-26-apple-s-ai-playlist-playground-is-bad-at"
+          "id": "theverge-2026-03-27-nuki-s-one-touch-retrofit-smart-lock-got-its"
         },
         {
-          "title": "Streaming keeps getting more expensive: all the latest price hikes",
-          "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
+          "title": "This modular crafting machine can create custom shirts, phone cases, and molds",
+          "url": "https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder",
           "source": "The Verge",
-          "published_at": "2026-03-26T19:13:26Z",
-          "summary": "Death. Taxes. All your streaming services getting a little more expensive all the time. These are the new certainties in life, it seems. Netflix has raised the cost of its subscription repeatedly in recent years. Disney …",
+          "published_at": "2026-03-27T15:32:57Z",
+          "summary": "xTool, a company best known amongst makers for its laser-based cutting and engraving tools, has announced a new multi-function crafting machine called the WonderPress. It's not an all-in-one device that can help you get …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-26-streaming-keeps-getting-more-expensive-all-the-latest"
+          "id": "theverge-2026-03-27-this-modular-crafting-machine-can-create-custom-shirts"
+        },
+        {
+          "title": "We handpicked the 24 best Big Spring Sale deals under $50",
+          "url": "https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026",
+          "source": "The Verge",
+          "published_at": "2026-03-27T14:54:46Z",
+          "summary": "Despite the fact that spring isn’t often associated with big discounts, Amazon seems keen to turn every season into one filled with savings. Case in point? The retailer is currently hosting a spring sales event, which wi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-27-we-handpicked-the-24-best-big-spring-sale"
+        },
+        {
+          "title": "Motorola’s Razr Ultra 2026 might be a hair thicker than last year’s version",
+          "url": "https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked",
+          "source": "The Verge",
+          "published_at": "2026-03-27T14:36:56Z",
+          "summary": "While most flagship phones have been steadily getting slimmer over recent years, the upcoming 2026 version of the Motorola Razr Ultra could end up being a bit chunkier than its predecessor. Leaked measurements of the pho…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-27-motorola-s-razr-ultra-2026-might-be-a"
+        },
+        {
+          "title": "OpenAI Academy: qué es, qué cursos con certificación oficial ofrece y a qué materiales gratuitos puedes acceder",
+          "url": "https://www.xataka.com/basics/openai-academy-que-que-cursos-certificacion-oficial-ofrece-a-que-materiales-gratuitos-puedes-acceder",
+          "source": "Xataka",
+          "published_at": "2026-03-27T13:00:33Z",
+          "summary": "Vamos a decirte qué es y qué ofrece OpenAI Academy , un portal web de los creadores de ChatGPT con muchos recursos gratis para ayudarte a aprender a usar la inteligencia artificial . Tiene herramientas prácticas y recurs…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-27-openai-academy-que-es-que-cursos-con-certificacion"
+        },
+        {
+          "title": "Hasta la web del frutero de tu barrio tiene IA ahora: Wikipedia quiere ser el último bastión de internet 100% humano",
+          "url": "https://www.xataka.com/robotica-e-ia/wikipedia-ha-prohibido-usar-ia-para-escribir-reescribir-articulos-ingles-conocimiento-humano-empieza-a-levantar-barreras",
+          "source": "Xataka",
+          "published_at": "2026-03-27T11:45:00Z",
+          "summary": "La versión en inglés de la Wikipedia acaba de prohibir los artículos hechos con IA. En la última actualización de sus directrices son claros: el contenido generado con modelos de lenguaje viola las políticas de contenido…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-27-hasta-la-web-del-frutero-de-tu-barrio"
+        },
+        {
+          "title": "Millones de personas editan vídeo con CapCut a diario: Bytedance quiere ahora que lo hagan \"vibecodeando\"",
+          "url": "https://www.xataka.com/aplicaciones/editor-video-chino-grande-mundo-tiene-algo-clarisimo-futuro-vibe-editing",
+          "source": "Xataka",
+          "published_at": "2026-03-27T11:00:00Z",
+          "summary": "CapCut es el editor de vídeo más descargado del mundo , y acaba de anticipar hacia dónde se dirige la creación de contenido en redes sociales: un futuro en el que ni siquiera será necesario pasar por la clásica línea de …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-27-millones-de-personas-editan-video-con-capcut-a"
+        },
+        {
+          "title": "A NVIDIA le ha salpicado el escándalo de Super Micro: su gravedad amenaza con la prohibición total de sus GPU en China",
+          "url": "https://www.xataka.com/empresas-y-economia/a-nvidia-le-ha-salpicado-escandalo-super-micro-su-gravedad-amenaza-prohibicion-total-sus-gpu-china",
+          "source": "Xataka",
+          "published_at": "2026-03-27T11:00:00Z",
+          "summary": "Lo que está sucediendo con Super Micro y NVIDIA viene de lejos. El Gobierno de EEUU sospecha desde hace varios años que las compañías y los centros de investigación chinos que se dedican a la inteligencia artificial (IA)…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-27-a-nvidia-le-ha-salpicado-el-escandalo-de"
         },
         {
           "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
@@ -407,19 +490,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-26-las-mejores-alternativas-a-sora-para-crear-videos"
-        },
-        {
-          "title": "Lista de equipaje con Claude: cómo crear una lista interactiva para que no se te olvide las cosas que llevar en la maleta",
-          "url": "https://www.xataka.com/basics/lista-equipaje-claude-como-crear-lista-interactiva-no-se-te-olvide-cosas-que-llevar-maleta",
-          "source": "Xataka",
-          "published_at": "2026-03-25T11:27:58Z",
-          "summary": "Vamos a explicarte cómo crear una lista de equipaje interactiva con todo lo que tienes que llevar en la maleta. Esto lo vamos a hacer con Claude , una inteligencia artificial que creará un módulo con elementos que podrás…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-25-lista-de-equipaje-con-claude-como-crear-una"
         }
       ]
     }
@@ -456,6 +526,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "STADLER reshapes knowledge work at a 230-year-old company",
+          "url": "https://openai.com/index/stadler",
+          "source": "OpenAI",
+          "published_at": "2026-03-27T22:00:00Z",
+          "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company"
+        },
         {
           "title": "Inside our approach to the Model Spec",
           "url": "https://openai.com/index/our-approach-to-the-model-spec",
@@ -496,19 +579,6 @@
           "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
         },
         {
-          "title": "Update on the OpenAI Foundation",
-          "url": "https://openai.com/index/update-on-the-openai-foundation",
-          "source": "OpenAI",
-          "published_at": "2026-03-24T09:00:00Z",
-          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-24-update-on-the-openai-foundation"
-        },
-        {
           "title": "Powering product discovery in ChatGPT",
           "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
           "source": "OpenAI",
@@ -520,6 +590,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
+        },
+        {
+          "title": "Update on the OpenAI Foundation",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-update-on-the-openai-foundation"
         },
         {
           "title": "Creating with Sora Safely",
