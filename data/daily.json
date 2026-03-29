@@ -1,78 +1,91 @@
 {
-  "date": "2026-03-28",
-  "generated_at": "2026-03-28T06:46:12.613161Z",
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T06:47:41.477098Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Sony temporarily suspends memory card sales due to shortages",
-      "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+      "title": "Suno leans into customization with v5.5",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
       "source": "The Verge",
-      "published_at": "2026-03-27T22:21:11Z",
-      "summary": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products includes CFexpress Typ…",
+      "published_at": "2026-03-28T18:33:10Z",
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-27-sony-temporarily-suspends-memory-card-sales-due-to"
+      "id": "theverge-2026-03-28-suno-leans-into-customization-with-v5-5"
     },
     {
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "url": "https://openai.com/index/stadler",
-      "source": "OpenAI",
-      "published_at": "2026-03-27T22:00:00Z",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "openai-2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company"
-    },
-    {
-      "title": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
-      "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
-      "source": "The Verge",
-      "published_at": "2026-03-27T20:30:00Z",
-      "summary": "If you spend a lot of time presenting or chatting over video, you know how big a difference a decent webcam can make. Thankfully, if you’re looking to level up your setup at home or at work, the last-gen Insta360 Link 2C…",
+      "title": "La Agencia Tributaria lleva décadas sin hacer accesible el manual de la declaración de la renta. Un valenciano lo logró en tres horas",
+      "url": "https://www.xataka.com/aplicaciones/estuviese-todo-publicado-github-este-pais-funcionaria-mejor-asi-como-larenta-ha-traducido-al-cristiano-700-paginas-ilegibles",
+      "source": "Xataka",
+      "published_at": "2026-03-28T17:01:32Z",
+      "summary": "\"Javier, ¿ha salido ya el programa PADRE?\". Cada año, a finales de marzo, mi padre —no confundir con mi PADRE— me hacía la misma pregunta, porque yo era como una IA que le alertaba de que por fin se podía poner a hacer l…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-27-insta360-s-last-gen-link-2c-is-fantastic-4k"
+      "id": "xataka-2026-03-28-la-agencia-tributaria-lleva-decadas-sin-hacer-accesible"
     },
     {
-      "title": "The White House has an app now, and Trump wants you to report people to ICE on it",
-      "url": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
+      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "source": "The Verge",
-      "published_at": "2026-03-27T19:59:53Z",
-      "summary": "A new official White House app on Android and iOS takes the content from the White House website and copies it into app format. A tweet announcing the app on Friday morning appeared alongside a video joking about missile…",
+      "published_at": "2026-03-28T16:06:47Z",
+      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through March 31st, the retail behemoth is hoping to lure in would-be sho…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-27-the-white-house-has-an-app-now-and"
+      "id": "theverge-2026-03-28-the-best-deals-we-ve-found-from-amazon"
     },
     {
-      "title": "Wait, the Trump phone might actually exist",
-      "url": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
-      "source": "The Verge",
-      "published_at": "2026-03-27T19:44:05Z",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week I think I've found an FCC listing for the phone, showing it's r…",
+      "title": "Lisa Ann se retiró del porno hace más de una década. La IA le ha dado una segunda carrera sin que tenga que volver a actuar",
+      "url": "https://www.xataka.com/magnet/lisa-ann-se-retiro-porno-hace-decada-ia-le-ha-dado-segunda-carrera-que-tenga-que-volver-a-actuar",
+      "source": "Xataka",
+      "published_at": "2026-03-28T15:31:32Z",
+      "summary": "En la industria del porno , pocas carreras duran tanto como la de Lisa Ann. ue empezó en el cine adulto a mediados de los años 90 y se retiró en 2014, más de dos décadas. Sin embargo, lo que parecía un retiro definitivo …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-27-wait-the-trump-phone-might-actually-exist"
+      "id": "xataka-2026-03-28-lisa-ann-se-retiro-del-porno-hace-mas"
+    },
+    {
+      "title": "Debería ser imposible que un iPhone 17 Pro ejecutara un gigantesco modelo de IA de 400B. Debería",
+      "url": "https://www.xataka.com/robotica-e-ia/deberia-ser-imposible-que-iphone-17-pro-ejecutara-gigantesco-modelo-ia-400b-deberia",
+      "source": "Xataka",
+      "published_at": "2026-03-28T15:01:32Z",
+      "summary": "El iPhone 17 Pro tiene 12 GB de memoria unificada. Es una cifra muy decente para un móvil, pero en teoría absolutamente insuficiente para correr grandes modelos de IA de forma local. Y ahí está la sorpresa: en que un nue…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-03-28-deberia-ser-imposible-que-un-iphone-17-pro"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "STADLER reshapes knowledge work at a 230-year-old company",
+          "url": "https://openai.com/index/stadler",
+          "source": "OpenAI",
+          "published_at": "2026-03-27T22:00:00Z",
+          "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company"
+        },
         {
           "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
@@ -310,6 +323,123 @@
       "name": "General",
       "items": [
         {
+          "title": "SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off",
+          "url": "https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published_at": "2026-03-28T15:00:00Z",
+          "summary": "The SteelSeries Arctis Nova Pro Wireless came out almost four years ago, yet it’s still one of the best gaming headsets you can buy. Turns out, it’s not easy for other companies to duplicate all that SteelSeries got righ…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-steelseries-feature-packed-nova-pro-wireless-headset-is-80"
+        },
+        {
+          "title": "Why can’t TikTok identify AI generated ads when I can?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+          "source": "The Verge",
+          "published_at": "2026-03-28T14:00:00Z",
+          "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that some…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-why-can-t-tiktok-identify-ai-generated-ads"
+        },
+        {
+          "title": "Meta’s legal defeat could be a victory for children, or a loss for everyone",
+          "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
+          "source": "The Verge",
+          "published_at": "2026-03-28T14:00:00Z",
+          "summary": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-meta-s-legal-defeat-could-be-a-victory"
+        },
+        {
+          "title": "A classic Zelda-style adventure, but a lot more cozy",
+          "url": "https://www.theverge.com/games/902384/under-the-island-review",
+          "source": "The Verge",
+          "published_at": "2026-03-28T13:00:00Z",
+          "summary": "The Legend of Zelda games are grand adventures, but they can also be very comforting, with quaint villages to explore and warm landscapes to take in. Under The Island takes that idea a step further. It still offers the s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-a-classic-zelda-style-adventure-but-a-lot-more"
+        },
+        {
+          "title": "Here’s what Verge readers are buying during Amazon’s Big Spring Sale",
+          "url": "https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published_at": "2026-03-28T13:00:00Z",
+          "summary": "We have a pretty good understanding of which deals Verge readers will gravitate toward. After all, what products and services resonate with our audience — and the quality of the deal itself — are what help us determine w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-here-s-what-verge-readers-are-buying-during"
+        },
+        {
+          "title": "Why OpenAI killed Sora",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+          "source": "The Verge",
+          "published_at": "2026-03-28T12:00:00Z",
+          "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-why-openai-killed-sora"
+        },
+        {
+          "title": "The must-have app for frequent flyers",
+          "url": "https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer",
+          "source": "The Verge",
+          "published_at": "2026-03-28T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 121, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, good luck in the Elite Eight, and also you can read all the old editions at the Installer…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-the-must-have-app-for-frequent-flyers"
+        },
+        {
+          "title": "Cómo usar la inteligencia artificial en Semana Santa para ayudarte a organizar tu viaje o tus vacaciones del puente",
+          "url": "https://www.xataka.com/basics/como-usar-inteligencia-artificial-semana-santa-para-ayudarte-a-organizar-tu-viaje-tus-vacaciones-puente",
+          "source": "Xataka",
+          "published_at": "2026-03-28T11:01:32Z",
+          "summary": "Vamos a decirte varias cosas en las que la IA puede ayudarte en Semana Santa . Esto puede abarcar desde las preparaciones previas hasta algunas ayudas una vez estés allí. Ya tienes a tu disposición una gran cantidad de a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-28-como-usar-la-inteligencia-artificial-en-semana-santa"
+        },
+        {
+          "title": "Oppo made the best foldable phone, again",
+          "url": "https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price",
+          "source": "The Verge",
+          "published_at": "2026-03-28T11:00:00Z",
+          "summary": "There are always a few reasons people give for not buying a foldable phone. Some - price, battery life, camera quality - are mostly a matter of manufacturers balancing spec sheets to offset the added cost of the folding …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-28-oppo-made-the-best-foldable-phone-again"
+        },
+        {
           "title": "Miles de personas se han enamorado de siete perros abandonados y a la fuga en medio de China. Solo era otro vídeo IA",
           "url": "https://www.xataka.com/magnet/gran-engano-siete-perros-virales-como-economia-clic-ia-se-inventaron-escape-pelicula",
           "source": "Xataka",
@@ -321,84 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-27-miles-de-personas-se-han-enamorado-de-siete"
-        },
-        {
-          "title": "The latest in data centers, AI, and energy",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-          "source": "The Verge",
-          "published_at": "2026-03-27T18:35:53Z",
-          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-the-latest-in-data-centers-ai-and-energy"
-        },
-        {
-          "title": "Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off",
-          "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
-          "source": "The Verge",
-          "published_at": "2026-03-27T18:30:00Z",
-          "summary": "If you’re constantly switching between working at home and on the go, Anker’s latest 160W Prime Charger can lighten your load by replacing multiple chargers with a single device. It’s normally $149.99, but right now you …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-anker-s-160w-prime-charger-can-power-three"
-        },
-        {
-          "title": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
-          "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
-          "source": "The Verge",
-          "published_at": "2026-03-27T16:30:00Z",
-          "summary": "The Nuki Smart Lock is the best retrofit smart lock currently available for people who want a minimalist, feature-packed upgrade to their preexisting deadlock. It’s currently selling for $149 at Amazon — its cheapest pri…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-nuki-s-one-touch-retrofit-smart-lock-got-its"
-        },
-        {
-          "title": "This modular crafting machine can create custom shirts, phone cases, and molds",
-          "url": "https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder",
-          "source": "The Verge",
-          "published_at": "2026-03-27T15:32:57Z",
-          "summary": "xTool, a company best known amongst makers for its laser-based cutting and engraving tools, has announced a new multi-function crafting machine called the WonderPress. It's not an all-in-one device that can help you get …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-this-modular-crafting-machine-can-create-custom-shirts"
-        },
-        {
-          "title": "We handpicked the 24 best Big Spring Sale deals under $50",
-          "url": "https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026",
-          "source": "The Verge",
-          "published_at": "2026-03-27T14:54:46Z",
-          "summary": "Despite the fact that spring isn’t often associated with big discounts, Amazon seems keen to turn every season into one filled with savings. Case in point? The retailer is currently hosting a spring sales event, which wi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-we-handpicked-the-24-best-big-spring-sale"
-        },
-        {
-          "title": "Motorola’s Razr Ultra 2026 might be a hair thicker than last year’s version",
-          "url": "https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked",
-          "source": "The Verge",
-          "published_at": "2026-03-27T14:36:56Z",
-          "summary": "While most flagship phones have been steadily getting slimmer over recent years, the upcoming 2026 version of the Motorola Razr Ultra could end up being a bit chunkier than its predecessor. Leaked measurements of the pho…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-27-motorola-s-razr-ultra-2026-might-be-a"
         },
         {
           "title": "OpenAI Academy: qué es, qué cursos con certificación oficial ofrece y a qué materiales gratuitos puedes acceder",
@@ -427,19 +479,6 @@
           "id": "xataka-2026-03-27-hasta-la-web-del-frutero-de-tu-barrio"
         },
         {
-          "title": "Millones de personas editan vídeo con CapCut a diario: Bytedance quiere ahora que lo hagan \"vibecodeando\"",
-          "url": "https://www.xataka.com/aplicaciones/editor-video-chino-grande-mundo-tiene-algo-clarisimo-futuro-vibe-editing",
-          "source": "Xataka",
-          "published_at": "2026-03-27T11:00:00Z",
-          "summary": "CapCut es el editor de vídeo más descargado del mundo , y acaba de anticipar hacia dónde se dirige la creación de contenido en redes sociales: un futuro en el que ni siquiera será necesario pasar por la clásica línea de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-27-millones-de-personas-editan-video-con-capcut-a"
-        },
-        {
           "title": "A NVIDIA le ha salpicado el escándalo de Super Micro: su gravedad amenaza con la prohibición total de sus GPU en China",
           "url": "https://www.xataka.com/empresas-y-economia/a-nvidia-le-ha-salpicado-escandalo-super-micro-su-gravedad-amenaza-prohibicion-total-sus-gpu-china",
           "source": "Xataka",
@@ -453,43 +492,17 @@
           "id": "xataka-2026-03-27-a-nvidia-le-ha-salpicado-el-escandalo-de"
         },
         {
-          "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
-          "url": "https://www.xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion",
+          "title": "Millones de personas editan vídeo con CapCut a diario: Bytedance quiere ahora que lo hagan \"vibecodeando\"",
+          "url": "https://www.xataka.com/aplicaciones/editor-video-chino-grande-mundo-tiene-algo-clarisimo-futuro-vibe-editing",
           "source": "Xataka",
-          "published_at": "2026-03-26T17:00:13Z",
-          "summary": "En los últimos años, el coste de muchos drones se ha reducido hasta el punto de que muchos modelos militares son infinitamente más baratos que el misil que intenta derribarlos. Al mismo tiempo, los avances en inteligenci…",
+          "published_at": "2026-03-27T11:00:00Z",
+          "summary": "CapCut es el editor de vídeo más descargado del mundo , y acaba de anticipar hacia dónde se dirige la creación de contenido en redes sociales: un futuro en el que ni siquiera será necesario pasar por la clásica línea de …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-26-china-acaba-de-ensenarle-al-mundo-lo-que"
-        },
-        {
-          "title": "Cursos gratis de Claude creados por Anthropic: 15 cursos oficiales con certificación para aprender y exprimir su IA",
-          "url": "https://www.xataka.com/basics/cursos-gratis-claude-creados-anthropic-15-cursos-oficiales-certificacion-para-aprender-exprimir-su-ia",
-          "source": "Xataka",
-          "published_at": "2026-03-26T13:04:35Z",
-          "summary": "Te traemos una colección de 15 cursos gratis de Claude creados por Anthropic , la empresa creadora de Claude . Son cursos autoguiados, gratuitos, y otorgan una certificación oficial de Anthropic cuando los terminas. Tamp…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-26-cursos-gratis-de-claude-creados-por-anthropic-15"
-        },
-        {
-          "title": "Las mejores alternativas a Sora para crear vídeos con inteligencia artificial",
-          "url": "https://www.xataka.com/basics/mejores-alternativas-a-sora-para-crear-videos-inteligencia-artificial",
-          "source": "Xataka",
-          "published_at": "2026-03-26T11:14:38Z",
-          "summary": "Ahora que OpenAI ha decidido cerrar Sora , se abre la puerta para encontrar alternativas para crear vídeos con IA que intenten estar a la altura. No es fácil, porque modelos como Sora 2 estaban ofreciendo unos resultados…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-26-las-mejores-alternativas-a-sora-para-crear-videos"
+          "id": "xataka-2026-03-27-millones-de-personas-editan-video-con-capcut-a"
         }
       ]
     }
