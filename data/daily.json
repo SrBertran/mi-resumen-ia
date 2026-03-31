@@ -1,78 +1,91 @@
 {
-  "date": "2026-03-30",
-  "generated_at": "2026-03-30T07:02:54.390050Z",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T06:53:38.034415Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "All the latest in AI &#8216;music&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "title": "150 million users later, Roblox competitor Rec Room is shutting down",
+      "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
       "source": "The Verge",
-      "published_at": "2026-03-30T01:32:14Z",
-      "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fe…",
+      "published_at": "2026-03-31T00:29:33Z",
+      "summary": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-30-all-the-latest-in-ai-8216-music-8217"
+      "id": "theverge-2026-03-31-150-million-users-later-roblox-competitor-rec-room"
     },
     {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "source": "OpenAI",
-      "published_at": "2026-03-29T22:15:00Z",
-      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "openai-2026-03-29-helping-disaster-response-teams-turn-ai-into-action"
-    },
-    {
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "title": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
       "source": "The Verge",
-      "published_at": "2026-03-29T21:44:41Z",
-      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is …",
+      "published_at": "2026-03-30T23:28:48Z",
+      "summary": "Amazon’s Big Spring Sale is underway, so naturally, a lot of the deals are geared toward the season, including plenty of gadgets to help with spring cleaning. We’ve already rounded up a selection of great robot vacuum de…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-29-bluesky-s-new-app-is-an-ai-for"
+      "id": "theverge-2026-03-30-here-are-our-favorite-spring-cleaning-deals-from"
     },
     {
-      "title": "Red Rooms makes online poker as thrilling as its serial killer",
-      "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
-      "source": "The Verge",
-      "published_at": "2026-03-29T19:45:00Z",
-      "summary": "It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a …",
+      "title": "La IA ya dominaba el ajedrez. Ahora nos está obligando a jugar de otra manera para seguir compitiendo",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo",
+      "source": "Xataka",
+      "published_at": "2026-03-30T20:00:38Z",
+      "summary": "Hay algo casi universal en cómo entendemos el ajedrez. Lo imaginamos como un duelo de inteligencia pura, dos jugadores frente a un tablero, intentando anticiparse, leer al rival y encontrar la mejor respuesta en cada mom…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-29-red-rooms-makes-online-poker-as-thrilling-as"
+      "id": "xataka-2026-03-30-la-ia-ya-dominaba-el-ajedrez-ahora-nos"
     },
     {
-      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "title": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
       "source": "The Verge",
-      "published_at": "2026-03-29T16:30:17Z",
-      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through March 31st, the retail behemoth is hoping to lure in would-be sho…",
+      "published_at": "2026-03-30T19:47:46Z",
+      "summary": "There are so many great smart locks out there. But one of best models that iPhone owners should consider buying now is Aqara’s U400, which offers hands-free unlocking when you get close enough. It has Apple’s U1 ultra-wi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-03-29-the-best-deals-we-ve-found-from-amazon"
+      "id": "theverge-2026-03-30-the-first-apple-home-key-ready-smart-lock-with"
+    },
+    {
+      "title": "“Compramos prácticamente cualquier PC”: una tienda japonesa ruega a sus clientes que le vendan sus equipos usados",
+      "url": "https://www.xataka.com/componentes/compramos-practicamente-cualquier-pc-tienda-japonesa-ruega-a-sus-clientes-que-le-vendan-sus-equipos-usados",
+      "source": "Xataka",
+      "published_at": "2026-03-30T18:00:37Z",
+      "summary": "Montar un ordenador hoy es más complicado y más caro de lo que era hace apenas unos meses. No se trata solo de que algunos componentes escaseen, sino de que el equilibrio del mercado se ha desplazado y está afectando de …",
+      "why_it_matters": "",
+      "tags": [
+        "negocio"
+      ],
+      "category": "negocio",
+      "id": "xataka-2026-03-30-compramos-practicamente-cualquier-pc-una-tienda-japonesa-ruega"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Helping disaster response teams turn AI into action across Asia",
+          "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "source": "OpenAI",
+          "published_at": "2026-03-29T22:15:00Z",
+          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-29-helping-disaster-response-teams-turn-ai-into-action"
+        },
         {
           "title": "STADLER reshapes knowledge work at a 230-year-old company",
           "url": "https://openai.com/index/stadler",
@@ -243,19 +256,6 @@
           "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
         },
         {
-          "title": "Powering product discovery in ChatGPT",
-          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-03-24T09:00:00Z",
-          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
-        },
-        {
           "title": "Update on the OpenAI Foundation",
           "url": "https://openai.com/index/update-on-the-openai-foundation",
           "source": "OpenAI",
@@ -267,12 +267,69 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-24-update-on-the-openai-foundation"
+        },
+        {
+          "title": "Powering product discovery in ChatGPT",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
+        {
+          "title": "Se suponía que la salvaje inversión en centros de datos había aumentado el PIB de EEUU. La realidad: \"básicamente cero\"",
+          "url": "https://www.xataka.com/empresas-y-economia/sabemos-que-ia-aporto-a-economia-eeuu-2025-basicamente-cero",
+          "source": "Xataka",
+          "published_at": "2026-03-29T14:30:00Z",
+          "summary": "En 2025, en EEUU, se inviertieron 410.000 millones en IA y el plan de las grandes tecnológicas es gastar unos 650.000 millones en 2026 (millar arriba, millar abajo). La promesa detrás de esta locura es que la IA es sinón…",
+          "why_it_matters": "",
+          "tags": [
+            "negocio"
+          ],
+          "category": "negocio",
+          "id": "xataka-2026-03-29-se-suponia-que-la-salvaje-inversion-en-centros"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "A new manufacturing process uses lasers to seal paper packaging instead of glue",
+          "url": "https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling",
+          "source": "The Verge",
+          "published_at": "2026-03-30T16:01:01Z",
+          "summary": "Although paper is a more environmentally friendly packaging material than plastic, it's often contaminated with additives, such as adhesives used to create a secure seal. That complicates the recycling process and reduce…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "theverge-2026-03-30-a-new-manufacturing-process-uses-lasers-to-seal"
+        },
+        {
+          "title": "The AI Data Centers That Fit on a Truck",
+          "url": "https://spectrum.ieee.org/modular-data-center",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-03-30T14:00:02Z",
+          "summary": "A traditional data center protects the expensive hardware inside it with a “shell” constructed from steel and concrete. Constructing a data center’s shell is inexpensive compared to the cost of the hardware and infrastru…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-03-30-the-ai-data-centers-that-fit-on-a"
+        },
         {
           "title": "Why Are Large Language Models so Terrible at Video Games?",
           "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
@@ -292,69 +349,160 @@
       "name": "General",
       "items": [
         {
-          "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
-          "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
+          "title": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
+          "url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_at": "2026-03-29T15:00:00Z",
-          "summary": "The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC (and writing saves back to carts again!), it can now …",
+          "published_at": "2026-03-30T17:38:08Z",
+          "summary": "For iPhone owners, the AirPods Pro 3 are a fantastic all-around set of wireless earbuds, even for working out. Their value is especially tough to beat at $199.99; however, even with five sizes of silicone tips, they aren…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-29-can-my-favorite-game-boy-gadget-tell-fake"
+          "id": "theverge-2026-03-30-beats-gym-friendly-powerbeats-fit-are-30-off-for"
         },
         {
-          "title": "Ya sabemos lo que la IA aportó a la economía de EEUU en 2025: \"básicamente cero\"",
-          "url": "https://www.xataka.com/empresas-y-economia/sabemos-que-ia-aporto-a-economia-eeuu-2025-basicamente-cero",
+          "title": "A new RCS update could connect iPhone and Android video calls, someday",
+          "url": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
+          "source": "The Verge",
+          "published_at": "2026-03-30T17:19:31Z",
+          "summary": "iPhone and Android users might be able to make interoperable video calls through their messaging apps - eventually. Last week, the GSM Association (GSMA) announced that the finalized RCS Universal Profile 4.0 standard wi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-30-a-new-rcs-update-could-connect-iphone-and"
+        },
+        {
+          "title": "Dyson&#8217;s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off",
+          "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-03-30T16:27:31Z",
+          "summary": "Robot vacuums are great for keeping floors clean on a regular basis, but they don’t catch everything. If you’re looking for a tool to handle the finer details your robovac might miss — room corners, edges, hard stairs, e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-30-dyson-8217-s-ultra-thin-pencilvac-fluffycones-is-tougher"
+        },
+        {
+          "title": "The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar",
+          "url": "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar",
+          "source": "The Verge",
+          "published_at": "2026-03-30T15:52:41Z",
+          "summary": "The launch of the Google Pixel 11 is still months away, but leaked renders shared by Android Headlines may give us an idea of what to expect. Based on the images, the Pixel 11 could come with slimmer bezels than its pred…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-30-the-latest-pixel-11-leak-shows-slimmer-bezels"
+        },
+        {
+          "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+          "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+          "source": "The Verge",
+          "published_at": "2026-03-30T15:15:00Z",
+          "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login manag…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-30-okta-8217-s-ceo-is-betting-big-on"
+        },
+        {
+          "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+          "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published_at": "2026-03-30T15:05:00Z",
+          "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through tomorrow, March 31st, the retail behemoth is hoping to lure in wo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-03-30-the-best-deals-we-ve-found-from-amazon"
+        },
+        {
+          "title": "\"Me preocupa que la gente deje de lidiar con situaciones difíciles\": la IA nos está inmunizando contra opiniones contrarias",
+          "url": "https://www.xataka.com/robotica-e-ia/chatbots-ia-aduladores-que-humanos-dando-consejos-personales-eso-problemon",
           "source": "Xataka",
-          "published_at": "2026-03-29T14:31:32Z",
-          "summary": "En 2025, en EEUU, se inviertieron 410.000 millones en IA y el plan de las grandes tecnológicas es gastar unos 650.000 millones en 2026 (millar arriba, millar abajo). La promesa detrás de esta locura es que la IA es sinón…",
+          "published_at": "2026-03-30T14:00:00Z",
+          "summary": "Antes, para crear tu cámara de eco podías seguir sólo a personas que pensaran como tú en redes, ahora puedes crear tu propia cámara de eco personalizada con una IA. Un estudio de Stanford ha analizado a fondo la excesiva…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-03-29-ya-sabemos-lo-que-la-ia-aporto-a"
+          "id": "xataka-2026-03-30-me-preocupa-que-la-gente-deje-de-lidiar"
         },
         {
-          "title": "There is no ethical consumption of HBO’s Harry Potter series",
-          "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
-          "source": "The Verge",
-          "published_at": "2026-03-29T14:00:00Z",
-          "summary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hit that captures the …",
+          "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
+          "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio",
+          "source": "Xataka",
+          "published_at": "2026-03-30T13:30:00Z",
+          "summary": "Da igual el producto tecnológico del que hablemos, porque importa tanto el producto como cómo te lo venden. Y aquí hacer promesas y genera expectativas es la estrategia clásica. El próximo procesador va a ser más potente…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-29-there-is-no-ethical-consumption-of-hbo-s"
+          "id": "xataka-2026-03-30-hay-un-nueva-generacion-de-modelos-ia-a"
         },
         {
-          "title": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
-          "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
-          "source": "The Verge",
-          "published_at": "2026-03-29T13:00:00Z",
-          "summary": "Bird feeders have come a long way since their inception in the early 1900s. These days, it’s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you’ll find on feeders fro…",
+          "title": "Buenas noticias, Mistral tiene 830 millones de dólares para crear centros de datos \"europeos\". Malas noticias, es dinero \"americano\"",
+          "url": "https://www.xataka.com/robotica-e-ia/startup-francesa-ia-que-se-beneficia-caos-geopolitico-acaba-levantar-830-millones-dolares-para-centros-datos-europeos",
+          "source": "Xataka",
+          "published_at": "2026-03-30T13:15:00Z",
+          "summary": "La startup francesa Mistral ha levantado 830 millones de dólares y lo ha hecho con un objetivo: crear centros de datos de IA en Europa que eso sí, estarán basados en chips y soluciones tecnológicas de NVIDIA. Eso son bue…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-29-amazon-s-big-spring-sale-is-a-great"
+          "id": "xataka-2026-03-30-buenas-noticias-mistral-tiene-830-millones-de-dolares"
         },
         {
-          "title": "The Macintosh changed computers forever",
-          "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
-          "source": "The Verge",
-          "published_at": "2026-03-29T12:30:36Z",
-          "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his leg…",
+          "title": "Cómo crear una ilustración de papel recortado a partir de tus fotos con inteligencia artificial, usando ChatGPT o Gemini",
+          "url": "https://www.xataka.com/basics/como-crear-ilustracion-papel-recortado-a-partir-tus-fotos-inteligencia-artificial-usando-chatgpt-gemini",
+          "source": "Xataka",
+          "published_at": "2026-03-30T12:18:25Z",
+          "summary": "Vamos a decirte cómo crear una ilustración de papel recortado a partir de tus fotos usando inteligencia artificial. Te vamos a decir un prompt que vas a poder usar tanto en ChatGPT como en Gemini, aunque el resultado pue…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-03-29-the-macintosh-changed-computers-forever"
+          "id": "xataka-2026-03-30-como-crear-una-ilustracion-de-papel-recortado-a"
+        },
+        {
+          "title": "API de Qwen: qué es, para qué sirve, precios y cómo puedes obtener una para usarla en tus proyectos",
+          "url": "https://www.xataka.com/basics/api-qwen-que-sirve-precios-como-puedes-obtener-para-usarla-tus-proyectos",
+          "source": "Xataka",
+          "published_at": "2026-03-30T11:28:44Z",
+          "summary": "Vamos a explicarte&nbsp; qué es y cómo obtener una API de Qwen . Se trata de un código esencial para poder vincular sus modelos de&nbsp; inteligencia artificial &nbsp;a la hora de desarrollar una app o crear un&nbsp; flu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-30-api-de-qwen-que-es-para-que-sirve"
+        },
+        {
+          "title": "La industria de la RAM afronta su \"momento DeepSeek\": TurboQuant de Google es un cambio de paradigma radical",
+          "url": "https://www.xataka.com/robotica-e-ia/google-ha-logrado-que-ia-consuma-seis-veces-memoria-micron-samsung-sk-hynix-estan-pagando-muy-caro",
+          "source": "Xataka",
+          "published_at": "2026-03-30T07:32:00Z",
+          "summary": "Llevamos meses envueltos en la crisis de la memoria , pero quizás haya una salida. La semana pasada Google Research publicó un estudio en el que desvelaba una técnica llamada TurboQuant. Se trata de un algoritmo de compr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-03-30-la-industria-de-la-ram-afronta-su-momento"
         },
         {
           "title": "Cómo crear una aplicación en Google AI Studio gratis y de forma sencilla",
@@ -368,97 +516,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-03-29-como-crear-una-aplicacion-en-google-ai-studio"
-        },
-        {
-          "title": "Apple’s long, bitter App Store antitrust war",
-          "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
-          "source": "The Verge",
-          "published_at": "2026-03-29T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM E…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-29-apple-s-long-bitter-app-store-antitrust-war"
-        },
-        {
-          "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
-          "url": "https://www.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta",
-          "source": "Xataka",
-          "published_at": "2026-03-29T10:01:32Z",
-          "summary": "NVIDIA ya no es una compañía de tarjetas gráficas para videojuegos: NVIDIA es una compañía ubicua. Eso quiere decir que es el bebé en el bautizo, la novia en la boda y el cemento de la industria de la inteligencia artifi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-29-las-big-tech-han-confiado-las-llaves-de"
-        },
-        {
-          "title": "Suno leans into customization with v5.5",
-          "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-          "source": "The Verge",
-          "published_at": "2026-03-28T18:33:10Z",
-          "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-03-28-suno-leans-into-customization-with-v5-5"
-        },
-        {
-          "title": "La Agencia Tributaria lleva décadas sin hacer accesible el manual de la declaración de la renta. Un valenciano lo logró en tres horas",
-          "url": "https://www.xataka.com/aplicaciones/estuviese-todo-publicado-github-este-pais-funcionaria-mejor-asi-como-larenta-ha-traducido-al-cristiano-700-paginas-ilegibles",
-          "source": "Xataka",
-          "published_at": "2026-03-28T17:01:32Z",
-          "summary": "\"Javier, ¿ha salido ya el programa PADRE?\". Cada año, a finales de marzo, mi padre —no confundir con mi PADRE— me hacía la misma pregunta, porque yo era como una IA que le alertaba de que por fin se podía poner a hacer l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-28-la-agencia-tributaria-lleva-decadas-sin-hacer-accesible"
-        },
-        {
-          "title": "Lisa Ann se retiró del porno hace más de una década. La IA le ha dado una segunda carrera sin que tenga que volver a actuar",
-          "url": "https://www.xataka.com/magnet/lisa-ann-se-retiro-porno-hace-decada-ia-le-ha-dado-segunda-carrera-que-tenga-que-volver-a-actuar",
-          "source": "Xataka",
-          "published_at": "2026-03-28T15:31:32Z",
-          "summary": "En la industria del porno , pocas carreras duran tanto como la de Lisa Ann. ue empezó en el cine adulto a mediados de los años 90 y se retiró en 2014, más de dos décadas. Sin embargo, lo que parecía un retiro definitivo …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-28-lisa-ann-se-retiro-del-porno-hace-mas"
-        },
-        {
-          "title": "Debería ser imposible que un iPhone 17 Pro ejecutara un gigantesco modelo de IA de 400B. Debería",
-          "url": "https://www.xataka.com/robotica-e-ia/deberia-ser-imposible-que-iphone-17-pro-ejecutara-gigantesco-modelo-ia-400b-deberia",
-          "source": "Xataka",
-          "published_at": "2026-03-28T15:01:32Z",
-          "summary": "El iPhone 17 Pro tiene 12 GB de memoria unificada. Es una cifra muy decente para un móvil, pero en teoría absolutamente insuficiente para correr grandes modelos de IA de forma local. Y ahí está la sorpresa: en que un nue…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-28-deberia-ser-imposible-que-un-iphone-17-pro"
-        },
-        {
-          "title": "Cómo usar la inteligencia artificial en Semana Santa para ayudarte a organizar tu viaje o tus vacaciones del puente",
-          "url": "https://www.xataka.com/basics/como-usar-inteligencia-artificial-semana-santa-para-ayudarte-a-organizar-tu-viaje-tus-vacaciones-puente",
-          "source": "Xataka",
-          "published_at": "2026-03-28T11:01:32Z",
-          "summary": "Vamos a decirte varias cosas en las que la IA puede ayudarte en Semana Santa . Esto puede abarcar desde las preparaciones previas hasta algunas ayudas una vez estés allí. Ya tienes a tu disposición una gran cantidad de a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-28-como-usar-la-inteligencia-artificial-en-semana-santa"
         }
       ]
     }
@@ -561,19 +618,6 @@
           "id": "openai-2026-03-24-helping-developers-build-safer-ai-experiences-for-teens"
         },
         {
-          "title": "Powering product discovery in ChatGPT",
-          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-03-24T09:00:00Z",
-          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
-        },
-        {
           "title": "Update on the OpenAI Foundation",
           "url": "https://openai.com/index/update-on-the-openai-foundation",
           "source": "OpenAI",
@@ -585,6 +629,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-24-update-on-the-openai-foundation"
+        },
+        {
+          "title": "Powering product discovery in ChatGPT",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-03-24T09:00:00Z",
+          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-03-24-powering-product-discovery-in-chatgpt"
         }
       ]
     },
