@@ -1,78 +1,143 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T06:53:16.073607Z",
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T06:50:53.350390Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Trump’s birthright citizenship ban may fail — but the administration already got too far",
-      "url": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+      "title": "AO3 is finally out of beta after 17 years",
+      "url": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit",
       "source": "The Verge",
-      "published_at": "2026-04-01T23:39:15Z",
-      "summary": "On Wednesday morning, the Supreme Court heard arguments in Trump v. Barbara, a case challenging President Donald Trump's 2025 executive order banning birthright citizenship. Justices seemed skeptical of the administratio…",
+      "published_at": "2026-04-02T22:07:58Z",
+      "summary": "Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works - the nonprofit behind the fanfiction site - announced the update on Thursday, which comes 17 years after AO3's launch in 200…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-01-trump-s-birthright-citizenship-ban-may-fail---"
+      "id": "theverge-2026-04-02-ao3-is-finally-out-of-beta-after-17"
     },
     {
-      "title": "NASA launches four astronauts toward the Moon on the Artemis II mission",
-      "url": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+      "title": "PSA: Anyone with a link can view your Granola notes by default",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
       "source": "The Verge",
-      "published_at": "2026-04-01T22:44:30Z",
-      "summary": "NASA's Artemis II flight, which is set to take four astronauts toward the Moon for the first time in more than 50 years, successfully launched on Wednesday evening. The Artemis II mission, part of NASA's Artemis program …",
+      "published_at": "2026-04-02T21:56:16Z",
+      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also use…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-01-nasa-launches-four-astronauts-toward-the-moon-on"
+      "id": "theverge-2026-04-02-psa-anyone-with-a-link-can-view-your"
     },
     {
-      "title": "The Artemis Moon base project is legally dubious",
-      "url": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
+      "title": "Reddit is moving on from r/all",
+      "url": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating",
       "source": "The Verge",
-      "published_at": "2026-04-01T19:05:23Z",
-      "summary": "With NASA planning to launch four astronauts on Wednesday on its Artemis II mission, the race to return to the Moon is back on. The current mission will see astronauts aboard the Orion capsule travel around the Moon befo…",
+      "published_at": "2026-04-02T21:50:53Z",
+      "summary": "Reddit is deprecating r/all, one of its feeds that shows popular posts on the platform, as part of \"ongoing efforts to simplify Reddit and improve Home feed personalization.\" Reddit has offered both r/popular and r/all a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-01-the-artemis-moon-base-project-is-legally-dubious"
+      "id": "theverge-2026-04-02-reddit-is-moving-on-from-r-all"
     },
     {
-      "title": "Everything is iPhone now",
-      "url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
+      "title": "The best AirPods deals you can get right now",
+      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
       "source": "The Verge",
-      "published_at": "2026-04-01T18:02:52Z",
-      "summary": "This is part of our package about Apple's 50th anniversary. Read more here. The thing about the iPhone is that everyone knew it was going to be a big deal, and then it was an even bigger deal than that. Hell, it's still …",
+      "published_at": "2026-04-02T21:19:13Z",
+      "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Pro 3 and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the&#160;AirPods Pr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-01-everything-is-iphone-now"
+      "id": "theverge-2026-04-02-the-best-airpods-deals-you-can-get-right"
     },
     {
-      "title": "April Fools’ Day 2026: the best and cringiest pranks",
-      "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
+      "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
+      "url": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack",
       "source": "The Verge",
-      "published_at": "2026-04-01T17:59:04Z",
-      "summary": "Welcome to the worst day on the internet! As Chaim Gartenberg pointed out years ago, brands and a holiday dedicated to hoaxes are rarely a winning combo. If you’re a company with any kind of social media, internet, or AI…",
+      "published_at": "2026-04-02T20:05:02Z",
+      "summary": "Richard Allen didn't invent the automobile bike rack - his 1967 patent application makes it clear that others came before. But after nearly sixty years selling popular and simple mechanical bike carriers, his company All…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-01-april-fools-day-2026-the-best-and-cringiest"
+      "id": "theverge-2026-04-02-this-bike-rack-pioneer-is-selling-bluetooth-suction"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "source": "DeepMind",
+          "published_at": "2026-04-02T16:00:49Z",
+          "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-04-02-gemma-4-byte-for-byte-the-most-capable"
+        },
+        {
+          "title": "New ways to balance cost and reliability in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+          "source": "Google AI",
+          "published_at": "2026-04-02T16:00:00Z",
+          "summary": "Gemini API Dials",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-02-new-ways-to-balance-cost-and-reliability-in"
+        },
+        {
+          "title": "Create, edit and share videos at no cost in Google Vids",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "source": "Google AI",
+          "published_at": "2026-04-02T16:00:00Z",
+          "summary": "Google Vids logo surrounded by various video editing UI",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-02-create-edit-and-share-videos-at-no-cost"
+        },
+        {
+          "title": "OpenAI acquires TBPN",
+          "url": "https://openai.com/index/openai-acquires-tbpn",
+          "source": "OpenAI",
+          "published_at": "2026-04-02T10:30:00Z",
+          "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-02-openai-acquires-tbpn"
+        },
+        {
+          "title": "Codex now offers more flexible pricing for teams",
+          "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+          "source": "OpenAI",
+          "published_at": "2026-04-02T10:00:00Z",
+          "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-02-codex-now-offers-more-flexible-pricing-for-teams"
+        },
         {
           "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
           "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
@@ -163,77 +228,43 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T17:00:00Z",
-          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "title": "NVIDIA tiene tantísimo dinero que está convirtiéndose en algo distinto: la mayor incubadora de startups del mundo",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-tiene-tantisimo-dinero-que-esta-convirtiendose-algo-que-nadie-imaginaba-mayor-incubadora-startups-mundo",
+          "source": "Xataka",
+          "published_at": "2026-04-02T10:00:56Z",
+          "summary": "En los últimos años, NVIDIA ha pasado de ser una compañía de hardware para videojuegos que hacía cosas interesantes en el campo de la inteligencia artificial a ser, directamente, el pegamento de toda la industria de la I…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-watch-james-manyika-talk-ai-and-creativity-with"
-        },
-        {
-          "title": "Transform your headphones into a live personal translator on iOS.",
-          "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T16:00:00Z",
-          "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-transform-your-headphones-into-a-live-personal-translator"
-        },
-        {
-          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-          "source": "DeepMind",
-          "published_at": "2026-03-26T15:23:35Z",
-          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
-        },
-        {
-          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T15:21:00Z",
-          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
-        },
-        {
-          "title": "Search Live is expanding globally",
-          "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T15:00:00Z",
-          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-search-live-is-expanding-globally"
+          "category": "negocio",
+          "id": "xataka-2026-04-02-nvidia-tiene-tantisimo-dinero-que-esta-convirtiendose-en"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+          "url": "https://huggingface.co/blog/gemma4",
+          "source": "Hugging Face",
+          "published_at": "2026-04-02T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-04-02-welcome-gemma-4-frontier-multimodal-intelligence-on-device"
+        },
         {
           "title": "Holo3: Breaking the Computer Use Frontier",
           "url": "https://huggingface.co/blog/Hcompany/holo3",
@@ -259,19 +290,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-04-01-falcon-perception"
-        },
-        {
-          "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-          "source": "Hugging Face",
-          "published_at": "2026-03-31T15:10:41Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-03-31-granite-4-0-3b-vision-compact-multimodal-intelligence"
         }
       ]
     },
@@ -279,69 +297,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range",
-          "url": "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch",
+          "title": "The ABS Challenge System is exposing the worst umpire in baseball",
+          "url": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball",
           "source": "The Verge",
-          "published_at": "2026-04-01T17:50:15Z",
-          "summary": "At the New York International Auto Show on Wednesday, Kia announced that its compact electric SUV, the EV3, will be available in the US \"in late 2026.\" The EV3 has been available overseas since 2024, when it launched in …",
+          "published_at": "2026-04-02T19:50:41Z",
+          "summary": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor took a foul ball to the mask and had to be helped off the field. It was the cap to what has been a particularly bad week for…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-01-kia-8217-s-compact-ev3-is-coming-to"
+          "id": "theverge-2026-04-02-the-abs-challenge-system-is-exposing-the-worst"
         },
         {
-          "title": "The Shokz OpenRun Pro 2 are now at their lowest price in months",
-          "url": "https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale",
+          "title": "Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public",
+          "url": "https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out",
           "source": "The Verge",
-          "published_at": "2026-04-01T17:11:50Z",
-          "summary": "As the days get warmer, it’s tempting to take your workouts outside. Bone conduction headphones let you listen while staying aware of your surroundings, making them ideal for runs, walks, and more. Through April 7th, Sho…",
+          "published_at": "2026-04-02T19:27:52Z",
+          "summary": "It was late January, and Pinterest engineer Teddy Martin was on edge about recent layoffs at the company. Martin had just survived a round of cuts, but he and other employees were confused about who was being let go and …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-01-the-shokz-openrun-pro-2-are-now-at"
+          "id": "theverge-2026-04-02-pinterest-said-he-violated-laid-off-colleagues-8217-privacy"
         },
         {
-          "title": "I tested a living room full of cheap Ikea speakers against Sonos and Bose",
-          "url": "https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review",
+          "title": "Trump fires US attorney general Pam Bondi",
+          "url": "https://www.theverge.com/policy/905961/pam-bondi-fired",
           "source": "The Verge",
-          "published_at": "2026-04-01T16:30:00Z",
-          "summary": "Ikea's $10 Kallsup Bluetooth speaker is fun and colorful and sounds better than its price suggests. It's not mind-blowing (it is a $10 speaker, after all), and there are no features to speak of, other than the ability to…",
+          "published_at": "2026-04-02T19:08:27Z",
+          "summary": "Taking a break from calling Bruce Springsteen a boring loser on Thursday, Donald Trump followed that up with another Truth Social post saying \"loyal friend\" Pam Bondi will transition to a yet-to-be-announced job in the p…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-01-i-tested-a-living-room-full-of-cheap"
+          "id": "theverge-2026-04-02-trump-fires-us-attorney-general-pam-bondi"
         },
         {
-          "title": "Snapchat&#8217;s &#8216;Reals&#8217; joke mocks Instagram&#8217;s many ripoffs",
-          "url": "https://www.theverge.com/tech/905272/snapchat-reals-spotlight-instagram-feed-april-fools-day-2026",
+          "title": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
+          "url": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
           "source": "The Verge",
-          "published_at": "2026-04-01T16:24:37Z",
-          "summary": "It's April Fools' Day, and Snap is using the occasion to \"announce\" that it's switching the name of Snapchat's Spotlight feed, the app's Instagram Reels-like feed of shortform vertical videos, to \"Reals.\" In a video feat…",
+          "published_at": "2026-04-02T18:24:29Z",
+          "summary": "Here's a question almost nobody is asking: how do you get to the Times Square Olive Garden? Well, these beautiful weirdos are answering it - the team that made the Times Square Olive Garden compass. If that's not clear e…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-01-snapchat-8217-s-8216-reals-8217-joke-mocks"
+          "id": "theverge-2026-04-02-five-questions-for-the-guys-who-made-a"
         },
         {
-          "title": "The Trump administration&#8217;s antitrust honeymoon is over",
-          "url": "https://www.theverge.com/policy/905222/antitrust-trump-tech-live-nation",
+          "title": "Elon Musk is about to be a very busy boy!",
+          "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
           "source": "The Verge",
-          "published_at": "2026-04-01T15:55:39Z",
-          "summary": "\"It's not personal, Sonny, it's strictly business.\" That quote was first delivered by mob boss Michael Corleone in The Godfather, but last Monday, it became the title of a speech by the Justice Department's acting antitr…",
+          "published_at": "2026-04-02T18:15:00Z",
+          "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-01-the-trump-administration-8217-s-antitrust-honeymoon-is"
+          "id": "theverge-2026-04-02-elon-musk-is-about-to-be-a-very"
+        },
+        {
+          "title": "China acaba de aprobar su plan quinquenal más ambicioso, el que más la acerca a su objetivo último: ser la primera potencia mundial",
+          "url": "https://www.xataka.com/investigacion/china-acaba-aprobar-su-plan-quinquenal-ambicioso-que-acerca-a-su-objetivo-ultimo-ser-primera-potencia-mundial",
+          "source": "Xataka",
+          "published_at": "2026-04-02T13:00:00Z",
+          "summary": "China tiene una forma muy peculiar de establecer su hoja de ruta hacia su gran objetivo, que no es otro que convertirse en la primera potencia mundial , y aquí el dominio tecnológico es crucial. Lo hacen a través de una …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-02-china-acaba-de-aprobar-su-plan-quinquenal-mas"
+        },
+        {
+          "title": "Skills externas en archivos .md de Claude: por qué es útil tenerlas, cómo crearlas y cómo usarlas",
+          "url": "https://www.xataka.com/basics/skills-externas-archivos-md-claude-que-util-tenerlas-como-crearlas-como-usarlas",
+          "source": "Xataka",
+          "published_at": "2026-04-02T12:22:16Z",
+          "summary": "Vamos a explicarte qué son y para qué es útil tener archivos .md con Skills de Claude . La inteligencia artificial de Anthropic tiene este sistema de &nbsp;habilidades que pueden ser como los GPTs o Gems de ChatGPT o Gem…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-02-skills-externas-en-archivos-md-de-claude-por"
         },
         {
           "title": "En pleno ascenso meteórico de Claude Code, su código ha sido filtrado. Es un caramelazo para sus competidores",
@@ -360,7 +404,7 @@
           "title": "Cómo convertir GPTs o Gems en Skills de Claude por si quieres migrar tus personalizaciones de ChatGPT o Gemini",
           "url": "https://www.xataka.com/basics/como-convertir-gpts-gems-skills-claude-quieres-migrar-tus-personalizaciones-chatgpt-gemini",
           "source": "Xataka",
-          "published_at": "2026-04-01T11:49:32Z",
+          "published_at": "2026-04-01T11:49:00Z",
           "summary": "Vamos a decirte cómo convertir GPTs o Gems en Skills , de forma que si quieres pasar de ChatGPT o Gemini a Claude puedas llevarte contigo las versiones automatizadas de tu inteligencia artificial .&nbsp;Y si vas a cambia…",
           "why_it_matters": "",
           "tags": [
@@ -383,7 +427,7 @@
           "id": "xataka-2026-04-01-openai-ya-vale-852-000-millones-de-dolares"
         },
         {
-          "title": "Oracle quiere recortar costes para pagar su apuesta por la IA. Ha empezado despidiendo a miles de empleados con un correo",
+          "title": "Oracle ha apostado fuerte por la IA: la factura la van a pagar sus empleados en forma de miles de despedidos por correo",
           "url": "https://www.xataka.com/empresas-y-economia/oracle-buscaba-reducir-costes-aumento-gasto-ia-que-ha-encontrado-recortes-su-plantilla",
           "source": "Xataka",
           "published_at": "2026-04-01T08:15:00Z",
@@ -393,85 +437,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-01-oracle-quiere-recortar-costes-para-pagar-su-apuesta"
-        },
-        {
-          "title": "La IA no habla o escribe como un humano. Y precisamente por eso hay gente ganando 600 euros a la semana",
-          "url": "https://www.xataka.com/robotica-e-ia/hay-gente-ganando-600-dolares-a-semana-hablando-desconocidos-objetivo-ensenar-a-ia-a-sonar-humana",
-          "source": "Xataka",
-          "published_at": "2026-03-31T20:30:00Z",
-          "summary": "En los últimos meses, muchos hemos hablado con una inteligencia artificial sin pensarlo demasiado. Le hemos preguntado dudas, le hemos pedido consejo o simplemente hemos probado hasta dónde llega su capacidad para manten…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-la-ia-no-habla-o-escribe-como-un"
-        },
-        {
-          "title": "La IA ha provocado que haya más ofertas de empleo que nunca. También que sea más difícil encontrar trabajo",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-esta-generando-paradoja-mercado-laboral-tecnologico-ofertas-empleo-dificil-encontrar-trabajo",
-          "source": "Xataka",
-          "published_at": "2026-03-31T16:45:00Z",
-          "summary": "El sector tecnológico nunca ha tenido tantas vacantes abiertas y, sin embargo, encontrar trabajo en él se ha convertido en una tarea &nbsp;más difícil que nunca . Esta aparente contradicción no es solo una sensación: los…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-la-ia-ha-provocado-que-haya-mas-ofertas"
-        },
-        {
-          "title": "Cómo crear Skills de Claude sencillas para tener tu versión personalizada de la inteligencia artificial",
-          "url": "https://www.xataka.com/basics/como-crear-skills-claude-sencillas-para-tener-tu-version-personalizada-inteligencia-artificial",
-          "source": "Xataka",
-          "published_at": "2026-03-31T13:52:00Z",
-          "summary": "Vamos a explicarte&nbsp; cómo crear tu propia Skill de Claude , y así tener una versión personalizada de la inteligencia artificial de Anthropic. Las Skills de Claude son una serie de instrucciones que puedes cargar en u…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-como-crear-skills-de-claude-sencillas-para-tener"
-        },
-        {
-          "title": "Para crear una app, antes el problema era escribir código. Ahora es esperar a que la Apple te lo valide",
-          "url": "https://www.xataka.com/robotica-e-ia/felicidades-programas-saber-programar-ahora-preparate-para-esperar-seis-semanas-a-que-apple-te-haga-caso",
-          "source": "Xataka",
-          "published_at": "2026-03-31T12:30:00Z",
-          "summary": "James Steinberg es neoyorquino, tiene 35 años y tiene dos profesiones. La primera, cuidador de gatos . La segunda, desarrollar aplicaciones mediante vibecoding , una técnica en la que saber lo que uno quiere e iterar con…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-para-crear-una-app-antes-el-problema-era"
-        },
-        {
-          "title": "Skills de Claude: qué son estas habilidades, para qué sirven, cómo se usan y quién puede utilizarlas para crear su propio Claude",
-          "url": "https://www.xataka.com/basics/skills-claude-que-estas-habilidades-sirven-como-se-usan-quien-puede-utilizarlas-para-crear-su-propio-claude",
-          "source": "Xataka",
-          "published_at": "2026-03-31T11:07:00Z",
-          "summary": "Vamos a explicarte qué son los Skills de Claude , también llamadas Habilidades en Español. Se trata de un método con el que puedes crear versiones personalizadas de Claude , una alternativa a los GPTs de ChatGPT o los Ge…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-skills-de-claude-que-son-estas-habilidades-para"
-        },
-        {
-          "title": "China se ha convertido en la gran cantera mundial de ingenieros. Y eso le da una ventaja enorme sobre EEUU en la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano",
-          "source": "Xataka",
-          "published_at": "2026-03-31T09:30:00Z",
-          "summary": "La carrera de la IA va de muchas cosas . No solo de quién hace los mejores modelos de IA , de quién tiene más y mejores centros de datos o de quién tiene más energía barata para alimentar esta revolución. Va también de a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-03-31-china-se-ha-convertido-en-la-gran-cantera"
+          "id": "xataka-2026-04-01-oracle-ha-apostado-fuerte-por-la-ia-la"
         }
       ]
     }
@@ -508,6 +474,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI acquires TBPN",
+          "url": "https://openai.com/index/openai-acquires-tbpn",
+          "source": "OpenAI",
+          "published_at": "2026-04-02T10:30:00Z",
+          "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-02-openai-acquires-tbpn"
+        },
+        {
+          "title": "Codex now offers more flexible pricing for teams",
+          "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+          "source": "OpenAI",
+          "published_at": "2026-04-02T10:00:00Z",
+          "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-02-codex-now-offers-more-flexible-pricing-for-teams"
+        },
         {
           "title": "Gradient Labs gives every bank customer an AI account manager",
           "url": "https://openai.com/index/gradient-labs",
@@ -586,6 +578,32 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "New ways to balance cost and reliability in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+          "source": "Google AI",
+          "published_at": "2026-04-02T16:00:00Z",
+          "summary": "Gemini API Dials",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-02-new-ways-to-balance-cost-and-reliability-in"
+        },
+        {
+          "title": "Create, edit and share videos at no cost in Google Vids",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "source": "Google AI",
+          "published_at": "2026-04-02T16:00:00Z",
+          "summary": "Google Vids logo surrounded by various video editing UI",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-02-create-edit-and-share-videos-at-no-cost"
+        },
+        {
           "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
           "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
           "source": "Google AI",
@@ -623,58 +641,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-03-31-build-with-veo-3-1-lite-our-most"
-        },
-        {
-          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T17:00:00Z",
-          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-watch-james-manyika-talk-ai-and-creativity-with"
-        },
-        {
-          "title": "Transform your headphones into a live personal translator on iOS.",
-          "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T16:00:00Z",
-          "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-transform-your-headphones-into-a-live-personal-translator"
-        },
-        {
-          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T15:21:00Z",
-          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
-        },
-        {
-          "title": "Search Live is expanding globally",
-          "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-          "source": "Google AI",
-          "published_at": "2026-03-26T15:00:00Z",
-          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-26-search-live-is-expanding-globally"
         }
       ]
     },
@@ -683,17 +649,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
           "source": "DeepMind",
-          "published_at": "2026-03-26T15:23:35Z",
-          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "published_at": "2026-04-02T16:00:49Z",
+          "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-03-26-gemini-3-1-flash-live-making-audio-ai"
+          "id": "deepmind-2026-04-02-gemma-4-byte-for-byte-the-most-capable"
         }
       ]
     }
