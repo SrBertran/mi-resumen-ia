@@ -1,72 +1,72 @@
 {
-  "date": "2026-04-05",
-  "generated_at": "2026-04-05T06:48:43.372470Z",
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T07:04:11.492557Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
+      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
       "source": "The Verge",
-      "published_at": "2026-04-04T17:52:10Z",
-      "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off ab…",
+      "published_at": "2026-04-05T18:30:00Z",
+      "summary": "Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's album of the year with their self-titled debut. Because it wasn't available on streaming, it largely flew under the radar. I honestly kind of …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-05-los-thuthanaka-s-wak-8217-a-is-a"
+    },
+    {
+      "title": "Suno is a music copyright nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "source": "The Verge",
+      "published_at": "2026-04-05T16:00:00Z",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and s…",
       "why_it_matters": "",
       "tags": [
         "regulación"
       ],
       "category": "regulación",
-      "id": "theverge-2026-04-04-a-folk-musician-became-a-target-for-ai"
+      "id": "theverge-2026-04-05-suno-is-a-music-copyright-nightmare"
     },
     {
-      "title": "Buy two Nintendo Switch games, get $30 off at Target",
-      "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "source": "The Verge",
-      "published_at": "2026-04-04T15:00:00Z",
-      "summary": "Target is offering a great deal to some Target Circle members that knocks $30 off the cost of two Nintendo Switch and Switch 2 games. The sale is happening for the rest of the day, expiring at 2:59AM ET on April 5th. If …",
+      "published_at": "2026-04-05T14:00:00Z",
+      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relat…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-04-buy-two-nintendo-switch-games-get-30-off"
+      "id": "theverge-2026-04-05-i-let-gemini-in-google-maps-plan-my"
     },
     {
-      "title": "My dream pair of AR gaming glasses needs to have these nine features",
-      "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+      "title": "Is the Slate Truck too minimal for its own good?",
+      "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
       "source": "The Verge",
-      "published_at": "2026-04-04T14:00:00Z",
-      "summary": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can se…",
+      "published_at": "2026-04-05T13:00:00Z",
+      "summary": "The first thing you notice about the Slate Truck is its size. It's small, surprisingly so. In a country where trucks often come with their own zip code, Slate's pickup is refreshingly puny, measuring 174.6 inches long, 7…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-04-my-dream-pair-of-ar-gaming-glasses-needs"
+      "id": "theverge-2026-04-05-is-the-slate-truck-too-minimal-for-its"
     },
     {
-      "title": "Teníamos un plan perfecto para descarbonizar la red eléctrica. El brutal consumo de los centros de datos lo ha dinamitado",
-      "url": "https://www.xataka.com/energia/teniamos-plan-perfecto-para-descarbonizar-red-electrica-brutal-consumo-centros-datos-ha-dinamitado",
-      "source": "Xataka",
-      "published_at": "2026-04-04T13:00:56Z",
-      "summary": "Los titulares diarios anuncian inversiones multimillonarias en nuevos modelos de lenguaje y chips de última generación. Los inversores de capital riesgo han inyectado más de medio billón de dólares en startups de IA dura…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-04-04-teniamos-un-plan-perfecto-para-descarbonizar-la-red"
-    },
-    {
-      "title": "Really, you made this without AI? Prove it",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "title": "How the Amazon Echo learned to talk — and listen",
+      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
       "source": "The Verge",
-      "published_at": "2026-04-04T13:00:00Z",
-      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people …",
+      "published_at": "2026-04-05T12:24:45Z",
+      "summary": "Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technol…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-04-really-you-made-this-without-ai-prove-it"
+      "id": "theverge-2026-04-05-how-the-amazon-echo-learned-to-talk---"
     }
   ],
   "sections": [
@@ -202,19 +202,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-31-accelerating-the-next-phase-of-ai"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Helping disaster response teams turn AI into action across Asia",
-          "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-          "source": "OpenAI",
-          "published_at": "2026-03-29T22:15:00Z",
-          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "source": "The Verge",
+          "published_at": "2026-04-04T17:52:10Z",
+          "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off ab…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-29-helping-disaster-response-teams-turn-ai-into-action"
+          "category": "regulación",
+          "id": "theverge-2026-04-04-a-folk-musician-became-a-target-for-ai"
         }
       ]
     },
@@ -222,30 +227,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Super Meat Boy 3D makes suffering fun",
-          "url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
-          "source": "The Verge",
-          "published_at": "2026-04-04T12:00:00Z",
-          "summary": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunning puzzles, and eve…",
+          "title": "64 cursos gratis para IA con Claude, ChatGPT, Gemini y Copilot creados por sus propias empresas",
+          "url": "https://www.xataka.com/basics/64-cursos-gratis-para-ia-claude-chatgpt-gemini-copilot-creados-sus-propias-empresas",
+          "source": "Xataka",
+          "published_at": "2026-04-05T12:00:56Z",
+          "summary": "Te traemos una lista de 64 cursos de IA , centrados en los cuatro principales chatbots de inteligencia artificial del mercado. Son cursos para Claude , ChatGPT , Gemini y Copilot creados por Anthropic, OpenAI, Google y M…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-04-super-meat-boy-3d-makes-suffering-fun"
+          "id": "xataka-2026-04-05-64-cursos-gratis-para-ia-con-claude-chatgpt"
         },
         {
-          "title": "The app for tracking TV, movies, podcasts, and everything",
-          "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+          "title": "Grammarly’s sloppelganger saga",
+          "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
           "source": "The Verge",
-          "published_at": "2026-04-04T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 122, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go 'Zona, and also you can read all the old editions at the Installer homepage.) This wee…",
+          "published_at": "2026-04-05T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. O…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-04-the-app-for-tracking-tv-movies-podcasts-and"
+          "id": "theverge-2026-04-05-grammarly-s-sloppelganger-saga"
+        },
+        {
+          "title": "Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha",
+          "url": "https://www.xataka.com/robotica-e-ia/tener-ia-mi-movil-que-funciona-conexion-a-internet-util-que-pensaba-asi-puedes-poner-marcha-facil",
+          "source": "Xataka",
+          "published_at": "2026-04-05T10:00:56Z",
+          "summary": "Además de todos los modelos de lenguaje para IA comerciales que tenemos a nuestra disposición ( ChatGPT , Gemini , Claude , etc), existe todo un mundo de modelos de lenguaje de código abierto que nos pueden servir para u…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-05-tener-una-ia-en-mi-movil-que-funciona"
+        },
+        {
+          "title": "Buy two Nintendo Switch games, get $30 off at Target",
+          "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
+          "source": "The Verge",
+          "published_at": "2026-04-04T15:00:00Z",
+          "summary": "Target is offering a great deal to some Target Circle members that knocks $30 off the cost of two Nintendo Switch and Switch 2 games. The sale is happening for the rest of the day, expiring at 2:59AM ET on April 5th. If …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-04-buy-two-nintendo-switch-games-get-30-off"
+        },
+        {
+          "title": "My dream pair of AR gaming glasses needs to have these nine features",
+          "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+          "source": "The Verge",
+          "published_at": "2026-04-04T14:00:00Z",
+          "summary": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can se…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-04-my-dream-pair-of-ar-gaming-glasses-needs"
+        },
+        {
+          "title": "Really, you made this without AI? Prove it",
+          "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+          "source": "The Verge",
+          "published_at": "2026-04-04T13:00:00Z",
+          "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-04-really-you-made-this-without-ai-prove-it"
+        },
+        {
+          "title": "La tiranía del 24/7: cómo el hambre insaciable de los algoritmos asfixió las redes eléctricas del siglo XX",
+          "url": "https://www.xataka.com/energia/teniamos-plan-perfecto-para-descarbonizar-red-electrica-brutal-consumo-centros-datos-ha-dinamitado",
+          "source": "Xataka",
+          "published_at": "2026-04-04T13:00:00Z",
+          "summary": "Los titulares diarios anuncian inversiones multimillonarias en nuevos modelos de lenguaje y chips de última generación. Los inversores de capital riesgo han inyectado más de medio billón de dólares en startups de IA dura…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-04-la-tirania-del-24-7-como-el-hambre"
         },
         {
           "title": "Los centros de datos son auténticas \"calefacciones\". Y se están instalando en regiones tan calurosas como Aragón",
@@ -259,58 +329,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-04-los-centros-de-datos-son-autenticas-calefacciones-y"
-        },
-        {
-          "title": "Anker’s Nebula P1 projector is the portable sound king",
-          "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-          "source": "The Verge",
-          "published_at": "2026-04-04T07:00:00Z",
-          "summary": "The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on soun…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-04-anker-s-nebula-p1-projector-is-the-portable"
-        },
-        {
-          "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-          "source": "The Verge",
-          "published_at": "2026-04-03T23:52:49Z",
-          "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-03-anthropic-essentially-bans-openclaw-from-claude-by-making"
-        },
-        {
-          "title": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
-          "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-          "source": "The Verge",
-          "published_at": "2026-04-03T20:53:48Z",
-          "summary": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis li…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-03-nasa-did-eventually-solve-artemis-ii-8217-s"
-        },
-        {
-          "title": "OpenAI’s AGI boss is taking a leave of absence",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-          "source": "The Verge",
-          "published_at": "2026-04-03T20:22:59Z",
-          "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in th…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-03-openai-s-agi-boss-is-taking-a-leave"
         }
       ]
     }
@@ -398,19 +416,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-03-31-accelerating-the-next-phase-of-ai"
-        },
-        {
-          "title": "Helping disaster response teams turn AI into action across Asia",
-          "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-          "source": "OpenAI",
-          "published_at": "2026-03-29T22:15:00Z",
-          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-29-helping-disaster-response-teams-turn-ai-into-action"
         }
       ]
     },
