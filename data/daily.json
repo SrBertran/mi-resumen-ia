@@ -1,78 +1,104 @@
 {
-  "date": "2026-04-06",
-  "generated_at": "2026-04-06T07:04:11.492557Z",
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T06:56:04.248971Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
-      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
+      "title": "Wisconsin governor says ‘no’ to age checks for porn",
+      "url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
       "source": "The Verge",
-      "published_at": "2026-04-05T18:30:00Z",
-      "summary": "Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's album of the year with their self-titled debut. Because it wasn't available on streaming, it largely flew under the radar. I honestly kind of …",
+      "published_at": "2026-04-06T21:47:15Z",
+      "summary": "Wisconsin Gov. Tony Evers vetoed a bill that would've required residents to verify their age before accessing porn sites, as reported earlier by 404 Media. In a letter to the members of the assembly last week, Evers writ…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-05-los-thuthanaka-s-wak-8217-a-is-a"
+      "id": "theverge-2026-04-06-wisconsin-governor-says-no-to-age-checks-for"
     },
     {
-      "title": "Suno is a music copyright nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "title": "Artemis II astronauts break a record, name a crater",
+      "url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
       "source": "The Verge",
-      "published_at": "2026-04-05T16:00:00Z",
-      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and s…",
-      "why_it_matters": "",
-      "tags": [
-        "regulación"
-      ],
-      "category": "regulación",
-      "id": "theverge-2026-04-05-suno-is-a-music-copyright-nightmare"
-    },
-    {
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-04-05T14:00:00Z",
-      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relat…",
+      "published_at": "2026-04-06T20:40:11Z",
+      "summary": "A few minutes before 2PM ET on Monday, the crew of Artemis II broke a record set 56 years ago by the ill-fated Apollo 13 mission - at over 248,655 miles, they have now traveled farther from Earth than any humans before t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-05-i-let-gemini-in-google-maps-plan-my"
+      "id": "theverge-2026-04-06-artemis-ii-astronauts-break-a-record-name-a"
     },
     {
-      "title": "Is the Slate Truck too minimal for its own good?",
-      "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
-      "source": "The Verge",
-      "published_at": "2026-04-05T13:00:00Z",
-      "summary": "The first thing you notice about the Slate Truck is its size. It's small, surprisingly so. In a country where trucks often come with their own zip code, Slate's pickup is refreshingly puny, measuring 174.6 inches long, 7…",
+      "title": "Hay una forma de conseguir que tu agente de IA se convierta en un buen empleado. Hablar un montón con él: Crossover 1x43",
+      "url": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
+      "source": "Xataka",
+      "published_at": "2026-04-06T19:30:56Z",
+      "summary": "Si aún no has probado a instalar OpenClaw o no sabías muy bien cómo hacerlo, en Xataka y Crossover estamos tratando de acercarte a este fascinante agente de IA que se puede convertir en un empleado incansable que trabaja…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-05-is-the-slate-truck-too-minimal-for-its"
+      "id": "xataka-2026-04-06-hay-una-forma-de-conseguir-que-tu-agente"
     },
     {
-      "title": "How the Amazon Echo learned to talk — and listen",
-      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+      "title": "The best deals on MacBooks right now",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "source": "The Verge",
-      "published_at": "2026-04-05T12:24:45Z",
-      "summary": "Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technol…",
+      "published_at": "2026-04-06T18:50:06Z",
+      "summary": "It’s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company no…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-05-how-the-amazon-echo-learned-to-talk---"
+      "id": "theverge-2026-04-06-the-best-deals-on-macbooks-right-now"
+    },
+    {
+      "title": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
+      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-04-06T18:22:01Z",
+      "summary": "If you regularly create content for TikTok, Instagram, or YouTube on the go, bad sound quality can easily take away from an otherwise great video. DJI’s Mic Mini helps you record clear, reliable sound for videos without …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-06-dji-s-mic-mini-records-clear-audio-on"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Announcing the OpenAI Safety Fellowship",
+          "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+          "source": "OpenAI",
+          "published_at": "2026-04-06T10:00:00Z",
+          "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-06-announcing-the-openai-safety-fellowship"
+        },
+        {
+          "title": "Industrial policy for the Intelligence Age",
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "source": "OpenAI",
+          "published_at": "2026-04-06T02:30:00Z",
+          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-06-industrial-policy-for-the-intelligence-age"
+        },
         {
           "title": "Gemma 4: Byte for byte, the most capable open models",
           "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
@@ -206,26 +232,148 @@
       ]
     },
     {
-      "name": "Regulación",
+      "name": "Negocio",
       "items": [
         {
-          "title": "A folk musician became a target for AI fakes and a copyright troll",
-          "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-          "source": "The Verge",
-          "published_at": "2026-04-04T17:52:10Z",
-          "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off ab…",
+          "title": "Una startup IA \"unipersonal\" ha facturado 400 millones con tratamientos para adelgazar. El problema: sus médicos son falsos",
+          "url": "https://www.xataka.com/robotica-e-ia/nyt-publico-historia-emprendedor-ia-que-factura-1-800-millones-dos-empleados-se-olvido-mencionar-unas-cuantas-cosas",
+          "source": "Xataka",
+          "published_at": "2026-04-06T16:30:00Z",
+          "summary": "El pasado 2 de abril, The New York Times publicó un perfil de Matthew Gallagher, un emprendedor de 41 años de Los Ángeles que con 20.000 dólares, la ayuda de su hermano y una docena de herramientas de IA logró crear MEDV…",
           "why_it_matters": "",
           "tags": [
-            "regulación"
+            "negocio"
           ],
-          "category": "regulación",
-          "id": "theverge-2026-04-04-a-folk-musician-became-a-target-for-ai"
+          "category": "negocio",
+          "id": "xataka-2026-04-06-una-startup-ia-unipersonal-ha-facturado-400-millones"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "AI Is Insatiable",
+          "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-06T14:22:58Z",
+          "summary": "While browsing our website a few weeks ago, I stumbled upon “ How and When the Memory Chip Shortage Will End ” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-06-ai-is-insatiable"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Robotaxi companies won’t say how often remote operators intervene",
+          "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
+          "source": "The Verge",
+          "published_at": "2026-04-06T18:15:51Z",
+          "summary": "Autonomous vehicle companies are refusing to disclose key details about their use of remote assistance teams, including how often these workers are forced to intervene to help their self-driving cars. Sen. Ed Markey (D-M…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-robotaxi-companies-won-t-say-how-often-remote"
+        },
+        {
+          "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
+          "url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
+          "source": "The Verge",
+          "published_at": "2026-04-06T17:24:46Z",
+          "summary": "Humans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-nasa-s-artemis-ii-mission-to-fly-around"
+        },
+        {
+          "title": "Netflix is launching a new app for kids games",
+          "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
+          "source": "The Verge",
+          "published_at": "2026-04-06T17:00:00Z",
+          "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids ag…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-netflix-is-launching-a-new-app-for-kids"
+        },
+        {
+          "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
+          "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
+          "source": "The Verge",
+          "published_at": "2026-04-06T16:03:14Z",
+          "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. The new Pro model rep…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-samsung-8217-s-galaxy-s27-8216-pro-8217"
+        },
+        {
+          "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+          "source": "The Verge",
+          "published_at": "2026-04-06T15:54:19Z",
+          "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by T…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-iran-threatens-openai-s-stargate-data-center-in"
+        },
+        {
+          "title": "The Artemis II astronauts will set a new distance record from Earth today",
+          "url": "https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record",
+          "source": "The Verge",
+          "published_at": "2026-04-06T15:46:06Z",
+          "summary": "On April 15th, 1970, Jim Lovell, Fred Haise, and Jack Swigert set a distance record when Apollo 13 traveled 248,655 miles from Earth. Nearly 56 years later, the crew of Artemis II is expected to break that record by seve…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-06-the-artemis-ii-astronauts-will-set-a-new"
+        },
+        {
+          "title": "La guerra entre China y Taiwán lleva años librándose sin tanques ni drones suicidas: va sobre chips y va a ir a más",
+          "url": "https://www.xataka.com/empresas-y-economia/china-taiwan-han-iniciado-guerra-captura-talento-inteligencia-artificial-chips",
+          "source": "Xataka",
+          "published_at": "2026-04-06T09:30:00Z",
+          "summary": "Para Taiwán su industria de los semiconductores es estratégica por tres razones fundamentales: representa entre el 13% y el 15% del producto interior bruto del país; es el motor de sus exportaciones con un valor cercano …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-06-la-guerra-entre-china-y-taiwan-lleva-anos"
+        },
+        {
+          "title": "Anthropic ha capado OpenClaw por un motivo: está construyendo el \"jardín amurallado\" que Nintendo perfeccionó",
+          "url": "https://www.xataka.com/robotica-e-ia/que-anthropic-haya-capado-openclaw-comprensible-que-haga-asi-confirma-que-se-estan-convirtiendo-nintendo-ia",
+          "source": "Xataka",
+          "published_at": "2026-04-06T07:27:00Z",
+          "summary": "Peter Steinberger, el creador del agente de IA OpenClaw , se levantó el sábado con un montón de menciones en su cuenta de Twitter. En todas le avisaban de lo mismo: Anthropic anunciaba que las cuentas de Claude Code (Cla…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-06-anthropic-ha-capado-openclaw-por-un-motivo-esta"
+        },
         {
           "title": "64 cursos gratis para IA con Claude, ChatGPT, Gemini y Copilot creados por sus propias empresas",
           "url": "https://www.xataka.com/basics/64-cursos-gratis-para-ia-claude-chatgpt-gemini-copilot-creados-sus-propias-empresas",
@@ -240,19 +388,6 @@
           "id": "xataka-2026-04-05-64-cursos-gratis-para-ia-con-claude-chatgpt"
         },
         {
-          "title": "Grammarly’s sloppelganger saga",
-          "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-          "source": "The Verge",
-          "published_at": "2026-04-05T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. O…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-05-grammarly-s-sloppelganger-saga"
-        },
-        {
           "title": "Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha",
           "url": "https://www.xataka.com/robotica-e-ia/tener-ia-mi-movil-que-funciona-conexion-a-internet-util-que-pensaba-asi-puedes-poner-marcha-facil",
           "source": "Xataka",
@@ -264,71 +399,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-05-tener-una-ia-en-mi-movil-que-funciona"
-        },
-        {
-          "title": "Buy two Nintendo Switch games, get $30 off at Target",
-          "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
-          "source": "The Verge",
-          "published_at": "2026-04-04T15:00:00Z",
-          "summary": "Target is offering a great deal to some Target Circle members that knocks $30 off the cost of two Nintendo Switch and Switch 2 games. The sale is happening for the rest of the day, expiring at 2:59AM ET on April 5th. If …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-04-buy-two-nintendo-switch-games-get-30-off"
-        },
-        {
-          "title": "My dream pair of AR gaming glasses needs to have these nine features",
-          "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
-          "source": "The Verge",
-          "published_at": "2026-04-04T14:00:00Z",
-          "summary": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can se…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-04-my-dream-pair-of-ar-gaming-glasses-needs"
-        },
-        {
-          "title": "Really, you made this without AI? Prove it",
-          "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-          "source": "The Verge",
-          "published_at": "2026-04-04T13:00:00Z",
-          "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-04-really-you-made-this-without-ai-prove-it"
-        },
-        {
-          "title": "La tiranía del 24/7: cómo el hambre insaciable de los algoritmos asfixió las redes eléctricas del siglo XX",
-          "url": "https://www.xataka.com/energia/teniamos-plan-perfecto-para-descarbonizar-red-electrica-brutal-consumo-centros-datos-ha-dinamitado",
-          "source": "Xataka",
-          "published_at": "2026-04-04T13:00:00Z",
-          "summary": "Los titulares diarios anuncian inversiones multimillonarias en nuevos modelos de lenguaje y chips de última generación. Los inversores de capital riesgo han inyectado más de medio billón de dólares en startups de IA dura…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-04-la-tirania-del-24-7-como-el-hambre"
-        },
-        {
-          "title": "Los centros de datos son auténticas \"calefacciones\". Y se están instalando en regiones tan calurosas como Aragón",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/centros-datos-no-solo-se-beben-energia-generan-calor-se-instalan-regiones-muy-calurosas-como-aragon",
-          "source": "Xataka",
-          "published_at": "2026-04-04T11:30:56Z",
-          "summary": "Los centros de datos son un agujero negro en varios sentidos. Se están bebiendo la capacidad mundial de fabricar chips NAND ( lo que afecta a los SSD , a la RAM o a las tarjetas SD ), las empresas que fabrican baterías n…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-04-los-centros-de-datos-son-autenticas-calefacciones-y"
         }
       ]
     }
@@ -365,6 +435,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Announcing the OpenAI Safety Fellowship",
+          "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+          "source": "OpenAI",
+          "published_at": "2026-04-06T10:00:00Z",
+          "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-06-announcing-the-openai-safety-fellowship"
+        },
+        {
+          "title": "Industrial policy for the Intelligence Age",
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "source": "OpenAI",
+          "published_at": "2026-04-06T02:30:00Z",
+          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-06-industrial-policy-for-the-intelligence-age"
+        },
         {
           "title": "OpenAI acquires TBPN",
           "url": "https://openai.com/index/openai-acquires-tbpn",
