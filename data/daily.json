@@ -1,72 +1,72 @@
 {
-  "date": "2026-04-07",
-  "generated_at": "2026-04-07T06:56:04.248971Z",
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T06:57:15.850499Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Wisconsin governor says ‘no’ to age checks for porn",
-      "url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
-      "source": "The Verge",
-      "published_at": "2026-04-06T21:47:15Z",
-      "summary": "Wisconsin Gov. Tony Evers vetoed a bill that would've required residents to verify their age before accessing porn sites, as reported earlier by 404 Media. In a letter to the members of the assembly last week, Evers writ…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-04-06-wisconsin-governor-says-no-to-age-checks-for"
-    },
-    {
-      "title": "Artemis II astronauts break a record, name a crater",
-      "url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
-      "source": "The Verge",
-      "published_at": "2026-04-06T20:40:11Z",
-      "summary": "A few minutes before 2PM ET on Monday, the crew of Artemis II broke a record set 56 years ago by the ill-fated Apollo 13 mission - at over 248,655 miles, they have now traveled farther from Earth than any humans before t…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-04-06-artemis-ii-astronauts-break-a-record-name-a"
-    },
-    {
-      "title": "Hay una forma de conseguir que tu agente de IA se convierta en un buen empleado. Hablar un montón con él: Crossover 1x43",
-      "url": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
+      "title": "Claude Mythos es un modelo de IA tan potente que da miedo. Así que Anthropic ha decidido que no vas a poder usarlo",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo",
       "source": "Xataka",
-      "published_at": "2026-04-06T19:30:56Z",
-      "summary": "Si aún no has probado a instalar OpenClaw o no sabías muy bien cómo hacerlo, en Xataka y Crossover estamos tratando de acercarte a este fascinante agente de IA que se puede convertir en un empleado incansable que trabaja…",
+      "published_at": "2026-04-08T06:37:44Z",
+      "summary": "Claude Mythos Preview ya está aquí y es tan bueno que asusta. Literalmente. Anthropic acaba de presentarlo en público, pero lo ha hecho con tanta cautela que ni siquiera podremos probarlo y solo estará disponible para ci…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-06-hay-una-forma-de-conseguir-que-tu-agente"
+      "id": "xataka-2026-04-08-claude-mythos-es-un-modelo-de-ia-tan"
     },
     {
-      "title": "The best deals on MacBooks right now",
-      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "title": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
+      "url": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-04-06T18:50:06Z",
-      "summary": "It’s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company no…",
+      "published_at": "2026-04-07T22:16:21Z",
+      "summary": "It’s not every day you find a decent pair of wireless earbuds with active noise cancellation, a transparency mode, and app support for less than $20, which is why the current lighting deal on the CMF Buds 2A stands out. …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-06-the-best-deals-on-macbooks-right-now"
+      "id": "theverge-2026-04-07-nothing-s-noise-canceling-cmf-buds-2a-are-down"
     },
     {
-      "title": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
-      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
+      "title": "Amazon is ending support for older Kindles and Kindle Fires",
+      "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
       "source": "The Verge",
-      "published_at": "2026-04-06T18:22:01Z",
-      "summary": "If you regularly create content for TikTok, Instagram, or YouTube on the go, bad sound quality can easily take away from an otherwise great video. DJI’s Mic Mini helps you record clear, reliable sound for videos without …",
+      "published_at": "2026-04-07T21:44:20Z",
+      "summary": "Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amaz…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-06-dji-s-mic-mini-records-clear-audio-on"
+      "id": "theverge-2026-04-07-amazon-is-ending-support-for-older-kindles-and"
+    },
+    {
+      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "source": "The Verge",
+      "published_at": "2026-04-07T20:13:23Z",
+      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-07-spotify-8217-s-prompted-playlists-can-help-you"
+    },
+    {
+      "title": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
+      "url": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+      "source": "The Verge",
+      "published_at": "2026-04-07T19:07:12Z",
+      "summary": "Android XR is getting a new feature that turns 2D apps, websites, images, and videos into \"3D experiences.\" The feature, which Google calls \"auto-spatialization,\" was initially announced last year, and it's launching on …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-07-you-can-now-turn-2d-apps-into-3d"
     }
   ],
   "sections": [
@@ -98,6 +98,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-06-industrial-policy-for-the-intelligence-age"
+        },
+        {
+          "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "source": "Anthropic",
+          "published_at": "2026-04-06T00:00:00Z",
+          "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-06-anthropic-expands-partnership-with-google-and-broadcom-for"
         },
         {
           "title": "Gemma 4: Byte for byte, the most capable open models",
@@ -189,45 +202,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-01-the-latest-ai-news-we-announced-in-march"
-        },
-        {
-          "title": "Gradient Labs gives every bank customer an AI account manager",
-          "url": "https://openai.com/index/gradient-labs",
-          "source": "OpenAI",
-          "published_at": "2026-04-01T02:00:00Z",
-          "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-01-gradient-labs-gives-every-bank-customer-an-ai"
-        },
-        {
-          "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-          "source": "Google AI",
-          "published_at": "2026-03-31T16:00:00Z",
-          "summary": "Build with Veo 3.1 Lite",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-31-build-with-veo-3-1-lite-our-most"
-        },
-        {
-          "title": "Accelerating the next phase of AI",
-          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-          "source": "OpenAI",
-          "published_at": "2026-03-31T13:00:00Z",
-          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-31-accelerating-the-next-phase-of-ai"
         }
       ]
     },
@@ -253,6 +227,32 @@
       "name": "Investigación",
       "items": [
         {
+          "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
+          "url": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-07T14:00:01Z",
+          "summary": "Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time of carbon emissions f…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-07-decentralized-training-can-help-solve-ai-s-energy"
+        },
+        {
+          "title": "Why AI Systems Fail Quietly",
+          "url": "https://spectrum.ieee.org/ai-reliability",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-07T13:00:01Z",
+          "summary": "In late-stage testing of a distributed AI platform, engineers sometimes encounter a perplexing situation: every monitoring dashboard reads “healthy,” yet users report that the system’s decisions are slowly becoming wrong…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-07-why-ai-systems-fail-quietly"
+        },
+        {
           "title": "AI Is Insatiable",
           "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
           "source": "IEEE Spectrum",
@@ -271,85 +271,150 @@
       "name": "General",
       "items": [
         {
-          "title": "Robotaxi companies won’t say how often remote operators intervene",
-          "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
+          "title": "I wish this selfie phone case was better for selfies",
+          "url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
           "source": "The Verge",
-          "published_at": "2026-04-06T18:15:51Z",
-          "summary": "Autonomous vehicle companies are refusing to disclose key details about their use of remote assistance teams, including how often these workers are forced to intervene to help their self-driving cars. Sen. Ed Markey (D-M…",
+          "published_at": "2026-04-07T19:05:00Z",
+          "summary": "The Selfix phone case is a classic example of a great idea in theory that falls apart in practice. It's a case for the iPhone 17 Pro with a circular screen on the back. It mirrors the middle of your main phone screen, ma…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-robotaxi-companies-won-t-say-how-often-remote"
+          "id": "theverge-2026-04-07-i-wish-this-selfie-phone-case-was-better"
         },
         {
-          "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
-          "url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
+          "title": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
+          "url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
           "source": "The Verge",
-          "published_at": "2026-04-06T17:24:46Z",
-          "summary": "Humans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and …",
+          "published_at": "2026-04-07T18:16:52Z",
+          "summary": "My colleague Allison Johnson loved the Privacy Display in her review of the Samsung Galaxy S26 Ultra. The display feature, which blocks onlookers from getting a peep at what’s on the screen when viewed from the side, is …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-nasa-s-artemis-ii-mission-to-fly-around"
+          "id": "theverge-2026-04-07-samsung-s-galaxy-s26-ultra-is-200-off"
         },
         {
-          "title": "Netflix is launching a new app for kids games",
-          "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
+          "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
           "source": "The Verge",
-          "published_at": "2026-04-06T17:00:00Z",
-          "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids ag…",
+          "published_at": "2026-04-07T18:00:00Z",
+          "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-netflix-is-launching-a-new-app-for-kids"
+          "id": "theverge-2026-04-07-a-new-anthropic-model-found-security-problems-8216"
         },
         {
-          "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-          "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
+          "title": "The rugged Bose Soundlink Flex is 25 percent off right now",
+          "url": "https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-04-06T16:03:14Z",
-          "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. The new Pro model rep…",
+          "published_at": "2026-04-07T17:02:25Z",
+          "summary": "We saw a host of excellent Bose discounts during Amazon’s so-called Big Spring Sale last month; however, none of them were quite as steep as the current price drop we’re seeing on the latest Bose Soundlink Flex. Right no…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-samsung-8217-s-galaxy-s27-8216-pro-8217"
+          "id": "theverge-2026-04-07-the-rugged-bose-soundlink-flex-is-25-percent"
         },
         {
-          "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+          "title": "Vertical browser tabs are better and you should use them",
+          "url": "https://www.theverge.com/tech/907998/google-chrome-vertical-tabs",
           "source": "The Verge",
-          "published_at": "2026-04-06T15:54:19Z",
-          "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by T…",
+          "published_at": "2026-04-07T17:00:00Z",
+          "summary": "Google's Chrome browser is getting a couple of new features, both of them extremely welcome and wildly overdue. The first is a reading mode, which does what it already does in most other browsers: strip out a lot of webs…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-iran-threatens-openai-s-stargate-data-center-in"
+          "id": "theverge-2026-04-07-vertical-browser-tabs-are-better-and-you-should"
         },
         {
-          "title": "The Artemis II astronauts will set a new distance record from Earth today",
-          "url": "https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record",
-          "source": "The Verge",
-          "published_at": "2026-04-06T15:46:06Z",
-          "summary": "On April 15th, 1970, Jim Lovell, Fred Haise, and Jack Swigert set a distance record when Apollo 13 traveled 248,655 miles from Earth. Nearly 56 years later, the crew of Artemis II is expected to break that record by seve…",
+          "title": "Las empresas ya saben cuánto estás dispuesto a cobrar antes de que lo digas: un algoritmo se lo ha chivado",
+          "url": "https://www.xataka.com/empresas-y-economia/empresas-saben-cuanto-estas-dispuesto-a-cobrar-digas-algoritmo-se-ha-chivado",
+          "source": "Xataka",
+          "published_at": "2026-04-07T16:46:12Z",
+          "summary": "Ya estamos acostumbrados a que el precio de un vuelo cambie según cuándo lo busques, desde dónde lo hagas o cuántas veces hayas visitado esa página. También a que un trayecto en Uber o Lyft cambie su precio dependiendo d…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-06-the-artemis-ii-astronauts-will-set-a-new"
+          "id": "xataka-2026-04-07-las-empresas-ya-saben-cuanto-estas-dispuesto-a"
         },
         {
-          "title": "La guerra entre China y Taiwán lleva años librándose sin tanques ni drones suicidas: va sobre chips y va a ir a más",
+          "title": "Suno and major music labels reportedly clash over AI music sharing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
+          "source": "The Verge",
+          "published_at": "2026-04-07T16:21:22Z",
+          "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-07-suno-and-major-music-labels-reportedly-clash-over"
+        },
+        {
+          "title": "Samsung se ha cansado de ser la segundona de la carrera de los chips. Ahora se preparan para destronar al titán de Taiwán",
+          "url": "https://www.xataka.com/empresas-y-economia/samsung-se-ha-cansado-ser-segundona-carrera-chips-ahora-se-preparan-para-destronar-al-titan-taiwan",
+          "source": "Xataka",
+          "published_at": "2026-04-07T15:30:13Z",
+          "summary": "Cuando hablamos de inteligencia artificial, hay varios nombres propios que protagonizan la conversación. NVIDIA se ha convertido en los cimientos y en el cemento de la IA gracias tanto a sus productos como, sobre todo, a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-07-samsung-se-ha-cansado-de-ser-la-segundona"
+        },
+        {
+          "title": "\"El problema es Sam Altman\": cada vez más voces dentro de la industria IA empiezan a poner en duda al CEO de OpenAI",
+          "url": "https://www.xataka.com/robotica-e-ia/problema-sam-altman-industria-ia-se-enamoro-openai-no-se-fia-pelo-su-ceo",
+          "source": "Xataka",
+          "published_at": "2026-04-07T15:15:00Z",
+          "summary": "En OpenAI ven un futuro en el que la semana laborales debería tener cuatro días. No solo eso: cada ciudadano debería recibir una parte del crecimiento económico generado por la IA. Son algunas de las propuestas que la co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-07-el-problema-es-sam-altman-cada-vez-mas"
+        },
+        {
+          "title": "Google Earth muestra el mundo. La española Xoople quiere que la IA lo entienda",
+          "url": "https://www.xataka.com/empresas-y-economia/startup-espanola-esta-construyendo-mapa-tierra-que-ia-necesita-xoople",
+          "source": "Xataka",
+          "published_at": "2026-04-07T10:30:00Z",
+          "summary": "Xoople ha cerrado una ronda Serie B de 130 millones de dólares liderada por Nazca Capital y con la participación de MCH Private Equity, el CDTI, Buenavista Equity Partners y Endeavor Catalyst. Con la financiación acumula…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-07-google-earth-muestra-el-mundo-la-espanola-xoople"
+        },
+        {
+          "title": "Hay una forma de conseguir que tu agente de IA se convierta en un buen empleado. Hablar un montón con él: Crossover 1x43",
+          "url": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
+          "source": "Xataka",
+          "published_at": "2026-04-06T19:30:56Z",
+          "summary": "Si aún no has probado a instalar OpenClaw o no sabías muy bien cómo hacerlo, en Xataka y Crossover estamos tratando de acercarte a este fascinante agente de IA que se puede convertir en un empleado incansable que trabaja…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-06-hay-una-forma-de-conseguir-que-tu-agente"
+        },
+        {
+          "title": "China necesita expertos en chips para sostener su guerra tecnológica con EEUU. Y Taiwán le acusa de estar robándoselos",
           "url": "https://www.xataka.com/empresas-y-economia/china-taiwan-han-iniciado-guerra-captura-talento-inteligencia-artificial-chips",
           "source": "Xataka",
           "published_at": "2026-04-06T09:30:00Z",
@@ -359,7 +424,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-06-la-guerra-entre-china-y-taiwan-lleva-anos"
+          "id": "xataka-2026-04-06-china-necesita-expertos-en-chips-para-sostener-su"
         },
         {
           "title": "Anthropic ha capado OpenClaw por un motivo: está construyendo el \"jardín amurallado\" que Nintendo perfeccionó",
@@ -373,32 +438,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-06-anthropic-ha-capado-openclaw-por-un-motivo-esta"
-        },
-        {
-          "title": "64 cursos gratis para IA con Claude, ChatGPT, Gemini y Copilot creados por sus propias empresas",
-          "url": "https://www.xataka.com/basics/64-cursos-gratis-para-ia-claude-chatgpt-gemini-copilot-creados-sus-propias-empresas",
-          "source": "Xataka",
-          "published_at": "2026-04-05T12:00:56Z",
-          "summary": "Te traemos una lista de 64 cursos de IA , centrados en los cuatro principales chatbots de inteligencia artificial del mercado. Son cursos para Claude , ChatGPT , Gemini y Copilot creados por Anthropic, OpenAI, Google y M…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-05-64-cursos-gratis-para-ia-con-claude-chatgpt"
-        },
-        {
-          "title": "Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha",
-          "url": "https://www.xataka.com/robotica-e-ia/tener-ia-mi-movil-que-funciona-conexion-a-internet-util-que-pensaba-asi-puedes-poner-marcha-facil",
-          "source": "Xataka",
-          "published_at": "2026-04-05T10:00:56Z",
-          "summary": "Además de todos los modelos de lenguaje para IA comerciales que tenemos a nuestra disposición ( ChatGPT , Gemini , Claude , etc), existe todo un mundo de modelos de lenguaje de código abierto que nos pueden servir para u…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-05-tener-una-ia-en-mi-movil-que-funciona"
         }
       ]
     }
@@ -486,32 +525,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-02-codex-now-offers-more-flexible-pricing-for-teams"
-        },
-        {
-          "title": "Gradient Labs gives every bank customer an AI account manager",
-          "url": "https://openai.com/index/gradient-labs",
-          "source": "OpenAI",
-          "published_at": "2026-04-01T02:00:00Z",
-          "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-01-gradient-labs-gives-every-bank-customer-an-ai"
-        },
-        {
-          "title": "Accelerating the next phase of AI",
-          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-          "source": "OpenAI",
-          "published_at": "2026-03-31T13:00:00Z",
-          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-03-31-accelerating-the-next-phase-of-ai"
         }
       ]
     },
@@ -520,17 +533,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "Anthropic invests $100 million into the Claude Partner Network",
-          "url": "https://www.anthropic.com/news/claude-partner-network",
+          "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
           "source": "Anthropic",
-          "published_at": "2026-03-12T00:00:00Z",
-          "summary": "Anthropic invests $100 million into the Claude Partner Network",
+          "published_at": "2026-04-06T00:00:00Z",
+          "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-03-12-anthropic-invests-100-million-into-the-claude-partner"
+          "id": "anthropic-2026-04-06-anthropic-expands-partnership-with-google-and-broadcom-for"
         }
       ]
     },
@@ -589,19 +602,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-01-the-latest-ai-news-we-announced-in-march"
-        },
-        {
-          "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-          "source": "Google AI",
-          "published_at": "2026-03-31T16:00:00Z",
-          "summary": "Build with Veo 3.1 Lite",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-03-31-build-with-veo-3-1-lite-our-most"
         }
       ]
     },
