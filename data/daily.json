@@ -1,78 +1,104 @@
 {
-  "date": "2026-04-08",
-  "generated_at": "2026-04-08T06:57:15.850499Z",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T06:58:12.711786Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Claude Mythos es un modelo de IA tan potente que da miedo. Así que Anthropic ha decidido que no vas a poder usarlo",
-      "url": "https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo",
+      "title": "Las empresas llevan años invirtiendo en IA. El problema es que muchos proyectos no están dando resultados",
+      "url": "https://www.xataka.com/robotica-e-ia/empresas-llevan-anos-invirtiendo-ia-problema-que-muchos-proyectos-no-estan-dando-resultados",
       "source": "Xataka",
-      "published_at": "2026-04-08T06:37:44Z",
-      "summary": "Claude Mythos Preview ya está aquí y es tan bueno que asusta. Literalmente. Anthropic acaba de presentarlo en público, pero lo ha hecho con tanta cautela que ni siquiera podremos probarlo y solo estará disponible para ci…",
+      "published_at": "2026-04-09T06:30:13Z",
+      "summary": "Llevamos años escuchando la misma promesa, que la inteligencia artificial iba a reducir costes, automatizar tareas complejas y hacer más eficientes las infraestructuras tecnológicas de las empresas. Es una idea que hemos…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-08-claude-mythos-es-un-modelo-de-ia-tan"
+      "id": "xataka-2026-04-09-las-empresas-llevan-anos-invirtiendo-en-ia-el"
     },
     {
-      "title": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
-      "url": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
       "source": "The Verge",
-      "published_at": "2026-04-07T22:16:21Z",
-      "summary": "It’s not every day you find a decent pair of wireless earbuds with active noise cancellation, a transparency mode, and app support for less than $20, which is why the current lighting deal on the CMF Buds 2A stands out. …",
+      "published_at": "2026-04-09T00:06:12Z",
+      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-07-nothing-s-noise-canceling-cmf-buds-2a-are-down"
+      "id": "theverge-2026-04-09-gemini-gets-notebooks-to-help-you-organize-projects"
     },
     {
-      "title": "Amazon is ending support for older Kindles and Kindle Fires",
-      "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+      "title": "Dyson made a handheld version of its iconic fans",
+      "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
       "source": "The Verge",
-      "published_at": "2026-04-07T21:44:20Z",
-      "summary": "Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amaz…",
+      "published_at": "2026-04-09T00:01:00Z",
+      "summary": "Nearly 17 years after Dyson first announced its Air Multiplier fans - one of its first big consumer products after vacuums - the company has miniaturized their design to create a handheld personal cooler called the HushJ…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-07-amazon-is-ending-support-for-older-kindles-and"
+      "id": "theverge-2026-04-09-dyson-made-a-handheld-version-of-its-iconic"
     },
     {
-      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
-      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
       "source": "The Verge",
-      "published_at": "2026-04-07T20:13:23Z",
-      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta…",
+      "published_at": "2026-04-08T20:14:00Z",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-07-spotify-8217-s-prompted-playlists-can-help-you"
+      "id": "theverge-2026-04-08-openai-made-economic-proposals----here-s-what"
     },
     {
-      "title": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
-      "url": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+      "title": "I finally get the iPhone Air",
+      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
       "source": "The Verge",
-      "published_at": "2026-04-07T19:07:12Z",
-      "summary": "Android XR is getting a new feature that turns 2D apps, websites, images, and videos into \"3D experiences.\" The feature, which Google calls \"auto-spatialization,\" was initially announced last year, and it's launching on …",
+      "published_at": "2026-04-08T19:45:00Z",
+      "summary": "I saw a lot of weird phones at Mobile World Congress last month: robot phones, cameras disguised as phones, phones for dogs. But the one that caught me most off guard was the one my friend (and Verge alum) Sam Byford bro…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-07-you-can-now-turn-2d-apps-into-3d"
+      "id": "theverge-2026-04-08-i-finally-get-the-iphone-air"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "The next phase of enterprise AI",
+          "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "source": "OpenAI",
+          "published_at": "2026-04-08T14:00:00Z",
+          "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-08-the-next-phase-of-enterprise-ai"
+        },
+        {
+          "title": "Introducing the Child Safety Blueprint",
+          "url": "https://openai.com/index/introducing-child-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-04-08T05:00:00Z",
+          "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-08-introducing-the-child-safety-blueprint"
+        },
         {
           "title": "Announcing the OpenAI Safety Fellowship",
           "url": "https://openai.com/index/introducing-openai-safety-fellowship",
@@ -176,32 +202,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-02-codex-now-offers-more-flexible-pricing-for-teams"
-        },
-        {
-          "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-          "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-          "source": "Google AI",
-          "published_at": "2026-04-01T13:30:00Z",
-          "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-01-we-re-creating-a-new-satellite-imagery-map"
-        },
-        {
-          "title": "The latest AI news we announced in March 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-          "source": "Google AI",
-          "published_at": "2026-04-01T13:00:00Z",
-          "summary": "March 2026 AI Recap showing new updates",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-01-the-latest-ai-news-we-announced-in-march"
         }
       ]
     },
@@ -209,23 +209,54 @@
       "name": "Negocio",
       "items": [
         {
-          "title": "Una startup IA \"unipersonal\" ha facturado 400 millones con tratamientos para adelgazar. El problema: sus médicos son falsos",
-          "url": "https://www.xataka.com/robotica-e-ia/nyt-publico-historia-emprendedor-ia-que-factura-1-800-millones-dos-empleados-se-olvido-mencionar-unas-cuantas-cosas",
+          "title": "Google Earth lleva más de una década mostrándonos la Tierra. Una startup española quiere llegar al siguiente nivel",
+          "url": "https://www.xataka.com/empresas-y-economia/startup-espanola-esta-construyendo-mapa-tierra-que-ia-necesita-xoople",
           "source": "Xataka",
-          "published_at": "2026-04-06T16:30:00Z",
-          "summary": "El pasado 2 de abril, The New York Times publicó un perfil de Matthew Gallagher, un emprendedor de 41 años de Los Ángeles que con 20.000 dólares, la ayuda de su hermano y una docena de herramientas de IA logró crear MEDV…",
+          "published_at": "2026-04-07T10:30:00Z",
+          "summary": "Xoople ha cerrado una ronda Serie B de 130 millones de dólares liderada por Nazca Capital y con la participación de MCH Private Equity, el CDTI, Buenavista Equity Partners y Endeavor Catalyst. Con la financiación acumula…",
           "why_it_matters": "",
           "tags": [
             "negocio"
           ],
           "category": "negocio",
-          "id": "xataka-2026-04-06-una-startup-ia-unipersonal-ha-facturado-400-millones"
+          "id": "xataka-2026-04-07-google-earth-lleva-mas-de-una-decada-mostrandonos"
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
+        {
+          "title": "En Meta hay una competición por ver quién es la 'Leyenda del Token' de la empresa. Es pagar para trabajar",
+          "url": "https://www.xataka.com/empresas-y-economia/dentro-meta-hay-carrera-ver-que-empleado-consume-tokens-ia-tokenmaxxing-silicon-valley",
+          "source": "Xataka",
+          "published_at": "2026-04-08T12:30:00Z",
+          "summary": "Hay una batalla dentro de Meta: ver quién gasta más tokens de IA . Se trata de la unidad básica que usa la IA para entender el lenguaje con el que le ordenamos acciones. Es como el “puente” entre nuestras palabras y los …",
+          "why_it_matters": "",
+          "tags": [
+            "regulación"
+          ],
+          "category": "regulación",
+          "id": "xataka-2026-04-08-en-meta-hay-una-competicion-por-ver-quien"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "AI Models Map the Colorado River’s Hard Choices",
+          "url": "https://spectrum.ieee.org/colorado-river-water-shortage",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-08T14:00:01Z",
+          "summary": "The Colorado River begins as snow. Every spring, the mountain snowpack of the Rockies melts into streams that feed into reservoirs that supply 40 million people across seven U.S. states. The system has worked, more or le…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-08-ai-models-map-the-colorado-river-s-hard"
+        },
         {
           "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
           "url": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
@@ -251,19 +282,37 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-04-07-why-ai-systems-fail-quietly"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "AI Is Insatiable",
-          "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-04-06T14:22:58Z",
-          "summary": "While browsing our website a few weeks ago, I stumbled upon “ How and When the Memory Chip Shortage Will End ” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers…",
+          "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+          "source": "Hugging Face",
+          "published_at": "2026-04-08T14:27:42Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-04-06-ai-is-insatiable"
+          "category": "herramientas",
+          "id": "huggingface-2026-04-08-altk-evolve-on-the-job-learning-for-ai-agents"
+        },
+        {
+          "title": "Safetensors is Joining the PyTorch Foundation",
+          "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+          "source": "Hugging Face",
+          "published_at": "2026-04-08T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-04-08-safetensors-is-joining-the-pytorch-foundation"
         }
       ]
     },
@@ -271,108 +320,134 @@
       "name": "General",
       "items": [
         {
-          "title": "I wish this selfie phone case was better for selfies",
-          "url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+          "title": "The AI RAM shortage is also driving up SSD prices",
+          "url": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
           "source": "The Verge",
-          "published_at": "2026-04-07T19:05:00Z",
-          "summary": "The Selfix phone case is a classic example of a great idea in theory that falls apart in practice. It's a case for the iPhone 17 Pro with a circular screen on the back. It mirrors the middle of your main phone screen, ma…",
+          "published_at": "2026-04-08T19:32:49Z",
+          "summary": "I thought the WD Black SN850X 2TB SSD in my gaming PC was pricey when I bought it for $173 in 2024, but now that same SSD costs $649, more than what I paid for most of the parts in my PC combined. The price on my WD Blac…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-07-i-wish-this-selfie-phone-case-was-better"
+          "id": "theverge-2026-04-08-the-ai-ram-shortage-is-also-driving-up"
         },
         {
-          "title": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
-          "url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
+          "title": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
+          "url": "https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods",
           "source": "The Verge",
-          "published_at": "2026-04-07T18:16:52Z",
-          "summary": "My colleague Allison Johnson loved the Privacy Display in her review of the Samsung Galaxy S26 Ultra. The display feature, which blocks onlookers from getting a peep at what’s on the screen when viewed from the side, is …",
+          "published_at": "2026-04-08T18:21:50Z",
+          "summary": "The MacBook Neo is disrupting the laptop space and putting Apple into the conversation as a value option like it’s never been before. With a price starting at $599 (or $499 for students and teachers), the colorful laptop…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-07-samsung-s-galaxy-s26-ultra-is-200-off"
+          "id": "theverge-2026-04-08-the-neo-effect-how-apple-8217-s-cheapest"
         },
         {
-          "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+          "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
+          "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
           "source": "The Verge",
-          "published_at": "2026-04-07T18:00:00Z",
-          "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large…",
+          "published_at": "2026-04-08T16:56:43Z",
+          "summary": "Microsoft is losing another veteran executive. Julia Liuson, head of Microsoft's developer division (DevDiv), is resigning from the software giant after 34 years. Liuson spent the past 12 years leading Microsoft's develo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-07-a-new-anthropic-model-found-security-problems-8216"
+          "id": "theverge-2026-04-08-microsoft-s-executive-shake-up-continues-as-developer-division"
         },
         {
-          "title": "The rugged Bose Soundlink Flex is 25 percent off right now",
-          "url": "https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale",
+          "title": "Meta is reentering the AI race with a new model called Muse Spark",
+          "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
           "source": "The Verge",
-          "published_at": "2026-04-07T17:02:25Z",
-          "summary": "We saw a host of excellent Bose discounts during Amazon’s so-called Big Spring Sale last month; however, none of them were quite as steep as the current price drop we’re seeing on the latest Bose Soundlink Flex. Right no…",
+          "published_at": "2026-04-08T16:12:54Z",
+          "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the U…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-07-the-rugged-bose-soundlink-flex-is-25-percent"
+          "id": "theverge-2026-04-08-meta-is-reentering-the-ai-race-with-a"
         },
         {
-          "title": "Vertical browser tabs are better and you should use them",
-          "url": "https://www.theverge.com/tech/907998/google-chrome-vertical-tabs",
+          "title": "Amazon’s Smart Thermostat can help lower your energy bills, and it’s down to $62",
+          "url": "https://www.theverge.com/gadgets/908742/amazon-smart-thermostat-samsung-galaxy-buds-4-pro-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-04-07T17:00:00Z",
-          "summary": "Google's Chrome browser is getting a couple of new features, both of them extremely welcome and wildly overdue. The first is a reading mode, which does what it already does in most other browsers: strip out a lot of webs…",
+          "published_at": "2026-04-08T15:56:34Z",
+          "summary": "With temperatures on the rise and Earth Day right around the corner, now’s a good time to invest in a smart thermostat if you haven’t already. A good one like Amazon’s Smart Thermostat can help reduce energy use and lowe…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-07-vertical-browser-tabs-are-better-and-you-should"
+          "id": "theverge-2026-04-08-amazon-s-smart-thermostat-can-help-lower-your"
         },
         {
-          "title": "Las empresas ya saben cuánto estás dispuesto a cobrar antes de que lo digas: un algoritmo se lo ha chivado",
+          "title": "The Miniature Wife was an exercise in visual trickery",
+          "url": "https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery",
+          "source": "The Verge",
+          "published_at": "2026-04-08T15:00:00Z",
+          "summary": "In Manuel Gonzales' 2013 short story \"The Miniature Wife,\" a woman starts to become a different kind of person after her husband accidentally shrinks her down to the size of a coffee mug. Because of her new stature, the …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-08-the-miniature-wife-was-an-exercise-in-visual"
+        },
+        {
+          "title": "Los modelos de IA chinos presumían de ser buenos, bonitos y baratos. Ya solo son dos de esas tres cosas",
+          "url": "https://www.xataka.com/robotica-e-ia/modelos-ia-chinos-presumian-ser-buenos-bonitos-baratos-solo-dos-esas-tres-cosas",
+          "source": "Xataka",
+          "published_at": "2026-04-08T09:30:00Z",
+          "summary": "No es tan conocida como sus rivales, pero Zhipu AI (z.ai) se ha convertido en una de las startups chinas de IA más prometedoras . Es la responsable de la familia de modelos abiertos GLM que siempre han planteado una alte…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-08-los-modelos-de-ia-chinos-presumian-de-ser"
+        },
+        {
+          "title": "Zero-day para todos: la nueva IA de Anthropic ha encontrado vulnerabilidades en todos los sistemas operativos del mundo",
+          "url": "https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo",
+          "source": "Xataka",
+          "published_at": "2026-04-08T06:37:00Z",
+          "summary": "Claude Mythos Preview ya está aquí y es tan bueno que asusta. Literalmente. Anthropic acaba de presentarlo en público, pero lo ha hecho con tanta cautela que ni siquiera podremos probarlo y solo estará disponible para ci…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-08-zero-day-para-todos-la-nueva-ia-de-anthropic"
+        },
+        {
+          "title": "Hay un motivo por el que las empresas no publican el salario en sus ofertas: ya saben perfectamente cuánto les vas a pedir",
           "url": "https://www.xataka.com/empresas-y-economia/empresas-saben-cuanto-estas-dispuesto-a-cobrar-digas-algoritmo-se-ha-chivado",
           "source": "Xataka",
-          "published_at": "2026-04-07T16:46:12Z",
+          "published_at": "2026-04-07T16:45:00Z",
           "summary": "Ya estamos acostumbrados a que el precio de un vuelo cambie según cuándo lo busques, desde dónde lo hagas o cuántas veces hayas visitado esa página. También a que un trayecto en Uber o Lyft cambie su precio dependiendo d…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-07-las-empresas-ya-saben-cuanto-estas-dispuesto-a"
+          "id": "xataka-2026-04-07-hay-un-motivo-por-el-que-las-empresas"
         },
         {
-          "title": "Suno and major music labels reportedly clash over AI music sharing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-          "source": "The Verge",
-          "published_at": "2026-04-07T16:21:22Z",
-          "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on w…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-07-suno-and-major-music-labels-reportedly-clash-over"
-        },
-        {
-          "title": "Samsung se ha cansado de ser la segundona de la carrera de los chips. Ahora se preparan para destronar al titán de Taiwán",
+          "title": "Gracias a la IA, Samsung tiene la oportunidad de conseguir lo que siempre anheló: adelantar a TSMC y SK Hynix",
           "url": "https://www.xataka.com/empresas-y-economia/samsung-se-ha-cansado-ser-segundona-carrera-chips-ahora-se-preparan-para-destronar-al-titan-taiwan",
           "source": "Xataka",
-          "published_at": "2026-04-07T15:30:13Z",
+          "published_at": "2026-04-07T15:30:00Z",
           "summary": "Cuando hablamos de inteligencia artificial, hay varios nombres propios que protagonizan la conversación. NVIDIA se ha convertido en los cimientos y en el cemento de la IA gracias tanto a sus productos como, sobre todo, a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-07-samsung-se-ha-cansado-de-ser-la-segundona"
+          "id": "xataka-2026-04-07-gracias-a-la-ia-samsung-tiene-la-oportunidad"
         },
         {
           "title": "\"El problema es Sam Altman\": cada vez más voces dentro de la industria IA empiezan a poner en duda al CEO de OpenAI",
@@ -386,58 +461,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-07-el-problema-es-sam-altman-cada-vez-mas"
-        },
-        {
-          "title": "Google Earth muestra el mundo. La española Xoople quiere que la IA lo entienda",
-          "url": "https://www.xataka.com/empresas-y-economia/startup-espanola-esta-construyendo-mapa-tierra-que-ia-necesita-xoople",
-          "source": "Xataka",
-          "published_at": "2026-04-07T10:30:00Z",
-          "summary": "Xoople ha cerrado una ronda Serie B de 130 millones de dólares liderada por Nazca Capital y con la participación de MCH Private Equity, el CDTI, Buenavista Equity Partners y Endeavor Catalyst. Con la financiación acumula…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-07-google-earth-muestra-el-mundo-la-espanola-xoople"
-        },
-        {
-          "title": "Hay una forma de conseguir que tu agente de IA se convierta en un buen empleado. Hablar un montón con él: Crossover 1x43",
-          "url": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
-          "source": "Xataka",
-          "published_at": "2026-04-06T19:30:56Z",
-          "summary": "Si aún no has probado a instalar OpenClaw o no sabías muy bien cómo hacerlo, en Xataka y Crossover estamos tratando de acercarte a este fascinante agente de IA que se puede convertir en un empleado incansable que trabaja…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-06-hay-una-forma-de-conseguir-que-tu-agente"
-        },
-        {
-          "title": "China necesita expertos en chips para sostener su guerra tecnológica con EEUU. Y Taiwán le acusa de estar robándoselos",
-          "url": "https://www.xataka.com/empresas-y-economia/china-taiwan-han-iniciado-guerra-captura-talento-inteligencia-artificial-chips",
-          "source": "Xataka",
-          "published_at": "2026-04-06T09:30:00Z",
-          "summary": "Para Taiwán su industria de los semiconductores es estratégica por tres razones fundamentales: representa entre el 13% y el 15% del producto interior bruto del país; es el motor de sus exportaciones con un valor cercano …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-06-china-necesita-expertos-en-chips-para-sostener-su"
-        },
-        {
-          "title": "Anthropic ha capado OpenClaw por un motivo: está construyendo el \"jardín amurallado\" que Nintendo perfeccionó",
-          "url": "https://www.xataka.com/robotica-e-ia/que-anthropic-haya-capado-openclaw-comprensible-que-haga-asi-confirma-que-se-estan-convirtiendo-nintendo-ia",
-          "source": "Xataka",
-          "published_at": "2026-04-06T07:27:00Z",
-          "summary": "Peter Steinberger, el creador del agente de IA OpenClaw , se levantó el sábado con un montón de menciones en su cuenta de Twitter. En todas le avisaban de lo mismo: Anthropic anunciaba que las cuentas de Claude Code (Cla…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-06-anthropic-ha-capado-openclaw-por-un-motivo-esta"
         }
       ]
     }
@@ -474,6 +497,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "The next phase of enterprise AI",
+          "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "source": "OpenAI",
+          "published_at": "2026-04-08T14:00:00Z",
+          "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-08-the-next-phase-of-enterprise-ai"
+        },
+        {
+          "title": "Introducing the Child Safety Blueprint",
+          "url": "https://openai.com/index/introducing-child-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-04-08T05:00:00Z",
+          "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-08-introducing-the-child-safety-blueprint"
+        },
         {
           "title": "Announcing the OpenAI Safety Fellowship",
           "url": "https://openai.com/index/introducing-openai-safety-fellowship",
@@ -576,32 +625,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-02-create-edit-and-share-videos-at-no-cost"
-        },
-        {
-          "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-          "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-          "source": "Google AI",
-          "published_at": "2026-04-01T13:30:00Z",
-          "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-01-we-re-creating-a-new-satellite-imagery-map"
-        },
-        {
-          "title": "The latest AI news we announced in March 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-          "source": "Google AI",
-          "published_at": "2026-04-01T13:00:00Z",
-          "summary": "March 2026 AI Recap showing new updates",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-01-the-latest-ai-news-we-announced-in-march"
         }
       ]
     },
