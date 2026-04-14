@@ -1,72 +1,72 @@
 {
-  "date": "2026-04-13",
-  "generated_at": "2026-04-13T07:14:09.068532Z",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T07:03:13.816745Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Room for the Moon is thrillingly weird experimental pop",
-      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
       "source": "The Verge",
-      "published_at": "2026-04-12T20:00:00Z",
-      "summary": "For obvious reasons, I've had Moon on the mind all week. So I was trying to figure out what I should recommend this week that would thematically fit. Brian Eno's Apollo: Atmospheres and Soundtracks is incredible, and if …",
+      "published_at": "2026-04-14T00:02:38Z",
+      "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenA…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-12-room-for-the-moon-is-thrillingly-weird-experimental"
+      "id": "theverge-2026-04-14-daniel-moreno-gama-is-facing-federal-charges-for-attacking"
     },
     {
-      "title": "Rockstar Games says hack will have ‘no impact’",
-      "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
-      "source": "The Verge",
-      "published_at": "2026-04-12T17:02:00Z",
-      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider. The group ShinyHunters claimed responsibility, saying it had gained access to the company's Snowflake instances …",
+      "title": "Creíamos que los centros de datos en el espacio eran cosa del futuro. Kepler ya ha activado el mayor clúster orbital",
+      "url": "https://www.xataka.com/espacio/creiamos-que-centros-datos-espacio-eran-cosa-futuro-kepler-ha-activado-mayor-cluster-orbital",
+      "source": "Xataka",
+      "published_at": "2026-04-13T22:01:39Z",
+      "summary": "Durante años, hablar de centros de datos en el espacio sonaba a esa clase de idea que siempre parecía estar a unos cuantos años de distancia. La conversación existía, desde luego, pero casi siempre apoyada en planes a la…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-12-rockstar-games-says-hack-will-have-no-impact"
+      "id": "xataka-2026-04-13-creiamos-que-los-centros-de-datos-en-el"
     },
     {
-      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
-      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
+      "title": "The Mercedes EQS returns with massive range and charging gains",
+      "url": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
       "source": "The Verge",
-      "published_at": "2026-04-12T16:00:00Z",
-      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console. Now through May 9th, you ca…",
+      "published_at": "2026-04-13T22:01:00Z",
+      "summary": "A year ago, Mercedes-Benz did the prudent thing and paused its EQ lineup of electric vehicles in the US. With customer demand drying up for luxury EVs, and federal incentives getting axed by vengeful Republicans, Mercede…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-12-you-can-save-20-on-the-super-mario"
+      "id": "theverge-2026-04-13-the-mercedes-eqs-returns-with-massive-range-and"
     },
     {
-      "title": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99",
-      "url": "https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale",
+      "title": "Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music",
+      "url": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
       "source": "The Verge",
-      "published_at": "2026-04-12T14:32:11Z",
-      "summary": "We spend a lot of time at The Verge waxing poetic about the latest gadgets, but sometimes it’s the last-gen devices from several years ago that offer the better value. The 2021 Kindle Paperwhite is a great case in point …",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "theverge-2026-04-12-you-can-grab-a-refurbished-2021-kindle-paperwhite"
-    },
-    {
-      "title": "The Hisense UR9 is a great first shot against OLED’s bow",
-      "url": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
-      "source": "The Verge",
-      "published_at": "2026-04-12T13:30:00Z",
-      "summary": "RGB LED TVs have been the talk of the TV world this year, with models coming from all the manufacturers, and the first one of 2026 is here - the Hisense UR9. It's the first look at the viability of the new backlight tech…",
+      "published_at": "2026-04-13T21:19:10Z",
+      "summary": "This past Saturday at the Coachella music festival, Justin Bieber played the first of two headlining sets in a deal reportedly worth $10 million. It was his most significant solo performance in years. But Bieber spent so…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-12-the-hisense-ur9-is-a-great-first-shot"
+      "id": "theverge-2026-04-13-justin-bieber-8217-s-youtube-coachella-set-had"
+    },
+    {
+      "title": "RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop",
+      "url": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
+      "source": "The Verge",
+      "published_at": "2026-04-13T20:45:41Z",
+      "summary": "Microsoft just raised the prices across its line of Surface devices amid the global RAM shortage. Now, the 13-inch Surface Pro 11 and the 13.8-inch Surface Laptop 7 cost $500 more than their original starting price, goin…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-13-ramageddon-has-come-for-microsoft-8217-s-surface"
     }
   ],
   "sections": [
@@ -74,95 +74,17 @@
       "name": "Lanzamientos",
       "items": [
         {
-          "title": "Using projects in ChatGPT",
-          "url": "https://openai.com/academy/projects",
+          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+          "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
           "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+          "published_at": "2026-04-13T06:00:00Z",
+          "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-projects-in-chatgpt"
-        },
-        {
-          "title": "ChatGPT for marketing teams",
-          "url": "https://openai.com/academy/marketing",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-marketing-teams"
-        },
-        {
-          "title": "Our response to the Axios developer tool compromise",
-          "url": "https://openai.com/index/axios-developer-tool-compromise",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-our-response-to-the-axios-developer-tool-compromise"
-        },
-        {
-          "title": "Using custom GPTs",
-          "url": "https://openai.com/academy/custom-gpts",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-custom-gpts"
-        },
-        {
-          "title": "Analyzing data with ChatGPT",
-          "url": "https://openai.com/academy/data-analysis",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-analyzing-data-with-chatgpt"
-        },
-        {
-          "title": "Using skills",
-          "url": "https://openai.com/academy/skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-skills"
-        },
-        {
-          "title": "Writing with ChatGPT",
-          "url": "https://openai.com/academy/writing",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-writing-with-chatgpt"
+          "id": "openai-2026-04-13-enterprises-power-agentic-workflows-in-cloudflare-agent-cloud"
         },
         {
           "title": "ChatGPT for operations teams",
@@ -178,108 +100,17 @@
           "id": "openai-2026-04-10-chatgpt-for-operations-teams"
         },
         {
-          "title": "ChatGPT for research",
-          "url": "https://openai.com/academy/research",
+          "title": "Applications of AI at OpenAI",
+          "url": "https://openai.com/academy/applications-of-ai",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-research"
-        },
-        {
-          "title": "Responsible and safe use of AI",
-          "url": "https://openai.com/academy/responsible-and-safe-use",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-responsible-and-safe-use-of-ai"
-        },
-        {
-          "title": "Prompting fundamentals",
-          "url": "https://openai.com/academy/prompting",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-prompting-fundamentals"
-        },
-        {
-          "title": "Research with ChatGPT",
-          "url": "https://openai.com/academy/search-and-deep-research",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-research-with-chatgpt"
-        },
-        {
-          "title": "ChatGPT for customer success teams",
-          "url": "https://openai.com/academy/customer-success",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-customer-success-teams"
-        },
-        {
-          "title": "Healthcare",
-          "url": "https://openai.com/academy/healthcare",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-healthcare"
-        },
-        {
-          "title": "ChatGPT for managers",
-          "url": "https://openai.com/academy/managers",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-managers"
-        },
-        {
-          "title": "Getting started with ChatGPT",
-          "url": "https://openai.com/academy/getting-started",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-getting-started-with-chatgpt"
+          "id": "openai-2026-04-10-applications-of-ai-at-openai"
         },
         {
           "title": "ChatGPT for finance teams",
@@ -295,30 +126,69 @@
           "id": "openai-2026-04-10-chatgpt-for-finance-teams"
         },
         {
-          "title": "AI fundamentals",
-          "url": "https://openai.com/academy/what-is-ai",
+          "title": "Brainstorming with ChatGPT",
+          "url": "https://openai.com/academy/brainstorming",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+          "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-ai-fundamentals"
+          "id": "openai-2026-04-10-brainstorming-with-chatgpt"
         },
         {
-          "title": "Creating images with ChatGPT",
-          "url": "https://openai.com/academy/image-generation",
+          "title": "Our response to the Axios developer tool compromise",
+          "url": "https://openai.com/index/axios-developer-tool-compromise",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-creating-images-with-chatgpt"
+          "id": "openai-2026-04-10-our-response-to-the-axios-developer-tool-compromise"
+        },
+        {
+          "title": "ChatGPT for marketing teams",
+          "url": "https://openai.com/academy/marketing",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-marketing-teams"
+        },
+        {
+          "title": "Writing with ChatGPT",
+          "url": "https://openai.com/academy/writing",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-writing-with-chatgpt"
+        },
+        {
+          "title": "ChatGPT for research",
+          "url": "https://openai.com/academy/research",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-research"
         },
         {
           "title": "Financial services",
@@ -334,43 +204,147 @@
           "id": "openai-2026-04-10-financial-services"
         },
         {
-          "title": "ChatGPT for sales teams",
-          "url": "https://openai.com/academy/sales",
+          "title": "AI fundamentals",
+          "url": "https://openai.com/academy/what-is-ai",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-sales-teams"
+          "id": "openai-2026-04-10-ai-fundamentals"
         },
         {
-          "title": "Applications of AI at OpenAI",
-          "url": "https://openai.com/academy/applications-of-ai",
+          "title": "Responsible and safe use of AI",
+          "url": "https://openai.com/academy/responsible-and-safe-use",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-applications-of-ai-at-openai"
+          "id": "openai-2026-04-10-responsible-and-safe-use-of-ai"
         },
         {
-          "title": "Working with files in ChatGPT",
-          "url": "https://openai.com/academy/working-with-files",
+          "title": "Healthcare",
+          "url": "https://openai.com/academy/healthcare",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-working-with-files-in-chatgpt"
+          "id": "openai-2026-04-10-healthcare"
+        },
+        {
+          "title": "Using projects in ChatGPT",
+          "url": "https://openai.com/academy/projects",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-using-projects-in-chatgpt"
+        },
+        {
+          "title": "ChatGPT for managers",
+          "url": "https://openai.com/academy/managers",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-managers"
+        },
+        {
+          "title": "ChatGPT for customer success teams",
+          "url": "https://openai.com/academy/customer-success",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-customer-success-teams"
+        },
+        {
+          "title": "Getting started with ChatGPT",
+          "url": "https://openai.com/academy/getting-started",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-getting-started-with-chatgpt"
+        },
+        {
+          "title": "Research with ChatGPT",
+          "url": "https://openai.com/academy/search-and-deep-research",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-research-with-chatgpt"
+        },
+        {
+          "title": "Prompting fundamentals",
+          "url": "https://openai.com/academy/prompting",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-prompting-fundamentals"
+        },
+        {
+          "title": "Using skills",
+          "url": "https://openai.com/academy/skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-using-skills"
+        },
+        {
+          "title": "Analyzing data with ChatGPT",
+          "url": "https://openai.com/academy/data-analysis",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-analyzing-data-with-chatgpt"
         },
         {
           "title": "Personalizing ChatGPT",
@@ -386,30 +360,56 @@
           "id": "openai-2026-04-10-personalizing-chatgpt"
         },
         {
-          "title": "Brainstorming with ChatGPT",
-          "url": "https://openai.com/academy/brainstorming",
+          "title": "Working with files in ChatGPT",
+          "url": "https://openai.com/academy/working-with-files",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+          "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-brainstorming-with-chatgpt"
+          "id": "openai-2026-04-10-working-with-files-in-chatgpt"
         },
         {
-          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-          "url": "https://openai.com/index/cyberagent",
+          "title": "Using custom GPTs",
+          "url": "https://openai.com/academy/custom-gpts",
           "source": "OpenAI",
-          "published_at": "2026-04-09T00:00:00Z",
-          "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-09-cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
+          "id": "openai-2026-04-10-using-custom-gpts"
+        },
+        {
+          "title": "Creating images with ChatGPT",
+          "url": "https://openai.com/academy/image-generation",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-creating-images-with-chatgpt"
+        },
+        {
+          "title": "ChatGPT for sales teams",
+          "url": "https://openai.com/academy/sales",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-sales-teams"
         },
         {
           "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
@@ -423,6 +423,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-09-openai-full-fan-mode-contest-terms-conditions"
+        },
+        {
+          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+          "url": "https://openai.com/index/cyberagent",
+          "source": "OpenAI",
+          "published_at": "2026-04-09T00:00:00Z",
+          "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-09-cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
         },
         {
           "title": "The next phase of enterprise AI",
@@ -449,19 +462,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-08-introducing-the-child-safety-blueprint"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
         {
-          "title": "Announcing the OpenAI Safety Fellowship",
-          "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-          "source": "OpenAI",
-          "published_at": "2026-04-06T10:00:00Z",
-          "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+          "title": "12 Graphs That Explain the State of AI in 2026",
+          "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-13T13:00:01Z",
+          "summary": "The capabilities of leading AI models continue to accelerate and the largest AI companies, including OpenAI and Anthropic , are hurtling toward IPOs later this year. Yet resentment towards AI continues to simmer and in s…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-06-announcing-the-openai-safety-fellowship"
+          "category": "investigación",
+          "id": "ieee-2026-04-13-12-graphs-that-explain-the-state-of-ai"
         }
       ]
     },
@@ -469,95 +487,108 @@
       "name": "General",
       "items": [
         {
-          "title": "How AT&#038;T created the most iconic phone ever",
-          "url": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
+          "title": "NZXT to pay $3.45 million settlement over Flex PC rentals",
+          "url": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
           "source": "The Verge",
-          "published_at": "2026-04-12T13:28:46Z",
-          "summary": "For years, even decades, virtually everyone in the United States had the same phone. Nobody really thought about it, it didn't even matter what it was called - it was just The Phone. Well, The Phone was called the Wester…",
+          "published_at": "2026-04-13T20:00:58Z",
+          "summary": "NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to \"scam\" consumers through their Flex PC rental service. The preliminary s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-12-how-at-038-t-created-the-most-iconic"
+          "id": "theverge-2026-04-13-nzxt-to-pay-3-45-million-settlement-over"
         },
         {
-          "title": "The AI code wars are heating up",
-          "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+          "title": "AI influencers are ‘everywhere’ at Coachella",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
           "source": "The Verge",
-          "published_at": "2026-04-12T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8…",
+          "published_at": "2026-04-13T19:53:46Z",
+          "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-12-the-ai-code-wars-are-heating-up"
+          "id": "theverge-2026-04-13-ai-influencers-are-everywhere-at-coachella"
         },
         {
-          "title": "Allow me to explain why I love this camera that can’t shoot color",
-          "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+          "title": "The Apple Watch Series 11 has returned to its best-ever price",
+          "url": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-04-12T11:00:00Z",
-          "summary": "I love black-and-white photography. I also adore compact cameras you can always have by your side. So I'm a total mark for the Ricoh GR IV Monochrome, a fixed-lens camera that can't zoom and can't record color - at all. …",
+          "published_at": "2026-04-13T18:48:17Z",
+          "summary": "If you’re still holding onto an older Apple Watch, now might be a good time to upgrade. Right now, the 42mm Apple Watch Series 11 with GPS is on sale for around $299 ($100 off) at Amazon, Best Buy, and Target, which is i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-12-allow-me-to-explain-why-i-love-this"
+          "id": "theverge-2026-04-13-the-apple-watch-series-11-has-returned-to"
         },
         {
-          "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
-          "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+          "title": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
+          "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
           "source": "The Verge",
-          "published_at": "2026-04-11T23:22:15Z",
-          "summary": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize…",
+          "published_at": "2026-04-13T17:39:51Z",
+          "summary": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive f…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-11-the-netherlands-is-the-first-european-country-to"
+          "id": "theverge-2026-04-13-xbox-game-pass-8216-has-become-too-expensive"
         },
         {
-          "title": "Google says Polymarket bets showing up in News was an ‘error’",
-          "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+          "title": "You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts",
+          "url": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
           "source": "The Verge",
-          "published_at": "2026-04-11T15:07:47Z",
-          "summary": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told The Verge that \"Goog…",
+          "published_at": "2026-04-13T17:08:31Z",
+          "summary": "If you're having trouble deciding on a color for a new MacBook Neo, you might not have to choose just one. The folks over at MacWorld found that Apple doesn't appear to limit the colors of spare parts you can buy for you…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-11-google-says-polymarket-bets-showing-up-in-news"
+          "id": "theverge-2026-04-13-you-can-make-a-multicolor-macbook-neo-out"
         },
         {
-          "title": "Cursos gratis ChatGPT, Claude, Gemini, Copilot: 53 cursos para iniciarte o aprovechar las principales inteligencias artificiales",
-          "url": "https://www.xataka.com/basics/cursos-gratis-chatgpt-claude-gemini-copilot-53-cursos-para-iniciarte-aprovechar-principales-inteligencias-artificiales",
+          "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+          "source": "The Verge",
+          "published_at": "2026-04-13T16:21:08Z",
+          "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, whic…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-13-read-openai-8217-s-latest-internal-memo-about"
+        },
+        {
+          "title": "Pensábamos que la generación Z iba a ser el trampolín para la IA: se han convertido en su mayor enemigo",
+          "url": "https://www.xataka.com/robotica-e-ia/pensabamos-que-generacion-z-iba-a-ser-trampolin-para-ia-se-han-convertido-su-mayor-enemigo",
           "source": "Xataka",
-          "published_at": "2026-04-11T10:00:13Z",
-          "summary": "Te traemos una colección de cursos gratis para ChatGPT, Claude, Gemini, Copilot e IA en general . Con ellos, podrás aprender de forma gratuita y rápida el uso de los chatbots de inteligencia artificial &nbsp; más popular…",
+          "published_at": "2026-04-13T14:30:00Z",
+          "summary": "La generación que ha nacido y crecido con internet en el bolsillo está dando muestras de estar hasta la coronilla de la IA . El entusiasmo inicial que despertó la llegada masiva de herramientas de IA entre los jóvenes de…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-11-cursos-gratis-chatgpt-claude-gemini-copilot-53-cursos"
+          "id": "xataka-2026-04-13-pensabamos-que-la-generacion-z-iba-a-ser"
         },
         {
-          "title": "El Ejército chino tiene una nueva unidad: la \"manada de lobos\" robots con toda clase de armamento autónomo",
-          "url": "https://www.xataka.com/robotica-e-ia/ejercito-chino-tiene-nueva-unidad-manada-lobos-robots-toda-clase-armamento-autonomo",
+          "title": "Mientras Europa y EEUU se rascan la cabeza, China tiene muy claro que el futuro de su educación pasa por la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/china-emprende-revolucion-educacion-plan-ai-education-para-integrar-ia-todos-niveles-educativos",
           "source": "Xataka",
-          "published_at": "2026-04-11T08:30:13Z",
-          "summary": "China ha convertido la robótica en una cuestión de estado. En el último plan quinquenal, el país hizo patente su apuesta total por los robots autónomos, la IA agéntica , el desarrollo de su industria de semiconductores y…",
+          "published_at": "2026-04-13T08:02:00Z",
+          "summary": "La inteligencia artificial está asaltando las aulas. Los chatbots han pasado a ser una herramienta cotidiana más en la vida universitaria y los docentes se están dando cuenta de algo: todos los alumnos entregan el mismo …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-11-el-ejercito-chino-tiene-una-nueva-unidad-la"
+          "id": "xataka-2026-04-13-mientras-europa-y-eeuu-se-rascan-la-cabeza"
         }
       ]
     }
@@ -595,95 +626,17 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "Using projects in ChatGPT",
-          "url": "https://openai.com/academy/projects",
+          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+          "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
           "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+          "published_at": "2026-04-13T06:00:00Z",
+          "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-projects-in-chatgpt"
-        },
-        {
-          "title": "ChatGPT for marketing teams",
-          "url": "https://openai.com/academy/marketing",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-marketing-teams"
-        },
-        {
-          "title": "Our response to the Axios developer tool compromise",
-          "url": "https://openai.com/index/axios-developer-tool-compromise",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-our-response-to-the-axios-developer-tool-compromise"
-        },
-        {
-          "title": "Using custom GPTs",
-          "url": "https://openai.com/academy/custom-gpts",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-custom-gpts"
-        },
-        {
-          "title": "Analyzing data with ChatGPT",
-          "url": "https://openai.com/academy/data-analysis",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-analyzing-data-with-chatgpt"
-        },
-        {
-          "title": "Using skills",
-          "url": "https://openai.com/academy/skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-using-skills"
-        },
-        {
-          "title": "Writing with ChatGPT",
-          "url": "https://openai.com/academy/writing",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-writing-with-chatgpt"
+          "id": "openai-2026-04-13-enterprises-power-agentic-workflows-in-cloudflare-agent-cloud"
         },
         {
           "title": "ChatGPT for operations teams",
@@ -699,108 +652,17 @@
           "id": "openai-2026-04-10-chatgpt-for-operations-teams"
         },
         {
-          "title": "ChatGPT for research",
-          "url": "https://openai.com/academy/research",
+          "title": "Applications of AI at OpenAI",
+          "url": "https://openai.com/academy/applications-of-ai",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-research"
-        },
-        {
-          "title": "Responsible and safe use of AI",
-          "url": "https://openai.com/academy/responsible-and-safe-use",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-responsible-and-safe-use-of-ai"
-        },
-        {
-          "title": "Prompting fundamentals",
-          "url": "https://openai.com/academy/prompting",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-prompting-fundamentals"
-        },
-        {
-          "title": "Research with ChatGPT",
-          "url": "https://openai.com/academy/search-and-deep-research",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-research-with-chatgpt"
-        },
-        {
-          "title": "ChatGPT for customer success teams",
-          "url": "https://openai.com/academy/customer-success",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-customer-success-teams"
-        },
-        {
-          "title": "Healthcare",
-          "url": "https://openai.com/academy/healthcare",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-healthcare"
-        },
-        {
-          "title": "ChatGPT for managers",
-          "url": "https://openai.com/academy/managers",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-managers"
-        },
-        {
-          "title": "Getting started with ChatGPT",
-          "url": "https://openai.com/academy/getting-started",
-          "source": "OpenAI",
-          "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-10-getting-started-with-chatgpt"
+          "id": "openai-2026-04-10-applications-of-ai-at-openai"
         },
         {
           "title": "ChatGPT for finance teams",
@@ -816,30 +678,69 @@
           "id": "openai-2026-04-10-chatgpt-for-finance-teams"
         },
         {
-          "title": "AI fundamentals",
-          "url": "https://openai.com/academy/what-is-ai",
+          "title": "Brainstorming with ChatGPT",
+          "url": "https://openai.com/academy/brainstorming",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+          "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-ai-fundamentals"
+          "id": "openai-2026-04-10-brainstorming-with-chatgpt"
         },
         {
-          "title": "Creating images with ChatGPT",
-          "url": "https://openai.com/academy/image-generation",
+          "title": "Our response to the Axios developer tool compromise",
+          "url": "https://openai.com/index/axios-developer-tool-compromise",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-creating-images-with-chatgpt"
+          "id": "openai-2026-04-10-our-response-to-the-axios-developer-tool-compromise"
+        },
+        {
+          "title": "ChatGPT for marketing teams",
+          "url": "https://openai.com/academy/marketing",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-marketing-teams"
+        },
+        {
+          "title": "Writing with ChatGPT",
+          "url": "https://openai.com/academy/writing",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-writing-with-chatgpt"
+        },
+        {
+          "title": "ChatGPT for research",
+          "url": "https://openai.com/academy/research",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-research"
         },
         {
           "title": "Financial services",
@@ -855,43 +756,147 @@
           "id": "openai-2026-04-10-financial-services"
         },
         {
-          "title": "ChatGPT for sales teams",
-          "url": "https://openai.com/academy/sales",
+          "title": "AI fundamentals",
+          "url": "https://openai.com/academy/what-is-ai",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-chatgpt-for-sales-teams"
+          "id": "openai-2026-04-10-ai-fundamentals"
         },
         {
-          "title": "Applications of AI at OpenAI",
-          "url": "https://openai.com/academy/applications-of-ai",
+          "title": "Responsible and safe use of AI",
+          "url": "https://openai.com/academy/responsible-and-safe-use",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+          "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-applications-of-ai-at-openai"
+          "id": "openai-2026-04-10-responsible-and-safe-use-of-ai"
         },
         {
-          "title": "Working with files in ChatGPT",
-          "url": "https://openai.com/academy/working-with-files",
+          "title": "Healthcare",
+          "url": "https://openai.com/academy/healthcare",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-working-with-files-in-chatgpt"
+          "id": "openai-2026-04-10-healthcare"
+        },
+        {
+          "title": "Using projects in ChatGPT",
+          "url": "https://openai.com/academy/projects",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-using-projects-in-chatgpt"
+        },
+        {
+          "title": "ChatGPT for managers",
+          "url": "https://openai.com/academy/managers",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-managers"
+        },
+        {
+          "title": "ChatGPT for customer success teams",
+          "url": "https://openai.com/academy/customer-success",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-customer-success-teams"
+        },
+        {
+          "title": "Getting started with ChatGPT",
+          "url": "https://openai.com/academy/getting-started",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-getting-started-with-chatgpt"
+        },
+        {
+          "title": "Research with ChatGPT",
+          "url": "https://openai.com/academy/search-and-deep-research",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-research-with-chatgpt"
+        },
+        {
+          "title": "Prompting fundamentals",
+          "url": "https://openai.com/academy/prompting",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-prompting-fundamentals"
+        },
+        {
+          "title": "Using skills",
+          "url": "https://openai.com/academy/skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-using-skills"
+        },
+        {
+          "title": "Analyzing data with ChatGPT",
+          "url": "https://openai.com/academy/data-analysis",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-analyzing-data-with-chatgpt"
         },
         {
           "title": "Personalizing ChatGPT",
@@ -907,30 +912,56 @@
           "id": "openai-2026-04-10-personalizing-chatgpt"
         },
         {
-          "title": "Brainstorming with ChatGPT",
-          "url": "https://openai.com/academy/brainstorming",
+          "title": "Working with files in ChatGPT",
+          "url": "https://openai.com/academy/working-with-files",
           "source": "OpenAI",
           "published_at": "2026-04-10T00:00:00Z",
-          "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+          "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-10-brainstorming-with-chatgpt"
+          "id": "openai-2026-04-10-working-with-files-in-chatgpt"
         },
         {
-          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-          "url": "https://openai.com/index/cyberagent",
+          "title": "Using custom GPTs",
+          "url": "https://openai.com/academy/custom-gpts",
           "source": "OpenAI",
-          "published_at": "2026-04-09T00:00:00Z",
-          "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-09-cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
+          "id": "openai-2026-04-10-using-custom-gpts"
+        },
+        {
+          "title": "Creating images with ChatGPT",
+          "url": "https://openai.com/academy/image-generation",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-creating-images-with-chatgpt"
+        },
+        {
+          "title": "ChatGPT for sales teams",
+          "url": "https://openai.com/academy/sales",
+          "source": "OpenAI",
+          "published_at": "2026-04-10T00:00:00Z",
+          "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-10-chatgpt-for-sales-teams"
         },
         {
           "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
@@ -944,6 +975,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-09-openai-full-fan-mode-contest-terms-conditions"
+        },
+        {
+          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+          "url": "https://openai.com/index/cyberagent",
+          "source": "OpenAI",
+          "published_at": "2026-04-09T00:00:00Z",
+          "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-09-cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
         },
         {
           "title": "The next phase of enterprise AI",
@@ -970,19 +1014,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-08-introducing-the-child-safety-blueprint"
-        },
-        {
-          "title": "Announcing the OpenAI Safety Fellowship",
-          "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-          "source": "OpenAI",
-          "published_at": "2026-04-06T10:00:00Z",
-          "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-06-announcing-the-openai-safety-fellowship"
         }
       ]
     },
