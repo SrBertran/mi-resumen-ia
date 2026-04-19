@@ -1,72 +1,72 @@
 {
-  "date": "2026-04-18",
-  "generated_at": "2026-04-18T06:50:21.287697Z",
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T06:58:14.032035Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "OpenAI’s former Sora boss is leaving",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
       "source": "The Verge",
-      "published_at": "2026-04-17T21:13:25Z",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to…",
+      "published_at": "2026-04-18T21:08:45Z",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-17-openai-s-former-sora-boss-is-leaving"
+      "id": "theverge-2026-04-18-the-ram-shortage-could-last-years"
     },
     {
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
       "source": "The Verge",
-      "published_at": "2026-04-17T20:42:47Z",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded b…",
+      "published_at": "2026-04-18T16:42:25Z",
+      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups an…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-17-should-you-stare-into-sam-altman-8217-s"
+      "id": "theverge-2026-04-18-judge-rules-trump-administration-violated-the-first-amendment"
     },
     {
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "title": "Cheap stuff that doesn’t suck, take 3",
+      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
       "source": "The Verge",
-      "published_at": "2026-04-17T20:14:21Z",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of t…",
+      "published_at": "2026-04-18T15:33:00Z",
+      "summary": "From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-17-anthropic-s-new-cybersecurity-model-could-get-it"
+      "id": "theverge-2026-04-18-cheap-stuff-that-doesn-t-suck-take-3"
     },
     {
-      "title": "Han secuestrado agentes de Anthropic, Google y Microsoft por el bien de la ciencia. Las tres empresas acabaron pagando",
-      "url": "https://www.xataka.com/seguridad/han-secuestrado-agentes-anthropic-google-microsoft-bien-ciencia-tres-empresas-acabaron-pagando",
+      "title": "Ford ha tardado en adaptarse al coche eléctrico, así que va a empezar a fabricar baterías para... centros de datos",
+      "url": "https://www.xataka.com/movilidad/transicion-al-coche-electrico-no-le-ha-sentado-bien-a-ford-asi-que-va-a-aprovechar-sus-fabricas-para-hacer-baterias-para-centros-datos",
       "source": "Xataka",
-      "published_at": "2026-04-17T19:30:54Z",
-      "summary": "En algunos equipos de desarrollo ya se está volviendo habitual apoyarse en agentes de inteligencia artificial para revisar incidencias, analizar cambios en el código y moverse por tareas que antes quedaban en manos human…",
+      "published_at": "2026-04-18T14:31:50Z",
+      "summary": "Ford ha decidido reconvertir su capacidad de fabricación de baterías para vehículos eléctricos en un negocio de almacenamiento energético a gran escala. La jugada tiene nombre propio: Ford Energy, una nueva división con …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-17-han-secuestrado-agentes-de-anthropic-google-y-microsoft"
+      "id": "xataka-2026-04-18-ford-ha-tardado-en-adaptarse-al-coche-electrico"
     },
     {
-      "title": "Betting on the news raises ethical questions for journalists",
-      "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
+      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
+      "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
       "source": "The Verge",
-      "published_at": "2026-04-17T18:07:43Z",
-      "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How hot will Los Angeles get? Will Donald Trum…",
+      "published_at": "2026-04-18T13:00:00Z",
+      "summary": "Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s new $99.99 handheld fan would have provided…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-17-betting-on-the-news-raises-ethical-questions-for"
+      "id": "theverge-2026-04-18-dyson-s-handheld-fan-is-more-powerful-and"
     }
   ],
   "sections": [
@@ -311,19 +311,6 @@
           ],
           "category": "investigación",
           "id": "xataka-2026-04-17-un-estudio-compara-lo-que-la-ia-hace"
-        },
-        {
-          "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
-          "url": "https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-04-16T15:02:45Z",
-          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. Rail networks are vast, which makes it difficult to conduct comprehensive, continuous safety monitoring. Researchers in Chi…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-04-16-optical-fiber-networks-can-keep-rail-networks-safe"
         }
       ]
     },
@@ -349,69 +336,108 @@
       "name": "General",
       "items": [
         {
-          "title": "This charming gadget writes bad AI poetry",
-          "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+          "title": "There’s nothing like an RPG over vacation",
+          "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
           "source": "The Verge",
-          "published_at": "2026-04-17T17:30:00Z",
-          "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it …",
+          "published_at": "2026-04-18T12:00:00Z",
+          "summary": "With a vacation comes a big choice: What game should I focus on during the trip? I thought about grinding out the harder levels of Super Meat Boy 3D, but I was looking for something more chill. I could have dabbled more …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-17-this-charming-gadget-writes-bad-ai-poetry"
+          "id": "theverge-2026-04-18-there-s-nothing-like-an-rpg-over-vacation"
         },
         {
-          "title": "Our new favorite budget phones",
-          "url": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
+          "title": "The AI apps are coming for your PC",
+          "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
           "source": "The Verge",
-          "published_at": "2026-04-17T15:58:07Z",
-          "summary": "Over the last few months, every phone maker under the sun has refreshed its lineups, especially at the affordable end, with no major budget phone launches now expected until next year. That made it the perfect time to go…",
+          "published_at": "2026-04-18T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-17-our-new-favorite-budget-phones"
+          "id": "theverge-2026-04-18-the-ai-apps-are-coming-for-your-pc"
         },
         {
-          "title": "The best budget smartphones you can buy",
-          "url": "https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones",
-          "source": "The Verge",
-          "published_at": "2026-04-17T15:55:00Z",
-          "summary": "Some of us take a kind of “eat to live” rather than a “live to eat” approach to gadgets. They’re tools that help you get things done, not something you want to invest a lot of time or money in. If that’s you — and there’…",
+          "title": "Cómo mejorar las respuestas de Claude: 18 pasos para sacarle el máximo partido",
+          "url": "https://www.xataka.com/basics/como-mejorar-respuestas-claude-18-pasos-para-sacarle-maximo-partido",
+          "source": "Xataka",
+          "published_at": "2026-04-18T10:00:55Z",
+          "summary": "Vamos a darte XX consejos para mejorar las respuestas de Claude , de forma que la inteligencia artificial de Anthropic sea más precisa y personal. Son consejos relacionados con mejorar los prompts de Claude , e incluso l…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-17-the-best-budget-smartphones-you-can-buy"
+          "id": "xataka-2026-04-18-como-mejorar-las-respuestas-de-claude-18-pasos"
         },
         {
-          "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+          "title": "OpenAI’s former Sora boss is leaving",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
           "source": "The Verge",
-          "published_at": "2026-04-17T15:46:37Z",
-          "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers t…",
+          "published_at": "2026-04-17T21:13:25Z",
+          "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-17-dairy-queen-is-putting-an-ai-chatbot-in"
+          "id": "theverge-2026-04-17-openai-s-former-sora-boss-is-leaving"
         },
         {
-          "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
-          "url": "https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale",
+          "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
           "source": "The Verge",
-          "published_at": "2026-04-17T15:07:50Z",
-          "summary": "From OLED TVs to smartphones, Best Buy’s Upgrade Sale has slashed prices on all kinds of tech, including a wide range of Apple devices. We’ve rounded up the best deals from the sale here, but one of the most notable is t…",
+          "published_at": "2026-04-17T20:42:47Z",
+          "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded b…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-17-the-airpods-pro-3-are-50-off-right"
+          "id": "theverge-2026-04-17-should-you-stare-into-sam-altman-8217-s"
+        },
+        {
+          "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+          "source": "The Verge",
+          "published_at": "2026-04-17T20:14:21Z",
+          "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-17-anthropic-s-new-cybersecurity-model-could-get-it"
+        },
+        {
+          "title": "Han secuestrado agentes de Anthropic, Google y Microsoft por el bien de la ciencia. Las tres empresas acabaron pagando",
+          "url": "https://www.xataka.com/seguridad/han-secuestrado-agentes-anthropic-google-microsoft-bien-ciencia-tres-empresas-acabaron-pagando",
+          "source": "Xataka",
+          "published_at": "2026-04-17T19:30:54Z",
+          "summary": "En algunos equipos de desarrollo ya se está volviendo habitual apoyarse en agentes de inteligencia artificial para revisar incidencias, analizar cambios en el código y moverse por tareas que antes quedaban en manos human…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-17-han-secuestrado-agentes-de-anthropic-google-y-microsoft"
+        },
+        {
+          "title": "Betting on the news raises ethical questions for journalists",
+          "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
+          "source": "The Verge",
+          "published_at": "2026-04-17T18:07:43Z",
+          "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How hot will Los Angeles get? Will Donald Trum…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-17-betting-on-the-news-raises-ethical-questions-for"
         },
         {
           "title": "Europa piensa que es ella quien se quiere independizar de las tecnológicas de EEUU. En realidad está siendo al revés",
@@ -425,58 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-17-europa-piensa-que-es-ella-quien-se-quiere"
-        },
-        {
-          "title": "Ghost orchid in the machine",
-          "url": "https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn",
-          "source": "The Verge",
-          "published_at": "2026-04-17T14:00:00Z",
-          "summary": "Vacuum cleaners, personal massagers, electronic baby rockers, and walking pads: These are the secondhand machines Rachel Youn sources to create their kinetic sculptures. Made with artificial flowers, metal hardware, and …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-17-ghost-orchid-in-the-machine"
-        },
-        {
-          "title": "Siri se ha convertido en un patito feo. Así que Apple va a mandar a 200 ingenieros a hacer un \"cursillo\" de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/apple-envia-a-200-ingenieros-siri-a-campamento-ia-grupo-rezagados",
-          "source": "Xataka",
-          "published_at": "2026-04-17T06:00:00Z",
-          "summary": "Cuando hablamos de las Big Tech de la IA, hay un nombre ausente: Apple . Hay muchos “que viene el lobo” en esto de la inteligencia artificial , con empresas que están creando ‘hype’ con modelos que consideran peligrosísi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-17-siri-se-ha-convertido-en-un-patito-feo"
-        },
-        {
-          "title": "Alguien ha puesto a las 21 IAs más populares a hacer un diagnóstico diferencial. Mienten más que hablan",
-          "url": "https://www.xataka.com/medicina-y-salud/han-puesto-a-21-chatbots-ia-populares-a-realizar-diagnostico-diferencial-fallan-que-escopeta-feria",
-          "source": "Xataka",
-          "published_at": "2026-04-16T11:00:00Z",
-          "summary": "‘ House ’ es una serie que me encanta. Las intrahistorias no me importan lo más mínimo, pero el proceso del diagnóstico diferencial -pese a todo lo peliculero-, me vuelve loco. Esa capacidad para ir descartando enfermeda…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-16-alguien-ha-puesto-a-las-21-ias-mas"
-        },
-        {
-          "title": "China y EEUU están bailando la danza de la IA. Y cada vez bailan más 'agarraos'",
-          "url": "https://www.xataka.com/robotica-e-ia/china-casi-ha-cerrado-brecha-ia-estados-unidos-ha-hecho-todos-palos-ruedas",
-          "source": "Xataka",
-          "published_at": "2026-04-16T10:00:00Z",
-          "summary": "Es complicado entrar a detallar la cantidad de bailes en los que están inmersos Estados Unidos y China en estos momentos. La guerra tecnológica es el paraguas bajo el que se encuentran la guerra comercial , el conato de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-16-china-y-eeuu-estan-bailando-la-danza-de"
         }
       ]
     }
