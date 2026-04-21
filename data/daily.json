@@ -1,78 +1,91 @@
 {
-  "date": "2026-04-20",
-  "generated_at": "2026-04-20T07:14:54.566630Z",
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T07:05:57.305423Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Blue Origin successfully reused its New Glenn rocket",
-      "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "title": "Dyson’s back with a travel-size Supersonic hairdryer",
+      "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
       "source": "The Verge",
-      "published_at": "2026-04-19T20:28:52Z",
-      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch a…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "summary": "Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-19-blue-origin-successfully-reused-its-new-glenn-rocket"
+      "id": "theverge-2026-04-21-dyson-s-back-with-a-travel-size-supersonic-hairdryer"
     },
     {
-      "title": "Cloud development platform Vercel was hacked",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "source": "The Verge",
-      "published_at": "2026-04-19T19:54:52Z",
-      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hac…",
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "source": "Hugging Face",
+      "published_at": "2026-04-21T00:40:10Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-04-19-cloud-development-platform-vercel-was-hacked"
+      "category": "herramientas",
+      "id": "huggingface-2026-04-21-how-to-ground-a-korean-ai-agent-in"
     },
     {
-      "title": "Se suponía que 'Idiocracia' era una sátira de un futuro más estúpido. El miedo es que se esté haciendo real",
-      "url": "https://www.xataka.com/cine-y-tv/idiocracia-adelanto-a-simpson-su-capacidad-para-predecirlo-todo-comodin-infalible-sociedad-tontisima",
-      "source": "Xataka",
-      "published_at": "2026-04-19T16:31:50Z",
-      "summary": "Esta semana, Flamenca Stone compartía en Bluesky un vídeo con el comentario \"esto es literalmente una trama de 'Idiocracia'\". No es la primera vez que sucede ni será la última. La película de 2006 que pasó desapercibida …",
+      "title": "Tim Cook will still be Apple’s Trump whisperer",
+      "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
+      "source": "The Verge",
+      "published_at": "2026-04-21T00:14:45Z",
+      "summary": "Though Tim Cook is shedding his CEO title for the role of Apple's executive chairman, it appears he'll keep one of his most important duties: that of the company's Trump whisperer. \"As executive chairman, Cook will assis…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-19-se-suponia-que-idiocracia-era-una-satira-de"
+      "id": "theverge-2026-04-21-tim-cook-will-still-be-apple-s-trump"
     },
     {
-      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "title": "The Lenovo Legion Go S is RAMageddon’s latest victim",
+      "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
       "source": "The Verge",
-      "published_at": "2026-04-19T14:30:00Z",
-      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Hea…",
+      "published_at": "2026-04-20T22:49:42Z",
+      "summary": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearl…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-19-nothing-s-modular-cmf-headphone-pro-are-down"
+      "id": "theverge-2026-04-20-the-lenovo-legion-go-s-is-ramageddon-s"
     },
     {
-      "title": "The Stars My Destination is classic proto-cyberpunk",
-      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "title": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
+      "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
       "source": "The Verge",
-      "published_at": "2026-04-19T14:00:00Z",
-      "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that…",
+      "published_at": "2026-04-20T21:44:15Z",
+      "summary": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss J…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-19-the-stars-my-destination-is-classic-proto-cyberpunk"
+      "id": "theverge-2026-04-20-john-ternus-is-taking-over-from-tim-cook"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "OpenAI helps Hyatt advance AI among colleagues",
+          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+          "source": "OpenAI",
+          "published_at": "2026-04-20T00:00:00Z",
+          "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-20-openai-helps-hyatt-advance-ai-among-colleagues"
+        },
         {
           "title": "7 ways to travel smarter this summer, with help from Google",
           "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
@@ -241,45 +254,42 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-14-bringing-people-together-at-ai-for-the-economy"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "Trusted access for the next era of cyber defense",
-          "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-          "source": "OpenAI",
-          "published_at": "2026-04-14T00:00:00Z",
-          "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+          "title": "Meta se gastó 2.000 millones en una startup china de IA. China tiene claro que fue una conspiración",
+          "url": "https://www.xataka.com/robotica-e-ia/meta-se-gasto-2-000-millones-startup-china-ia-china-tiene-claro-que-fue-conspiracion",
+          "source": "Xataka",
+          "published_at": "2026-04-20T16:00:38Z",
+          "summary": "Con China y Estados Unidos bailando la danza de la inteligencia artificial , tanto los países como las compañías quieren hacerse con las mejores cartas para sus barajas. Meta está invirtiendo millonadas en el desarrollo …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-14-trusted-access-for-the-next-era-of-cyber"
-        },
+          "category": "negocio",
+          "id": "xataka-2026-04-20-meta-se-gasto-2-000-millones-en-una"
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-          "url": "https://www.anthropic.com/news/narasimhan-board",
-          "source": "Anthropic",
-          "published_at": "2026-04-14T00:00:00Z",
-          "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+          "title": "Silicon Valley has forgotten what normal people want",
+          "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+          "source": "The Verge",
+          "published_at": "2026-04-20T20:30:00Z",
+          "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-14-anthropic-s-long-term-benefit-trust-appoints-vas-narasimhan"
-        },
-        {
-          "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-          "source": "DeepMind",
-          "published_at": "2026-04-13T15:52:13Z",
-          "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-13-gemini-robotics-er-1-6-powering-real-world-robotics-tasks"
+          "category": "regulación",
+          "id": "theverge-2026-04-20-silicon-valley-has-forgotten-what-normal-people-want"
         }
       ]
     },
@@ -287,108 +297,134 @@
       "name": "General",
       "items": [
         {
-          "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
-          "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+          "title": "Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO",
+          "url": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
           "source": "The Verge",
-          "published_at": "2026-04-19T12:00:00Z",
-          "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recomme…",
+          "published_at": "2026-04-20T21:42:36Z",
+          "summary": "Apple CEO Tim Cook has written a letter to the community as he prepares to step down from his role in September. \"This is not goodbye. But at this moment of transition, I wanted to take the opportunity to say thank you,\"…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-19-marathon-battery-life-makes-keychron-s-ultra-8k"
+          "id": "theverge-2026-04-20-read-tim-cook-8217-s-letter-to-the"
         },
         {
-          "title": "The future of local TV news has taken a Trumpian turn",
-          "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+          "title": "Apple names Johny Srouji as chief hardware officer",
+          "url": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
           "source": "The Verge",
-          "published_at": "2026-04-19T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives…",
+          "published_at": "2026-04-20T21:05:59Z",
+          "summary": "Apple has appointed Johny Srouji as its new chief hardware officer, \"effective immediately,\" according to an announcement on Monday. He is stepping into the shoes of current hardware engineering head John Ternus, who wil…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-19-the-future-of-local-tv-news-has-taken"
+          "id": "theverge-2026-04-20-apple-names-johny-srouji-as-chief-hardware-officer"
         },
         {
-          "title": "The RAM shortage could last years",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+          "title": "Apple CEO Tim Cook is stepping down",
+          "url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
           "source": "The Verge",
-          "published_at": "2026-04-18T21:08:45Z",
-          "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. …",
+          "published_at": "2026-04-20T20:42:59Z",
+          "summary": "Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-18-the-ram-shortage-could-last-years"
+          "id": "theverge-2026-04-20-apple-ceo-tim-cook-is-stepping-down"
         },
         {
-          "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-          "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+          "title": "Here&#8217;s how Amazon&#8217;s price fixing allegedly drove up prices everywhere",
+          "url": "https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-04-18T16:42:25Z",
-          "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups an…",
+          "published_at": "2026-04-20T20:39:51Z",
+          "summary": "On Monday, California Attorney General Rob Bonta revealed the evidence of alleged price-fixing by Amazon. The state filed a request to the Supreme Court in February for a preliminary injunction to stop Amazon's behavior …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-18-judge-rules-trump-administration-violated-the-first-amendment"
+          "id": "theverge-2026-04-20-here-8217-s-how-amazon-8217-s-price"
         },
         {
-          "title": "Cheap stuff that doesn’t suck, take 3",
-          "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+          "title": "WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month",
+          "url": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
           "source": "The Verge",
-          "published_at": "2026-04-18T15:33:00Z",
-          "summary": "From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing t…",
+          "published_at": "2026-04-20T20:12:23Z",
+          "summary": "WhatsApp users are getting some new customization features - for a price. According to WABetaInfo, Meta is rolling out a WhatsApp Plus subscription to \"a limited number of users,\" offering several cosmetic and quality of…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-18-cheap-stuff-that-doesn-t-suck-take-3"
+          "id": "theverge-2026-04-20-whatsapp-tests-8216-plus-8217-subscription-that-adds"
         },
         {
-          "title": "Ford ha tardado en adaptarse al coche eléctrico, así que va a empezar a fabricar baterías para... centros de datos",
-          "url": "https://www.xataka.com/movilidad/transicion-al-coche-electrico-no-le-ha-sentado-bien-a-ford-asi-que-va-a-aprovechar-sus-fabricas-para-hacer-baterias-para-centros-datos",
+          "title": "Europa se está tomando tan en serio su independencia tecnológica que apunta hacia el objetivo más ambicioso: NVIDIA",
+          "url": "https://www.xataka.com/empresas-y-economia/europa-se-ha-tomado-serio-independencia-tecnologica-empieza-a-apuntar-a-objetivo-caza-mayor-nvidia",
           "source": "Xataka",
-          "published_at": "2026-04-18T14:31:50Z",
-          "summary": "Ford ha decidido reconvertir su capacidad de fabricación de baterías para vehículos eléctricos en un negocio de almacenamiento energético a gran escala. La jugada tiene nombre propio: Ford Energy, una nueva división con …",
+          "published_at": "2026-04-20T17:30:39Z",
+          "summary": "Europa no puede seguir siendo el vasallo tecnológico de Estados Unidos. Con ese potente mensaje, el CEO de Mistral presentó hace unos días una hoja de ruta con la que considera que Europa puede tomar el pulso en la carre…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-18-ford-ha-tardado-en-adaptarse-al-coche-electrico"
+          "id": "xataka-2026-04-20-europa-se-esta-tomando-tan-en-serio-su"
         },
         {
-          "title": "Dyson’s handheld fan is more powerful and louder than I expected",
-          "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-          "source": "The Verge",
-          "published_at": "2026-04-18T13:00:00Z",
-          "summary": "Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s new $99.99 handheld fan would have provided…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-18-dyson-s-handheld-fan-is-more-powerful-and"
-        },
-        {
-          "title": "Cómo mejorar las respuestas de Claude: 18 pasos para sacarle el máximo partido",
-          "url": "https://www.xataka.com/basics/como-mejorar-respuestas-claude-18-pasos-para-sacarle-maximo-partido",
+          "title": "Anthropic no ha subido el precio de Claude. Ha inventado algo mejor: la inflación de tokens",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-no-ha-subido-precio-claude-ha-inventado-algo-mejor-inflacion-tokens",
           "source": "Xataka",
-          "published_at": "2026-04-18T10:00:55Z",
-          "summary": "Vamos a darte XX consejos para mejorar las respuestas de Claude , de forma que la inteligencia artificial de Anthropic sea más precisa y personal. Son consejos relacionados con mejorar los prompts de Claude , e incluso l…",
+          "published_at": "2026-04-20T11:30:19Z",
+          "summary": "\"No os preocupéis, que cuesta lo mismo\". Ese fue el mensaje de Anthropic al anunciar el lanzamiento de su nuevo modelo de IA, Claude Opus 4.7. En ese comunicado dejaron claro que \"el precio sigue siendo el mismo que el d…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-18-como-mejorar-las-respuestas-de-claude-18-pasos"
+          "id": "xataka-2026-04-20-anthropic-no-ha-subido-el-precio-de-claude"
+        },
+        {
+          "title": "\"Un LED siempre va a contaminar luz, aunque se llame MicroRGB\": Jaime de Jaraíz, sobre por qué LG seguirá predicando el OLED",
+          "url": "https://www.xataka.com/entrevistas/led-siempre-va-a-contaminar-luz-se-llame-microrgb-jaime-jaraiz-que-lg-seguira-predicando-oled",
+          "source": "Xataka",
+          "published_at": "2026-04-20T08:30:19Z",
+          "summary": "Jaime de Jaraíz es una anomalía dentro de LG: español, no coreano, y sin embargo, presidente de una de las filiales más influyentes de la compañía en el mundo. Lleva más de veinte años en la empresa y, en ese tiempo, ha …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-20-un-led-siempre-va-a-contaminar-luz-aunque"
+        },
+        {
+          "title": "La gran crisis de suministro de nuestro tiempo no es de petróleo: es de memoria DRAM y el horizonte no es alentador",
+          "url": "https://www.xataka.com/componentes/mundo-se-va-a-quedar-memoria-para-chips-ia-2027-moviles-coches-estan-pagando-precio",
+          "source": "Xataka",
+          "published_at": "2026-04-20T07:30:00Z",
+          "summary": "El gran cuello de botella de la industria de la inteligencia artificial no tiene que ver con los modelos de IA, las GPUs o los centros de datos. Tiene que ver con la memoria, y desde hace meses estamos inmersos en una cr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-20-la-gran-crisis-de-suministro-de-nuestro-tiempo"
+        },
+        {
+          "title": "Se suponía que 'Idiocracia' era una sátira de un futuro más estúpido. El miedo es que se esté haciendo real",
+          "url": "https://www.xataka.com/cine-y-tv/idiocracia-adelanto-a-simpson-su-capacidad-para-predecirlo-todo-comodin-infalible-sociedad-tontisima",
+          "source": "Xataka",
+          "published_at": "2026-04-19T16:31:50Z",
+          "summary": "Esta semana, Flamenca Stone compartía en Bluesky un vídeo con el comentario \"esto es literalmente una trama de 'Idiocracia'\". No es la primera vez que sucede ni será la última. La película de 2006 que pasó desapercibida …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-19-se-suponia-que-idiocracia-era-una-satira-de"
         }
       ]
     }
@@ -426,6 +462,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "OpenAI helps Hyatt advance AI among colleagues",
+          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+          "source": "OpenAI",
+          "published_at": "2026-04-20T00:00:00Z",
+          "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-20-openai-helps-hyatt-advance-ai-among-colleagues"
+        },
+        {
           "title": "Codex for (almost) everything",
           "url": "https://openai.com/index/codex-for-almost-everything",
           "source": "OpenAI",
@@ -476,19 +525,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-15-the-next-evolution-of-the-agents-sdk"
-        },
-        {
-          "title": "Trusted access for the next era of cyber defense",
-          "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-          "source": "OpenAI",
-          "published_at": "2026-04-14T00:00:00Z",
-          "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-14-trusted-access-for-the-next-era-of-cyber"
         }
       ]
     },
@@ -521,19 +557,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-04-16-introducing-claude-opus-4-7"
-        },
-        {
-          "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-          "url": "https://www.anthropic.com/news/narasimhan-board",
-          "source": "Anthropic",
-          "published_at": "2026-04-14T00:00:00Z",
-          "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-14-anthropic-s-long-term-benefit-trust-appoints-vas-narasimhan"
         }
       ]
     },
@@ -637,19 +660,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-04-15-gemini-3-1-flash-tts-the-next-generation"
-        },
-        {
-          "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-          "source": "DeepMind",
-          "published_at": "2026-04-13T15:52:13Z",
-          "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-13-gemini-robotics-er-1-6-powering-real-world-robotics-tasks"
         }
       ]
     }
