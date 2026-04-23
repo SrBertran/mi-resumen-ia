@@ -1,78 +1,169 @@
 {
-  "date": "2026-04-22",
-  "generated_at": "2026-04-22T07:06:14.144346Z",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T07:07:49.933000Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "title": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
+      "url": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
       "source": "The Verge",
-      "published_at": "2026-04-21T22:45:37Z",
-      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 bil…",
+      "published_at": "2026-04-23T01:53:24Z",
+      "summary": "On Wednesday, President Donald Trump claimed to have secured the release of eight Iranian women condemned to execution for protesting the regime. Only the night before, he had posted on Truth Social about the imminent ex…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-21-spacex-cuts-a-deal-to-maybe-buy-cursor"
+      "id": "theverge-2026-04-23-the-iranian-women-trump-8216-saved-8217-from"
     },
     {
-      "title": "We translated the Palantir manifesto for actual human beings",
-      "url": "https://www.theverge.com/policy/915237/palantir-manifesto",
+      "title": "Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD",
+      "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
       "source": "The Verge",
-      "published_at": "2026-04-21T21:06:21Z",
-      "summary": "Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, cowritten with Nicholas Zamiska, is called The Technological Republic. After claiming \"becau…",
+      "published_at": "2026-04-22T22:38:31Z",
+      "summary": "Tesla vehicles with the company's Hardware 3 (HW3) computer actually won't receive unsupervised Full Self-Driving (FSD), CEO Elon Musk said on Wednesday's Q1 2026 earnings call. Approximately 4 million Tesla vehicles ope…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-21-we-translated-the-palantir-manifesto-for-actual-human"
+      "id": "theverge-2026-04-22-elon-musk-admits-that-millions-of-tesla-vehicles"
     },
     {
-      "title": "ISS astronauts are getting new laptops",
-      "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+      "title": "X is going to let Grok curate your timeline",
+      "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
       "source": "The Verge",
-      "published_at": "2026-04-21T20:12:02Z",
-      "summary": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. According to NASA, the cr…",
+      "published_at": "2026-04-22T20:49:38Z",
+      "summary": "X is putting its AI chatbot, Grok, in charge of your timeline. In an announcement on Wednesday, X product head Nikita Bier says Premium subscribers on iOS can get early access to a feature that allows users to pin specif…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-21-iss-astronauts-are-getting-new-laptops"
+      "id": "theverge-2026-04-22-x-is-going-to-let-grok-curate-your"
     },
     {
-      "title": "La IA ya sabía crear imágenes. OpenAI dice haber dado con la pieza que faltaba con el nuevo ChatGPT Images 2.0",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-sabia-crear-imagenes-openai-dice-haber-dado-pieza-que-faltaba-nuevo-chatgpt-images-2-0",
-      "source": "Xataka",
-      "published_at": "2026-04-21T19:50:00Z",
-      "summary": "Durante los últimos años hemos visto cómo los generadores de imágenes se volvían cada vez más espectaculares, más rápidos y también más populares. El problema es que una imagen llamativa no siempre sirve para trabajar co…",
+      "title": "Tesla&#8217;s revenue rises again as it prepares for more AI and robotics",
+      "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
+      "source": "The Verge",
+      "published_at": "2026-04-22T20:36:17Z",
+      "summary": "Tesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics. Tesla said it earned $477 m…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-21-la-ia-ya-sabia-crear-imagenes-openai-dice"
+      "id": "theverge-2026-04-22-tesla-8217-s-revenue-rises-again-as-it"
     },
     {
-      "title": "Tim Cook was an innovator — just not the Jobs kind",
-      "url": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
       "source": "The Verge",
-      "published_at": "2026-04-21T19:15:00Z",
-      "summary": "Under Steve Jobs, Apple released the groundbreaking products that defined the company. But the company wouldn't be what it is today without Tim Cook's reign of ruthless efficiency. Jobs' legacy has long been written at t…",
+      "published_at": "2026-04-22T20:29:05Z",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-21-tim-cook-was-an-innovator----just-not"
+      "id": "theverge-2026-04-22-ai-failure-could-trigger-the-next-financial-crisis"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Making ChatGPT better for clinicians",
+          "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T15:00:00Z",
+          "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-making-chatgpt-better-for-clinicians"
+        },
+        {
+          "title": "We're launching two specialized TPUs for the agentic era.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "source": "Google AI",
+          "published_at": "2026-04-22T12:00:00Z",
+          "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-22-we-re-launching-two-specialized-tpus-for-the"
+        },
+        {
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
+        },
+        {
+          "title": "Introducing workspace agents in ChatGPT",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
+        },
+        {
+          "title": "Workspace agents",
+          "url": "https://openai.com/academy/workspace-agents",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-workspace-agents"
+        },
+        {
+          "title": "Introducing OpenAI Privacy Filter",
+          "url": "https://openai.com/index/introducing-openai-privacy-filter",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T00:00:00Z",
+          "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-openai-privacy-filter"
+        },
+        {
+          "title": "Partnering with industry leaders to accelerate AI transformation",
+          "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+          "source": "DeepMind",
+          "published_at": "2026-04-21T14:54:15Z",
+          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-04-21-partnering-with-industry-leaders-to-accelerate-ai-transformation"
+        },
         {
           "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
           "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
@@ -85,6 +176,19 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-21-3-new-ways-ads-advisor-is-making-google"
+        },
+        {
+          "title": "Introducing ChatGPT Images 2.0",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+          "source": "OpenAI",
+          "published_at": "2026-04-21T12:00:00Z",
+          "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-21-introducing-chatgpt-images-2-0"
         },
         {
           "title": "Scaling Codex to enterprises worldwide",
@@ -176,90 +280,43 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-16-codex-for-almost-everything"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
         {
-          "title": "Introducing GPT-Rosalind for life sciences research",
-          "url": "https://openai.com/index/introducing-gpt-rosalind",
-          "source": "OpenAI",
-          "published_at": "2026-04-16T01:00:00Z",
-          "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+          "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
+          "url": "https://spectrum.ieee.org/ai-chip-design",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-22T11:00:01Z",
+          "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits ; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could desig…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-16-introducing-gpt-rosalind-for-life-sciences-research"
-        },
-        {
-          "title": "Accelerating the cyber defense ecosystem that protects us all",
-          "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-04-16T00:00:00Z",
-          "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-16-accelerating-the-cyber-defense-ecosystem-that-protects-us"
-        },
-        {
-          "title": "Introducing Claude Opus 4.7",
-          "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "source": "Anthropic",
-          "published_at": "2026-04-16T00:00:00Z",
-          "summary": "Introducing Claude Opus 4.7",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-16-introducing-claude-opus-4-7"
-        },
-        {
-          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-          "source": "DeepMind",
-          "published_at": "2026-04-15T16:03:19Z",
-          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-15-gemini-3-1-flash-tts-the-next-generation"
-        },
-        {
-          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-          "source": "Google AI",
-          "published_at": "2026-04-15T15:00:00Z",
-          "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-15-gemini-3-1-flash-tts-the-next-generation"
-        },
-        {
-          "title": "The next evolution of the Agents SDK",
-          "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-          "source": "OpenAI",
-          "published_at": "2026-04-15T10:00:00Z",
-          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-15-the-next-evolution-of-the-agents-sdk"
+          "category": "investigación",
+          "id": "ieee-2026-04-22-ai-agent-designs-a-risc-v-cpu-core-from"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "url": "https://huggingface.co/blog/nvidia/gemma4",
+          "source": "Hugging Face",
+          "published_at": "2026-04-22T15:40:50Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-04-22-gemma-4-vla-demo-on-jetson-orin-nano"
+        },
         {
           "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
           "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
@@ -272,32 +329,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-04-21-qimma-qimw-a-quality-first-arabic-llm-leaderboard"
-        },
-        {
-          "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-          "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-          "source": "Hugging Face",
-          "published_at": "2026-04-21T00:40:10Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-04-21-how-to-ground-a-korean-ai-agent-in"
-        },
-        {
-          "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-          "url": "https://huggingface.co/blog/cybersecurity-openness",
-          "source": "Hugging Face",
-          "published_at": "2026-04-21T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-04-21-ai-and-the-future-of-cybersecurity-why-openness"
         }
       ]
     },
@@ -305,85 +336,124 @@
       "name": "General",
       "items": [
         {
-          "title": "AI backlash is coming for elections",
-          "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+          "title": "OpenAI now lets teams make custom bots that can do work on their own",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
           "source": "The Verge",
-          "published_at": "2026-04-21T19:00:05Z",
-          "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unr…",
+          "published_at": "2026-04-22T20:09:02Z",
+          "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-ai-backlash-is-coming-for-elections"
+          "id": "theverge-2026-04-22-openai-now-lets-teams-make-custom-bots-that"
         },
         {
-          "title": "OpenAI’s updated image generator can now pull information from the web",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+          "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
+          "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
           "source": "The Verge",
-          "published_at": "2026-04-21T19:00:00Z",
-          "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announ…",
+          "published_at": "2026-04-22T20:04:45Z",
+          "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber bu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-openai-s-updated-image-generator-can-now-pull"
+          "id": "theverge-2026-04-22-alexis-ohanian-shocks-washington-with-pro-immigration-remarks"
         },
         {
-          "title": "Framework’s Laptop 13 Pro launch event",
-          "url": "https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event",
+          "title": "Former MrBeast exec sues over ‘years’ of alleged harassment",
+          "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-04-21T18:41:08Z",
-          "summary": "Framework CEO Nirav Patel is showing off his company&#8217;s latest modular, repairable laptops in San Francisco today. The headliner is the new Laptop 13 Pro, which is its first machine fully machined out of aluminum, a…",
+          "published_at": "2026-04-22T18:49:02Z",
+          "summary": "A former employee of Jimmy \"MrBeast\" Donaldson has filed a lawsuit alleging that she faced \"intentional infliction of emotional distress\" from harassment at the YouTuber's production company, was asked to work during mat…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-framework-s-laptop-13-pro-launch-event"
+          "id": "theverge-2026-04-22-former-mrbeast-exec-sues-over-years-of-alleged"
         },
         {
-          "title": "X makes it 1,900 percent more expensive to post links",
-          "url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
+          "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
+          "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
           "source": "The Verge",
-          "published_at": "2026-04-21T18:27:18Z",
-          "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which is what third-party tools use to hook into …",
+          "published_at": "2026-04-22T17:58:23Z",
+          "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-x-makes-it-1-900-percent-more-expensive"
+          "id": "theverge-2026-04-22-ember-s-self-heating-smart-mug-is-more-than"
         },
         {
-          "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
-          "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
+          "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+          "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
           "source": "The Verge",
-          "published_at": "2026-04-21T18:08:00Z",
-          "summary": "Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch. Tod…",
+          "published_at": "2026-04-22T17:43:38Z",
+          "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-framework-announces-laptop-13-pro-the-macbook-pro"
+          "id": "theverge-2026-04-22-watch-sony-s-elite-ping-pong-robot-beat-top-ranked"
         },
         {
-          "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-          "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-          "source": "The Verge",
-          "published_at": "2026-04-21T18:07:24Z",
-          "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll…",
+          "title": "SpaceX lo ha reconocido: su sueño de colocar los centros de datos para IA en el espacio probablemente no es viable",
+          "url": "https://www.xataka.com/empresas-y-economia/spacex-ha-reconocido-su-sueno-colocar-centros-datos-para-ia-espacio-probablemente-no-viable",
+          "source": "Xataka",
+          "published_at": "2026-04-22T14:30:39Z",
+          "summary": "La posibilidad de poner a punto centros de datos para inteligencia artificial (IA) en el espacio es muy atractiva. Tanto que varios directores generales de algunas de las mayores compañías de tecnología de EEUU no han du…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-21-framework-s-first-egpus-turn-its-laptop-into"
+          "id": "xataka-2026-04-22-spacex-lo-ha-reconocido-su-sueno-de-colocar"
         },
         {
-          "title": "Ha ocurrido algo inédito en la guerra: Ucrania ha tumbado shaheds rusos desde un hotel a 500 kilómetros de distancia",
+          "title": "La industria tecnológica se está fundiendo miles de millones de dólares en GPUs para la IA. El 95% están inactivas",
+          "url": "https://www.xataka.com/empresas-y-economia/big-tech-estan-fundiendo-miles-millones-dolares-gpus-para-ia-95-estan-inactivas",
+          "source": "Xataka",
+          "published_at": "2026-04-22T14:15:00Z",
+          "summary": "Cuando comenzó la pandemia del COVID-19, el papel higiénico y la levadura volaron del supermercado. El papel porque es un bien básico, pero la levadura porque todo el mundo iba a hacer mucho pan en su casa. Esa era la pr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-22-la-industria-tecnologica-se-esta-fundiendo-miles-de"
+        },
+        {
+          "title": "Elon Musk sabe que a Grok le falta tener su propio \"Grok Code\". Así que va a pagar 60.000 millones por Cursor",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-elon-musk-no-tiene-su-propio-claude-code-tienen-solucion-para-eso-comprar-cursor",
+          "source": "Xataka",
+          "published_at": "2026-04-22T11:15:00Z",
+          "summary": "SpaceX, la empresa aeroespacial de Elon Musk, indicó el miércoles que había llegado a un acuerdo con la startup de IA Cursor . Según dicho acuerdo, esta empresa podría ser adquirida por 60.000 millones de dólares. Si tod…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-22-elon-musk-sabe-que-a-grok-le-falta"
+        },
+        {
+          "title": "Con ChatGPT Images 2,0, OpenAI dice haber solucionado el gran problema de los generadores de imagen: las letras",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-sabia-crear-imagenes-openai-dice-haber-dado-pieza-que-faltaba-nuevo-chatgpt-images-2-0",
+          "source": "Xataka",
+          "published_at": "2026-04-21T19:50:00Z",
+          "summary": "Durante los últimos años hemos visto cómo los generadores de imágenes se volvían cada vez más espectaculares, más rápidos y también más populares. El problema es que una imagen llamativa no siempre sirve para trabajar co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-21-con-chatgpt-images-2-0-openai-dice-haber"
+        },
+        {
+          "title": "Ucrania está derribando drones rusos con \"pilotos\" a 500 kilómetros del frente: es una revolución radical en la guerra",
           "url": "https://www.xataka.com/magnet/ha-ocurrido-hecho-inedito-guerra-ucrania-ha-tumbado-shaheds-rusos-hotel-a-500-km-clave-esta-wifi",
           "source": "Xataka",
           "published_at": "2026-04-21T13:00:00Z",
@@ -393,7 +463,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-21-ha-ocurrido-algo-inedito-en-la-guerra-ucrania"
+          "id": "xataka-2026-04-21-ucrania-esta-derribando-drones-rusos-con-pilotos-a"
         },
         {
           "title": "En 1914, las metralletas cambiaron para siempre la forma de hacer la guerra. En 2026, es turno de los algoritmos",
@@ -407,71 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-21-en-1914-las-metralletas-cambiaron-para-siempre-la"
-        },
-        {
-          "title": "Europa se está tomando tan en serio su independencia tecnológica que apunta hacia el objetivo más ambicioso: NVIDIA",
-          "url": "https://www.xataka.com/empresas-y-economia/europa-se-ha-tomado-serio-independencia-tecnologica-empieza-a-apuntar-a-objetivo-caza-mayor-nvidia",
-          "source": "Xataka",
-          "published_at": "2026-04-20T17:30:39Z",
-          "summary": "Europa no puede seguir siendo el vasallo tecnológico de Estados Unidos. Con ese potente mensaje, el CEO de Mistral presentó hace unos días una hoja de ruta con la que considera que Europa puede tomar el pulso en la carre…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-20-europa-se-esta-tomando-tan-en-serio-su"
-        },
-        {
-          "title": "Cuando Meta compró Manus, las autoridades de China interpretaron un mensaje: una conspiración en su contra",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-se-gasto-2-000-millones-startup-china-ia-china-tiene-claro-que-fue-conspiracion",
-          "source": "Xataka",
-          "published_at": "2026-04-20T16:00:00Z",
-          "summary": "Con China y Estados Unidos bailando la danza de la inteligencia artificial , tanto los países como las compañías quieren hacerse con las mejores cartas para sus barajas. Meta está invirtiendo millonadas en el desarrollo …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-20-cuando-meta-compro-manus-las-autoridades-de-china"
-        },
-        {
-          "title": "Anthropic no ha subido el precio de Claude. Ha inventado algo mejor: la inflación de tokens",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-no-ha-subido-precio-claude-ha-inventado-algo-mejor-inflacion-tokens",
-          "source": "Xataka",
-          "published_at": "2026-04-20T11:30:19Z",
-          "summary": "\"No os preocupéis, que cuesta lo mismo\". Ese fue el mensaje de Anthropic al anunciar el lanzamiento de su nuevo modelo de IA, Claude Opus 4.7. En ese comunicado dejaron claro que \"el precio sigue siendo el mismo que el d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-20-anthropic-no-ha-subido-el-precio-de-claude"
-        },
-        {
-          "title": "\"Un LED siempre va a contaminar luz, aunque se llame MicroRGB\": Jaime de Jaraíz, sobre por qué LG seguirá predicando el OLED",
-          "url": "https://www.xataka.com/entrevistas/led-siempre-va-a-contaminar-luz-se-llame-microrgb-jaime-jaraiz-que-lg-seguira-predicando-oled",
-          "source": "Xataka",
-          "published_at": "2026-04-20T08:30:19Z",
-          "summary": "Jaime de Jaraíz es una anomalía dentro de LG: español, no coreano, y sin embargo, presidente de una de las filiales más influyentes de la compañía en el mundo. Lleva más de veinte años en la empresa y, en ese tiempo, ha …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-20-un-led-siempre-va-a-contaminar-luz-aunque"
-        },
-        {
-          "title": "La gran crisis de suministro de nuestro tiempo no es de petróleo: es de memoria DRAM y el horizonte no es alentador",
-          "url": "https://www.xataka.com/componentes/mundo-se-va-a-quedar-memoria-para-chips-ia-2027-moviles-coches-estan-pagando-precio",
-          "source": "Xataka",
-          "published_at": "2026-04-20T07:30:00Z",
-          "summary": "El gran cuello de botella de la industria de la inteligencia artificial no tiene que ver con los modelos de IA, las GPUs o los centros de datos. Tiene que ver con la memoria, y desde hace meses estamos inmersos en una cr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-20-la-gran-crisis-de-suministro-de-nuestro-tiempo"
         }
       ]
     }
@@ -509,6 +514,84 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Making ChatGPT better for clinicians",
+          "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T15:00:00Z",
+          "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-making-chatgpt-better-for-clinicians"
+        },
+        {
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
+        },
+        {
+          "title": "Introducing workspace agents in ChatGPT",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
+        },
+        {
+          "title": "Workspace agents",
+          "url": "https://openai.com/academy/workspace-agents",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-workspace-agents"
+        },
+        {
+          "title": "Introducing OpenAI Privacy Filter",
+          "url": "https://openai.com/index/introducing-openai-privacy-filter",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T00:00:00Z",
+          "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-openai-privacy-filter"
+        },
+        {
+          "title": "Introducing ChatGPT Images 2.0",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+          "source": "OpenAI",
+          "published_at": "2026-04-21T12:00:00Z",
+          "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-21-introducing-chatgpt-images-2-0"
+        },
+        {
           "title": "Scaling Codex to enterprises worldwide",
           "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
           "source": "OpenAI",
@@ -546,45 +629,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-16-codex-for-almost-everything"
-        },
-        {
-          "title": "Introducing GPT-Rosalind for life sciences research",
-          "url": "https://openai.com/index/introducing-gpt-rosalind",
-          "source": "OpenAI",
-          "published_at": "2026-04-16T01:00:00Z",
-          "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-16-introducing-gpt-rosalind-for-life-sciences-research"
-        },
-        {
-          "title": "Accelerating the cyber defense ecosystem that protects us all",
-          "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-04-16T00:00:00Z",
-          "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-16-accelerating-the-cyber-defense-ecosystem-that-protects-us"
-        },
-        {
-          "title": "The next evolution of the Agents SDK",
-          "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-          "source": "OpenAI",
-          "published_at": "2026-04-15T10:00:00Z",
-          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-15-the-next-evolution-of-the-agents-sdk"
         }
       ]
     },
@@ -604,19 +648,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-04-17-introducing-claude-design-by-anthropic-labs"
-        },
-        {
-          "title": "Introducing Claude Opus 4.7",
-          "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "source": "Anthropic",
-          "published_at": "2026-04-16T00:00:00Z",
-          "summary": "Introducing Claude Opus 4.7",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-16-introducing-claude-opus-4-7"
         }
       ]
     },
@@ -624,6 +655,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "We're launching two specialized TPUs for the agentic era.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "source": "Google AI",
+          "published_at": "2026-04-22T12:00:00Z",
+          "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-22-we-re-launching-two-specialized-tpus-for-the"
+        },
         {
           "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
           "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
@@ -675,19 +719,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-16-new-ways-to-create-personalized-images-in-the"
-        },
-        {
-          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-          "source": "Google AI",
-          "published_at": "2026-04-15T15:00:00Z",
-          "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-15-gemini-3-1-flash-tts-the-next-generation"
         }
       ]
     },
@@ -696,17 +727,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+          "title": "Partnering with industry leaders to accelerate AI transformation",
+          "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
           "source": "DeepMind",
-          "published_at": "2026-04-15T16:03:19Z",
-          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+          "published_at": "2026-04-21T14:54:15Z",
+          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-04-15-gemini-3-1-flash-tts-the-next-generation"
+          "id": "deepmind-2026-04-21-partnering-with-industry-leaders-to-accelerate-ai-transformation"
         }
       ]
     }
