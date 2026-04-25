@@ -1,78 +1,117 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T07:09:46.190781Z",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T06:54:39.268625Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Saros is pure action nirvana",
-      "url": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
+      "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
+      "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
       "source": "The Verge",
-      "published_at": "2026-04-24T07:00:00Z",
-      "summary": "The alien world of Saros feels like it has been touched by King Midas. The sky is golden after another impossibly frequent solar eclipse; rocks, specifically those of the precious resource Lucenite, radiate a shimmering …",
+      "published_at": "2026-04-24T20:45:58Z",
+      "summary": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Ins…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-24-saros-is-pure-action-nirvana"
+      "id": "theverge-2026-04-24-microsoft-will-let-you-pause-windows-updates-indefinitely"
     },
     {
-      "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-      "url": "https://www.anthropic.com/news/anthropic-nec",
-      "source": "Anthropic",
-      "published_at": "2026-04-24T00:00:00Z",
-      "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "anthropic-2026-04-24-anthropic-and-nec-collaborate-to-build-japan-s"
-    },
-    {
-      "title": "US arrests soldier who allegedly made $400K on Maduro Polymarket bets",
-      "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
+      "title": "Alex Jones has uncovered another massive conspiracy",
+      "url": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
       "source": "The Verge",
-      "published_at": "2026-04-23T22:49:11Z",
-      "summary": "We knew someone made over $400,000 on suspicious Polymarket bets around the US operation to capture Venezuelan president Nicolas Maduro, but now we have a name: Gannon Ken Van Dyke. The US Attorney for the Southern Distr…",
+      "published_at": "2026-04-24T20:10:00Z",
+      "summary": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-23-us-arrests-soldier-who-allegedly-made-400k-on"
+      "id": "theverge-2026-04-24-alex-jones-has-uncovered-another-massive-conspiracy"
     },
     {
-      "title": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
-      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+      "title": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
+      "url": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
       "source": "The Verge",
-      "published_at": "2026-04-23T22:36:39Z",
-      "summary": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition…",
+      "published_at": "2026-04-24T19:45:01Z",
+      "summary": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-23-leak-reveals-new-xbox-game-pass-starter-edition"
+      "id": "theverge-2026-04-24-the-person-who-allegedly-leaked-paramount-s-new"
     },
     {
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "source": "The Verge",
-      "published_at": "2026-04-23T22:27:11Z",
-      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microso…",
+      "title": "Un desarrollador se fue a dormir con una alerta de 10 dólares en Google Cloud: despertó con una factura de más de 18.000",
+      "url": "https://www.xataka.com/aplicaciones/desarrollador-se-fue-a-dormir-alerta-10-dolares-google-cloud-desperto-factura-18-000",
+      "source": "Xataka",
+      "published_at": "2026-04-24T19:31:52Z",
+      "summary": "La nube tiene algo de invisible hasta que llega la factura. Levantamos una aplicación, probamos una API , dejamos un presupuesto configurado y seguimos con nuestra vida pensando que el sistema avisará si algo se sale de …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-23-claude-is-connecting-directly-to-your-personal-apps"
+      "id": "xataka-2026-04-24-un-desarrollador-se-fue-a-dormir-con-una"
+    },
+    {
+      "title": "China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está \"nacionalizando\" la IA",
+      "url": "https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia",
+      "source": "Xataka",
+      "published_at": "2026-04-24T19:01:52Z",
+      "summary": "El caso de Manus parece que ha plantado una semilla en cómo China va a gestionar su talento de IA. Y es que Pekín le ha dado otro toque de atención a otra empresa de inteligencia artificial, MiroMind, para que no mueva n…",
+      "why_it_matters": "",
+      "tags": [
+        "negocio"
+      ],
+      "category": "negocio",
+      "id": "xataka-2026-04-24-china-ha-prohibido-a-otra-startup-de-ia"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "source": "Google AI",
+          "published_at": "2026-04-24T19:00:00Z",
+          "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-24-8-gemini-tips-for-organizing-your-space-and"
+        },
+        {
+          "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+          "url": "https://www.anthropic.com/news/anthropic-nec",
+          "source": "Anthropic",
+          "published_at": "2026-04-24T00:00:00Z",
+          "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-24-anthropic-and-nec-collaborate-to-build-japan-s"
+        },
+        {
+          "title": "An update on our election safeguards",
+          "url": "https://www.anthropic.com/news/election-safeguards-update",
+          "source": "Anthropic",
+          "published_at": "2026-04-24T00:00:00Z",
+          "summary": "An update on our election safeguards",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-24-an-update-on-our-election-safeguards"
+        },
         {
           "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
@@ -386,35 +425,17 @@
           "id": "openai-2026-04-20-openai-helps-hyatt-advance-ai-among-colleagues"
         },
         {
-          "title": "7 ways to travel smarter this summer, with help from Google",
-          "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-          "source": "Google AI",
-          "published_at": "2026-04-17T14:00:00Z",
-          "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+          "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "source": "Anthropic",
+          "published_at": "2026-04-20T00:00:00Z",
+          "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-04-17-7-ways-to-travel-smarter-this-summer-with"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas",
-          "url": "https://www.xataka.com/empresas-y-economia/big-tech-estan-fundiendo-miles-millones-dolares-gpus-para-ia-95-estan-inactivas",
-          "source": "Xataka",
-          "published_at": "2026-04-22T14:15:00Z",
-          "summary": "Cuando comenzó la pandemia del COVID-19, el papel higiénico y la levadura volaron del supermercado. El papel porque es un bien básico, pero la levadura porque todo el mundo iba a hacer mucho pan en su casa. Esa era la pr…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-04-22-buena-parte-de-la-economia-mundial-ahora-mismo"
+          "id": "anthropic-2026-04-20-anthropic-and-amazon-expand-collaboration-for-up-to"
         }
       ]
     },
@@ -446,19 +467,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-04-23-ai-designs-thermoelectric-generators-10-000-times-faster"
-        },
-        {
-          "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
-          "url": "https://spectrum.ieee.org/ai-chip-design",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-04-22T11:00:01Z",
-          "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits ; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could desig…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-04-22-ai-agent-designs-a-risc-v-cpu-core-from"
         }
       ]
     },
@@ -466,17 +474,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-          "url": "https://huggingface.co/blog/nvidia/gemma4",
+          "title": "DeepSeek-V4: a million-token context that agents can actually use",
+          "url": "https://huggingface.co/blog/deepseekv4",
           "source": "Hugging Face",
-          "published_at": "2026-04-22T15:40:50Z",
+          "published_at": "2026-04-24T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-04-22-gemma-4-vla-demo-on-jetson-orin-nano"
+          "id": "huggingface-2026-04-24-deepseek-v4-a-million-token-context-that-agents-can-actually"
         }
       ]
     },
@@ -484,111 +492,137 @@
       "name": "General",
       "items": [
         {
-          "title": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
-          "url": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
+          "title": "BMW is one step closer to selling you a color-changing car",
+          "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
           "source": "The Verge",
-          "published_at": "2026-04-23T21:36:46Z",
-          "summary": "Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexities of gender identity. On Wednesday, the FC…",
+          "published_at": "2026-04-24T17:31:44Z",
+          "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-brendan-carr-s-war-on-wokeness-targets-inclusive"
+          "id": "theverge-2026-04-24-bmw-is-one-step-closer-to-selling-you"
         },
         {
-          "title": "Sonos’ big sale on refurbished speakers is about to end",
-          "url": "https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale",
+          "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
+          "url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-04-23T19:54:04Z",
-          "summary": "Portable audio and home theater upgrades can be very pricey, which is why we make a habit out of telling readers when there are good deals happening. With that in mind, here’s a friendly reminder that a heap of refurbish…",
+          "published_at": "2026-04-24T17:25:49Z",
+          "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-sonos-big-sale-on-refurbished-speakers-is-about"
+          "id": "theverge-2026-04-24-google-s-handsome-pixel-watch-4-is-on"
         },
         {
-          "title": "Meta is laying off 10 percent of its staff",
-          "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+          "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
+          "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
           "source": "The Verge",
-          "published_at": "2026-04-23T19:41:07Z",
-          "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jo…",
+          "published_at": "2026-04-24T17:11:33Z",
+          "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-meta-is-laying-off-10-percent-of-its"
+          "id": "theverge-2026-04-24-the-ram-shortage-could-get-even-worse-if"
         },
         {
-          "title": "‘We Are Xbox’: read the memo defining Microsoft’s gaming future",
-          "url": "https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty",
+          "title": "How Project Maven taught the military to love AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
           "source": "The Verge",
-          "published_at": "2026-04-23T18:59:12Z",
-          "summary": "Microsoft's new Xbox CEO Asha Sharma has laid out a new strategy for what she describes as a \"return of Xbox.\" In a joint memo with Xbox Chief Content Officer Matt Booty, Sharma and Booty lay out their vision for the fut…",
+          "published_at": "2026-04-24T17:00:00Z",
+          "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-we-are-xbox-read-the-memo-defining-microsoft"
+          "id": "theverge-2026-04-24-how-project-maven-taught-the-military-to-love"
         },
         {
-          "title": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
-          "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
+          "title": "Xreal’s best AR glasses are $599 for good now",
+          "url": "https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-04-23T18:51:14Z",
-          "summary": "Xbox CEO Asha Sharma held an all-hands meeting this morning and laid out her strategy for a \"return of Xbox\" with employees. While rebranding Microsoft Gaming back to Xbox was part of the agenda, Sharma also revealed tha…",
+          "published_at": "2026-04-24T16:33:30Z",
+          "summary": "The Xreal One Pro are the company’s best AR glasses, touting thin optics that keep out reflections so you can enjoy a crisp, contrast-rich image of whatever content you’re watching. Xreal has permanently cut their price …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-microsoft-s-new-xbox-chief-is-reevaluating-exclusive"
+          "id": "theverge-2026-04-24-xreal-s-best-ar-glasses-are-599-for"
         },
         {
-          "title": "Democrats want to ban ICE from turning warehouses into detention centers",
-          "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
+          "title": "360-degree cameras have a new superpower",
+          "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
           "source": "The Verge",
-          "published_at": "2026-04-23T18:35:00Z",
-          "summary": "A bill introduced by Rep. Rashida Tlaib (D-MI) would prohibit the Department of Homeland Security from converting warehouses and similar buildings into immigrant detention centers, an attempt to slow President Donald Tru…",
+          "published_at": "2026-04-24T15:30:00Z",
+          "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-23-democrats-want-to-ban-ice-from-turning-warehouses"
+          "id": "theverge-2026-04-24-360-degree-cameras-have-a-new-superpower"
         },
         {
-          "title": "Pensábamos que la IA iba a colapsar la red eléctrica. La solución pasa por \"desenchufarla\" 18 días al año",
+          "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
+          "url": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
+          "source": "The Verge",
+          "published_at": "2026-04-24T15:17:27Z",
+          "summary": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. The robotaxi's start of production was announced Thursday on X, with Te…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-24-tesla-s-cybercab-goes-into-production----so"
+        },
+        {
+          "title": "DeepSeek acaba de lanzar un modelo que compite con Opus 4.6. Cuesta siete veces menos y funciona en chips chinos",
+          "url": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lanzar-modelo-que-compite-opus-4-6-cuesta-siete-veces-funciona-chips-chinos",
+          "source": "Xataka",
+          "published_at": "2026-04-24T08:31:52Z",
+          "summary": "Han pasado 484 días desde aquel \" momento DeepSeek \", pero la espera parece haber valido la pena, porque tenemos con nosotros el nuevo DeepSeek V4. Estamos ante un modelo de pesos abiertos absolutamente gigantesco y que …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-24-deepseek-acaba-de-lanzar-un-modelo-que-compite"
+        },
+        {
+          "title": "Alguien ha tenido una idea simple para que los centros de datos no colapsen España: \"desenchufarlos\" 18 días al año",
           "url": "https://www.xataka.com/energia/pensabamos-que-ia-iba-a-colapsar-red-electrica-solucion-pasa-desenchufarla-18-dias-al-ano",
           "source": "Xataka",
-          "published_at": "2026-04-23T18:01:52Z",
+          "published_at": "2026-04-23T18:00:00Z",
           "summary": "Los titulares diarios nos bombardean con el hambre insaciable de la Inteligencia Artificial, pintando un futuro donde los centros de datos devorarán nuestra infraestructura. Sin embargo, la realidad esconde una ironía fa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-pensabamos-que-la-ia-iba-a-colapsar-la"
+          "id": "xataka-2026-04-23-alguien-ha-tenido-una-idea-simple-para-que"
         },
         {
-          "title": "La IA hace que cada vez sea más difícil saber qué es real y qué no. Y los depredadores sexuales infantiles están tomado nota",
+          "title": "Diferenciar la realidad de la IA es cada vez más difícil. Y eso son buenas noticias para los depredadores sexuales",
           "url": "https://www.xataka.com/robotica-e-ia/ia-hace-que-cada-vez-sea-dificil-saber-que-real-que-no-depredadores-sexuales-infantiles-estan-tomado-nota",
           "source": "Xataka",
-          "published_at": "2026-04-23T15:01:52Z",
+          "published_at": "2026-04-23T15:00:00Z",
           "summary": "La era de la inteligencia artificial está haciendo que todo vaya muy rápido muy deprisa. Empresas como Mercadona, Google o Anthropic ya apuntan que la gran mayoría de su código lo escribe una IA , Mozilla echa flores a M…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-la-ia-hace-que-cada-vez-sea-mas"
+          "id": "xataka-2026-04-23-diferenciar-la-realidad-de-la-ia-es-cada"
         },
         {
-          "title": "\"Los ingenieros de Google utilizan tanto la IA como John Deere\": hay una guerra interna en Alphabet por utilizar Claude",
+          "title": "La señal más preocupante para Google: sus propios ingenieros de IA prefieren utilizar la IA de Anthropic",
           "url": "https://www.xataka.com/robotica-e-ia/guerra-interna-google-uso-ia-deepmind-usan-claude-resto-ingenieros-google-quiere-no-puede",
           "source": "Xataka",
           "published_at": "2026-04-23T11:30:00Z",
@@ -598,10 +632,10 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-los-ingenieros-de-google-utilizan-tanto-la-ia"
+          "id": "xataka-2026-04-23-la-senal-mas-preocupante-para-google-sus-propios"
         },
         {
-          "title": "Los chips de 1,2 y 1,3 nm son la próxima frontera de los semiconductores: TSMC acaba de revelar su plan para obtenerlos",
+          "title": "El santo grial de los semiconductores está un paso más cerca: el plan de TSMC para llegar a los chips de 1,2 nm",
           "url": "https://www.xataka.com/empresas-y-economia/tsmc-tiene-plan-para-proximos-tres-anos-sabemos-cuando-llegaran-sus-chips-1-2-1-3-nm",
           "source": "Xataka",
           "published_at": "2026-04-23T10:52:00Z",
@@ -611,10 +645,10 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-los-chips-de-1-2-y-1-3"
+          "id": "xataka-2026-04-23-el-santo-grial-de-los-semiconductores-esta-un"
         },
         {
-          "title": "Alguien está mintiendo en la guerra de Irán: o EEUU ha llevado a cabo un rescate histórico… o ha salvado imágenes IA",
+          "title": "La guerra entre Irán y EEUU ya era lo suficientemente confusa: ocho mujeres generadas por IA la están complicando más",
           "url": "https://www.xataka.com/magnet/eeuu-acaba-liberar-a-ocho-mujeres-que-iran-iba-a-ejecutar-problema-que-iran-dice-que-fueron-generadas-ia",
           "source": "Xataka",
           "published_at": "2026-04-23T09:00:00Z",
@@ -624,10 +658,10 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-alguien-esta-mintiendo-en-la-guerra-de-iran"
+          "id": "xataka-2026-04-23-la-guerra-entre-iran-y-eeuu-ya-era"
         },
         {
-          "title": "Anthropic cree que Mythos es \"tan potente\" que no pueden hacerlo público. Mozilla lo ha probado y les da la razón",
+          "title": "\"Tan bueno como los mejores humanos\": Mozilla ha probado Claude Mythos y ha quedado tan asustada como impresionada",
           "url": "https://www.xataka.com/robotica-e-ia/mythos-sera-modelo-peligroso-ia-companias-estan-tomando-nota-sus-consejos-seguridad",
           "source": "Xataka",
           "published_at": "2026-04-23T07:00:00Z",
@@ -637,33 +671,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-23-anthropic-cree-que-mythos-es-tan-potente-que"
-        },
-        {
-          "title": "SpaceX ha reconocido lo que por otro lado ya intuíamos: la idea de \"centros de datos en el espacio\" es una quimera",
-          "url": "https://www.xataka.com/empresas-y-economia/spacex-ha-reconocido-su-sueno-colocar-centros-datos-para-ia-espacio-probablemente-no-viable",
-          "source": "Xataka",
-          "published_at": "2026-04-22T14:30:00Z",
-          "summary": "La posibilidad de poner a punto centros de datos para inteligencia artificial (IA) en el espacio es muy atractiva. Tanto que varios directores generales de algunas de las mayores compañías de tecnología de EEUU no han du…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-22-spacex-ha-reconocido-lo-que-por-otro-lado"
-        },
-        {
-          "title": "Elon Musk sabe que a Grok le falta tener su propio \"Grok Code\". Así que va a pagar 60.000 millones por Cursor",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-elon-musk-no-tiene-su-propio-claude-code-tienen-solucion-para-eso-comprar-cursor",
-          "source": "Xataka",
-          "published_at": "2026-04-22T11:15:00Z",
-          "summary": "SpaceX, la empresa aeroespacial de Elon Musk, indicó el miércoles que había llegado a un acuerdo con la startup de IA Cursor . Según dicho acuerdo, esta empresa podría ser adquirida por 60.000 millones de dólares. Si tod…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-22-elon-musk-sabe-que-a-grok-le-falta"
+          "id": "xataka-2026-04-23-tan-bueno-como-los-mejores-humanos-mozilla-ha"
         }
       ]
     }
@@ -952,6 +960,32 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-04-24-anthropic-and-nec-collaborate-to-build-japan-s"
+        },
+        {
+          "title": "An update on our election safeguards",
+          "url": "https://www.anthropic.com/news/election-safeguards-update",
+          "source": "Anthropic",
+          "published_at": "2026-04-24T00:00:00Z",
+          "summary": "An update on our election safeguards",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-24-an-update-on-our-election-safeguards"
+        },
+        {
+          "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "source": "Anthropic",
+          "published_at": "2026-04-20T00:00:00Z",
+          "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-20-anthropic-and-amazon-expand-collaboration-for-up-to"
         }
       ]
     },
@@ -959,6 +993,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "source": "Google AI",
+          "published_at": "2026-04-24T19:00:00Z",
+          "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-24-8-gemini-tips-for-organizing-your-space-and"
+        },
         {
           "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
@@ -1010,19 +1057,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-21-3-new-ways-ads-advisor-is-making-google"
-        },
-        {
-          "title": "7 ways to travel smarter this summer, with help from Google",
-          "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-          "source": "Google AI",
-          "published_at": "2026-04-17T14:00:00Z",
-          "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-17-7-ways-to-travel-smarter-this-summer-with"
         }
       ]
     },
