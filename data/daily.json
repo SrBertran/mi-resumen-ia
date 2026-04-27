@@ -1,72 +1,72 @@
 {
-  "date": "2026-04-26",
-  "generated_at": "2026-04-26T07:05:16.884332Z",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T07:22:06.260023Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Trump fires the entire National Science Board",
-      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "DeepMind",
+      "published_at": "2026-04-27T07:00:06Z",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "deepmind-2026-04-27-announcing-our-partnership-with-the-republic-of-korea"
+    },
+    {
+      "title": "Google’s new gradient icon design is coming to more apps",
+      "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
       "source": "The Verge",
-      "published_at": "2026-04-25T19:20:15Z",
-      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already b…",
+      "published_at": "2026-04-26T18:34:26Z",
+      "summary": "In late 2025, Google started rolling out new icons with a gradient design. Now it seems the new look is coming to the rest of Google's apps. 9to5Google got its hands on images of the new icons that ditch the uniform circ…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-25-trump-fires-the-entire-national-science-board"
+      "id": "theverge-2026-04-26-google-s-new-gradient-icon-design-is-coming"
     },
     {
-      "title": "An influx of used EVs could drive down prices",
-      "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+      "title": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
+      "url": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
       "source": "The Verge",
-      "published_at": "2026-04-25T18:25:23Z",
-      "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to …",
+      "published_at": "2026-04-26T16:18:02Z",
+      "summary": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assass…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-25-an-influx-of-used-evs-could-drive-down"
+      "id": "theverge-2026-04-26-trump-turns-the-whcd-shooting-into-a-pitch"
     },
     {
-      "title": "Researchers say we’re talking less than ever",
-      "url": "https://www.theverge.com/science/918753/researchers-talking-less",
+      "title": "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
+      "url": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
       "source": "The Verge",
-      "published_at": "2026-04-25T15:03:53Z",
-      "summary": "Researchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has lik…",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "theverge-2026-04-25-researchers-say-we-re-talking-less-than-ever"
-    },
-    {
-      "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
-      "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-04-25T15:00:00Z",
-      "summary": "I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my fav…",
+      "published_at": "2026-04-26T16:00:00Z",
+      "summary": "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-25-sharge-s-fast-qi2-2-magsafe-battery-is"
+      "id": "theverge-2026-04-26-tomora-s-come-closer-is-an-ecstatic-love"
     },
     {
-      "title": "The Govee smart lamp brightened up my room, and then my life",
-      "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-      "source": "The Verge",
-      "published_at": "2026-04-25T13:30:00Z",
-      "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of …",
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "source": "OpenAI",
+      "published_at": "2026-04-26T16:00:00Z",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-04-25-the-govee-smart-lamp-brightened-up-my-room"
+      "category": "lanzamientos",
+      "id": "openai-2026-04-26-our-principles"
     }
   ],
   "sections": [
@@ -126,19 +126,6 @@
           "id": "googleai-2026-04-23-here-s-how-our-tpus-power-increasingly-demanding"
         },
         {
-          "title": "Introducing GPT-5.5",
-          "url": "https://openai.com/index/introducing-gpt-5-5",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-introducing-gpt-5-5"
-        },
-        {
           "title": "GPT-5.5 System Card",
           "url": "https://openai.com/index/gpt-5-5-system-card",
           "source": "OpenAI",
@@ -150,6 +137,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-23-gpt-5-5-system-card"
+        },
+        {
+          "title": "Introducing GPT-5.5",
+          "url": "https://openai.com/index/introducing-gpt-5-5",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T11:00:00Z",
+          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-introducing-gpt-5-5"
         },
         {
           "title": "Automations",
@@ -165,56 +165,17 @@
           "id": "openai-2026-04-23-automations"
         },
         {
-          "title": "Top 10 uses for Codex at work",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "title": "How to get started with Codex",
+          "url": "https://openai.com/academy/codex-how-to-start",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
-        },
-        {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Codex settings",
-          "url": "https://openai.com/academy/codex-settings",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-codex-settings"
+          "id": "openai-2026-04-23-how-to-get-started-with-codex"
         },
         {
           "title": "What is Codex?",
@@ -230,17 +191,56 @@
           "id": "openai-2026-04-23-what-is-codex"
         },
         {
-          "title": "How to get started with Codex",
-          "url": "https://openai.com/academy/codex-how-to-start",
+          "title": "Codex settings",
+          "url": "https://openai.com/academy/codex-settings",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-how-to-get-started-with-codex"
+          "id": "openai-2026-04-23-codex-settings"
+        },
+        {
+          "title": "Working with Codex",
+          "url": "https://openai.com/academy/working-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-working-with-codex"
+        },
+        {
+          "title": "Plugins and skills",
+          "url": "https://openai.com/academy/codex-plugins-and-skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-plugins-and-skills"
+        },
+        {
+          "title": "Top 10 uses for Codex at work",
+          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
         },
         {
           "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -308,6 +308,19 @@
           "id": "deepmind-2026-04-22-decoupled-diloco-a-new-frontier-for-resilient-distributed"
         },
         {
+          "title": "Introducing workspace agents in ChatGPT",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
+        },
+        {
           "title": "Workspace agents",
           "url": "https://openai.com/academy/workspace-agents",
           "source": "OpenAI",
@@ -332,19 +345,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
-        },
-        {
-          "title": "Introducing workspace agents in ChatGPT",
-          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T10:00:00Z",
-          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
         },
         {
           "title": "Introducing OpenAI Privacy Filter",
@@ -410,50 +410,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-21-scaling-codex-to-enterprises-worldwide"
-        },
-        {
-          "title": "OpenAI helps Hyatt advance AI among colleagues",
-          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-          "source": "OpenAI",
-          "published_at": "2026-04-20T00:00:00Z",
-          "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-20-openai-helps-hyatt-advance-ai-among-colleagues"
-        },
-        {
-          "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
-          "source": "Anthropic",
-          "published_at": "2026-04-20T00:00:00Z",
-          "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-20-anthropic-and-amazon-expand-collaboration-for-up-to"
         }
       ]
     },
     {
-      "name": "Negocio",
+      "name": "Investigación",
       "items": [
         {
-          "title": "China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está \"nacionalizando\" la IA",
-          "url": "https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia",
-          "source": "Xataka",
-          "published_at": "2026-04-24T19:01:52Z",
-          "summary": "El caso de Manus parece que ha plantado una semilla en cómo China va a gestionar su talento de IA. Y es que Pekín le ha dado otro toque de atención a otra empresa de inteligencia artificial, MiroMind, para que no mueva n…",
+          "title": "Researchers say we’re talking less than ever",
+          "url": "https://www.theverge.com/science/918753/researchers-talking-less",
+          "source": "The Verge",
+          "published_at": "2026-04-25T15:03:53Z",
+          "summary": "Researchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has lik…",
           "why_it_matters": "",
           "tags": [
-            "negocio"
+            "investigación"
           ],
-          "category": "negocio",
-          "id": "xataka-2026-04-24-china-ha-prohibido-a-otra-startup-de-ia"
+          "category": "investigación",
+          "id": "theverge-2026-04-25-researchers-say-we-re-talking-less-than-ever"
         }
       ]
     },
@@ -461,95 +435,82 @@
       "name": "General",
       "items": [
         {
-          "title": "Xbox’s weirdest studio is on a roll",
-          "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+          "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+          "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
           "source": "The Verge",
-          "published_at": "2026-04-25T13:00:00Z",
-          "summary": "For a while there, it seemed like Double Fine might be struggling under the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved for offbeat titles like Br&#252;tal Legend and Broken Age, but after…",
+          "published_at": "2026-04-26T14:05:03Z",
+          "summary": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-25-xbox-s-weirdest-studio-is-on-a-roll"
+          "id": "theverge-2026-04-26-skylight-s-15-inch-smart-calendar-is-down-to"
         },
         {
-          "title": "Sho Miyake answers life’s greatest questions",
-          "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+          "title": "After three months on Linux, I don’t miss Windows at all",
+          "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
           "source": "The Verge",
-          "published_at": "2026-04-25T12:00:00Z",
-          "summary": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy…",
+          "published_at": "2026-04-26T13:00:00Z",
+          "summary": "In January I finally made good on my threat/promise to install Linux on my desktop. I wanted to see how far I could get using a Linux PC as my main computer without doing a bunch of research beforehand or troubleshooting…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-25-sho-miyake-answers-life-s-greatest-questions"
+          "id": "theverge-2026-04-26-after-three-months-on-linux-i-don-t"
         },
         {
-          "title": "The most exciting laptop I’ve seen in forever",
-          "url": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+          "title": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face",
+          "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
           "source": "The Verge",
-          "published_at": "2026-04-25T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 125, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me cereal recommendations, and also you can read all the old editions at the Install…",
+          "published_at": "2026-04-26T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-25-the-most-exciting-laptop-i-ve-seen-in"
+          "id": "theverge-2026-04-26-the-plan-to-quietly-kill-coyote-v-acme"
         },
         {
-          "title": "The US gets the worst phones",
-          "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+          "title": "Trump fires the entire National Science Board",
+          "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
           "source": "The Verge",
-          "published_at": "2026-04-25T11:00:00Z",
-          "summary": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, soft…",
+          "published_at": "2026-04-25T19:20:15Z",
+          "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already b…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-25-the-us-gets-the-worst-phones"
+          "id": "theverge-2026-04-25-trump-fires-the-entire-national-science-board"
         },
         {
-          "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
-          "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+          "title": "An influx of used EVs could drive down prices",
+          "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
           "source": "The Verge",
-          "published_at": "2026-04-24T20:45:58Z",
-          "summary": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Ins…",
+          "published_at": "2026-04-25T18:25:23Z",
+          "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-24-microsoft-will-let-you-pause-windows-updates-indefinitely"
+          "id": "theverge-2026-04-25-an-influx-of-used-evs-could-drive-down"
         },
         {
-          "title": "Un desarrollador se fue a dormir con una alerta de 10 dólares en Google Cloud: despertó con una factura de más de 18.000",
-          "url": "https://www.xataka.com/aplicaciones/desarrollador-se-fue-a-dormir-alerta-10-dolares-google-cloud-desperto-factura-18-000",
-          "source": "Xataka",
-          "published_at": "2026-04-24T19:31:52Z",
-          "summary": "La nube tiene algo de invisible hasta que llega la factura. Levantamos una aplicación, probamos una API , dejamos un presupuesto configurado y seguimos con nuestra vida pensando que el sistema avisará si algo se sale de …",
+          "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+          "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-04-25T15:00:00Z",
+          "summary": "I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my fav…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-24-un-desarrollador-se-fue-a-dormir-con-una"
-        },
-        {
-          "title": "DeepSeek acaba de lanzar un modelo que compite con Opus 4.6. Cuesta siete veces menos y funciona en chips chinos",
-          "url": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lanzar-modelo-que-compite-opus-4-6-cuesta-siete-veces-funciona-chips-chinos",
-          "source": "Xataka",
-          "published_at": "2026-04-24T08:31:52Z",
-          "summary": "Han pasado 484 días desde aquel \" momento DeepSeek \", pero la espera parece haber valido la pena, porque tenemos con nosotros el nuevo DeepSeek V4. Estamos ante un modelo de pesos abiertos absolutamente gigantesco y que …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-24-deepseek-acaba-de-lanzar-un-modelo-que-compite"
+          "id": "theverge-2026-04-25-sharge-s-fast-qi2-2-magsafe-battery-is"
         }
       ]
     }
@@ -587,17 +548,17 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "Introducing GPT-5.5",
-          "url": "https://openai.com/index/introducing-gpt-5-5",
+          "title": "Our principles",
+          "url": "https://openai.com/index/our-principles",
           "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "published_at": "2026-04-26T16:00:00Z",
+          "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-introducing-gpt-5-5"
+          "id": "openai-2026-04-26-our-principles"
         },
         {
           "title": "GPT-5.5 System Card",
@@ -613,6 +574,19 @@
           "id": "openai-2026-04-23-gpt-5-5-system-card"
         },
         {
+          "title": "Introducing GPT-5.5",
+          "url": "https://openai.com/index/introducing-gpt-5-5",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T11:00:00Z",
+          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-introducing-gpt-5-5"
+        },
+        {
           "title": "Automations",
           "url": "https://openai.com/academy/codex-automations",
           "source": "OpenAI",
@@ -626,56 +600,17 @@
           "id": "openai-2026-04-23-automations"
         },
         {
-          "title": "Top 10 uses for Codex at work",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "title": "How to get started with Codex",
+          "url": "https://openai.com/academy/codex-how-to-start",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
-        },
-        {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Codex settings",
-          "url": "https://openai.com/academy/codex-settings",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-codex-settings"
+          "id": "openai-2026-04-23-how-to-get-started-with-codex"
         },
         {
           "title": "What is Codex?",
@@ -691,17 +626,56 @@
           "id": "openai-2026-04-23-what-is-codex"
         },
         {
-          "title": "How to get started with Codex",
-          "url": "https://openai.com/academy/codex-how-to-start",
+          "title": "Codex settings",
+          "url": "https://openai.com/academy/codex-settings",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-how-to-get-started-with-codex"
+          "id": "openai-2026-04-23-codex-settings"
+        },
+        {
+          "title": "Working with Codex",
+          "url": "https://openai.com/academy/working-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-working-with-codex"
+        },
+        {
+          "title": "Plugins and skills",
+          "url": "https://openai.com/academy/codex-plugins-and-skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-plugins-and-skills"
+        },
+        {
+          "title": "Top 10 uses for Codex at work",
+          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
         },
         {
           "title": "GPT-5.5 Bio Bug Bounty",
@@ -730,6 +704,19 @@
           "id": "openai-2026-04-22-making-chatgpt-better-for-clinicians"
         },
         {
+          "title": "Introducing workspace agents in ChatGPT",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
+        },
+        {
           "title": "Workspace agents",
           "url": "https://openai.com/academy/workspace-agents",
           "source": "OpenAI",
@@ -754,19 +741,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
-        },
-        {
-          "title": "Introducing workspace agents in ChatGPT",
-          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T10:00:00Z",
-          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-introducing-workspace-agents-in-chatgpt"
         },
         {
           "title": "Introducing OpenAI Privacy Filter",
@@ -806,19 +780,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-21-scaling-codex-to-enterprises-worldwide"
-        },
-        {
-          "title": "OpenAI helps Hyatt advance AI among colleagues",
-          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-          "source": "OpenAI",
-          "published_at": "2026-04-20T00:00:00Z",
-          "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-20-openai-helps-hyatt-advance-ai-among-colleagues"
         }
       ]
     },
@@ -851,19 +812,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-04-24-an-update-on-our-election-safeguards"
-        },
-        {
-          "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
-          "source": "Anthropic",
-          "published_at": "2026-04-20T00:00:00Z",
-          "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-20-anthropic-and-amazon-expand-collaboration-for-up-to"
         }
       ]
     },
@@ -942,6 +890,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "source": "DeepMind",
+          "published_at": "2026-04-27T07:00:06Z",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-04-27-announcing-our-partnership-with-the-republic-of-korea"
+        },
         {
           "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
           "url": "https://deepmind.google/blog/decoupled-diloco/",
