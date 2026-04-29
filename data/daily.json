@@ -1,78 +1,130 @@
 {
-  "date": "2026-04-28",
-  "generated_at": "2026-04-28T07:19:42.246455Z",
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T07:15:57.030984Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "El valor más rentable de la bolsa no es Nvidia ni una empresa IA: es Sandisk y lleva un 3.000% acumulado",
-      "url": "https://www.xataka.com/empresas-y-economia/valor-rentable-nasdaq-no-nvidia-ninguna-otra-empresa-ia-sandisk-lleva-3-000-acumulado",
+      "title": "Un agente de IA borró toda la base de datos de una empresa en nueve segundos. Después confesó cómo y por qué",
+      "url": "https://www.xataka.com/robotica-e-ia/agente-ia-borro-toda-base-datos-empresa-nueve-segundos-despues-confeso-como-que-habia-hecho",
       "source": "Xataka",
-      "published_at": "2026-04-28T07:01:52Z",
-      "summary": "Lo del crecimiento de Sandisk en bolsa es para estudiarlo detenidamente. Lleva acumulado casi un 3.000% de revalorización en el último año, y es otro ejemplo de cómo la fiebre de la IA y la crisis de la RAM están moldean…",
+      "published_at": "2026-04-29T06:01:52Z",
+      "summary": "Jer Crane es el fundador y CEO de la plataforma PocketOS , muy utilizada en empresas de alquiler de vehículos. Algunas de esas empresas llevan años con PocketOS y según él \"no podrían funcionar sin nosotros\". Hace unos d…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-28-el-valor-mas-rentable-de-la-bolsa-no"
+      "id": "xataka-2026-04-29-un-agente-de-ia-borro-toda-la-base"
     },
     {
-      "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
-      "url": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+      "title": "It’s primetime for conspiracy theorist video creators",
+      "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
       "source": "The Verge",
-      "published_at": "2026-04-28T07:01:00Z",
-      "summary": "Logitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the console launched in September 2024, Logitech has…",
+      "published_at": "2026-04-28T23:31:53Z",
+      "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-28-microsoft-office-can-now-be-controlled-with-logitech"
+      "id": "theverge-2026-04-28-it-s-primetime-for-conspiracy-theorist-video-creators"
     },
     {
-      "title": "Hay gente que sigue sin fiarse del código que genera la IA: Google dice que el 75% de su nuevo código ya nace de las máquinas",
-      "url": "https://www.xataka.com/robotica-e-ia/hay-gente-que-sigue-fiarse-codigo-que-genera-ia-google-dice-que-75-su-nuevo-codigo-nace-maquinas",
-      "source": "Xataka",
-      "published_at": "2026-04-28T06:31:52Z",
-      "summary": "¿Y si buena parte del software que usamos cada día ya estuviera empezando a escribirse de otra manera? La IA lleva tiempo entrando en la programación por la puerta de los asistentes, las sugerencias de código y las peque…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-04-28-hay-gente-que-sigue-sin-fiarse-del-codigo"
-    },
-    {
-      "title": "Las empresas de EEUU siguen empeñadas en modelos IA más y más grandes. Las de China siguen demostrando que no hace falta",
-      "url": "https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer",
-      "source": "Xataka",
-      "published_at": "2026-04-28T06:01:53Z",
-      "summary": "Alibaba tenía hasta ahora un modelo abierto estupendo para programar. Se traba de Qwen3.5-397B-A17B, pero el problema es que era gigantesco con sus 397.000 millones de parámetros y sus 807 GB de tamaño en disco (y memori…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-04-28-las-empresas-de-eeuu-siguen-empenadas-en-modelos"
-    },
-    {
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "title": "Elon Musk appeared more petty than prepared",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
       "source": "The Verge",
-      "published_at": "2026-04-28T03:39:33Z",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinio…",
+      "published_at": "2026-04-28T23:17:12Z",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jur…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-28-jury-selection-in-musk-v-altman-people-don"
+      "id": "theverge-2026-04-28-elon-musk-appeared-more-petty-than-prepared"
+    },
+    {
+      "title": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
+      "url": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
+      "source": "The Verge",
+      "published_at": "2026-04-28T21:40:08Z",
+      "summary": "The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-28-james-comey-indicted-over-instagram-seashell-photo-that"
+    },
+    {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "source": "The Verge",
+      "published_at": "2026-04-28T20:46:54Z",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-04-28-elon-musk-tells-the-jury-that-all-he"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "source": "Google AI",
+          "published_at": "2026-04-28T16:00:00Z",
+          "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
+        },
+        {
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "url": "https://openai.com/index/openai-on-aws",
+          "source": "OpenAI",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-28-openai-models-codex-and-managed-agents-come-to"
+        },
+        {
+          "title": "Our commitment to community safety",
+          "url": "https://openai.com/index/our-commitment-to-community-safety",
+          "source": "OpenAI",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-28-our-commitment-to-community-safety"
+        },
+        {
+          "title": "Claude for Creative Work",
+          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "source": "Anthropic",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "Claude for Creative Work",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-28-claude-for-creative-work"
+        },
         {
           "title": "OpenAI available at FedRAMP Moderate",
           "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
@@ -256,30 +308,17 @@
           "id": "openai-2026-04-23-introducing-gpt-5-5"
         },
         {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
+          "title": "What is Codex?",
+          "url": "https://openai.com/academy/what-is-codex",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Automations",
-          "url": "https://openai.com/academy/codex-automations",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-automations"
+          "id": "openai-2026-04-23-what-is-codex"
         },
         {
           "title": "How to get started with Codex",
@@ -295,19 +334,6 @@
           "id": "openai-2026-04-23-how-to-get-started-with-codex"
         },
         {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
           "title": "Codex settings",
           "url": "https://openai.com/academy/codex-settings",
           "source": "OpenAI",
@@ -319,6 +345,32 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-23-codex-settings"
+        },
+        {
+          "title": "Working with Codex",
+          "url": "https://openai.com/academy/working-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-working-with-codex"
+        },
+        {
+          "title": "Plugins and skills",
+          "url": "https://openai.com/academy/codex-plugins-and-skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-plugins-and-skills"
         },
         {
           "title": "Top 10 uses for Codex at work",
@@ -334,17 +386,17 @@
           "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
         },
         {
-          "title": "What is Codex?",
-          "url": "https://openai.com/academy/what-is-codex",
+          "title": "Automations",
+          "url": "https://openai.com/academy/codex-automations",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-what-is-codex"
+          "id": "openai-2026-04-23-automations"
         },
         {
           "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -412,6 +464,19 @@
           "id": "deepmind-2026-04-22-decoupled-diloco-a-new-frontier-for-resilient-distributed"
         },
         {
+          "title": "Workspace agents",
+          "url": "https://openai.com/academy/workspace-agents",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-workspace-agents"
+        },
+        {
           "title": "Introducing workspace agents in ChatGPT",
           "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
           "source": "OpenAI",
@@ -436,95 +501,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
-        },
-        {
-          "title": "Workspace agents",
-          "url": "https://openai.com/academy/workspace-agents",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T10:00:00Z",
-          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-workspace-agents"
-        },
-        {
-          "title": "Introducing OpenAI Privacy Filter",
-          "url": "https://openai.com/index/introducing-openai-privacy-filter",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T00:00:00Z",
-          "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-introducing-openai-privacy-filter"
-        },
-        {
-          "title": "Partnering with industry leaders to accelerate AI transformation",
-          "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-          "source": "DeepMind",
-          "published_at": "2026-04-21T14:54:15Z",
-          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-21-partnering-with-industry-leaders-to-accelerate-ai-transformation"
-        },
-        {
-          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "source": "Google AI",
-          "published_at": "2026-04-21T14:30:00Z",
-          "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-21-3-new-ways-ads-advisor-is-making-google"
-        },
-        {
-          "title": "Introducing ChatGPT Images 2.0",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-          "source": "OpenAI",
-          "published_at": "2026-04-21T12:00:00Z",
-          "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-21-introducing-chatgpt-images-2-0"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Golpe inesperado de China a Meta: ordena deshacer la compra de Manus por 2.000 millones en plena carrera por la IA",
-          "url": "https://www.xataka.com/empresas-y-economia/golpe-inesperado-china-a-meta-ordena-deshacer-compra-manus-2-000-millones-plena-carrera-ia",
-          "source": "Xataka",
-          "published_at": "2026-04-27T15:08:00Z",
-          "summary": "La compra de Manus parecía una jugada ya resuelta para Meta . La compañía estadounidense había cerrado una operación valorada en más de 2.000 millones de dólares por una startup de inteligencia artificial fundada por ing…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-04-27-golpe-inesperado-de-china-a-meta-ordena-deshacer"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Better Hardware Could Turn Zeros into AI Heroes",
+          "url": "https://spectrum.ieee.org/sparse-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-28T18:03:40Z",
+          "summary": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-28-better-hardware-could-turn-zeros-into-ai-heroes"
+        },
+        {
+          "title": "“Entanglement: A Brief History of Human Connection”",
+          "url": "https://spectrum.ieee.org/entanglement-poem",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-28T14:00:01Z",
+          "summary": "It started with word, cave, and storytelling, A line scratched on stone walls: “Meet me when the young moon rises.” The first protocol for connection. Coyote tales, forbidden scripts, Medieval texts hidden from flame. Wh…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-28-entanglement-a-brief-history-of-human-connection"
+        },
         {
           "title": "Claude Mythos Preview Requires New Ways to Keep Code Secure",
           "url": "https://spectrum.ieee.org/anthropic-claude-mythos-preview-code",
@@ -570,30 +578,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-          "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
           "source": "Hugging Face",
-          "published_at": "2026-04-28T00:28:13Z",
+          "published_at": "2026-04-28T15:58:57Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-04-28-adaptive-ultrasound-imaging-with-physics-informed-nv-raw2insights-us-ai"
-        },
-        {
-          "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-          "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-          "source": "Hugging Face",
-          "published_at": "2026-04-27T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-04-27-how-to-build-scalable-web-apps-with-openai"
+          "id": "huggingface-2026-04-28-introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal"
         }
       ]
     },
@@ -601,134 +596,199 @@
       "name": "General",
       "items": [
         {
-          "title": "Google is testing AI chatbot search for YouTube",
-          "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-          "source": "The Verge",
-          "published_at": "2026-04-28T00:01:54Z",
-          "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, Yo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-28-google-is-testing-ai-chatbot-search-for-youtube"
-        },
-        {
-          "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-          "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-          "source": "The Verge",
-          "published_at": "2026-04-27T20:47:45Z",
-          "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-27-canonical-lays-out-a-plan-for-ai-in"
-        },
-        {
-          "title": "Las máquinas ya nos ganaban al ajedrez y al go. Ahora están a punto de ganarnos en algo mucho más difícil: el ping pong",
-          "url": "https://www.xataka.com/robotica-e-ia/maquinas-nos-ganaban-al-ajedrez-al-go-ahora-estan-a-punto-ganarnos-algo-mucho-dificil-ping-pong",
+          "title": "La IA necesita cada vez más electricidad para avanzar: Meta ha firmado un acuerdo para buscarla en el espacio",
+          "url": "https://www.xataka.com/energia/ia-necesita-cada-vez-electricidad-para-avanzar-meta-ha-firmado-acuerdo-para-buscarla-espacio",
           "source": "Xataka",
-          "published_at": "2026-04-27T20:31:52Z",
-          "summary": "Los seres humanos tenemos una relación curiosa con las máquinas: las creamos para que nos ayuden, pero también para que nos desafíen. Llevamos décadas haciéndolo, desde los grandes sistemas industriales hasta los sistema…",
+          "published_at": "2026-04-28T20:45:27Z",
+          "summary": "Allá por 1941, Isaac Asimov ya jugaba con una idea que durante décadas sonó más a literatura que a infraestructura: capturar energía solar en el espacio y enviarla de vuelta a la Tierra. No era una ocurrencia menor. En e…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-27-las-maquinas-ya-nos-ganaban-al-ajedrez-y"
+          "id": "xataka-2026-04-28-la-ia-necesita-cada-vez-mas-electricidad-para"
         },
         {
-          "title": "Trump demands ABC fire Jimmy Kimmel",
-          "url": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
+          "title": "Taylor Swift is stepping up the legal war on AI copycats",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
           "source": "The Verge",
-          "published_at": "2026-04-27T18:18:17Z",
-          "summary": "President Donald Trump is calling for Disney to fire Jimmy Kimmel. On Thursday, Kimmel joked that Melania Trump had looked like an \"expectant widow\" in a skit about the upcoming White House Correspondents' Dinner. The sk…",
+          "published_at": "2026-04-28T20:30:00Z",
+          "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-trump-demands-abc-fire-jimmy-kimmel"
+          "id": "theverge-2026-04-28-taylor-swift-is-stepping-up-the-legal-war"
         },
         {
-          "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+          "title": "Now YouTube TV lets you multiview any channel you want",
+          "url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
           "source": "The Verge",
-          "published_at": "2026-04-27T18:17:12Z",
-          "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the …",
+          "published_at": "2026-04-28T19:46:19Z",
+          "summary": "YouTube CEO Neal Mohan announced Tuesday that YouTube TV is getting \"fully customizable\" multiview. Users have \"full control to mix and match live streams\" and can \"build the personalized viewing experience you've been a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-google-employees-ask-sundar-pichai-to-say-no"
+          "id": "theverge-2026-04-28-now-youtube-tv-lets-you-multiview-any-channel"
         },
         {
-          "title": "Los empleados de Palantir empiezan a hacerse una pregunta incómoda: ¿somos los malos de la película?",
-          "url": "https://www.xataka.com/robotica-e-ia/empleados-palantir-empiezan-a-hacerse-pregunta-incomoda-somos-malos-pelicula",
+          "title": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
+          "url": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
+          "source": "The Verge",
+          "published_at": "2026-04-28T19:36:14Z",
+          "summary": "The Federal Communications Commission has ordered the ABC stations owned and operated by Disney to file for an early license renewal, as reported earlier by The New York Times. In a filing on Tuesday, the FCC claims it m…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-28-the-fcc-is-going-after-the-broadcast-licenses"
+        },
+        {
+          "title": "Si la pregunta es cuántas webs ha generado la IA, la respuesta empieza a explicar la nueva internet",
+          "url": "https://www.xataka.com/robotica-e-ia/pregunta-cuantas-webs-ha-generado-ia-respuesta-empieza-a-explicar-nueva-internet",
           "source": "Xataka",
-          "published_at": "2026-04-27T17:31:51Z",
-          "summary": "En el universo de 'El Señor de los Anillos', un palantir es la piedra vidente que Saruman usa para comunicarse con Sauron. El hecho de haber elegido este nombre para una empresa que se dedica a la vigilancia masiva ya er…",
+          "published_at": "2026-04-28T19:31:52Z",
+          "summary": "Crear una web nunca ha sido una sola cosa. Durante años, para muchos usuarios significó elegir entre pelearse con herramientas como FrontPage, contratar a alguien que supiera diseñar o conformarse con otro tipo de soluci…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-27-los-empleados-de-palantir-empiezan-a-hacerse-una"
+          "id": "xataka-2026-04-28-si-la-pregunta-es-cuantas-webs-ha-generado"
         },
         {
-          "title": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
-          "url": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
+          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-04-27T17:11:44Z",
-          "summary": "On Saturday evening, a room full of journalists, media personalities, and senior members of Donald Trump's administration descended into chaos as gunshots rang out at the White House Correspondents' Dinner. Nobody was hu…",
+          "published_at": "2026-04-28T19:27:50Z",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-conspiracy-theories-are-swirling-about-the-white-house"
+          "id": "theverge-2026-04-28-live-updates-from-elon-musk-and-sam-altman"
         },
         {
-          "title": "Why the Steam Controller is (and isn’t) a big deal",
-          "url": "https://www.theverge.com/tech/918115/steam-controller-2026-pc-deck-machine-hands-on-features",
+          "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
           "source": "The Verge",
-          "published_at": "2026-04-27T17:00:00Z",
-          "summary": "Most PC gamers already have a controller they love using with Steam - a Sony DualSense, a 8BitDo Ultimate, a Nintendo Switch Pro, or something else. Part of that love comes from Steam treating them like \"native\" controll…",
+          "published_at": "2026-04-28T19:00:13Z",
+          "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-why-the-steam-controller-is-and-isn-t"
+          "id": "theverge-2026-04-28-elon-musk-takes-the-stand-in-high-profile-trial"
         },
         {
-          "title": "Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway",
-          "url": "https://www.theverge.com/games/918610/valve-steam-controller-review",
+          "title": "You can get dragged into a police investigation by proximity alone — for now",
+          "url": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
           "source": "The Verge",
-          "published_at": "2026-04-27T17:00:00Z",
-          "summary": "After my brief hands-on last year with Valve's new Steam Controller, I said it might be my dream controller. I've been looking for a controller with the customization and sheer function available on Valve's Steam Deck wh…",
+          "published_at": "2026-04-28T18:45:00Z",
+          "summary": "A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States, a case involving police's use of controve…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-valve-s-new-steam-controller-isn-t-perfect"
+          "id": "theverge-2026-04-28-you-can-get-dragged-into-a-police-investigation"
         },
         {
-          "title": "Valve launches the Steam Controller without the Steam Machine",
-          "url": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay",
-          "source": "The Verge",
-          "published_at": "2026-04-27T17:00:00Z",
-          "summary": "Last November, Valve introduced the world to its new vision of living room gaming: the Steam Machine and Steam Controller. Then, RAMageddon. Memory shortages forced Valve to delay all its hardware and reset expectations.…",
+          "title": "La UE vuelve a apretarle las tuercas a Google: quiere que Gemini deje de ser la única IA con privilegios en Android",
+          "url": "https://www.xataka.com/empresas-y-economia/ue-vuelve-a-apretarle-tuercas-a-google-quiere-que-gemini-deje-ser-unico-asistente-ia-privilegios-android",
+          "source": "Xataka",
+          "published_at": "2026-04-28T15:15:00Z",
+          "summary": "La Comisión Europea ha publicado sus conclusiones preliminares sobre cómo Google gestiona la inteligencia artificial en Android. Según el organismo, el sistema operativo favorece a Gemini frente al resto de competidores,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-04-27-valve-launches-the-steam-controller-without-the-steam"
+          "id": "xataka-2026-04-28-la-ue-vuelve-a-apretarle-las-tuercas-a"
+        },
+        {
+          "title": "Freepik se llama ahora Magnific. Y el cambio de nombre es lo de menos",
+          "url": "https://www.xataka.com/empresas-y-economia/freepik-se-llama-ahora-magnific-cambio-nombre",
+          "source": "Xataka",
+          "published_at": "2026-04-28T12:17:09Z",
+          "summary": "Freepik se ha rebautizado como Magnific. La empresa malagueña, fundada en 2010 como un buscador de recursos gráficos, ha decidido adoptar el nombre de la startup murciana que adquirió en mayo de 2024 y reorganizar bajo e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-freepik-se-llama-ahora-magnific-y-el-cambio"
+        },
+        {
+          "title": "Kimi Code es ocho veces más barato que Claude Code y hace un 75% de su trabajo. La pregunta es si es suficiente",
+          "url": "https://www.xataka.com/robotica-e-ia/kimi-code-hace-75-que-hace-claude-code-al-20-su-precio-pregunta-ese-25-que-falta-que-importa",
+          "source": "Xataka",
+          "published_at": "2026-04-28T10:30:00Z",
+          "summary": "Hace unos días, la empresa china Moonshot AI lanzaba Kimi K2.6 , su nuevo LLM que compite con las familias de modelos de Gemini, GPT y Claude y que además es especialmente competitivo en precio. Semanas antes había lanza…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-kimi-code-es-ocho-veces-mas-barato-que"
+        },
+        {
+          "title": "Los mejores trucos para mejorar tus prompts en Claude, dos tipos de estructura explicados por el propio equipo de Claude",
+          "url": "https://www.xataka.com/basics/mejores-trucos-para-mejorar-tus-prompts-claude-dos-tipos-estructura-explicados-propio-equipo-claude",
+          "source": "Xataka",
+          "published_at": "2026-04-28T09:56:10Z",
+          "summary": "Vamos a decirte dos estructuras para crear mejores prompts en Claude , explicadas por el propio equipo de Anthropic, creadores de esta inteligencia artificial . Son estructuras muy precisas para esta IA en concreto, aunq…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-los-mejores-trucos-para-mejorar-tus-prompts-en"
+        },
+        {
+          "title": "Hay una empresa que ha crecido un 3.000% en bolsa batiendo incluso el rendimiento de Nvidia: Sandisk",
+          "url": "https://www.xataka.com/empresas-y-economia/valor-rentable-nasdaq-no-nvidia-ninguna-otra-empresa-ia-sandisk-lleva-3-000-acumulado",
+          "source": "Xataka",
+          "published_at": "2026-04-28T07:00:00Z",
+          "summary": "Lo del crecimiento de Sandisk en bolsa es para estudiarlo detenidamente. Lleva acumulado casi un 3.000% de revalorización en el último año, y es otro ejemplo de cómo la fiebre de la IA y la crisis de la RAM están moldean…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-hay-una-empresa-que-ha-crecido-un-3"
+        },
+        {
+          "title": "Un dato para entender el futuro de los desarrolladores: el 75% del código de Google ya está siendo generado por IA",
+          "url": "https://www.xataka.com/robotica-e-ia/hay-gente-que-sigue-fiarse-codigo-que-genera-ia-google-dice-que-75-su-nuevo-codigo-nace-maquinas",
+          "source": "Xataka",
+          "published_at": "2026-04-28T06:30:00Z",
+          "summary": "¿Y si buena parte del software que usamos cada día ya estuviera empezando a escribirse de otra manera? La IA lleva tiempo entrando en la programación por la puerta de los asistentes, las sugerencias de código y las peque…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-un-dato-para-entender-el-futuro-de-los"
+        },
+        {
+          "title": "EEUU ha hecho una apuesta casi total por modelos IA descomunales. China está mostrando otro camino",
+          "url": "https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer",
+          "source": "Xataka",
+          "published_at": "2026-04-28T06:00:00Z",
+          "summary": "Alibaba tenía hasta ahora un modelo abierto estupendo para programar. Se traba de Qwen3.5-397B-A17B, pero el problema es que era gigantesco con sus 397.000 millones de parámetros y sus 807 GB de tamaño en disco (y memori…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-28-eeuu-ha-hecho-una-apuesta-casi-total-por"
         },
         {
           "title": "Data center demand drives 66% surge in natural gas power plant costs",
@@ -742,45 +802,6 @@
           ],
           "category": "general",
           "id": "techcrunch-2026-04-27-data-center-demand-drives-66-surge-in-natural"
-        },
-        {
-          "title": "Un joven ha resuelto en 80 minutos y con ChatGPT un problema matemático que resistió 60 años. Eso es lo menos interesante de la historia",
-          "url": "https://www.xataka.com/robotica-e-ia/joven-ha-resuelto-80-minutos-chatgpt-problema-matematico-que-resistio-60-anos-eso-interesante-historia",
-          "source": "Xataka",
-          "published_at": "2026-04-27T14:01:53Z",
-          "summary": "Tiene 23 años, se llama Liam Price y no tiene formación matemática avanzada. Aun así hace unos días abrió la web de problemas de Erdös , cogió uno al azar y lo pegó en ChatGPT. No sabía la historia del problema ni quién …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-27-un-joven-ha-resuelto-en-80-minutos-y"
-        },
-        {
-          "title": "Claude Design: qué es y cómo funciona la herramienta de diseño gráfico de Claude",
-          "url": "https://www.xataka.com/basics/claude-design-que-como-funciona-herramienta-diseno-grafico-claude",
-          "source": "Xataka",
-          "published_at": "2026-04-27T12:11:37Z",
-          "summary": "Vamos a explicarte qué es Claude Design , una nueva función dentro del chat de inteligencia artificial de Claude . Se trata de una herramienta de diseño gráfico con la que vas a poder crear todo tipo de elementos interac…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-27-claude-design-que-es-y-como-funciona-la"
-        },
-        {
-          "title": "Google invertirá hasta 40.000 millones de dólares en Anthropic porque la nueva normalidad de la IA es invertir en tu enemigo",
-          "url": "https://www.xataka.com/robotica-e-ia/google-invertira-40-000-millones-dolares-anthropic-porque-nueva-normalidad-ia-invertir-tu-enemigo",
-          "source": "Xataka",
-          "published_at": "2026-04-27T11:00:00Z",
-          "summary": "Que el ritmo no pare. Amazon anunciaba una inversión de 25.000 millones en Anthropic hace una semana, y cuatro días después era Google iba aún más allá. La empresa de Mountain View hablaba el viernes de una inversión de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-27-google-invertira-hasta-40-000-millones-de-dolares"
         }
       ]
     }
@@ -817,6 +838,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "url": "https://openai.com/index/openai-on-aws",
+          "source": "OpenAI",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-28-openai-models-codex-and-managed-agents-come-to"
+        },
+        {
+          "title": "Our commitment to community safety",
+          "url": "https://openai.com/index/our-commitment-to-community-safety",
+          "source": "OpenAI",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-28-our-commitment-to-community-safety"
+        },
         {
           "title": "OpenAI available at FedRAMP Moderate",
           "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
@@ -909,30 +956,17 @@
           "id": "openai-2026-04-23-introducing-gpt-5-5"
         },
         {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
+          "title": "What is Codex?",
+          "url": "https://openai.com/academy/what-is-codex",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Automations",
-          "url": "https://openai.com/academy/codex-automations",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-automations"
+          "id": "openai-2026-04-23-what-is-codex"
         },
         {
           "title": "How to get started with Codex",
@@ -948,19 +982,6 @@
           "id": "openai-2026-04-23-how-to-get-started-with-codex"
         },
         {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
           "title": "Codex settings",
           "url": "https://openai.com/academy/codex-settings",
           "source": "OpenAI",
@@ -972,6 +993,32 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-23-codex-settings"
+        },
+        {
+          "title": "Working with Codex",
+          "url": "https://openai.com/academy/working-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-working-with-codex"
+        },
+        {
+          "title": "Plugins and skills",
+          "url": "https://openai.com/academy/codex-plugins-and-skills",
+          "source": "OpenAI",
+          "published_at": "2026-04-23T10:00:00Z",
+          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-23-plugins-and-skills"
         },
         {
           "title": "Top 10 uses for Codex at work",
@@ -987,17 +1034,17 @@
           "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
         },
         {
-          "title": "What is Codex?",
-          "url": "https://openai.com/academy/what-is-codex",
+          "title": "Automations",
+          "url": "https://openai.com/academy/codex-automations",
           "source": "OpenAI",
           "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-04-23-what-is-codex"
+          "id": "openai-2026-04-23-automations"
         },
         {
           "title": "GPT-5.5 Bio Bug Bounty",
@@ -1026,6 +1073,19 @@
           "id": "openai-2026-04-22-making-chatgpt-better-for-clinicians"
         },
         {
+          "title": "Workspace agents",
+          "url": "https://openai.com/academy/workspace-agents",
+          "source": "OpenAI",
+          "published_at": "2026-04-22T10:00:00Z",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-22-workspace-agents"
+        },
+        {
           "title": "Introducing workspace agents in ChatGPT",
           "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
           "source": "OpenAI",
@@ -1050,45 +1110,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-22-speeding-up-agentic-workflows-with-websockets-in-the"
-        },
-        {
-          "title": "Workspace agents",
-          "url": "https://openai.com/academy/workspace-agents",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T10:00:00Z",
-          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-workspace-agents"
-        },
-        {
-          "title": "Introducing OpenAI Privacy Filter",
-          "url": "https://openai.com/index/introducing-openai-privacy-filter",
-          "source": "OpenAI",
-          "published_at": "2026-04-22T00:00:00Z",
-          "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-22-introducing-openai-privacy-filter"
-        },
-        {
-          "title": "Introducing ChatGPT Images 2.0",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-          "source": "OpenAI",
-          "published_at": "2026-04-21T12:00:00Z",
-          "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-21-introducing-chatgpt-images-2-0"
         }
       ]
     },
@@ -1096,6 +1117,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Claude for Creative Work",
+          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "source": "Anthropic",
+          "published_at": "2026-04-28T00:00:00Z",
+          "summary": "Claude for Creative Work",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-04-28-claude-for-creative-work"
+        },
         {
           "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
           "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
@@ -1141,6 +1175,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "source": "Google AI",
+          "published_at": "2026-04-28T16:00:00Z",
+          "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
+        },
         {
           "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -1205,19 +1252,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-22-we-re-launching-two-specialized-tpus-for-the"
-        },
-        {
-          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "source": "Google AI",
-          "published_at": "2026-04-21T14:30:00Z",
-          "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-21-3-new-ways-ads-advisor-is-making-google"
         }
       ]
     },
@@ -1250,19 +1284,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-04-22-decoupled-diloco-a-new-frontier-for-resilient-distributed"
-        },
-        {
-          "title": "Partnering with industry leaders to accelerate AI transformation",
-          "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-          "source": "DeepMind",
-          "published_at": "2026-04-21T14:54:15Z",
-          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-21-partnering-with-industry-leaders-to-accelerate-ai-transformation"
         }
       ]
     }
