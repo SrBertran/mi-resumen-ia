@@ -1,78 +1,104 @@
 {
-  "date": "2026-04-30",
-  "generated_at": "2026-04-30T07:18:09.527854Z",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T07:18:13.589422Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Microsoft ya no tiene la exclusividad de los modelos IA de OpenAI: Amazon ha tardado cero segundos en aparecer",
-      "url": "https://www.xataka.com/empresas-y-economia/microsoft-openai-tienen-ahora-matrimonio-abierto-siguiente-empresa-montar-sus-modelos-ia-nube-ha-sido-amazon",
-      "source": "Xataka",
-      "published_at": "2026-04-30T07:00:26Z",
-      "summary": "Las aguas se han revuelto mucho en menos de 48 horas para OpenAI, Microsoft y Amazon. Y es que la compañía de Sam Altman ha renegociado su acuerdo con Microsoft, se ha quitado de en medio la cláusula de la AGI y ha estre…",
+      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+      "source": "The Verge",
+      "published_at": "2026-04-30T22:59:51Z",
+      "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's fina…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-04-30-microsoft-ya-no-tiene-la-exclusividad-de-los"
+      "id": "theverge-2026-04-30-the-craziest-part-of-musk-v-altman-happened"
     },
     {
-      "title": "Elon Musk’s worst enemy in court is Elon Musk",
-      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "title": "Roblox’s daily users continue to drop as age checks slow growth",
+      "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
       "source": "The Verge",
-      "published_at": "2026-04-30T00:01:24Z",
-      "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even i…",
+      "published_at": "2026-04-30T21:25:15Z",
+      "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-30-elon-musk-s-worst-enemy-in-court-is"
+      "id": "theverge-2026-04-30-roblox-s-daily-users-continue-to-drop-as"
     },
     {
-      "title": "Grindr — yes, Grindr — won the WHCD party circuit",
-      "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+      "title": "Congress keeps kicking surveillance reform down the road",
+      "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
       "source": "The Verge",
-      "published_at": "2026-04-29T22:00:00Z",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here…",
+      "published_at": "2026-04-30T20:59:58Z",
+      "summary": "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretappin…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-29-grindr----yes-grindr----won-the-whcd"
+      "id": "theverge-2026-04-30-congress-keeps-kicking-surveillance-reform-down-the-road"
     },
     {
-      "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
-      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+      "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+      "url": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
       "source": "The Verge",
-      "published_at": "2026-04-29T21:19:39Z",
-      "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preord…",
+      "published_at": "2026-04-30T20:58:22Z",
+      "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-29-splatoon-raiders-preorders-for-the-switch-2-are"
+      "id": "theverge-2026-04-30-apple-8217-s-iphone-revenue-jumps-to-57"
     },
     {
-      "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
-      "url": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
+      "title": "Rivian’s revenue is up as R2 production kicks into gear",
+      "url": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
       "source": "The Verge",
-      "published_at": "2026-04-29T20:43:37Z",
-      "summary": "Microsoft's Xbox hardware revenue continues to tumble, with the company revealing a 33 percent decline as part of its earnings report released on Wednesday. Even though the rest of Microsoft's consumer-focused division t…",
+      "published_at": "2026-04-30T20:05:00Z",
+      "summary": "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. We've already got Rivian's production and d…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-04-29-microsoft-reports-sinking-xbox-revenue-as-its-cloud"
+      "id": "theverge-2026-04-30-rivian-s-revenue-is-up-as-r2-production"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "source": "DeepMind",
+          "published_at": "2026-04-30T12:14:15Z",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-04-30-enabling-a-new-model-for-healthcare-with-ai"
+        },
+        {
+          "title": "Introducing Advanced Account Security",
+          "url": "https://openai.com/index/advanced-account-security",
+          "source": "OpenAI",
+          "published_at": "2026-04-30T00:00:00Z",
+          "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-30-introducing-advanced-account-security"
+        },
         {
           "title": "Where the goblins came from",
           "url": "https://openai.com/index/where-the-goblins-came-from",
@@ -280,181 +306,25 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-24-8-gemini-tips-for-organizing-your-space-and"
-        },
-        {
-          "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-          "url": "https://www.anthropic.com/news/anthropic-nec",
-          "source": "Anthropic",
-          "published_at": "2026-04-24T00:00:00Z",
-          "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-24-anthropic-and-nec-collaborate-to-build-japan-s"
-        },
-        {
-          "title": "An update on our election safeguards",
-          "url": "https://www.anthropic.com/news/election-safeguards-update",
-          "source": "Anthropic",
-          "published_at": "2026-04-24T00:00:00Z",
-          "summary": "An update on our election safeguards",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-24-an-update-on-our-election-safeguards"
-        },
-        {
-          "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-          "source": "Google AI",
-          "published_at": "2026-04-23T12:00:00Z",
-          "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-23-here-s-how-our-tpus-power-increasingly-demanding"
-        },
-        {
-          "title": "GPT-5.5 System Card",
-          "url": "https://openai.com/index/gpt-5-5-system-card",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-gpt-5-5-system-card"
-        },
-        {
-          "title": "Introducing GPT-5.5",
-          "url": "https://openai.com/index/introducing-gpt-5-5",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-introducing-gpt-5-5"
-        },
-        {
-          "title": "Top 10 uses for Codex at work",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
-        },
-        {
-          "title": "Automations",
-          "url": "https://openai.com/academy/codex-automations",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-automations"
-        },
-        {
-          "title": "What is Codex?",
-          "url": "https://openai.com/academy/what-is-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-what-is-codex"
-        },
-        {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
-          "title": "How to get started with Codex",
-          "url": "https://openai.com/academy/codex-how-to-start",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-how-to-get-started-with-codex"
-        },
-        {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Codex settings",
-          "url": "https://openai.com/academy/codex-settings",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-codex-settings"
-        },
-        {
-          "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-          "source": "Google AI",
-          "published_at": "2026-04-23T09:00:00Z",
-          "summary": "Aerial image of the data center",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-23-elevating-austria-google-invests-in-its-first-data"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+          "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-04-30T13:22:51Z",
+          "summary": "This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-04-30-daimon-robotics-wants-to-give-robot-hands-a"
+        },
         {
           "title": "Can Biologists Rewrite the Genome’s Spaghetti Code?",
           "url": "https://spectrum.ieee.org/synthetic-biology-ai-adrian-woolfson",
@@ -467,32 +337,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-04-29-can-biologists-rewrite-the-genome-s-spaghetti-code"
-        },
-        {
-          "title": "Better Hardware Could Turn Zeros into AI Heroes",
-          "url": "https://spectrum.ieee.org/sparse-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-04-28T18:03:40Z",
-          "summary": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-04-28-better-hardware-could-turn-zeros-into-ai-heroes"
-        },
-        {
-          "title": "“Entanglement: A Brief History of Human Connection”",
-          "url": "https://spectrum.ieee.org/entanglement-poem",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-04-28T14:00:01Z",
-          "summary": "It started with word, cave, and storytelling, A line scratched on stone walls: “Meet me when the young moon rises.” The first protocol for connection. Coyote tales, forbidden scripts, Medieval texts hidden from flame. Wh…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-04-28-entanglement-a-brief-history-of-human-connection"
         }
       ]
     },
@@ -513,17 +357,17 @@
           "id": "huggingface-2026-04-29-ai-evals-are-becoming-the-new-compute-bottleneck"
         },
         {
-          "title": "El modelo \"freemium\" de la IA está muriendo: GitHub Copilot y Claude están poniendo cada vez más tarifas y costes",
+          "title": "La IA llegó a nuestras vidas bajo un modelo \"freemium\": GitHub y Claude tienen claro que el futuro es pagar por ella",
           "url": "https://www.xataka.com/empresas-y-economia/fin-suscripcion-plana-ia-github-copilot-se-pasa-al-pago-tokens-china-practicamente-regalan",
           "source": "Xataka",
-          "published_at": "2026-04-29T16:16:26Z",
+          "published_at": "2026-04-29T16:15:00Z",
           "summary": "Como usuarios finales, pagar una cuota mensual por utilizar un modelo de IA es la norma para acceder a modelos más completos y potentes. Sin embargo, los desarrolladores que dependen de un modelo de IA para impulsar su h…",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "xataka-2026-04-29-el-modelo-freemium-de-la-ia-esta-muriendo"
+          "id": "xataka-2026-04-29-la-ia-llego-a-nuestras-vidas-bajo-un"
         },
         {
           "title": "Granite 4.1 LLMs: How They’re Built",
@@ -537,38 +381,116 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-04-29-granite-4-1-llms-how-they-re-built"
-        },
-        {
-          "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-          "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-          "source": "Hugging Face",
-          "published_at": "2026-04-29T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-04-29-deepinfra-on-hugging-face-inference-providers"
-        },
-        {
-          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-          "source": "Hugging Face",
-          "published_at": "2026-04-28T15:58:57Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-04-28-introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Rivian downsizes new EV factory after Trump’s DOE slashes loan agreement",
+          "url": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
+          "source": "The Verge",
+          "published_at": "2026-04-30T20:05:00Z",
+          "summary": "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting in 200,000 vehicles of annual production c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-30-rivian-downsizes-new-ev-factory-after-trump-s"
+        },
+        {
+          "title": "The logic of the racist Supreme Court isn’t adding up",
+          "url": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+          "source": "The Verge",
+          "published_at": "2026-04-30T19:52:29Z",
+          "summary": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, cleari…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-30-the-logic-of-the-racist-supreme-court-isn"
+        },
+        {
+          "title": "Japan Airlines tiene una solución ante la falta de personal en aeropuertos: que trabajen los robots humanoides",
+          "url": "https://www.xataka.com/robotica-e-ia/japan-airlines-tiene-solucion-falta-personal-aeropuertos-que-trabajen-robots-humanoides",
+          "source": "Xataka",
+          "published_at": "2026-04-30T19:30:26Z",
+          "summary": "Un aeropuerto puede parecer una máquina muy automatizada: pantallas, puertas de embarque, cintas, controles y procesos que avanzan casi sin que nos demos cuenta. Pero basta mirar un poco más allá del recorrido del pasaje…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-30-japan-airlines-tiene-una-solucion-ante-la-falta"
+        },
+        {
+          "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+          "url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+          "source": "The Verge",
+          "published_at": "2026-04-30T19:14:23Z",
+          "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Expe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-30-microsoft-s-xbox-mode-is-now-available-for"
+        },
+        {
+          "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+          "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+          "source": "The Verge",
+          "published_at": "2026-04-30T19:05:01Z",
+          "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-30-meta-threatens-to-pull-its-apps-from-new"
+        },
+        {
+          "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+          "url": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+          "source": "The Verge",
+          "published_at": "2026-04-30T19:00:45Z",
+          "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-04-30-with-saros-housemarque-makes-a-case-for-doing"
+        },
+        {
+          "title": "EEUU sigue empeñado en frenar a China. Ahora ha puesto en la diana al segundo mayor fabricante de chips chino",
+          "url": "https://www.xataka.com/empresas-y-economia/eeuu-sigue-empenado-frenar-a-china-ahora-ha-puesto-diana-al-segundo-mayor-fabricante-chips-chino",
+          "source": "Xataka",
+          "published_at": "2026-04-30T13:30:26Z",
+          "summary": "SMIC ( Semiconductor Manufacturing International Corp ) es el mayor fabricante chino de semiconductores con una cuota en el mercado mundial del 5,32% . Solo TSMC y Samsung lo superan. Actualmente esta es la única compañí…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-30-eeuu-sigue-empenado-en-frenar-a-china-ahora"
+        },
+        {
+          "title": "La relación entre Microsoft y OpenAI ya no es exclusiva. Alguien ha tardado 48 horas en pescar en río revuelto: Amazon",
+          "url": "https://www.xataka.com/empresas-y-economia/microsoft-openai-tienen-ahora-matrimonio-abierto-siguiente-empresa-montar-sus-modelos-ia-nube-ha-sido-amazon",
+          "source": "Xataka",
+          "published_at": "2026-04-30T07:00:00Z",
+          "summary": "Las aguas se han revuelto mucho en menos de 48 horas para OpenAI, Microsoft y Amazon. Y es que la compañía de Sam Altman ha renegociado su acuerdo con Microsoft, se ha quitado de en medio la cláusula de la AGI y ha estre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-04-30-la-relacion-entre-microsoft-y-openai-ya-no"
+        },
         {
           "title": "Google ha llevado a Gemini un paso más allá: ahora genera archivos de Excel, PDFs y mucho más directamente",
           "url": "https://www.xataka.com/robotica-e-ia/google-ha-llevado-a-gemini-paso-alla-ahora-genera-archivos-excel-pdfs-mucho-directamente",
@@ -583,95 +505,17 @@
           "id": "xataka-2026-04-29-google-ha-llevado-a-gemini-un-paso-mas"
         },
         {
-          "title": "Google Search queries hit an ‘all time high’ last quarter",
-          "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-          "source": "The Verge",
-          "published_at": "2026-04-29T20:28:11Z",
-          "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approac…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-google-search-queries-hit-an-all-time-high"
-        },
-        {
-          "title": "All the evidence unveiled so far in Musk v. Altman",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-          "source": "The Verge",
-          "published_at": "2026-04-29T18:03:05Z",
-          "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from th…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-all-the-evidence-unveiled-so-far-in-musk"
-        },
-        {
-          "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
-          "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
-          "source": "The Verge",
-          "published_at": "2026-04-29T17:32:02Z",
-          "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-ubuntu-s-ai-plans-have-linux-users-looking"
-        },
-        {
-          "title": "Motorola just revealed the Razr Fold’s price and hoo boy",
-          "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
-          "source": "The Verge",
-          "published_at": "2026-04-29T16:00:00Z",
-          "summary": "2026 is shaping up to be a tough year to launch a high-end phone. The memory crisis has phone prices rising across the board, so an already expensive phone risks becoming a much too expensive phone. That might be what ha…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-motorola-just-revealed-the-razr-fold-s-price"
-        },
-        {
-          "title": "The new Razr Ultra is still the best-looking phone out there",
-          "url": "https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price",
-          "source": "The Verge",
-          "published_at": "2026-04-29T16:00:00Z",
-          "summary": "Look, you're not going to find much new on the 2026 version of the Motorola Razr Ultra. There's a new main camera sensor, a slightly bigger battery, and a higher price: $1,499, up from $1,299. But one thing hasn't change…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-the-new-razr-ultra-is-still-the-best-looking"
-        },
-        {
-          "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
-          "url": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price",
-          "source": "The Verge",
-          "published_at": "2026-04-29T16:00:00Z",
-          "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $9…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-04-29-the-moto-razr-and-razr-plus-are-victims"
-        },
-        {
-          "title": "DeepSeek V4 ya está aquí. Son buenas noticias para la eficiencia y malas noticias para el mito",
+          "title": "DeepSeek V4 ya es una realidad: el problema es que desde su \"revolución\" de hace un año otras IA le han adelantado",
           "url": "https://www.xataka.com/robotica-e-ia/deepseek-v4-esta-aqui-buenas-noticias-para-eficiencia-malas-noticias-para-mito",
           "source": "Xataka",
-          "published_at": "2026-04-29T15:16:25Z",
+          "published_at": "2026-04-29T15:15:00Z",
           "summary": "DeepSeek ha publicado su modelo V4 bajo licencia MIT, con mejoras notables en código y arquitectura diseñada para chips chinos. También ha admitido, en su propio informe técnico, que va de tres a seis meses por detrás de…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-04-29-deepseek-v4-ya-esta-aqui-son-buenas-noticias"
+          "id": "xataka-2026-04-29-deepseek-v4-ya-es-una-realidad-el-problema"
         },
         {
           "title": "OpenAI ya baraja informes internos apocalípticos sobre su curva de ingresos. Solución: un ChatGPT \"low cost\"",
@@ -698,58 +542,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-04-29-hay-una-cosa-llamada-indice-de-precios-de"
-        },
-        {
-          "title": "Una empresa decidió entregarle las llaves de sus sistemas a un agente IA. El agente IA borró toda su base de datos",
-          "url": "https://www.xataka.com/robotica-e-ia/agente-ia-borro-toda-base-datos-empresa-nueve-segundos-despues-confeso-como-que-habia-hecho",
-          "source": "Xataka",
-          "published_at": "2026-04-29T06:00:00Z",
-          "summary": "Jer Crane es el fundador y CEO de la plataforma PocketOS , muy utilizada en empresas de alquiler de vehículos. Algunas de esas empresas llevan años con PocketOS y según él \"no podrían funcionar sin nosotros\". Hace unos d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-29-una-empresa-decidio-entregarle-las-llaves-de-sus"
-        },
-        {
-          "title": "A Meta se le ha quedado pequeña la Tierra para alimentar sus planes IA, así que está empezando a irse al espacio",
-          "url": "https://www.xataka.com/energia/ia-necesita-cada-vez-electricidad-para-avanzar-meta-ha-firmado-acuerdo-para-buscarla-espacio",
-          "source": "Xataka",
-          "published_at": "2026-04-28T20:45:00Z",
-          "summary": "Allá por 1941, Isaac Asimov ya jugaba con una idea que durante décadas sonó más a literatura que a infraestructura: capturar energía solar en el espacio y enviarla de vuelta a la Tierra. No era una ocurrencia menor. En e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-28-a-meta-se-le-ha-quedado-pequena-la"
-        },
-        {
-          "title": "Poco a poco, la pregunta ya no es si las webs por las que navegamos son IA: es si están hechas por humanos o no",
-          "url": "https://www.xataka.com/robotica-e-ia/pregunta-cuantas-webs-ha-generado-ia-respuesta-empieza-a-explicar-nueva-internet",
-          "source": "Xataka",
-          "published_at": "2026-04-28T19:30:00Z",
-          "summary": "Crear una web nunca ha sido una sola cosa. Durante años, para muchos usuarios significó elegir entre pelearse con herramientas como FrontPage, contratar a alguien que supiera diseñar o conformarse con otro tipo de soluci…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-28-poco-a-poco-la-pregunta-ya-no-es"
-        },
-        {
-          "title": "La Unión Europea ha echado un vistazo al asistente IA de Android y no le ha gustado nada, pero nada, lo que ha visto",
-          "url": "https://www.xataka.com/empresas-y-economia/ue-vuelve-a-apretarle-tuercas-a-google-quiere-que-gemini-deje-ser-unico-asistente-ia-privilegios-android",
-          "source": "Xataka",
-          "published_at": "2026-04-28T15:15:00Z",
-          "summary": "La Comisión Europea ha publicado sus conclusiones preliminares sobre cómo Google gestiona la inteligencia artificial en Android. Según el organismo, el sistema operativo favorece a Gemini frente al resto de competidores,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-04-28-la-union-europea-ha-echado-un-vistazo-al"
         }
       ]
     }
@@ -786,6 +578,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing Advanced Account Security",
+          "url": "https://openai.com/index/advanced-account-security",
+          "source": "OpenAI",
+          "published_at": "2026-04-30T00:00:00Z",
+          "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-04-30-introducing-advanced-account-security"
+        },
         {
           "title": "Where the goblins came from",
           "url": "https://openai.com/index/where-the-goblins-came-from",
@@ -915,123 +720,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-26-our-principles"
-        },
-        {
-          "title": "GPT-5.5 System Card",
-          "url": "https://openai.com/index/gpt-5-5-system-card",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-gpt-5-5-system-card"
-        },
-        {
-          "title": "Introducing GPT-5.5",
-          "url": "https://openai.com/index/introducing-gpt-5-5",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T11:00:00Z",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-introducing-gpt-5-5"
-        },
-        {
-          "title": "Top 10 uses for Codex at work",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-top-10-uses-for-codex-at-work"
-        },
-        {
-          "title": "Automations",
-          "url": "https://openai.com/academy/codex-automations",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-automations"
-        },
-        {
-          "title": "What is Codex?",
-          "url": "https://openai.com/academy/what-is-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-what-is-codex"
-        },
-        {
-          "title": "Plugins and skills",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-plugins-and-skills"
-        },
-        {
-          "title": "How to get started with Codex",
-          "url": "https://openai.com/academy/codex-how-to-start",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-how-to-get-started-with-codex"
-        },
-        {
-          "title": "Working with Codex",
-          "url": "https://openai.com/academy/working-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-working-with-codex"
-        },
-        {
-          "title": "Codex settings",
-          "url": "https://openai.com/academy/codex-settings",
-          "source": "OpenAI",
-          "published_at": "2026-04-23T10:00:00Z",
-          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-23-codex-settings"
         }
       ]
     },
@@ -1064,32 +752,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-04-27-anthropic-names-theo-hourmouzis-general-manager-of-australia"
-        },
-        {
-          "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-          "url": "https://www.anthropic.com/news/anthropic-nec",
-          "source": "Anthropic",
-          "published_at": "2026-04-24T00:00:00Z",
-          "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-24-anthropic-and-nec-collaborate-to-build-japan-s"
-        },
-        {
-          "title": "An update on our election safeguards",
-          "url": "https://www.anthropic.com/news/election-safeguards-update",
-          "source": "Anthropic",
-          "published_at": "2026-04-24T00:00:00Z",
-          "summary": "An update on our election safeguards",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-24-an-update-on-our-election-safeguards"
         }
       ]
     },
@@ -1135,32 +797,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-24-8-gemini-tips-for-organizing-your-space-and"
-        },
-        {
-          "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-          "source": "Google AI",
-          "published_at": "2026-04-23T12:00:00Z",
-          "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-23-here-s-how-our-tpus-power-increasingly-demanding"
-        },
-        {
-          "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-          "source": "Google AI",
-          "published_at": "2026-04-23T09:00:00Z",
-          "summary": "Aerial image of the data center",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-23-elevating-austria-google-invests-in-its-first-data"
         }
       ]
     },
@@ -1168,6 +804,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "source": "DeepMind",
+          "published_at": "2026-04-30T12:14:15Z",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-04-30-enabling-a-new-model-for-healthcare-with-ai"
+        },
         {
           "title": "Announcing our partnership with the Republic of Korea",
           "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
