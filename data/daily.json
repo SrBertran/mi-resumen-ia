@@ -1,78 +1,143 @@
 {
-  "date": "2026-05-04",
-  "generated_at": "2026-05-04T07:31:04.607354Z",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T07:14:47.591780Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Fabricar 60 máquinas al año puede parecer poco. En la práctica, las de la europea ASML están marcando el ritmo de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/fabricar-60-maquinas-al-ano-puede-parecer-poco-practica-europea-asml-estan-marcando-ritmo-ia",
+      "title": "Solo un puñado de empresas de EEUU tiene acceso a Claude Mythos: el BCE ya teme por los ahorros de toda Europa",
+      "url": "https://www.xataka.com/robotica-e-ia/solo-punado-empresas-ee-uu-tiene-acceso-a-claude-mythos-bce-teme-ahorros-toda-europa",
       "source": "Xataka",
-      "published_at": "2026-05-03T19:00:26Z",
-      "summary": "Sesenta máquinas al año suenan a poco cuando hablamos de inteligencia artificial. Estamos acostumbrados a cifras enormes: centros de datos, miles de millones de dólares y modelos cada vez más ambiciosos. Pero la IA tambi…",
+      "published_at": "2026-05-05T06:00:27Z",
+      "summary": "No lleva ni un mes con nosotros y Claude Mythos Preview está aterrorizando al mundo. Y ni siquiera sabemos si hay razones para ello , porque Anthropic lo tiene bien atado y con el bozal puesto: solo un puñado de empresas…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-03-fabricar-60-maquinas-al-ano-puede-parecer-poco"
+      "id": "xataka-2026-05-05-solo-un-punado-de-empresas-de-eeuu-tiene"
     },
     {
-      "title": "Alguien ha creado una IA que no sabe nada de lo que pasó después de 1930, y tiene más utilidad de la que parece",
-      "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-ia-que-no-sabe-nada-que-paso-despues-1930-tiene-utilidad-que-parece",
-      "source": "Xataka",
-      "published_at": "2026-05-03T17:00:26Z",
-      "summary": "Uno de los problemas de los modelos de lenguaje es que hay una fecha de corte en los datos de entrenamiento, es decir, que el modelo no conoce hechos actuales que vayan más allá de esa fecha. Esto, que en ciertos sectore…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-05-03-alguien-ha-creado-una-ia-que-no-sabe"
-    },
-    {
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "title": "The 40 best Mother’s Day gift ideas for 2026",
+      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
       "source": "The Verge",
-      "published_at": "2026-05-03T15:24:27Z",
-      "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233; said it was because Amazon was seeking preferential treatmen…",
+      "published_at": "2026-05-05T00:10:00Z",
+      "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practica…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-03-reggie-fils-aime-says-amazon-once-asked-nintendo-to"
+      "id": "theverge-2026-05-05-the-40-best-mother-s-day-gift-ideas"
     },
     {
-      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
-      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+      "title": "Valve just imported 50 tons of game consoles in two days",
+      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
       "source": "The Verge",
-      "published_at": "2026-05-03T15:00:00Z",
-      "summary": "If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headphones, the OpenRun Pro 2…",
+      "published_at": "2026-05-04T23:58:44Z",
+      "summary": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-03-shokz-s-bassy-openrun-pro-2-are-40"
+      "id": "theverge-2026-05-04-valve-just-imported-50-tons-of-game-consoles"
     },
     {
-      "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
-      "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-05-03T13:00:01Z",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. With the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify w…",
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "source": "The Verge",
+      "published_at": "2026-05-04T23:49:33Z",
+      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-ex…",
       "why_it_matters": "",
       "tags": [
-        "investigación"
+        "ia"
       ],
-      "category": "investigación",
-      "id": "ieee-2026-05-03-deepfake-detection-dataset-aims-to-keep-up-with"
+      "category": "general",
+      "id": "theverge-2026-05-04-openai-s-president-does-all-the-things-except"
+    },
+    {
+      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "source": "The Verge",
+      "published_at": "2026-05-04T22:11:17Z",
+      "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-04-elon-musk-will-settle-the-feds-twitter-lawsuit"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+          "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+          "source": "OpenAI",
+          "published_at": "2026-05-04T21:00:00Z",
+          "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-04-openai-and-pwc-collaborate-to-reimagine-the-office"
+        },
+        {
+          "title": "The latest AI news we announced in April 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-04T17:00:00Z",
+          "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-04-the-latest-ai-news-we-announced-in-april"
+        },
+        {
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "source": "Google AI",
+          "published_at": "2026-05-04T15:30:00Z",
+          "summary": "Gemini API",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-04-reduce-friction-and-latency-for-long-running-jobs-with"
+        },
+        {
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+          "source": "OpenAI",
+          "published_at": "2026-05-04T00:00:00Z",
+          "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale"
+        },
+        {
+          "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+          "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+          "source": "Anthropic",
+          "published_at": "2026-05-04T00:00:00Z",
+          "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-04-building-a-new-enterprise-ai-services-company-with"
+        },
         {
           "title": "Enabling a new model for healthcare with AI co-clinician",
           "url": "https://deepmind.google/blog/ai-co-clinician/",
@@ -150,89 +215,50 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
-        },
-        {
-          "title": "Our commitment to community safety",
-          "url": "https://openai.com/index/our-commitment-to-community-safety",
-          "source": "OpenAI",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-28-our-commitment-to-community-safety"
-        },
-        {
-          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-          "url": "https://openai.com/index/openai-on-aws",
-          "source": "OpenAI",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-28-openai-models-codex-and-managed-agents-come-to"
-        },
-        {
-          "title": "Claude for Creative Work",
-          "url": "https://www.anthropic.com/news/claude-for-creative-work",
-          "source": "Anthropic",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "Claude for Creative Work",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-04-28-claude-for-creative-work"
-        },
-        {
-          "title": "OpenAI available at FedRAMP Moderate",
-          "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-          "source": "OpenAI",
-          "published_at": "2026-04-27T14:00:00Z",
-          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-27-openai-available-at-fedramp-moderate"
-        },
-        {
-          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-04-27T13:00:00Z",
-          "summary": "A web next to a laptop",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-27-join-the-new-ai-agents-vibe-coding-course"
         }
       ]
     },
     {
-      "name": "Negocio",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Microsoft acaba de convertir una startup de 11.000 millones de dólares en una función de Word. Es más que un Copilot legal",
-          "url": "https://www.xataka.com/aplicaciones/microsoft-acaba-convertir-startup-11-000-millones-dolares-funcion-word-que-copilot-legal",
-          "source": "Xataka",
-          "published_at": "2026-05-02T10:15:00Z",
-          "summary": "Brad Smith es más que el vicepresidente del consejo y presidente de Microsoft : Smith también es abogado y como él mismo cuenta , al principio de su carrera pidió un ordenador a su empresa porque creía firmemente que la …",
+          "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
+          "url": "https://spectrum.ieee.org/ai-alignment",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-04T13:00:01Z",
+          "summary": "One of the hardest problems in artificial intelligence is “ alignment ,” or making sure AI goals match our own, a challenge that may prove especially important if superintelligent AIs that outmatch us intellectually are …",
           "why_it_matters": "",
           "tags": [
-            "negocio"
+            "investigación"
           ],
-          "category": "negocio",
-          "id": "xataka-2026-05-02-microsoft-acaba-de-convertir-una-startup-de-11"
+          "category": "investigación",
+          "id": "ieee-2026-05-04-perfectly-aligning-ai-s-values-with-humanity-s"
+        },
+        {
+          "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+          "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-04T11:08:34Z",
+          "summary": "This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-04-daimon-robotics-wants-to-give-robot-hands-a"
+        },
+        {
+          "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
+          "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-03T13:00:01Z",
+          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. With the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify w…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-03-deepfake-detection-dataset-aims-to-keep-up-with"
         }
       ]
     },
@@ -240,160 +266,186 @@
       "name": "General",
       "items": [
         {
-          "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-          "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
+          "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+          "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
           "source": "The Verge",
-          "published_at": "2026-05-03T13:00:00Z",
-          "summary": "I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun moments. But I don’t lov…",
+          "published_at": "2026-05-04T20:45:00Z",
+          "summary": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-03-these-reusable-digital-polaroids-are-a-clever-way"
+          "id": "theverge-2026-05-04-skylight-s-15-inch-smart-calendar-is-down-to"
         },
         {
-          "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-          "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+          "title": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
+          "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
           "source": "The Verge",
-          "published_at": "2026-05-03T13:00:00Z",
-          "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's …",
+          "published_at": "2026-05-04T18:47:01Z",
+          "summary": "If you want to give mom something that helps lighten the load, the SwitchBot Bot Rechargeable makes for a great, inexpensive gift. And now through May 10th, you can buy it for around $26.99 ($7 off) from Amazon and Switc…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-03-how-the-internet-s-favorite-squirrel-dad-made"
+          "id": "theverge-2026-05-04-switchbot-s-rechargeable-button-pusher-is-on-sale"
         },
         {
-          "title": "El CEO de Nvidia cree que estamos en una nueva revolución industrial donde la IA no nos sustituirá: nos micromanageará",
+          "title": "El primer gran informe sobre el impacto de la IA en España no deja lugar a dudas: entre 1,7 y 2,3 millones de empleos en riesgo",
+          "url": "https://www.xataka.com/robotica-e-ia/primer-gran-informe-impacto-ia-espana-no-deja-lugar-a-dudas-1-7-2-3-millones-empleos-riesgo",
+          "source": "Xataka",
+          "published_at": "2026-05-04T17:16:26Z",
+          "summary": "La sombra de la destrucción de empleo por la automatización que prometía la llegada de la IA lleva planeando sobre el mercado laboral desde que empresas como Anthropic, OpenAI o Google demostraron que la IA era mucho más…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-04-el-primer-gran-informe-sobre-el-impacto-de"
+        },
+        {
+          "title": "The creator of Roomba is back with a furry robot companion",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+          "source": "The Verge",
+          "published_at": "2026-05-04T16:51:38Z",
+          "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-04-the-creator-of-roomba-is-back-with-a"
+        },
+        {
+          "title": "The Pixel 11 could be the next victim of the RAM shortage",
+          "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
+          "source": "The Verge",
+          "published_at": "2026-05-04T16:48:21Z",
+          "summary": "Google's next round of Pixel phones could be a downgrade compared to the Pixel 10 lineup due to the ongoing RAM shortage. Leaked specs for the Pixel 11 lineup shared by MysticLeaks include a possible starting configurati…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-04-the-pixel-11-could-be-the-next-victim"
+        },
+        {
+          "title": "The best Star Wars Day deals",
+          "url": "https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale",
+          "source": "The Verge",
+          "published_at": "2026-05-04T16:29:18Z",
+          "summary": "May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Mandalorian and Grogu exclud…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-04-the-best-star-wars-day-deals"
+        },
+        {
+          "title": "Cuando el cómplice de un tiroteo es ChatGPT, la pregunta es qué responsabilidad tiene OpenAI",
+          "url": "https://www.xataka.com/robotica-e-ia/dos-tiroteos-dos-conversaciones-chatgpt-pregunta-incomoda-para-openai-cuando-tienen-que-avisar-a-policia",
+          "source": "Xataka",
+          "published_at": "2026-05-04T16:00:00Z",
+          "summary": "Hay personas que hablan con ChatGPT como si fuera su amigo , su psicólogo&nbsp; y hasta su pareja. OpenAI se ha enfrentado a numerosas críticas por los riesgos que supone para la salud mental , especialmente en casos que…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-04-cuando-el-complice-de-un-tiroteo-es-chatgpt"
+        },
+        {
+          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "source": "The Verge",
+          "published_at": "2026-05-04T15:43:49Z",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-04-live-updates-from-elon-musk-and-sam-altman"
+        },
+        {
+          "title": "Nvidia había puesto grandes esperanzas en su regreso a China. De momento su cuota de mercado es del 0%",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-cae-drasticamente-china-sanciones-eeuu-han-dejado-su-cuota-mercado-actual-al-0",
+          "source": "Xataka",
+          "published_at": "2026-05-04T11:50:00Z",
+          "summary": "En apenas dos años Nvidia ha pasado de liderar el mercado de las GPU para inteligencia artificial (IA) en China a no vender prácticamente nada en este país. De hecho, Jensen Huang, el director general de esta compañía, h…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-04-nvidia-habia-puesto-grandes-esperanzas-en-su-regreso"
+        },
+        {
+          "title": "Mistral tiene nuevo modelo de IA: la buena noticia es que es 100% europeo; la mala, que es 100% mediocre",
+          "url": "https://www.xataka.com/robotica-e-ia/mistral-tiene-nuevo-modelo-ia-buena-noticia-que-absolutamente-europeo-mala-que-absolutamente-mediocre",
+          "source": "Xataka",
+          "published_at": "2026-05-04T10:30:00Z",
+          "summary": "La startup francesa Mistral acaba de lanzar Mistral Medium 3.5 , un modelo de IA de pesos abiertos que es el gran exponente europeo en una industria absolutamente dominada por China —que compite directamente con ese tipo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-04-mistral-tiene-nuevo-modelo-de-ia-la-buena"
+        },
+        {
+          "title": "Fabricar 60 máquinas al año puede parecer poco. En la práctica, las de la europea ASML están marcando el ritmo de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/fabricar-60-maquinas-al-ano-puede-parecer-poco-practica-europea-asml-estan-marcando-ritmo-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-03T19:00:26Z",
+          "summary": "Sesenta máquinas al año suenan a poco cuando hablamos de inteligencia artificial. Estamos acostumbrados a cifras enormes: centros de datos, miles de millones de dólares y modelos cada vez más ambiciosos. Pero la IA tambi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-03-fabricar-60-maquinas-al-ano-puede-parecer-poco"
+        },
+        {
+          "title": "Ya tenemos una IA que no sabe absolutamente nada de lo que pasó después de 1930. Y es bastante útil",
+          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-ia-que-no-sabe-nada-que-paso-despues-1930-tiene-utilidad-que-parece",
+          "source": "Xataka",
+          "published_at": "2026-05-03T17:00:00Z",
+          "summary": "Uno de los problemas de los modelos de lenguaje es que hay una fecha de corte en los datos de entrenamiento, es decir, que el modelo no conoce hechos actuales que vayan más allá de esa fecha. Esto, que en ciertos sectore…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-03-ya-tenemos-una-ia-que-no-sabe-absolutamente"
+        },
+        {
+          "title": "\"Los agentes de IA te acosarán\": Jensen Huang cree que la IA no nos sustituirá sino que hará algo bastante peor",
           "url": "https://www.xataka.com/robotica-e-ia/ceo-nvidia-considera-que-estamos-nueva-revolucion-industrial-donde-ia-no-nos-sustituira-nos-micromanageara",
           "source": "Xataka",
-          "published_at": "2026-05-03T12:00:26Z",
+          "published_at": "2026-05-03T12:00:00Z",
           "summary": "La inteligencia artificial lleva a disposición de usuarios y empresas ya unos cuantos años y nos encontramos en un punto en el que convergen varias ideas sobre la IA y el futuro del trabajo . Hay varios frentes abiertos …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-el-ceo-de-nvidia-cree-que-estamos-en"
+          "id": "xataka-2026-05-03-los-agentes-de-ia-te-acosaran-jensen-huang"
         },
         {
-          "title": "AI music is flooding streaming services — but who wants it?",
-          "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-          "source": "The Verge",
-          "published_at": "2026-05-03T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-03-ai-music-is-flooding-streaming-services----but"
-        },
-        {
-          "title": "EEUU no se enfrenta solo a China en la carrera de la IA para el mundo físico: compite con todo Asia. Y va perdiendo",
+          "title": "El problema de EEUU en la carrera de la IA y los humanoides no es China: es todo Asia y lleva mucha desventaja",
           "url": "https://www.xataka.com/robotica-e-ia/eeuu-no-se-enfrenta-solo-a-china-carrera-ia-para-mundo-fisico-compite-todo-asia-va-perdiendo",
           "source": "Xataka",
-          "published_at": "2026-05-03T11:30:26Z",
+          "published_at": "2026-05-03T11:30:00Z",
           "summary": "La carrera por desarrollar los modelos de inteligencia artificial (IA) más competitivos que sostienen EEUU y China en su pugna por la supremacía mundial está entrando en una nueva fase . Y es que las aplicaciones físicas…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-eeuu-no-se-enfrenta-solo-a-china-en"
-        },
-        {
-          "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
-          "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-          "source": "The Verge",
-          "published_at": "2026-05-02T18:25:26Z",
-          "summary": "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta an…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-02-meta-8217-s-historic-loss-in-court-could"
-        },
-        {
-          "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
-          "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
-          "source": "The Verge",
-          "published_at": "2026-05-02T17:51:04Z",
-          "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fli…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-02-spirit-airlines-shuts-down-after-trump-s-war"
-        },
-        {
-          "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
-          "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-05-02T17:00:00Z",
-          "summary": "Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right now, a number of Aura’s …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-02-aura-s-delightful-aspen-photo-frame-is-on"
-        },
-        {
-          "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
-          "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
-          "source": "The Verge",
-          "published_at": "2026-05-02T13:56:12Z",
-          "summary": "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need to be recharged at a t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-02-anker-s-discounted-2-in-1-usb-c-cable-is-a"
-        },
-        {
-          "title": "De la IA no se salva ni Dios, así que el Vaticano ha pasado de los mandamientos a ser el primer Estado en legislarla",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-no-se-salva-dios-asi-que-vaticano-ha-pasado-mandamientos-a-ser-primer-estado-legislarla",
-          "source": "Xataka",
-          "published_at": "2026-05-02T12:00:26Z",
-          "summary": "Por increíble que parezca, el Vaticano se está moviendo más rápido que la mayoría de instituciones históricas frente a la inteligencia artificial y todo lo que se nos viene encima (y que de hecho, ya vamos vislumbrando),…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-02-de-la-ia-no-se-salva-ni-dios"
-        },
-        {
-          "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
-          "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
-          "source": "The Verge",
-          "published_at": "2026-05-02T12:00:00Z",
-          "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-02-playing-esoteric-ebb-is-like-rolling-the-dice"
-        },
-        {
-          "title": "El superpoder de Nvidia no es tener dinero, es hacer que todos trabajen para ella: Foxconn es la última en unirse",
-          "url": "https://www.xataka.com/empresas-y-economia/superpoder-nvidia-no-tener-dinero-hacer-que-todos-trabajen-para-ti-foxconn-ultima-unirse",
-          "source": "Xataka",
-          "published_at": "2026-05-02T09:30:26Z",
-          "summary": "Nvidia es el cliente más goloso en estos momentos. Es el pegamento de la inteligencia artificial, invierte millonadas en startups de IA y, aunque las Big Tech intentan ser la nueva Nvidia , lo cierto es que actualmente s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-02-el-superpoder-de-nvidia-no-es-tener-dinero"
+          "id": "xataka-2026-05-03-el-problema-de-eeuu-en-la-carrera-de"
         }
       ]
     }
@@ -430,6 +482,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+          "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+          "source": "OpenAI",
+          "published_at": "2026-05-04T21:00:00Z",
+          "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-04-openai-and-pwc-collaborate-to-reimagine-the-office"
+        },
+        {
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+          "source": "OpenAI",
+          "published_at": "2026-05-04T00:00:00Z",
+          "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale"
+        },
         {
           "title": "Introducing Advanced Account Security",
           "url": "https://openai.com/index/advanced-account-security",
@@ -481,45 +559,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-29-cybersecurity-in-the-intelligence-age"
-        },
-        {
-          "title": "Our commitment to community safety",
-          "url": "https://openai.com/index/our-commitment-to-community-safety",
-          "source": "OpenAI",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-28-our-commitment-to-community-safety"
-        },
-        {
-          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-          "url": "https://openai.com/index/openai-on-aws",
-          "source": "OpenAI",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-28-openai-models-codex-and-managed-agents-come-to"
-        },
-        {
-          "title": "OpenAI available at FedRAMP Moderate",
-          "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-          "source": "OpenAI",
-          "published_at": "2026-04-27T14:00:00Z",
-          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-27-openai-available-at-fedramp-moderate"
         }
       ]
     },
@@ -528,17 +567,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "Claude for Creative Work",
-          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+          "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
           "source": "Anthropic",
-          "published_at": "2026-04-28T00:00:00Z",
-          "summary": "Claude for Creative Work",
+          "published_at": "2026-05-04T00:00:00Z",
+          "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-04-28-claude-for-creative-work"
+          "id": "anthropic-2026-05-04-building-a-new-enterprise-ai-services-company-with"
         }
       ]
     },
@@ -546,6 +585,32 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "The latest AI news we announced in April 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-04T17:00:00Z",
+          "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-04-the-latest-ai-news-we-announced-in-april"
+        },
+        {
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "source": "Google AI",
+          "published_at": "2026-05-04T15:30:00Z",
+          "summary": "Gemini API",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-04-reduce-friction-and-latency-for-long-running-jobs-with"
+        },
         {
           "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
           "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -558,19 +623,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
-        },
-        {
-          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-04-27T13:00:00Z",
-          "summary": "A web next to a laptop",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-27-join-the-new-ai-agents-vibe-coding-course"
         }
       ]
     },
