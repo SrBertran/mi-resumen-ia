@@ -1,78 +1,143 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05T07:14:47.591780Z",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T07:21:46.112464Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Solo un puñado de empresas de EEUU tiene acceso a Claude Mythos: el BCE ya teme por los ahorros de toda Europa",
-      "url": "https://www.xataka.com/robotica-e-ia/solo-punado-empresas-ee-uu-tiene-acceso-a-claude-mythos-bce-teme-ahorros-toda-europa",
+      "title": "A Chrome siempre le ha gustado devorar RAM. Ahora descarga un modelo de IA de varios gigas sin avisar",
+      "url": "https://www.xataka.com/robotica-e-ia/a-chrome-siempre-le-ha-gustado-devorar-ram-ahora-descarga-modelo-ia-varios-gigas-avisar",
       "source": "Xataka",
-      "published_at": "2026-05-05T06:00:27Z",
-      "summary": "No lleva ni un mes con nosotros y Claude Mythos Preview está aterrorizando al mundo. Y ni siquiera sabemos si hay razones para ello , porque Anthropic lo tiene bien atado y con el bozal puesto: solo un puñado de empresas…",
+      "published_at": "2026-05-05T22:15:13Z",
+      "summary": "Chrome forma parte de la rutina digital de millones de personas hasta el punto de que muchas veces dejamos de preguntarnos qué hace exactamente mientras navegamos. Lo usamos para casi todo, le confiamos sesiones, extensi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-05-solo-un-punado-de-empresas-de-eeuu-tiene"
+      "id": "xataka-2026-05-05-a-chrome-siempre-le-ha-gustado-devorar-ram"
     },
     {
-      "title": "The 40 best Mother’s Day gift ideas for 2026",
-      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "source": "The Verge",
-      "published_at": "2026-05-05T00:10:00Z",
-      "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practica…",
+      "published_at": "2026-05-05T21:46:04Z",
+      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-05-the-40-best-mother-s-day-gift-ideas"
+      "id": "theverge-2026-05-05-google-home-8217-s-gemini-ai-can-handle"
     },
     {
-      "title": "Valve just imported 50 tons of game consoles in two days",
-      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
       "source": "The Verge",
-      "published_at": "2026-05-04T23:58:44Z",
-      "summary": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and …",
+      "published_at": "2026-05-05T21:18:23Z",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-04-valve-just-imported-50-tons-of-game-consoles"
+      "id": "theverge-2026-05-05-apple-agrees-to-pay-iphone-owners-250-million"
     },
     {
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "title": "Microsoft gives up on Xbox Copilot AI",
+      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
       "source": "The Verge",
-      "published_at": "2026-05-04T23:49:33Z",
-      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-ex…",
+      "published_at": "2026-05-05T19:54:37Z",
+      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tue…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-04-openai-s-president-does-all-the-things-except"
+      "id": "theverge-2026-05-05-microsoft-gives-up-on-xbox-copilot-ai"
     },
     {
-      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
-      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
       "source": "The Verge",
-      "published_at": "2026-05-04T22:11:17Z",
-      "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam…",
+      "published_at": "2026-05-05T19:45:30Z",
+      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to p…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-04-elon-musk-will-settle-the-feds-twitter-lawsuit"
+      "id": "theverge-2026-05-05-apple-could-let-you-pick-a-favorite-ai"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "source": "Google AI",
+          "published_at": "2026-05-05T16:00:00Z",
+          "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-05-google-is-partnering-with-xprize-and-range-media"
+        },
+        {
+          "title": "GPT-5.5 Instant System Card",
+          "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
+        },
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "url": "https://openai.com/index/gpt-5-5-instant",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
+        },
+        {
+          "title": "New ways to buy ChatGPT ads",
+          "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-new-ways-to-buy-chatgpt-ads"
+        },
+        {
+          "title": "Agents for financial services",
+          "url": "https://www.anthropic.com/news/finance-agents",
+          "source": "Anthropic",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "Agents for financial services",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-05-agents-for-financial-services"
+        },
         {
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
           "url": "https://openai.com/index/openai-pwc-finance-collaboration",
@@ -189,38 +254,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-29-building-the-compute-infrastructure-for-the-intelligence-age"
-        },
-        {
-          "title": "Cybersecurity in the Intelligence Age",
-          "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-04-29T04:00:00Z",
-          "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-29-cybersecurity-in-the-intelligence-age"
-        },
-        {
-          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-          "source": "Google AI",
-          "published_at": "2026-04-28T16:00:00Z",
-          "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Do We Really Need Smarter AI to Cure Cancer?",
+          "url": "https://spectrum.ieee.org/can-ai-cure-cancer-javorsky",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-05T12:00:01Z",
+          "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies , including Meta and OpenAI, are still not content with today’s AI; they say they’ve set the…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-05-do-we-really-need-smarter-ai-to-cure"
+        },
+        {
+          "title": "Ya tenemos el primer estudio sobre el impacto de la IA en el mercado laboral de España: muy optimista no es",
+          "url": "https://www.xataka.com/robotica-e-ia/primer-gran-informe-impacto-ia-espana-no-deja-lugar-a-dudas-1-7-2-3-millones-empleos-riesgo",
+          "source": "Xataka",
+          "published_at": "2026-05-04T17:15:00Z",
+          "summary": "La sombra de la destrucción de empleo por la automatización que prometía la llegada de la IA lleva planeando sobre el mercado laboral desde que empresas como Anthropic, OpenAI o Google demostraron que la IA era mucho más…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "xataka-2026-05-04-ya-tenemos-el-primer-estudio-sobre-el-impacto"
+        },
         {
           "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
           "url": "https://spectrum.ieee.org/ai-alignment",
@@ -246,19 +311,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-05-04-daimon-robotics-wants-to-give-robot-hands-a"
-        },
-        {
-          "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
-          "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-03T13:00:01Z",
-          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. With the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify w…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-03-deepfake-detection-dataset-aims-to-keep-up-with"
         }
       ]
     },
@@ -266,186 +318,186 @@
       "name": "General",
       "items": [
         {
-          "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
-          "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
-          "source": "The Verge",
-          "published_at": "2026-05-04T20:45:00Z",
-          "summary": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-04-skylight-s-15-inch-smart-calendar-is-down-to"
-        },
-        {
-          "title": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
-          "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
-          "source": "The Verge",
-          "published_at": "2026-05-04T18:47:01Z",
-          "summary": "If you want to give mom something that helps lighten the load, the SwitchBot Bot Rechargeable makes for a great, inexpensive gift. And now through May 10th, you can buy it for around $26.99 ($7 off) from Amazon and Switc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-04-switchbot-s-rechargeable-button-pusher-is-on-sale"
-        },
-        {
-          "title": "El primer gran informe sobre el impacto de la IA en España no deja lugar a dudas: entre 1,7 y 2,3 millones de empleos en riesgo",
-          "url": "https://www.xataka.com/robotica-e-ia/primer-gran-informe-impacto-ia-espana-no-deja-lugar-a-dudas-1-7-2-3-millones-empleos-riesgo",
+          "title": "Los chips de NVIDIA están en el centro de la carrera entre EEUU y China: su CEO acaba de aclarar quién debe tener los mejores",
+          "url": "https://www.xataka.com/robotica-e-ia/chips-nvidia-estan-centro-carrera-eeuu-china-su-ceo-acaba-aclarar-quien-debe-tener-mejores",
           "source": "Xataka",
-          "published_at": "2026-05-04T17:16:26Z",
-          "summary": "La sombra de la destrucción de empleo por la automatización que prometía la llegada de la IA lleva planeando sobre el mercado laboral desde que empresas como Anthropic, OpenAI o Google demostraron que la IA era mucho más…",
+          "published_at": "2026-05-05T19:30:00Z",
+          "summary": "La carrera por la inteligencia artificial suele contarse desde los modelos, las aplicaciones y las últimas promesas de automatización. Pero debajo de todo eso hay una capa menos vistosa y mucho más difícil de sustituir: …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-04-el-primer-gran-informe-sobre-el-impacto-de"
+          "id": "xataka-2026-05-05-los-chips-de-nvidia-estan-en-el-centro"
         },
         {
-          "title": "The creator of Roomba is back with a furry robot companion",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+          "title": "Threads is finally getting DMs on the web",
+          "url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
           "source": "The Verge",
-          "published_at": "2026-05-04T16:51:38Z",
-          "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angl…",
+          "published_at": "2026-05-05T18:30:42Z",
+          "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but plans to make the feature \"available to mo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-04-the-creator-of-roomba-is-back-with-a"
-        },
-        {
-          "title": "The Pixel 11 could be the next victim of the RAM shortage",
-          "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
-          "source": "The Verge",
-          "published_at": "2026-05-04T16:48:21Z",
-          "summary": "Google's next round of Pixel phones could be a downgrade compared to the Pixel 10 lineup due to the ongoing RAM shortage. Leaked specs for the Pixel 11 lineup shared by MysticLeaks include a possible starting configurati…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-04-the-pixel-11-could-be-the-next-victim"
-        },
-        {
-          "title": "The best Star Wars Day deals",
-          "url": "https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale",
-          "source": "The Verge",
-          "published_at": "2026-05-04T16:29:18Z",
-          "summary": "May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Mandalorian and Grogu exclud…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-04-the-best-star-wars-day-deals"
-        },
-        {
-          "title": "Cuando el cómplice de un tiroteo es ChatGPT, la pregunta es qué responsabilidad tiene OpenAI",
-          "url": "https://www.xataka.com/robotica-e-ia/dos-tiroteos-dos-conversaciones-chatgpt-pregunta-incomoda-para-openai-cuando-tienen-que-avisar-a-policia",
-          "source": "Xataka",
-          "published_at": "2026-05-04T16:00:00Z",
-          "summary": "Hay personas que hablan con ChatGPT como si fuera su amigo , su psicólogo&nbsp; y hasta su pareja. OpenAI se ha enfrentado a numerosas críticas por los riesgos que supone para la salud mental , especialmente en casos que…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-04-cuando-el-complice-de-un-tiroteo-es-chatgpt"
+          "id": "theverge-2026-05-05-threads-is-finally-getting-dms-on-the-web"
         },
         {
           "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
           "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-05-04T15:43:49Z",
+          "published_at": "2026-05-05T17:28:52Z",
           "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-04-live-updates-from-elon-musk-and-sam-altman"
+          "id": "theverge-2026-05-05-live-updates-from-elon-musk-and-sam-altman"
         },
         {
-          "title": "Nvidia había puesto grandes esperanzas en su regreso a China. De momento su cuota de mercado es del 0%",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-cae-drasticamente-china-sanciones-eeuu-han-dejado-su-cuota-mercado-actual-al-0",
-          "source": "Xataka",
-          "published_at": "2026-05-04T11:50:00Z",
-          "summary": "En apenas dos años Nvidia ha pasado de liderar el mercado de las GPU para inteligencia artificial (IA) en China a no vender prácticamente nada en este país. De hecho, Jensen Huang, el director general de esta compañía, h…",
+          "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+          "source": "The Verge",
+          "published_at": "2026-05-05T17:00:00Z",
+          "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factual…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-04-nvidia-habia-puesto-grandes-esperanzas-en-su-regreso"
+          "id": "theverge-2026-05-05-openai-claims-chatgpt-s-new-default-model-hallucinates"
         },
         {
-          "title": "Mistral tiene nuevo modelo de IA: la buena noticia es que es 100% europeo; la mala, que es 100% mediocre",
-          "url": "https://www.xataka.com/robotica-e-ia/mistral-tiene-nuevo-modelo-ia-buena-noticia-que-absolutamente-europeo-mala-que-absolutamente-mediocre",
-          "source": "Xataka",
-          "published_at": "2026-05-04T10:30:00Z",
-          "summary": "La startup francesa Mistral acaba de lanzar Mistral Medium 3.5 , un modelo de IA de pesos abiertos que es el gran exponente europeo en una industria absolutamente dominada por China —que compite directamente con ese tipo…",
+          "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+          "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+          "source": "The Verge",
+          "published_at": "2026-05-05T16:52:38Z",
+          "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Ll…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-04-mistral-tiene-nuevo-modelo-de-ia-la-buena"
+          "id": "theverge-2026-05-05-book-publishers-sue-meta-over-ai-8217-s"
         },
         {
-          "title": "Fabricar 60 máquinas al año puede parecer poco. En la práctica, las de la europea ASML están marcando el ritmo de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/fabricar-60-maquinas-al-ano-puede-parecer-poco-practica-europea-asml-estan-marcando-ritmo-ia",
-          "source": "Xataka",
-          "published_at": "2026-05-03T19:00:26Z",
-          "summary": "Sesenta máquinas al año suenan a poco cuando hablamos de inteligencia artificial. Estamos acostumbrados a cifras enormes: centros de datos, miles de millones de dólares y modelos cada vez más ambiciosos. Pero la IA tambi…",
+          "title": "Microsoft’s new Xbox shake-up is all about platform changes",
+          "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+          "source": "The Verge",
+          "published_at": "2026-05-05T16:46:39Z",
+          "summary": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly requested Xbox console features, reducing the price of Game Pass, and moving…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-fabricar-60-maquinas-al-ano-puede-parecer-poco"
+          "id": "theverge-2026-05-05-microsoft-s-new-xbox-shake-up-is-all-about"
         },
         {
-          "title": "Ya tenemos una IA que no sabe absolutamente nada de lo que pasó después de 1930. Y es bastante útil",
-          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-ia-que-no-sabe-nada-que-paso-despues-1930-tiene-utilidad-que-parece",
+          "title": "Microsoft está cansada de que la llamen \"Microslop\" y promete hacer lo más lógico: limpiar Windows de tanta basura",
+          "url": "https://www.xataka.com/empresas-y-economia/microsoft-esta-cansada-que-llamen-microslop-promete-hacer-logico-limpiar-windows-tanta-basura",
           "source": "Xataka",
-          "published_at": "2026-05-03T17:00:00Z",
-          "summary": "Uno de los problemas de los modelos de lenguaje es que hay una fecha de corte en los datos de entrenamiento, es decir, que el modelo no conoce hechos actuales que vayan más allá de esa fecha. Esto, que en ciertos sectore…",
+          "published_at": "2026-05-05T16:30:26Z",
+          "summary": "A lo largo de estos últimos años, Microsoft ha inundado Windows 11 de funciones basadas en IA. Muchas de estas herramientas no han sentado nada bien a la comunidad, por no mencionar la publicidad invasiva que ha rodeado …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-ya-tenemos-una-ia-que-no-sabe-absolutamente"
+          "id": "xataka-2026-05-05-microsoft-esta-cansada-de-que-la-llamen-microslop"
         },
         {
-          "title": "\"Los agentes de IA te acosarán\": Jensen Huang cree que la IA no nos sustituirá sino que hará algo bastante peor",
-          "url": "https://www.xataka.com/robotica-e-ia/ceo-nvidia-considera-que-estamos-nueva-revolucion-industrial-donde-ia-no-nos-sustituira-nos-micromanageara",
+          "title": "No habla, no sube escaleras y ni siquiera obedece siempre: así es el robot que el creador del Roomba lleva 30 años queriendo desarrollar",
+          "url": "https://www.xataka.com/robotica-e-ia/no-habla-no-sube-escaleras-siquiera-obedece-siempre-asi-robot-que-creador-roomba-lleva-30-anos-queriendo-desarrollar",
           "source": "Xataka",
-          "published_at": "2026-05-03T12:00:00Z",
-          "summary": "La inteligencia artificial lleva a disposición de usuarios y empresas ya unos cuantos años y nos encontramos en un punto en el que convergen varias ideas sobre la IA y el futuro del trabajo . Hay varios frentes abiertos …",
+          "published_at": "2026-05-05T16:16:26Z",
+          "summary": "Colin Angle, cofundador de iRobot, salió de la empresa de una forma un tanto abrupta tras la ruptura del acuerdo de Amazon . Sin embargo, el tema de la robótica del hogar nunca ha desaparecido de su mente, y de hecho ha …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-los-agentes-de-ia-te-acosaran-jensen-huang"
+          "id": "xataka-2026-05-05-no-habla-no-sube-escaleras-y-ni-siquiera"
         },
         {
-          "title": "El problema de EEUU en la carrera de la IA y los humanoides no es China: es todo Asia y lleva mucha desventaja",
-          "url": "https://www.xataka.com/robotica-e-ia/eeuu-no-se-enfrenta-solo-a-china-carrera-ia-para-mundo-fisico-compite-todo-asia-va-perdiendo",
-          "source": "Xataka",
-          "published_at": "2026-05-03T11:30:00Z",
-          "summary": "La carrera por desarrollar los modelos de inteligencia artificial (IA) más competitivos que sostienen EEUU y China en su pugna por la supremacía mundial está entrando en una nueva fase . Y es que las aplicaciones físicas…",
+          "title": "From Alan Shepard to Artemis, celebrating 65 years of Americans in space",
+          "url": "https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary",
+          "source": "The Verge",
+          "published_at": "2026-05-05T16:15:46Z",
+          "summary": "On the morning of May 5th, 1961, 37-year-old Alan Shepard woke up, ate a breakfast (consisting of a filet mignon wrapped in bacon, scrambled eggs, and orange juice), strapped into the Freedom 7 rocket, and blasted off in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-03-el-problema-de-eeuu-en-la-carrera-de"
+          "id": "theverge-2026-05-05-from-alan-shepard-to-artemis-celebrating-65-years"
+        },
+        {
+          "title": "Sam Altman lleva algunos años buscando un dispositivo revolucionario para la era IA. Ese dispositivo es... un móvil",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-sabe-cual-dispositivo-que-sustituira-a-nuestro-smartphone-era-ia-sera-otro-smartphone-kuo",
+          "source": "Xataka",
+          "published_at": "2026-05-05T13:45:00Z",
+          "summary": "No siempre acierta, pero Ming-Chi-Kuo acaba de hacer una afirmación especialmente llamativa. Según sus datos , OpenAI está preparando su primer \"móvil agente de IA\", un smartphone que será bastante distinto de los actual…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-05-sam-altman-lleva-algunos-anos-buscando-un-dispositivo"
+        },
+        {
+          "title": "Anthropic y OpenAI saben que donde la IA está dando dinero es en las empresas. Han encontrado la forma de exprimir esa estrategia",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-openai-saben-que-donde-ia-esta-dando-dinero-empresas-han-encontrado-forma-exprimir-esa-estrategia",
+          "source": "Xataka",
+          "published_at": "2026-05-05T12:46:25Z",
+          "summary": "Los usarios finales no importamos mucho ya para los gigantes de la IA. Estas empresas están confirmando que los ingresos están de momento en el mundo profesional, y ya están haciendo movimientos para conquistar ese semen…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-05-anthropic-y-openai-saben-que-donde-la-ia"
+        },
+        {
+          "title": "De Claude y ChatGPT a Gemini: cómo migrar la memoria de todo lo que otras IA saben sobre ti a Gemini",
+          "url": "https://www.xataka.com/basics/claude-chatgpt-a-gemini-como-migrar-memoria-todo-que-otras-ia-saben-ti-a-gemini",
+          "source": "Xataka",
+          "published_at": "2026-05-05T09:44:31Z",
+          "summary": "Vamos a decirte&nbsp; cómo migrar las memorias de Claude o ChatGPT a Gemini , y así realizar una migración de una&nbsp; inteligencia artificial &nbsp;a otra. Gemini &nbsp;ha lanzado una función que te permite importar la…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-05-de-claude-y-chatgpt-a-gemini-como-migrar"
+        },
+        {
+          "title": "El Gobierno de EEUU ha permitido hacer y deshacer a las tecnológicas con la IA. Ahora se está empezando a cansar",
+          "url": "https://www.xataka.com/robotica-e-ia/casa-blanca-quiere-revisar-nuevos-modelos-ia-nadie-use-primero-pentagono-luego-resto-mundo",
+          "source": "Xataka",
+          "published_at": "2026-05-05T08:30:00Z",
+          "summary": "Estados Unidos tenía una máxima para ganar la carrera de la IA: que no había reglas ni límites . Políticos y reguladores han hecho la vista gorda porque lo que importaba era que las empresas de EEUU pudieran desarrollar …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-05-el-gobierno-de-eeuu-ha-permitido-hacer-y"
+        },
+        {
+          "title": "El Banco Central Europeo le ha echado un vistazo a Mythos y ha tomado una decisión: prepararse para el peor de los escenarios",
+          "url": "https://www.xataka.com/robotica-e-ia/solo-punado-empresas-ee-uu-tiene-acceso-a-claude-mythos-bce-teme-ahorros-toda-europa",
+          "source": "Xataka",
+          "published_at": "2026-05-05T06:00:00Z",
+          "summary": "No lleva ni un mes con nosotros y Claude Mythos Preview está aterrorizando al mundo. Y ni siquiera sabemos si hay razones para ello , porque Anthropic lo tiene bien atado y con el bozal puesto: solo un puñado de empresas…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-05-el-banco-central-europeo-le-ha-echado-un"
         }
       ]
     }
@@ -482,6 +534,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "GPT-5.5 Instant System Card",
+          "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
+        },
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "url": "https://openai.com/index/gpt-5-5-instant",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
+        },
+        {
+          "title": "New ways to buy ChatGPT ads",
+          "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-new-ways-to-buy-chatgpt-ads"
+        },
         {
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
           "url": "https://openai.com/index/openai-pwc-finance-collaboration",
@@ -546,19 +637,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-04-29-building-the-compute-infrastructure-for-the-intelligence-age"
-        },
-        {
-          "title": "Cybersecurity in the Intelligence Age",
-          "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-04-29T04:00:00Z",
-          "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-04-29-cybersecurity-in-the-intelligence-age"
         }
       ]
     },
@@ -566,6 +644,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Agents for financial services",
+          "url": "https://www.anthropic.com/news/finance-agents",
+          "source": "Anthropic",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "Agents for financial services",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-05-agents-for-financial-services"
+        },
         {
           "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
           "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
@@ -585,6 +676,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "source": "Google AI",
+          "published_at": "2026-05-05T16:00:00Z",
+          "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-05-google-is-partnering-with-xprize-and-range-media"
+        },
         {
           "title": "The latest AI news we announced in April 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
@@ -610,19 +714,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-04-reduce-friction-and-latency-for-long-running-jobs-with"
-        },
-        {
-          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-          "source": "Google AI",
-          "published_at": "2026-04-28T16:00:00Z",
-          "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-04-28-celebrating-20-years-of-google-translate-fun-facts"
         }
       ]
     },
