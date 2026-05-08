@@ -1,78 +1,156 @@
 {
-  "date": "2026-05-07",
-  "generated_at": "2026-05-07T07:26:44.747619Z",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T07:01:41.334824Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Musk’s biggest loyalist became his biggest liability",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "source": "The Verge",
-      "published_at": "2026-05-06T23:37:02Z",
-      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that …",
+      "published_at": "2026-05-07T21:29:27Z",
+      "summary": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-06-musk-s-biggest-loyalist-became-his-biggest-liability"
+      "id": "theverge-2026-05-07-canvas-is-down-as-shinyhunters-threatens-to-leak"
     },
     {
-      "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
-      "url": "https://spectrum.ieee.org/mental-health-chatbot-guardrails",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-05-06T22:11:00Z",
-      "summary": "Millions of people worldwide are turning to chatbots like ChatGPT or Claude, and a proliferating class of specialized AI companionship apps for friendship, therapy or even romance. While some users report psychological b…",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "ieee-2026-05-06-chatbots-need-guardrails-to-prevent-delusions-and-psychosis"
-    },
-    {
-      "title": "Nintendo announces a new Star Fox for the Switch 2",
-      "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
       "source": "The Verge",
-      "published_at": "2026-05-06T22:07:46Z",
-      "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it'…",
+      "published_at": "2026-05-07T19:55:22Z",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently c…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-06-nintendo-announces-a-new-star-fox-for-the"
+      "id": "theverge-2026-05-07-mira-murati-s-deposition-pulled-back-the-curtain"
     },
     {
-      "title": "Google shuts down Project Mariner",
-      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
       "source": "The Verge",
-      "published_at": "2026-05-06T21:21:45Z",
-      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a messag…",
+      "published_at": "2026-05-07T19:39:22Z",
+      "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-06-google-shuts-down-project-mariner"
+      "id": "theverge-2026-05-07-apple-8217-s-airpods-with-cameras-for-ai"
     },
     {
-      "title": "How David Sacks crashed and burned in the White House",
-      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
       "source": "The Verge",
-      "published_at": "2026-05-06T20:18:00Z",
-      "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become…",
+      "published_at": "2026-05-07T19:26:16Z",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, T…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-06-how-david-sacks-crashed-and-burned-in-the"
+      "id": "theverge-2026-05-07-spacex-has-a-55-billion-plan-to-build"
+    },
+    {
+      "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
+      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
+      "source": "The Verge",
+      "published_at": "2026-05-07T19:04:30Z",
+      "summary": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s most popular backpacks and…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-07-peak-design-is-taking-up-to-50-percent"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T13:00:00Z",
+          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-scaling-trusted-access-for-cyber-with-gpt-5-5"
+        },
+        {
+          "title": "Parloa builds service agents customers want to talk to",
+          "url": "https://openai.com/index/parloa",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T11:00:00Z",
+          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-parloa-builds-service-agents-customers-want-to-talk"
+        },
+        {
+          "title": "Advancing voice intelligence with new models in the API",
+          "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T10:00:00Z",
+          "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-advancing-voice-intelligence-with-new-models-in-the"
+        },
+        {
+          "title": "Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-testing-ads-in-chatgpt"
+        },
+        {
+          "title": "Introducing Trusted Contact in ChatGPT",
+          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-introducing-trusted-contact-in-chatgpt"
+        },
+        {
+          "title": "Simplex rethinks software development with Codex",
+          "url": "https://openai.com/index/simplex",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-simplex-rethinks-software-development-with-codex"
+        },
         {
           "title": "5 gardening tips you can try right in Search",
           "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
@@ -87,17 +165,17 @@
           "id": "googleai-2026-05-06-5-gardening-tips-you-can-try-right-in"
         },
         {
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "source": "OpenAI",
-          "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "source": "DeepMind",
+          "published_at": "2026-05-06T10:43:49Z",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+          "id": "deepmind-2026-05-06-alphaevolve-how-our-gemini-powered-coding-agent-is-scaling"
         },
         {
           "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -126,7 +204,20 @@
           "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
         },
         {
-          "title": "How frontier enterprises are building an AI advantage",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-06T00:00:00Z",
+          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+        },
+        {
+          "title": "How frontier firms are pulling ahead",
           "url": "https://openai.com/index/introducing-b2b-signals",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
@@ -136,7 +227,7 @@
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-how-frontier-enterprises-are-building-an-ai-advantage"
+          "id": "openai-2026-05-06-how-frontier-firms-are-pulling-ahead"
         },
         {
           "title": "Higher usage limits for Claude and a compute deal with SpaceX",
@@ -178,19 +269,6 @@
           "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
         },
         {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "url": "https://openai.com/index/mrc-supercomputer-networking",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T10:00:00Z",
-          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
-        },
-        {
           "title": "GPT-5.5 Instant System Card",
           "url": "https://openai.com/index/gpt-5-5-instant-system-card",
           "source": "OpenAI",
@@ -202,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
+        },
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "url": "https://openai.com/index/mrc-supercomputer-networking",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
         },
         {
           "title": "New ways to buy ChatGPT ads",
@@ -293,25 +384,56 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-04-building-a-new-enterprise-ai-services-company-with"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Enabling a new model for healthcare with AI co-clinician",
-          "url": "https://deepmind.google/blog/ai-co-clinician/",
-          "source": "DeepMind",
-          "published_at": "2026-04-30T12:14:15Z",
-          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "title": "45.000 millones de dólares y la ruptura de un paradigma: DeepSeek busca inversores siguiendo el modelo Silicon Valley",
+          "url": "https://www.xataka.com/robotica-e-ia/deepseek-quiere-levantar-su-primera-ronda-financiacion-copia-ultimo-que-quedaba-copiar-a-eeuu-modelo-economico",
+          "source": "Xataka",
+          "published_at": "2026-05-07T09:30:00Z",
+          "summary": "Las startups de IA chinas parecen haberse rendido al capitalismo de Silicon Valley. Tanto DeepSeek como Moonshot AI (Kimi) han comenzado a levantar rondas de inversión o están preparándose para hacerlo. Es un punto de in…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-04-30-enabling-a-new-model-for-healthcare-with-ai"
+          "category": "regulación",
+          "id": "xataka-2026-05-07-45-000-millones-de-dolares-y-la-ruptura"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "AI Is Starting to Build Better AI",
+          "url": "https://spectrum.ieee.org/recursive-self-improvement",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-07T12:00:02Z",
+          "summary": "The field of artificial intelligence was built on the premise that machines might someday improve themselves. In 1966, the English mathematician I. J. Good wrote that “an ultraintelligent machine could design even better…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-07-ai-is-starting-to-build-better-ai"
+        },
+        {
+          "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
+          "url": "https://spectrum.ieee.org/mental-health-chatbot-guardrails",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-06T22:11:00Z",
+          "summary": "Millions of people worldwide are turning to chatbots like ChatGPT or Claude, and a proliferating class of specialized AI companionship apps for friendship, therapy, or even romance. While some users report psychological …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-06-chatbots-need-guardrails-to-prevent-delusions-and-psychosis"
+        },
         {
           "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
           "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
@@ -324,19 +446,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-05-06-ten-technology-enablers-shaping-the-future-of-6g"
-        },
-        {
-          "title": "Do We Really Need Smarter AI to Cure Cancer?",
-          "url": "https://spectrum.ieee.org/can-ai-cure-cancer-javorsky",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-05T12:00:01Z",
-          "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies , including Meta and OpenAI, are still not content with today’s AI; they say they’ve set the…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-05-do-we-really-need-smarter-ai-to-cure"
         }
       ]
     },
@@ -355,19 +464,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-05-06-vllm-v0-to-v1-correctness-before-corrections-in"
-        },
-        {
-          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-          "source": "Hugging Face",
-          "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-06-adding-benchmaxxer-repellant-to-the-open-asr-leaderboard"
         }
       ]
     },
@@ -375,82 +471,121 @@
       "name": "General",
       "items": [
         {
-          "title": "The latest Tile Pro is down to $25 — its best price of the year",
-          "url": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-05-06T19:00:00Z",
-          "summary": "If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of the best on the market…",
+          "title": "La UE ha pactado prohibir las apps de IA para crear desnudos: una propuesta de España tras la polémica de Grok",
+          "url": "https://www.xataka.com/robotica-e-ia/ue-ha-pactado-prohibir-apps-ia-para-crear-desnudos-propuesta-espana-polemica-grok",
+          "source": "Xataka",
+          "published_at": "2026-05-07T18:43:28Z",
+          "summary": "Durante mucho tiempo, buena parte de la conversación sobre la IA se ha movido entre promesas de productividad, creatividad y automatización. Pero hay usos que exhiben una realidad mucho más áspera: la posibilidad de gene…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-the-latest-tile-pro-is-down-to-25"
+          "id": "xataka-2026-05-07-la-ue-ha-pactado-prohibir-las-apps-de"
         },
         {
-          "title": "What we’re hearing about the new homepage",
-          "url": "https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage",
+          "title": "Valve is fighting Steam Controller scalpers with a new reservations system",
+          "url": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers",
           "source": "The Verge",
-          "published_at": "2026-05-06T18:05:13Z",
-          "summary": "We’ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the “actually this rules,” the “please undo this immediately,” the bug reports, the feature ideas, and …",
+          "published_at": "2026-05-07T18:06:01Z",
+          "summary": "Valve's new Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a \"reservations queue\" on Friday at 1PM ET for anyone who missed that initial run. When the controller initia…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-what-we-re-hearing-about-the-new-homepage"
+          "id": "theverge-2026-05-07-valve-is-fighting-steam-controller-scalpers-with-a"
         },
         {
-          "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+          "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
           "source": "The Verge",
-          "published_at": "2026-05-06T17:55:53Z",
-          "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, …",
+          "published_at": "2026-05-07T18:00:00Z",
+          "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Con…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-mira-murati-tells-the-court-that-she-couldn"
+          "id": "theverge-2026-05-07-chatgpt-8217-s-8216-trusted-contact-8217-will"
         },
         {
-          "title": "The 44 best last-minute Mother’s Day gift ideas for 2026",
-          "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-05-06T17:34:00Z",
-          "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up pract…",
+          "published_at": "2026-05-07T17:40:50Z",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-the-44-best-last-minute-mother-s-day-gift"
+          "id": "theverge-2026-05-07-live-updates-from-elon-musk-and-sam-altman"
         },
         {
-          "title": "Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire",
-          "url": "https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details",
+          "title": "Did Microsoft just tease a new Xbox UI?",
+          "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
           "source": "The Verge",
-          "published_at": "2026-05-06T17:22:19Z",
-          "summary": "Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employees tomorrow, sources at …",
+          "published_at": "2026-05-07T17:29:36Z",
+          "summary": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-here-8217-s-what-microsoft-is-offering-long-serving"
+          "id": "theverge-2026-05-07-did-microsoft-just-tease-a-new-xbox-ui"
         },
         {
-          "title": "Native Instruments Komplete 26 adds weird new synths and experimental piano sounds",
-          "url": "https://www.theverge.com/tech/925211/native-instruments-komplete-26-absynth-massive-kontakt",
+          "title": "A hacker ran me over with a robot lawn mower",
+          "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
           "source": "The Verge",
-          "published_at": "2026-05-06T16:37:40Z",
-          "summary": "The latest version of Native Instruments' Komplete music production bundle is here with 62 new additions, including the wonderfully weird Absynth 6. Komplete 26 comes in several flavors, starting with three $99 Select bu…",
+          "published_at": "2026-05-07T16:00:00Z",
+          "summary": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body. Makris certainly c…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-06-native-instruments-komplete-26-adds-weird-new-synths"
+          "id": "theverge-2026-05-07-a-hacker-ran-me-over-with-a-robot"
+        },
+        {
+          "title": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
+          "url": "https://www.xataka.com/robotica-e-ia/que-sepamos-agencia-que-supervisa-ia-espana-no-esta-supervisando-nada-que-tiene-laboratorio-ideas",
+          "source": "Xataka",
+          "published_at": "2026-05-07T11:46:26Z",
+          "summary": "La Agencia Española de Supervisión de Inteligencia Artificial ( AESIA ) está cerca de cumplir su primer año de vida operativa. Este organismo ha activado varias inciativas con resultados aún difíciles de concretar, pero …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-07-que-sepamos-la-agencia-que-supervisa-la-ia"
+        },
+        {
+          "title": "Con DeepSeek V4, China ha ganado algo más que un modelo IA: ha desbloqueado el potencial de sus chips nacionales",
+          "url": "https://www.xataka.com/empresas-y-economia/deepseek-v4-ha-dado-a-china-impulso-que-necesita-frente-a-eeuu-cuatro-fabricantes-chips-grandes-ganadores",
+          "source": "Xataka",
+          "published_at": "2026-05-07T11:15:00Z",
+          "summary": "DeepSeek V4 es el catalizador que necesitaba China. Este modelo de inteligencia artificial (IA) desarrollado por el fondo de cobertura cuantitativo especializado en trading algorítmico High-Flyer ha sido diseñado de form…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-07-con-deepseek-v4-china-ha-ganado-algo-mas"
+        },
+        {
+          "title": "Google ha encontrado su nueva gallina de los huevos de oro: se llama Anthropic y le va a pagar 200.000 millones, según The Information",
+          "url": "https://www.xataka.com/empresas-y-economia/google-ha-encontrado-su-nueva-gallina-huevos-oro-se-llama-anthropic-le-va-a-pagar-200-000-millones-the-information",
+          "source": "Xataka",
+          "published_at": "2026-05-07T07:30:00Z",
+          "summary": "Anthropic ha acordado pagarle a Google unos 200.000 millones de dólares a lo largo de cinco años para contar con más capacidad de cómputo, según ha publicado The Information. La cifra situaría de esta manera a la startup…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-07-google-ha-encontrado-su-nueva-gallina-de-los"
         },
         {
           "title": "Querida Spotify: va siendo hora de que tengas un botón que permita filtrar música generada por IA",
@@ -516,71 +651,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-06-espana-no-quiere-esperar-a-que-mythos-cause"
-        },
-        {
-          "title": "La nueva CEO de Xbox ha llegado desde Microsoft con una misión muy clara: dinamitar Xbox tal y como la conocíamos",
-          "url": "https://www.xataka.com/videojuegos/microsoft-puso-al-frente-xbox-a-jefa-su-departamento-ia-ahora-esta-desmantelando-toda-ia-xbox",
-          "source": "Xataka",
-          "published_at": "2026-05-06T08:00:00Z",
-          "summary": "Asha Sharman es la nueva CEO de Xbox y ha llegado con una misión: dinamitar Xbox. Al menos, eso es lo que está planteando en unos primeros tres meses de mandato en los que tomó las riendas de la compañía en uno de los pe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-06-la-nueva-ceo-de-xbox-ha-llegado-desde"
-        },
-        {
-          "title": "El problema ya no es que Chrome devore tu RAM: es que está descargando modelos IA de varios gigas sin avisar",
-          "url": "https://www.xataka.com/robotica-e-ia/a-chrome-siempre-le-ha-gustado-devorar-ram-ahora-descarga-modelo-ia-varios-gigas-avisar",
-          "source": "Xataka",
-          "published_at": "2026-05-05T22:15:00Z",
-          "summary": "Chrome forma parte de la rutina digital de millones de personas hasta el punto de que muchas veces dejamos de preguntarnos qué hace exactamente mientras navegamos. Lo usamos para casi todo, le confiamos sesiones, extensi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-05-el-problema-ya-no-es-que-chrome-devore"
-        },
-        {
-          "title": "Si en algún momento NVIDIA tiene que elegir entre dar sus mejores chips a EEUU o a China, tiene clarísima su elección",
-          "url": "https://www.xataka.com/robotica-e-ia/chips-nvidia-estan-centro-carrera-eeuu-china-su-ceo-acaba-aclarar-quien-debe-tener-mejores",
-          "source": "Xataka",
-          "published_at": "2026-05-05T19:30:00Z",
-          "summary": "La carrera por la inteligencia artificial suele contarse desde los modelos, las aplicaciones y las últimas promesas de automatización. Pero debajo de todo eso hay una capa menos vistosa y mucho más difícil de sustituir: …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-05-si-en-algun-momento-nvidia-tiene-que-elegir"
-        },
-        {
-          "title": "Microsoft se ha convertido en una máquina perfecta de generar \"slop\" a sus usuarios. Así que va a tomar medidas",
-          "url": "https://www.xataka.com/empresas-y-economia/microsoft-esta-cansada-que-llamen-microslop-promete-hacer-logico-limpiar-windows-tanta-basura",
-          "source": "Xataka",
-          "published_at": "2026-05-05T16:30:00Z",
-          "summary": "A lo largo de estos últimos años, Microsoft ha inundado Windows 11 de funciones basadas en IA. Muchas de estas herramientas no han sentado nada bien a la comunidad, por no mencionar la publicidad invasiva que ha rodeado …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-05-microsoft-se-ha-convertido-en-una-maquina-perfecta"
-        },
-        {
-          "title": "El creador de la Roomba tenía un sueño en la cabeza desde hacía 30 años y al fin lo ha hecho realidad: un perro-aspirador",
-          "url": "https://www.xataka.com/robotica-e-ia/no-habla-no-sube-escaleras-siquiera-obedece-siempre-asi-robot-que-creador-roomba-lleva-30-anos-queriendo-desarrollar",
-          "source": "Xataka",
-          "published_at": "2026-05-05T16:15:00Z",
-          "summary": "Colin Angle, cofundador de iRobot, salió de la empresa de una forma un tanto abrupta tras la ruptura del acuerdo de Amazon . Sin embargo, el tema de la robótica del hogar nunca ha desaparecido de su mente, y de hecho ha …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-05-el-creador-de-la-roomba-tenia-un-sueno"
         }
       ]
     }
@@ -618,17 +688,82 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
           "source": "OpenAI",
-          "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "published_at": "2026-05-07T13:00:00Z",
+          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+          "id": "openai-2026-05-07-scaling-trusted-access-for-cyber-with-gpt-5-5"
+        },
+        {
+          "title": "Parloa builds service agents customers want to talk to",
+          "url": "https://openai.com/index/parloa",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T11:00:00Z",
+          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-parloa-builds-service-agents-customers-want-to-talk"
+        },
+        {
+          "title": "Advancing voice intelligence with new models in the API",
+          "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T10:00:00Z",
+          "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-advancing-voice-intelligence-with-new-models-in-the"
+        },
+        {
+          "title": "Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-testing-ads-in-chatgpt"
+        },
+        {
+          "title": "Introducing Trusted Contact in ChatGPT",
+          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-introducing-trusted-contact-in-chatgpt"
+        },
+        {
+          "title": "Simplex rethinks software development with Codex",
+          "url": "https://openai.com/index/simplex",
+          "source": "OpenAI",
+          "published_at": "2026-05-07T00:00:00Z",
+          "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-07-simplex-rethinks-software-development-with-codex"
         },
         {
           "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -657,7 +792,20 @@
           "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
         },
         {
-          "title": "How frontier enterprises are building an AI advantage",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-06T00:00:00Z",
+          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+        },
+        {
+          "title": "How frontier firms are pulling ahead",
           "url": "https://openai.com/index/introducing-b2b-signals",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
@@ -667,7 +815,7 @@
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-how-frontier-enterprises-are-building-an-ai-advantage"
+          "id": "openai-2026-05-06-how-frontier-firms-are-pulling-ahead"
         },
         {
           "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
@@ -683,19 +831,6 @@
           "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
         },
         {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "url": "https://openai.com/index/mrc-supercomputer-networking",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T10:00:00Z",
-          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
-        },
-        {
           "title": "GPT-5.5 Instant System Card",
           "url": "https://openai.com/index/gpt-5-5-instant-system-card",
           "source": "OpenAI",
@@ -707,6 +842,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
+        },
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "url": "https://openai.com/index/mrc-supercomputer-networking",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
         },
         {
           "title": "New ways to buy ChatGPT ads",
@@ -857,17 +1005,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "Enabling a new model for healthcare with AI co-clinician",
-          "url": "https://deepmind.google/blog/ai-co-clinician/",
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
           "source": "DeepMind",
-          "published_at": "2026-04-30T12:14:15Z",
-          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "published_at": "2026-05-06T10:43:49Z",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-04-30-enabling-a-new-model-for-healthcare-with-ai"
+          "id": "deepmind-2026-05-06-alphaevolve-how-our-gemini-powered-coding-agent-is-scaling"
         }
       ]
     }
