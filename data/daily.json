@@ -1,72 +1,72 @@
 {
-  "date": "2026-05-09",
-  "generated_at": "2026-05-09T07:13:09.849411Z",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T07:17:14.335177Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Asus chases Elgato with its own secondary touchscreen display",
-      "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-      "source": "The Verge",
-      "published_at": "2026-05-08T20:34:24Z",
-      "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14…",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "source": "Hugging Face",
+      "published_at": "2026-05-09T18:09:28Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-05-08-asus-chases-elgato-with-its-own-secondary-touchscreen"
+      "category": "herramientas",
+      "id": "huggingface-2026-05-09-oncoagent-a-dual-tier-multi-agent-framework-for-privacy-preserving-oncology"
     },
     {
-      "title": "Amazon is adding a vertical video feed to Prime Video",
-      "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
-      "source": "The Verge",
-      "published_at": "2026-05-08T20:19:57Z",
-      "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump in…",
+      "title": "Miden 85 metros, no tienen anclas y están conectados a Starlink: los gigantescos \"Roombas\" marinos que quieren salvar a la IA del apagón",
+      "url": "https://www.xataka.com/energia/miden-85-metros-no-tienen-anclas-estan-conectados-a-starlink-gigantescos-roombas-marinos-que-quieren-salvar-a-ia-apagon",
+      "source": "Xataka",
+      "published_at": "2026-05-09T16:30:26Z",
+      "summary": "El auge de la inteligencia artificial está devorando la capacidad de las redes eléctricas en todo el mundo, disparando el consumo y las emisiones de carbono. Y esto es solo el principio. Como advirtió Garth Sheldon-Couls…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-08-amazon-is-adding-a-vertical-video-feed-to"
+      "id": "xataka-2026-05-09-miden-85-metros-no-tienen-anclas-y-estan"
     },
     {
-      "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
-      "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
       "source": "The Verge",
-      "published_at": "2026-05-08T19:14:34Z",
-      "summary": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi pas…",
+      "published_at": "2026-05-09T16:00:00Z",
+      "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently ava…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-08-here-is-yarbo-s-promise-to-fix-the"
+      "id": "theverge-2026-05-09-dyson-s-powerful-360-vis-nav-robovac-is"
     },
     {
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "title": "These great digital gifts will arrive just in time for Mother’s Day",
+      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
       "source": "The Verge",
-      "published_at": "2026-05-08T18:45:08Z",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
+      "published_at": "2026-05-09T14:00:00Z",
+      "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely ar…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-08-all-the-latest-updates-on-ai-data-centers"
+      "id": "theverge-2026-05-09-these-great-digital-gifts-will-arrive-just-in"
     },
     {
-      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
-      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "title": "Let it snow",
+      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
       "source": "The Verge",
-      "published_at": "2026-05-08T18:02:44Z",
-      "summary": "The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen McMahon cites DOGE's proc…",
+      "published_at": "2026-05-09T13:00:00Z",
+      "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the wo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-08-doge-used-chatgpt-in-a-way-that-was"
+      "id": "theverge-2026-05-09-let-it-snow"
     }
   ],
   "sections": [
@@ -458,39 +458,8 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "AI Is Starting to Build Better AI",
-          "url": "https://spectrum.ieee.org/recursive-self-improvement",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-07T12:00:02Z",
-          "summary": "The field of artificial intelligence was built on the premise that machines might someday improve themselves. In 1966, the English mathematician I. J. Good wrote that “an ultraintelligent machine could design even better…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-07-ai-is-starting-to-build-better-ai"
-        }
-      ]
-    },
-    {
       "name": "Herramientas",
       "items": [
-        {
-          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-          "source": "Hugging Face",
-          "published_at": "2026-05-08T17:41:05Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-08-cybersecqwen-4b-why-defensive-cyber-needs-small-specialized-locally-runnable"
-        },
         {
           "title": "EMO: Pretraining mixture of experts for emergent modularity",
           "url": "https://huggingface.co/blog/allenai/emo",
@@ -510,69 +479,108 @@
       "name": "General",
       "items": [
         {
-          "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
-          "url": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
+          "title": "The game that makes me actually want to exercise",
+          "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
           "source": "The Verge",
-          "published_at": "2026-05-08T17:52:28Z",
-          "summary": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making \"major shifts in policy and practice\" that the network claims will chill free speech. The network is asking th…",
+          "published_at": "2026-05-09T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old edition…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-08-abc-and-disney-accuse-trump-admin-of-violating"
+          "id": "theverge-2026-05-09-the-game-that-makes-me-actually-want-to"
         },
         {
-          "title": "Someone out-Trumped the Trump phone",
-          "url": "https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones",
+          "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+          "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
           "source": "The Verge",
-          "published_at": "2026-05-08T17:38:53Z",
-          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, Trump Mobile has been trumped. It's been another long week wit…",
+          "published_at": "2026-05-09T12:00:00Z",
+          "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-08-someone-out-trumped-the-trump-phone"
+          "id": "theverge-2026-05-09-quantum-dot-tvs-beat-rgb-led-tvs-says"
         },
         {
-          "title": "Apple reportedly has a deal to use Intel-made chips again",
-          "url": "https://www.theverge.com/tech/926988/apple-intel-chips",
-          "source": "The Verge",
-          "published_at": "2026-05-08T17:22:04Z",
-          "summary": "Apple and Intel reached a \"preliminary agreement\" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with its highly successful t…",
+          "title": "Tu bandeja de Gmail se ha llenado de correos escritos evidentemente con IA. Google quiere arreglarlo con más IA",
+          "url": "https://www.xataka.com/robotica-e-ia/gran-problema-escribir-correos-ia-que-suenan-a-ia-gmail-tiene-solucion-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-09T11:30:26Z",
+          "summary": "Todos hemos pasado varios minutos mirando el cursor, pensando cómo responder a ese correo electrónico importante; encontrar el tono, que sea contundente y amable al mismo tiempo, pero no demasiado amable. Con &nbsp;la in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-08-apple-reportedly-has-a-deal-to-use-intel-made"
+          "id": "xataka-2026-05-09-tu-bandeja-de-gmail-se-ha-llenado-de"
         },
         {
-          "title": "The Steam Controller’s reservation queue is open",
-          "url": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
+          "title": "Asus chases Elgato with its own secondary touchscreen display",
+          "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
           "source": "The Verge",
-          "published_at": "2026-05-08T16:59:42Z",
-          "summary": "After quickly selling out of the Steam Controller on May 4th, Valve has launched a reservation system to ensure that you can get one without too much hassle. You may not get one as quickly as you'd like to, but at least …",
+          "published_at": "2026-05-08T20:34:24Z",
+          "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-08-the-steam-controller-s-reservation-queue-is-open"
+          "id": "theverge-2026-05-08-asus-chases-elgato-with-its-own-secondary-touchscreen"
         },
         {
-          "title": "The 46 best last-minute Mother’s Day gift ideas for 2026",
-          "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "title": "Amazon is adding a vertical video feed to Prime Video",
+          "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
           "source": "The Verge",
-          "published_at": "2026-05-08T16:46:00Z",
-          "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up pract…",
+          "published_at": "2026-05-08T20:19:57Z",
+          "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-08-the-46-best-last-minute-mother-s-day-gift"
+          "id": "theverge-2026-05-08-amazon-is-adding-a-vertical-video-feed-to"
+        },
+        {
+          "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
+          "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+          "source": "The Verge",
+          "published_at": "2026-05-08T19:14:34Z",
+          "summary": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi pas…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-08-here-is-yarbo-s-promise-to-fix-the"
+        },
+        {
+          "title": "All the latest updates on AI data centers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "source": "The Verge",
+          "published_at": "2026-05-08T18:45:08Z",
+          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-08-all-the-latest-updates-on-ai-data-centers"
+        },
+        {
+          "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
+          "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+          "source": "The Verge",
+          "published_at": "2026-05-08T18:02:44Z",
+          "summary": "The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen McMahon cites DOGE's proc…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-08-doge-used-chatgpt-in-a-way-that-was"
         },
         {
           "title": "El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA",
@@ -638,58 +646,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-08-la-ia-nos-esta-ayudando-a-resolver-problemas"
-        },
-        {
-          "title": "Durante años, la energía de las olas fue el patito feo de las renovables. La IA y los centros de datos le han dado una vuelta",
-          "url": "https://www.xataka.com/energia/no-sabemos-acabaremos-teniendo-centros-datos-espacio-que-sabemos-que-vamos-a-tenerlos-oceano",
-          "source": "Xataka",
-          "published_at": "2026-05-08T07:00:00Z",
-          "summary": "La inteligencia artificial tiene un problema que cada vez se puede disimular menos, y es sacar energía suficiente para alimentar los centros de datos que hacen funcionar sus sistemas. A cada momento que pasa se nos ocurr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-durante-anos-la-energia-de-las-olas-fue"
-        },
-        {
-          "title": "La UE ha pactado prohibir las apps de IA para crear desnudos: una propuesta de España tras la polémica de Grok",
-          "url": "https://www.xataka.com/robotica-e-ia/ue-ha-pactado-prohibir-apps-ia-para-crear-desnudos-propuesta-espana-polemica-grok",
-          "source": "Xataka",
-          "published_at": "2026-05-07T18:43:28Z",
-          "summary": "Durante mucho tiempo, buena parte de la conversación sobre la IA se ha movido entre promesas de productividad, creatividad y automatización. Pero hay usos que exhiben una realidad mucho más áspera: la posibilidad de gene…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-07-la-ue-ha-pactado-prohibir-las-apps-de"
-        },
-        {
-          "title": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
-          "url": "https://www.xataka.com/robotica-e-ia/que-sepamos-agencia-que-supervisa-ia-espana-no-esta-supervisando-nada-que-tiene-laboratorio-ideas",
-          "source": "Xataka",
-          "published_at": "2026-05-07T11:46:26Z",
-          "summary": "La Agencia Española de Supervisión de Inteligencia Artificial ( AESIA ) está cerca de cumplir su primer año de vida operativa. Este organismo ha activado varias inciativas con resultados aún difíciles de concretar, pero …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-07-que-sepamos-la-agencia-que-supervisa-la-ia"
-        },
-        {
-          "title": "EEUU ha provocado algo que no esperaba: DeepSeek V4 está acelerando el desarrollo de la industria china de los chips",
-          "url": "https://www.xataka.com/empresas-y-economia/deepseek-v4-ha-dado-a-china-impulso-que-necesita-frente-a-eeuu-cuatro-fabricantes-chips-grandes-ganadores",
-          "source": "Xataka",
-          "published_at": "2026-05-07T11:15:00Z",
-          "summary": "DeepSeek V4 es el catalizador que necesitaba China. Este modelo de inteligencia artificial (IA) desarrollado por el fondo de cobertura cuantitativo especializado en trading algorítmico High-Flyer ha sido diseñado de form…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-07-eeuu-ha-provocado-algo-que-no-esperaba-deepseek"
         }
       ]
     }
