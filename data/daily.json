@@ -1,72 +1,72 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10T07:17:14.335177Z",
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T07:43:57.617706Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI",
+      "published_at": "2026-05-11T10:00:00Z",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
+    },
+    {
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI",
+      "published_at": "2026-05-11T10:00:00Z",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
+    },
+    {
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "source": "Google AI",
+      "published_at": "2026-05-11T06:00:00Z",
+      "summary": "A screenshot of the AI-powered experience on Google Finance.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "googleai-2026-05-11-the-new-ai-powered-google-finance-is-expanding-to"
+    },
+    {
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "source": "The Verge",
+      "published_at": "2026-05-10T20:42:08Z",
+      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly dr…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-10-the-bastl-kalimba-is-a-wild-synth-that"
+    },
+    {
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "source": "Hugging Face",
-      "published_at": "2026-05-09T18:09:28Z",
+      "published_at": "2026-05-10T18:44:11Z",
       "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
         "herramientas"
       ],
       "category": "herramientas",
-      "id": "huggingface-2026-05-09-oncoagent-a-dual-tier-multi-agent-framework-for-privacy-preserving-oncology"
-    },
-    {
-      "title": "Miden 85 metros, no tienen anclas y están conectados a Starlink: los gigantescos \"Roombas\" marinos que quieren salvar a la IA del apagón",
-      "url": "https://www.xataka.com/energia/miden-85-metros-no-tienen-anclas-estan-conectados-a-starlink-gigantescos-roombas-marinos-que-quieren-salvar-a-ia-apagon",
-      "source": "Xataka",
-      "published_at": "2026-05-09T16:30:26Z",
-      "summary": "El auge de la inteligencia artificial está devorando la capacidad de las redes eléctricas en todo el mundo, disparando el consumo y las emisiones de carbono. Y esto es solo el principio. Como advirtió Garth Sheldon-Couls…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-05-09-miden-85-metros-no-tienen-anclas-y-estan"
-    },
-    {
-      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
-      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
-      "source": "The Verge",
-      "published_at": "2026-05-09T16:00:00Z",
-      "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently ava…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-09-dyson-s-powerful-360-vis-nav-robovac-is"
-    },
-    {
-      "title": "These great digital gifts will arrive just in time for Mother’s Day",
-      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
-      "source": "The Verge",
-      "published_at": "2026-05-09T14:00:00Z",
-      "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely ar…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-09-these-great-digital-gifts-will-arrive-just-in"
-    },
-    {
-      "title": "Let it snow",
-      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-      "source": "The Verge",
-      "published_at": "2026-05-09T13:00:00Z",
-      "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the wo…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-09-let-it-snow"
+      "id": "huggingface-2026-05-10-machinacheck-building-a-multi-agent-cnc-manufacturability-system-on"
     }
   ],
   "sections": [
@@ -217,17 +217,17 @@
           "id": "openai-2026-05-06-how-chatgpt-learns-about-the-world-while-protecting"
         },
         {
-          "title": "Uber uses OpenAI to help people earn smarter and book faster",
-          "url": "https://openai.com/index/uber",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
+          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
         },
         {
           "title": "How frontier firms are pulling ahead",
@@ -243,17 +243,17 @@
           "id": "openai-2026-05-06-how-frontier-firms-are-pulling-ahead"
         },
         {
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "title": "Uber uses OpenAI to help people earn smarter and book faster",
+          "url": "https://openai.com/index/uber",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+          "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
         },
         {
           "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -295,19 +295,6 @@
           "id": "googleai-2026-05-05-google-is-partnering-with-xprize-and-range-media"
         },
         {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "url": "https://openai.com/index/mrc-supercomputer-networking",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T10:00:00Z",
-          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
-        },
-        {
           "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
           "url": "https://openai.com/index/gpt-5-5-instant",
           "source": "OpenAI",
@@ -319,6 +306,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
+        },
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "url": "https://openai.com/index/mrc-supercomputer-networking",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
         },
         {
           "title": "GPT-5.5 Instant System Card",
@@ -334,19 +334,6 @@
           "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
         },
         {
-          "title": "Advancing youth safety and wellbeing in EMEA",
-          "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T00:00:00Z",
-          "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-advancing-youth-safety-and-wellbeing-in-emea"
-        },
-        {
           "title": "New ways to buy ChatGPT ads",
           "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
           "source": "OpenAI",
@@ -358,6 +345,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-05-new-ways-to-buy-chatgpt-ads"
+        },
+        {
+          "title": "Advancing youth safety and wellbeing in EMEA",
+          "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-advancing-youth-safety-and-wellbeing-in-emea"
         },
         {
           "title": "Agents for financial services",
@@ -410,74 +410,186 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-04-reduce-friction-and-latency-for-long-running-jobs-with"
-        },
-        {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-          "source": "OpenAI",
-          "published_at": "2026-05-04T00:00:00Z",
-          "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale"
-        },
-        {
-          "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-          "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-          "source": "Anthropic",
-          "published_at": "2026-05-04T00:00:00Z",
-          "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-04-building-a-new-enterprise-ai-services-company-with"
         }
       ]
     },
     {
-      "name": "Regulación",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Europa quiso dar un ejemplo al mundo con su Ley de la IA. Lo que está consiguiendo es quedar en evidencia",
-          "url": "https://www.xataka.com/robotica-e-ia/ue-digo-que-su-ley-ia-era-prodigiosa-no-debe-ser-buena-cuando-va-a-retrasar-su-aplicacion-2028",
-          "source": "Xataka",
-          "published_at": "2026-05-08T12:15:00Z",
-          "summary": "Bruselas ha acordado retrasar las restricciones más duras de su Ley de IA hasta diciembre de 2027, lo que en la práctica traslada su impacto real a 2028. Inicialmente el calendario era mucho más ambicioso y pretendía pro…",
+          "title": "Startup Wants to Run AI Inference From Space",
+          "url": "https://spectrum.ieee.org/orbital-inference-data-center",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-10T13:00:01Z",
+          "summary": "The rapid advancement of large language models is fueling a global data center boom and driving a surge in energy demand. But the electricity required to power data centers is straining the grid, pushing infrastructure o…",
           "why_it_matters": "",
           "tags": [
-            "regulación"
+            "investigación"
           ],
-          "category": "regulación",
-          "id": "xataka-2026-05-08-europa-quiso-dar-un-ejemplo-al-mundo-con"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "EMO: Pretraining mixture of experts for emergent modularity",
-          "url": "https://huggingface.co/blog/allenai/emo",
-          "source": "Hugging Face",
-          "published_at": "2026-05-08T16:03:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-08-emo-pretraining-mixture-of-experts-for-emergent-modularity"
+          "category": "investigación",
+          "id": "ieee-2026-05-10-startup-wants-to-run-ai-inference-from-space"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+          "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+          "source": "The Verge",
+          "published_at": "2026-05-10T16:52:41Z",
+          "summary": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-10-ashnymph-s-childhood-ep-is-exhilarating-dance-goth"
+        },
+        {
+          "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
+          "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+          "source": "The Verge",
+          "published_at": "2026-05-10T14:00:00Z",
+          "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy f…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-10-cricut-s-99-craft-cutting-machine-helped-me"
+        },
+        {
+          "title": "Writers are fleeing the Substack Tax",
+          "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
+          "source": "The Verge",
+          "published_at": "2026-05-10T14:00:00Z",
+          "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platfor…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-10-writers-are-fleeing-the-substack-tax"
+        },
+        {
+          "title": "Cómo crear un bot de Telegram que te resuma cada mañana con IA tus citas de Google Calendar",
+          "url": "https://www.xataka.com/basics/como-crear-bot-telegram-que-te-resuma-cada-manana-ia-tus-citas-google-calendar",
+          "source": "Xataka",
+          "published_at": "2026-05-10T12:00:26Z",
+          "summary": "Vamos a decirte cómo crear un bot de Telegram que resuma cada día tus citas y eventos de Google Calendar , haciendo de él un secretario personal que cada mañana te haga un resumen. Para ello, haremos que el bot utilice i…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-10-como-crear-un-bot-de-telegram-que-te"
+        },
+        {
+          "title": "Netflix may have finally figured out games",
+          "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+          "source": "The Verge",
+          "published_at": "2026-05-10T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-10-netflix-may-have-finally-figured-out-games"
+        },
+        {
+          "title": "Toyota ha creado la ciudad del futuro y está llena de IA y de cámaras que te protegen. También es una pesadilla para la privacidad",
+          "url": "https://www.xataka.com/movilidad/toyota-ha-creado-ciudad-futuro-esta-llena-ia-camaras-que-te-protegen-tambien-pesadilla-para-privacidad",
+          "source": "Xataka",
+          "published_at": "2026-05-10T11:30:26Z",
+          "summary": "A los pies del Monte Fuji, Toyota lleva años construyendo una ciudad entera diseñada desde cero para probar sus inventos del futuro. Se llama Woven City, y ya tiene sus primeros habitantes. Y es que si bien a la ciudad n…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-10-toyota-ha-creado-la-ciudad-del-futuro-y"
+        },
+        {
+          "title": "Vivo’s X300 Ultra has the best cameras in any phone",
+          "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+          "source": "The Verge",
+          "published_at": "2026-05-10T11:00:00Z",
+          "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-10-vivo-s-x300-ultra-has-the-best-cameras"
+        },
+        {
+          "title": "La IA prometía descentralizar el conocimiento. Está haciendo exactamente lo contrario",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-prometia-descentralizar-conocimiento-esta-haciendo-exactamente-contrario",
+          "source": "Xataka",
+          "published_at": "2026-05-10T09:00:26Z",
+          "summary": "Todo el debate sobre la IA gira en torno a lo mismo: empleo , deepfakes , derechos de autor , automatización . Son preguntas razonables. Pero hay una que importa en un nivel superior: ¿quién controla lo que la IA conside…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-10-la-ia-prometia-descentralizar-el-conocimiento-esta-haciendo"
+        },
+        {
+          "title": "Miden 85 metros, no tienen anclas y están conectados a Starlink: los gigantescos \"Roombas\" marinos que quieren salvar a la IA del apagón",
+          "url": "https://www.xataka.com/energia/miden-85-metros-no-tienen-anclas-estan-conectados-a-starlink-gigantescos-roombas-marinos-que-quieren-salvar-a-ia-apagon",
+          "source": "Xataka",
+          "published_at": "2026-05-09T16:30:26Z",
+          "summary": "El auge de la inteligencia artificial está devorando la capacidad de las redes eléctricas en todo el mundo, disparando el consumo y las emisiones de carbono. Y esto es solo el principio. Como advirtió Garth Sheldon-Couls…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-09-miden-85-metros-no-tienen-anclas-y-estan"
+        },
+        {
+          "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+          "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+          "source": "The Verge",
+          "published_at": "2026-05-09T16:00:00Z",
+          "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently ava…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-09-dyson-s-powerful-360-vis-nav-robovac-is"
+        },
+        {
+          "title": "These great digital gifts will arrive just in time for Mother’s Day",
+          "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+          "source": "The Verge",
+          "published_at": "2026-05-09T14:00:00Z",
+          "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely ar…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-09-these-great-digital-gifts-will-arrive-just-in"
+        },
+        {
+          "title": "Let it snow",
+          "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
+          "source": "The Verge",
+          "published_at": "2026-05-09T13:00:00Z",
+          "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the wo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-09-let-it-snow"
+        },
         {
           "title": "The game that makes me actually want to exercise",
           "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
@@ -492,160 +604,17 @@
           "id": "theverge-2026-05-09-the-game-that-makes-me-actually-want-to"
         },
         {
-          "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-          "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-          "source": "The Verge",
-          "published_at": "2026-05-09T12:00:00Z",
-          "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-09-quantum-dot-tvs-beat-rgb-led-tvs-says"
-        },
-        {
-          "title": "Tu bandeja de Gmail se ha llenado de correos escritos evidentemente con IA. Google quiere arreglarlo con más IA",
+          "title": "Hay un negocio floreciente en humanizar textos de IA. Google acaba de entrar en ese negocio desde dentro de Gmail",
           "url": "https://www.xataka.com/robotica-e-ia/gran-problema-escribir-correos-ia-que-suenan-a-ia-gmail-tiene-solucion-ia",
           "source": "Xataka",
-          "published_at": "2026-05-09T11:30:26Z",
+          "published_at": "2026-05-09T11:30:00Z",
           "summary": "Todos hemos pasado varios minutos mirando el cursor, pensando cómo responder a ese correo electrónico importante; encontrar el tono, que sea contundente y amable al mismo tiempo, pero no demasiado amable. Con &nbsp;la in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-09-tu-bandeja-de-gmail-se-ha-llenado-de"
-        },
-        {
-          "title": "Asus chases Elgato with its own secondary touchscreen display",
-          "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-          "source": "The Verge",
-          "published_at": "2026-05-08T20:34:24Z",
-          "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-08-asus-chases-elgato-with-its-own-secondary-touchscreen"
-        },
-        {
-          "title": "Amazon is adding a vertical video feed to Prime Video",
-          "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
-          "source": "The Verge",
-          "published_at": "2026-05-08T20:19:57Z",
-          "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump in…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-08-amazon-is-adding-a-vertical-video-feed-to"
-        },
-        {
-          "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
-          "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
-          "source": "The Verge",
-          "published_at": "2026-05-08T19:14:34Z",
-          "summary": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi pas…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-08-here-is-yarbo-s-promise-to-fix-the"
-        },
-        {
-          "title": "All the latest updates on AI data centers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-          "source": "The Verge",
-          "published_at": "2026-05-08T18:45:08Z",
-          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-08-all-the-latest-updates-on-ai-data-centers"
-        },
-        {
-          "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
-          "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-          "source": "The Verge",
-          "published_at": "2026-05-08T18:02:44Z",
-          "summary": "The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen McMahon cites DOGE's proc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-08-doge-used-chatgpt-in-a-way-that-was"
-        },
-        {
-          "title": "El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar",
-          "source": "Xataka",
-          "published_at": "2026-05-08T11:45:00Z",
-          "summary": "Durante el pasado mes de marzo ICML ( International Conference on Machine Learning ), la conferencia académica dedicada al aprendizaje automático ( machine learning ) más antigua del mundo, rechazó de golpe 497 artículos…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-el-sistema-para-investigar-y-publicar-articulos-academicos"
-        },
-        {
-          "title": "Google ya sabe cómo hacer que sus AI Overviews sean más humanas: usar el contenido de Reddit sin piedad",
-          "url": "https://www.xataka.com/robotica-e-ia/cada-vez-buscamos-respuestas-humanas-reddit-esa-razon-que-ahora-buscador-google-sea-reddit-disfrazado",
-          "source": "Xataka",
-          "published_at": "2026-05-08T11:30:00Z",
-          "summary": "Google ha actualizado su plataforma de búsquedas por enésima vez, pero lo ha hecho con un cambio especialmente significativo. La experiencia de usuario en sus buscadores con IA (tanto AI Overviews como AI Mode) intenta v…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-google-ya-sabe-como-hacer-que-sus-ai"
-        },
-        {
-          "title": "El hype por Claude Mythos comienza a justificarse: Firefox encontró y corrigió más fallos de seguridad en un mes que en los 15 meses previos",
-          "url": "https://www.xataka.com/robotica-e-ia/hype-claude-mythos-comienza-a-justificarse-firefox-encontro-corrigio-fallos-seguridad-mes-que-15-meses-previos",
-          "source": "Xataka",
-          "published_at": "2026-05-08T10:46:25Z",
-          "summary": "Hace un año, Mozilla corrigió 31 fallos de seguridad en su navegador Firefox.En abril de 2026 ha corregido 423 . El crecimiento es espectacular y tiene un responsable único : Claude Mythos Preview, el modelo de IA que An…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-el-hype-por-claude-mythos-comienza-a-justificarse"
-        },
-        {
-          "title": "Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones",
-          "url": "https://www.xataka.com/basics/como-evitar-que-ia-te-siempre-razon-defecto-asi-conseguir-que-claude-gemini-chatgpt-tengan-alucinaciones",
-          "source": "Xataka",
-          "published_at": "2026-05-08T09:51:08Z",
-          "summary": "Vamos a decirte cómo evitar que la IA te de la razón por defecto , modificando su actitud para que sea menos complaciente. De esta manera, al no esforzarse por agradarte conseguirás que la inteligencia artificial &nbsp;c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-como-evitar-que-la-ia-te-de-siempre"
-        },
-        {
-          "title": "La IA nos está ayudando a resolver problemas. Y también está reduciendo nuestra capacidad para resolverlos solos",
-          "url": "https://www.xataka.com/robotica-e-ia/pregunta-cuanto-tiempo-tenemos-que-usar-ia-para-volvernos-perezosos-respuesta-suspiro",
-          "source": "Xataka",
-          "published_at": "2026-05-08T09:30:00Z",
-          "summary": "Diez minutos. Es el tiempo que tarda la IA en tener un efecto negativo en nuestra habilidad para razonar y resolver problemas, o al menos eso es lo que han concluido en un nuevo estudio en el que han medido cómo el uso d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-08-la-ia-nos-esta-ayudando-a-resolver-problemas"
+          "id": "xataka-2026-05-09-hay-un-negocio-floreciente-en-humanizar-textos-de"
         }
       ]
     }
@@ -682,6 +651,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
+        },
         {
           "title": "Running Codex safely at OpenAI",
           "url": "https://openai.com/index/running-codex-safely",
@@ -787,17 +782,17 @@
           "id": "openai-2026-05-06-how-chatgpt-learns-about-the-world-while-protecting"
         },
         {
-          "title": "Uber uses OpenAI to help people earn smarter and book faster",
-          "url": "https://openai.com/index/uber",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
+          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
         },
         {
           "title": "How frontier firms are pulling ahead",
@@ -813,17 +808,17 @@
           "id": "openai-2026-05-06-how-frontier-firms-are-pulling-ahead"
         },
         {
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "title": "Uber uses OpenAI to help people earn smarter and book faster",
+          "url": "https://openai.com/index/uber",
           "source": "OpenAI",
           "published_at": "2026-05-06T00:00:00Z",
-          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-06-introducing-chatgpt-futures-class-of-2026"
+          "id": "openai-2026-05-06-uber-uses-openai-to-help-people-earn-smarter"
         },
         {
           "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -839,19 +834,6 @@
           "id": "openai-2026-05-06-singular-bank-helps-bankers-move-fast-with-chatgpt"
         },
         {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "url": "https://openai.com/index/mrc-supercomputer-networking",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T10:00:00Z",
-          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
-        },
-        {
           "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
           "url": "https://openai.com/index/gpt-5-5-instant",
           "source": "OpenAI",
@@ -863,6 +845,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-05-gpt-5-5-instant-smarter-clearer-and-more-personalized"
+        },
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "url": "https://openai.com/index/mrc-supercomputer-networking",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T10:00:00Z",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-unlocking-large-scale-ai-training-networks-with-mrc"
         },
         {
           "title": "GPT-5.5 Instant System Card",
@@ -878,19 +873,6 @@
           "id": "openai-2026-05-05-gpt-5-5-instant-system-card"
         },
         {
-          "title": "Advancing youth safety and wellbeing in EMEA",
-          "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-          "source": "OpenAI",
-          "published_at": "2026-05-05T00:00:00Z",
-          "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-05-advancing-youth-safety-and-wellbeing-in-emea"
-        },
-        {
           "title": "New ways to buy ChatGPT ads",
           "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
           "source": "OpenAI",
@@ -904,6 +886,19 @@
           "id": "openai-2026-05-05-new-ways-to-buy-chatgpt-ads"
         },
         {
+          "title": "Advancing youth safety and wellbeing in EMEA",
+          "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+          "source": "OpenAI",
+          "published_at": "2026-05-05T00:00:00Z",
+          "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-05-advancing-youth-safety-and-wellbeing-in-emea"
+        },
+        {
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
           "url": "https://openai.com/index/openai-pwc-finance-collaboration",
           "source": "OpenAI",
@@ -915,19 +910,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-04-openai-and-pwc-collaborate-to-reimagine-the-office"
-        },
-        {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-          "source": "OpenAI",
-          "published_at": "2026-05-04T00:00:00Z",
-          "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale"
         }
       ]
     },
@@ -960,19 +942,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-05-agents-for-financial-services"
-        },
-        {
-          "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-          "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-          "source": "Anthropic",
-          "published_at": "2026-05-04T00:00:00Z",
-          "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-04-building-a-new-enterprise-ai-services-company-with"
         }
       ]
     },
@@ -980,6 +949,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "The new AI-powered Google Finance is expanding to Europe.",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "source": "Google AI",
+          "published_at": "2026-05-11T06:00:00Z",
+          "summary": "A screenshot of the AI-powered experience on Google Finance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-11-the-new-ai-powered-google-finance-is-expanding-to"
+        },
         {
           "title": "See what happens when creative legends use AI to make ads for small businesses.",
           "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
