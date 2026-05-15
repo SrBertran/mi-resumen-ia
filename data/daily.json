@@ -1,78 +1,130 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T07:28:57.041109Z",
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T07:34:17.421777Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Nadie quiere un centro de datos cerca, así que una startup ha tenido una idea loca: que la gente se instale uno en el jardín",
-      "url": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
-      "source": "Xataka",
-      "published_at": "2026-05-14T07:05:25Z",
-      "summary": "Los centros de datos se han convertido en las nuevas antenas de telefonía: nadie quiere vivir cerca de uno, ni aunque ofrezcan una pasta para construir uno . Hay motivos de peso, como la contaminación o que disparan los …",
-      "why_it_matters": "",
-      "tags": [
-        "negocio"
-      ],
-      "category": "negocio",
-      "id": "xataka-2026-05-14-nadie-quiere-un-centro-de-datos-cerca-asi"
-    },
-    {
-      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
-      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+      "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
       "source": "The Verge",
-      "published_at": "2026-05-13T22:04:28Z",
-      "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's i…",
+      "published_at": "2026-05-14T22:46:55Z",
+      "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was annou…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-13-microsoft-8217-s-edge-copilot-update-uses-ai"
+      "id": "theverge-2026-05-14-honda-8217-s-hybrid-future-starts-with-new"
     },
     {
-      "title": "Trump administration defends right to ban content moderation experts from US",
-      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+      "title": "Closing time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
       "source": "The Verge",
-      "published_at": "2026-05-13T21:58:44Z",
-      "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coa…",
+      "published_at": "2026-05-14T22:21:46Z",
+      "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-13-trump-administration-defends-right-to-ban-content-moderation"
+      "id": "theverge-2026-05-14-closing-time"
     },
     {
-      "title": "YouTube is courting creators — and sponsors — with streaming shows",
-      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+      "title": "Metroid Prime 4: Beyond got its first big discount",
+      "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-05-13T21:30:00Z",
-      "summary": "In the ongoing fight for content and talent, YouTube is pitching itself as the connector between the creators and advertisers - and marketing its creators not just as the future of social media, but also of advertising, …",
+      "published_at": "2026-05-14T21:38:45Z",
+      "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surpri…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-13-youtube-is-courting-creators----and-sponsors---"
+      "id": "theverge-2026-05-14-metroid-prime-4-beyond-got-its-first-big"
     },
     {
-      "title": "AMD&#8217;s best CPU tech for gamers is coming to workstations too",
-      "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+      "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+      "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
       "source": "The Verge",
-      "published_at": "2026-05-13T20:38:16Z",
-      "summary": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward …",
+      "published_at": "2026-05-14T21:08:46Z",
+      "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-13-amd-8217-s-best-cpu-tech-for-gamers"
+      "id": "theverge-2026-05-14-meta-brings-virtual-writing-to-everyone-with-meta"
+    },
+    {
+      "title": "Behold, the Elon Musk jackass trophy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "source": "The Verge",
+      "published_at": "2026-05-14T20:59:23Z",
+      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription al…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-14-behold-the-elon-musk-jackass-trophy"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Sea's View on the Future of Agentic Software Development with Codex",
+          "url": "https://openai.com/index/sea-david-chen",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T20:30:00Z",
+          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-sea-s-view-on-the-future-of-agentic"
+        },
+        {
+          "title": "Work with Codex from anywhere",
+          "url": "https://openai.com/index/work-with-codex-from-anywhere",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T13:00:00Z",
+          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-work-with-codex-from-anywhere"
+        },
+        {
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-helping-chatgpt-better-recognize-context-in-sensitive-conversations"
+        },
+        {
+          "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "Anthropic forms $200 million partnership with the Gates Foundation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-14-anthropic-forms-200-million-partnership-with-the-gates"
+        },
         {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "url": "https://openai.com/index/building-codex-windows-sandbox",
@@ -178,19 +230,6 @@
           "id": "openai-2026-05-11-how-chatgpt-adoption-broadened-in-early-2026"
         },
         {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "source": "OpenAI",
-          "published_at": "2026-05-11T10:00:00Z",
-          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
-        },
-        {
           "title": "How enterprises are scaling AI",
           "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
           "source": "OpenAI",
@@ -202,6 +241,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
+        },
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
         },
         {
           "title": "OpenAI launches DeployCo to help businesses build around intelligence",
@@ -254,51 +306,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-08-running-codex-safely-at-openai"
-        },
-        {
-          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-          "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T13:00:00Z",
-          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-scaling-trusted-access-for-cyber-with-gpt-5-5"
-        },
-        {
-          "title": "Parloa builds service agents customers want to talk to",
-          "url": "https://openai.com/index/parloa",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T11:00:00Z",
-          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-parloa-builds-service-agents-customers-want-to-talk"
-        },
-        {
-          "title": "Advancing voice intelligence with new models in the API",
-          "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T10:00:00Z",
-          "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-advancing-voice-intelligence-with-new-models-in-the"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Graphene “Tattoos” for Plants Could Form Neural Networks",
+          "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-14T16:05:04Z",
+          "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field, and for the leaves of trees in an area vulnerable to forest fires. But the traditional techniques to monitor leaf hydratio…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-14-graphene-tattoos-for-plants-could-form-neural-networks"
+        },
+        {
+          "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+          "url": "https://spectrum.ieee.org/applied-materials-epic-center",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-14T10:00:01Z",
+          "summary": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under th…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-14-accelerating-chipmaking-innovation-for-the-energy-efficient-ai-era"
+        },
         {
           "title": "Can AI Chatbots Reason Like Doctors?",
           "url": "https://spectrum.ieee.org/ai-clinical-decision-support",
@@ -324,32 +363,37 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-05-13-archivists-turn-to-llms-to-decipher-handwriting-at"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
-          "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-12T17:15:15Z",
-          "summary": "This sponsored article is brought to you by Ampace . As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of th…",
+          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+          "source": "Hugging Face",
+          "published_at": "2026-05-14T18:55:01Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-05-12-neutralizing-the-gigascale-problem-how-to-solve-the"
+          "category": "herramientas",
+          "id": "huggingface-2026-05-14-granite-embedding-multilingual-r2-open-apache-2-0"
         },
         {
-          "title": "Your Next AI Query May Travel Where the Power Is",
-          "url": "https://spectrum.ieee.org/distributed-inference-data-centers",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-12T12:00:01Z",
-          "summary": "The rise of electricity-guzzling data centers has forced the artificial intelligence industry to get creative about finding power. One of the latest ideas: Build micro data centers next to utility substations and operate…",
+          "title": "Unlocking asynchronicity in continuous batching",
+          "url": "https://huggingface.co/blog/continuous_async",
+          "source": "Hugging Face",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-05-12-your-next-ai-query-may-travel-where-the"
+          "category": "herramientas",
+          "id": "huggingface-2026-05-14-unlocking-asynchronicity-in-continuous-batching"
         }
       ]
     },
@@ -357,199 +401,186 @@
       "name": "General",
       "items": [
         {
-          "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
-          "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+          "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+          "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
           "source": "The Verge",
-          "published_at": "2026-05-13T19:19:00Z",
-          "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online series The Backrooms: a …",
+          "published_at": "2026-05-14T20:52:19Z",
+          "summary": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has poste…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-the-crypto-clarity-act-returns-to-the-senate"
+          "id": "theverge-2026-05-14-leaked-images-reveal-xbox-elite-3-controller-with"
         },
         {
-          "title": "Fighting Trump will make or break Disney’s new CEO",
-          "url": "https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine",
+          "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
           "source": "The Verge",
-          "published_at": "2026-05-13T19:15:21Z",
-          "summary": "A week ago, newly appointed Disney CEO Josh D'Amaro was busy regaling investors with plans to turn Disney Plus into the company's \"digital centerpiece.\" By last Friday, though, his attention had presumably shifted to a f…",
+          "published_at": "2026-05-14T20:00:00Z",
+          "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-fighting-trump-will-make-or-break-disney-s"
+          "id": "theverge-2026-05-14-openai-s-codex-is-now-in-the-chatgpt"
         },
         {
-          "title": "Netflix’s ad ambitions just keep growing",
-          "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
+          "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+          "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-05-13T18:45:32Z",
-          "summary": "For the second year in a row, Netflix's ad-supported tier more than doubled its monthly viewerbase. During its 2026 upfront presentation, Netflix revealed that its $8.99-per-month plan reaches more than 250 million peopl…",
+          "published_at": "2026-05-14T19:44:17Z",
+          "summary": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the origina…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-netflix-s-ad-ambitions-just-keep-growing"
+          "id": "theverge-2026-05-14-meta-s-summer-sale-drops-ray-ban-s-new"
         },
         {
-          "title": "Everything at The Criterion Collection is 30 percent off right now",
-          "url": "https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale",
+          "title": "Microsoft starts canceling Claude Code licenses",
+          "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
           "source": "The Verge",
-          "published_at": "2026-05-13T18:41:49Z",
-          "summary": "If you’ve been meaning to grow your physical movie collection, now’s a good time to do it. Through May 25th, The Criterion Collection is taking 30 percent off every disc on its site, including standard Blu-rays, 4K relea…",
+          "published_at": "2026-05-14T19:00:00Z",
+          "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and oth…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-everything-at-the-criterion-collection-is-30-percent"
+          "id": "theverge-2026-05-14-microsoft-starts-canceling-claude-code-licenses"
         },
         {
-          "title": "Instagram hits the copy button again with new disappearing Instants photos",
-          "url": "https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app",
+          "title": "Linux devs are fighting the new age-gated internet",
+          "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
           "source": "The Verge",
-          "published_at": "2026-05-13T17:57:41Z",
-          "summary": "Instagram is once again cribbing from competitors like Snapchat and BeReal with a new photo-sharing format it calls \"Instants,\" which are ephemeral photos that you can't edit and that you can only share with your close f…",
+          "published_at": "2026-05-14T18:58:00Z",
+          "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Andr…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-instagram-hits-the-copy-button-again-with-new"
+          "id": "theverge-2026-05-14-linux-devs-are-fighting-the-new-age-gated-internet"
         },
         {
-          "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
-          "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-          "source": "The Verge",
-          "published_at": "2026-05-13T16:45:43Z",
-          "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history…",
+          "title": "El 'Netflix chino' ha diseñado un plan para que la IA genere la mayoría de su contenido en cinco años. Suena arriesgado",
+          "url": "https://www.xataka.com/robotica-e-ia/netflix-chino-ha-disenado-plan-ia-genere-mayoria-su-contenido-cinco-anos-suena-arriesgado",
+          "source": "Xataka",
+          "published_at": "2026-05-14T17:31:29Z",
+          "summary": "iQiyi, el mayor servicio de vídeo en streaming de China con más de 400 millones de usuarios activos al mes, anunció en su presentación anual de contenidos en Pekín que prevé que la IA genere la mayor parte de sus películ…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-13-mark-zuckerberg-announces-8216-completely-private-8217-encrypted"
+          "id": "xataka-2026-05-14-el-netflix-chino-ha-disenado-un-plan-para"
         },
         {
-          "title": "El tokenmaxxing ya tiene su primer absurdo: algunos empleados de Amazon usan IA solo para inflar sus métricas de tokens",
+          "title": "Una IA montó una cafetería desde cero: sacó permisos, contrató personal y negoció con proveedores. Luego pidió 3.000 guantes de goma",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-monto-cafeteria-cero-saco-permisos-contrato-personal-negocio-proveedores-luego-pidio-3-000-guantes-goma",
+          "source": "Xataka",
+          "published_at": "2026-05-14T13:01:30Z",
+          "summary": "El lanzamiento de OpenClaw marcó una nueva en la carrera de la IA, una en la que la IA agéntica se ocupa de tareas complejas en las que hasta hace poco fallaba estrepitosamente. A pesar de que el salto cualitativo es inn…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-14-una-ia-monto-una-cafeteria-desde-cero-saco"
+        },
+        {
+          "title": "La última pesadilla de los centros de datos de IA no es subirte la factura de la luz: son los infrasonidos que no se oyen pero se sienten",
+          "url": "https://www.xataka.com/robotica-e-ia/ultima-pesadilla-centros-datos-ia-no-subirte-factura-luz-infrasonidos-que-no-se-oyen-se-sienten",
+          "source": "Xataka",
+          "published_at": "2026-05-14T12:15:29Z",
+          "summary": "Quienes viven cerca de centros de datos en EEUU están denunciando estar siendo afectados por los llamados infrasonidos. Se trata de sonidos de baja frecuencia que están por debajo de los límites de audición humanos pero …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-14-la-ultima-pesadilla-de-los-centros-de-datos"
+        },
+        {
+          "title": "Fue a una fiesta, se colocó y olvidó la contraseña de sus bitcoins. 11 años después ha logrado recuperar 400.000 dólares gracias a Claude",
+          "url": "https://www.xataka.com/criptomonedas/claude-ha-ayudado-a-hombre-a-recuperar-400-000-dolares-bitcoin-que-perdio-hace-11-anos-se-coloco-olvido-contrasena",
+          "source": "Xataka",
+          "published_at": "2026-05-14T10:45:00Z",
+          "summary": "Un usuario de X llamado Cprkrn contaba recientemente su odisea con final (muy) feliz en X .&nbsp;En 2015 compró cinco bitcoins (BTC) cuando el precio rondaba los 250 dólares. En un arrebato de euforia universitaria decid…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-14-fue-a-una-fiesta-se-coloco-y-olvido"
+        },
+        {
+          "title": "El director general de Nvidia está en China. Y se juega el futuro de su empresa allí",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-gana-victoria-parcial-tiene-permiso-para-vender-su-gpu-h200-a-10-empresas-chinas",
+          "source": "Xataka",
+          "published_at": "2026-05-14T08:55:00Z",
+          "summary": "Alibaba, Tencent, ByteDance y JD.com son cuatro de las diez empresas chinas que ya tienen acceso a la GPU para inteligencia artificial (IA) H200 de NVIDIA . Según Reuters , el Departamento de Comercio de EEUU, que es la …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-14-el-director-general-de-nvidia-esta-en-china"
+        },
+        {
+          "title": "Los centros de datos gigantes tienen un problema de espacio y energía. Una empresa quiere trocearlos y repartirlos por las casas",
+          "url": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
+          "source": "Xataka",
+          "published_at": "2026-05-14T07:00:00Z",
+          "summary": "Los centros de datos se han convertido en las nuevas antenas de telefonía: nadie quiere vivir cerca de uno, ni aunque ofrezcan una pasta para construir uno . Hay motivos de peso, como la contaminación o que disparan los …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-14-los-centros-de-datos-gigantes-tienen-un-problema"
+        },
+        {
+          "title": "Hay trabajadores de Amazon gastando tokens de IA solo para inflar las métricas de tokens gastados en IA",
           "url": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
           "source": "Xataka",
-          "published_at": "2026-05-13T13:45:49Z",
+          "published_at": "2026-05-13T13:45:00Z",
           "summary": "El tokenmaxxing tiene ahora su caso más documentado. Algunos empleados de Amazon llevan semanas usando MeshClaw , una herramienta interna de agentes de IA, para automatizar tareas innecesarias y así inflar su consumo de …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-13-el-tokenmaxxing-ya-tiene-su-primer-absurdo-algunos"
+          "id": "xataka-2026-05-13-hay-trabajadores-de-amazon-gastando-tokens-de-ia"
         },
         {
-          "title": "Microsoft quería crear un megacentro de datos en Kenia. Para funcionar, medio país tenía que vivir sin luz",
+          "title": "El cuello de botella de la IA no son los chips ni el talento: es la electricidad, y Kenia acaba de demostrarlo",
           "url": "https://www.xataka.com/robotica-e-ia/microsoft-queria-crear-megacentro-datos-kenia-para-funcionar-medio-pais-tenia-que-vivir-luz",
           "source": "Xataka",
-          "published_at": "2026-05-13T12:15:48Z",
+          "published_at": "2026-05-13T12:15:00Z",
           "summary": "En mayo de 2024 Microsoft anunciaba lo que parecía un acuerdo histórico para el desarrollo tecnológico de Kenia. El objetivo: crear un gigantesco centro de datos que estaría impulsado por energía geotérmica. Dicho centro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-13-microsoft-queria-crear-un-megacentro-de-datos-en"
+          "id": "xataka-2026-05-13-el-cuello-de-botella-de-la-ia-no"
         },
         {
-          "title": "Los fans de la IA tienen una nueva obsesión: llevar el portátil en \"modo taco\" por aeropuertos y oficinas",
+          "title": "Hay dos clases de usuarios de IA en el mundo. Y los que llevan el MacBook a medio cerrar son la nueva élite",
           "url": "https://www.xataka.com/robotica-e-ia/fans-ia-tienen-nueva-obsesion-llevar-portatil-modo-taco-aeropuertos-oficinas",
           "source": "Xataka",
-          "published_at": "2026-05-13T11:31:48Z",
+          "published_at": "2026-05-13T11:30:00Z",
           "summary": "El vídeo es, la verdad, rarito . En él aparece una mano llevando un portátil cerrado &nbsp;mientras sube unas escaleras. Unos instantes después, la toma cambia, y esa misma mano lleva el mismo portátil ligeramente abiert…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-13-los-fans-de-la-ia-tienen-una-nueva"
-        },
-        {
-          "title": "La industria de la IA tiene una nueva forma de convencerte de que necesitas la IA: darte miedo con la ciberseguridad",
-          "url": "https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad",
-          "source": "Xataka",
-          "published_at": "2026-05-13T06:30:00Z",
-          "summary": "Claude Mythos Preview ha puesto patas arriba el segmento de la IA. El nuevo modelo de Anthropic es tan poderoso que sus creadores han preferido no lanzarlo públicamente. En su anuncio oficial ya lo dejaron claro: es capa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-13-la-industria-de-la-ia-tiene-una-nueva"
-        },
-        {
-          "title": "La gran apuesta para el futuro de Android no es solo Android 17: es Gemini Intelligence y que tu móvil haga cosas solo",
-          "url": "https://www.xataka.com/robotica-e-ia/mayor-apuesta-android-ia-tiene-nombre-se-llama-gemini-intelligence-quiere-cambiar-como-usamos-movil",
-          "source": "Xataka",
-          "published_at": "2026-05-12T17:25:00Z",
-          "summary": "Google acaba de presentar Gemini Intelligence en The Android Show , el gran evento donde se ha presentado lo último de Android 17. El nombre, que inevitablemente recuerda a Apple Intelligence , deja bastante claro por dó…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-12-la-gran-apuesta-para-el-futuro-de-android"
-        },
-        {
-          "title": "Claude está prohibido en China. Eso no ha impedido a los usuarios chinos crear un alucinante mercado negro de tokens",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-no-ofrece-sus-servicios-china-asi-que-china-se-ha-inventado-mercado-negro-tokens-claude",
-          "source": "Xataka",
-          "published_at": "2026-05-12T10:30:00Z",
-          "summary": "Claude se ha convertido en el modelo más deseado por los desarrolladores e ingenieros más exigentes, pero no está disponible en China continental por motivos regulatorios y de seguridad . Allí la demanda sigue siendo not…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-12-claude-esta-prohibido-en-china-eso-no-ha"
-        },
-        {
-          "title": "Lo que parecía imposible se está haciendo realidad: el dominio de TSMC se está empezando a romper y AMD lo sabe",
-          "url": "https://www.xataka.com/empresas-y-economia/dominio-tsmc-se-esta-resquebrajando-amd-ha-tomado-decision-que-ahora-parecia-imposible",
-          "source": "Xataka",
-          "published_at": "2026-05-12T10:00:00Z",
-          "summary": "Lisa Su, la directora general de AMD, visitó el campus de Samsung en Pyeongtaek &nbsp;(Corea del Sur) en marzo. En ese momento algunos medios de comunicación asiáticos barajaron la posibilidad de que el propósito de esta…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-12-lo-que-parecia-imposible-se-esta-haciendo-realidad"
-        },
-        {
-          "title": "\"En cinco años deberán pagar impuestos\": Bill Gates ha señalado el elefante en la habitación de la IA y los humanoides",
-          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-advierte-que-ia-no-saldra-gratis-cinco-anos-robots-e-ia-deberan-pagar-impuestos-clase-media-baja",
-          "source": "Xataka",
-          "published_at": "2026-05-12T09:30:00Z",
-          "summary": "Dicen que sabe más el diablo por viejo, que por diablo. Por eso, cuando se trata de tener visión de futuro en el ámbito tecnológico, pocas voces tienen el peso de la de Bill Gates. Al fin y al cabo, él fue uno de los pro…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-12-en-cinco-anos-deberan-pagar-impuestos-bill-gates"
-        },
-        {
-          "title": "Corning triunfó fabricando el cristal \"blindado\" de nuestros teléfonos. Ahora se ha convertido en el capricho de Nvidia",
-          "url": "https://www.xataka.com/empresas-y-economia/fabricar-vidrio-iphone-a-ser-pieza-clave-ia-corning-tiene-solucion-para-acelerar-chips-nvidia",
-          "source": "Xataka",
-          "published_at": "2026-05-12T08:00:00Z",
-          "summary": "Hay buenas razones por las que una compañía de la talla de Nvidia querría colaborar con una empresa como Corning, especialistas en fabricar el cristal que protege nuestros teléfonos móviles. Corning ofrece más productos …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-12-corning-triunfo-fabricando-el-cristal-blindado-de-nuestros"
+          "id": "xataka-2026-05-13-hay-dos-clases-de-usuarios-de-ia-en"
         }
       ]
     }
@@ -586,6 +617,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Sea's View on the Future of Agentic Software Development with Codex",
+          "url": "https://openai.com/index/sea-david-chen",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T20:30:00Z",
+          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-sea-s-view-on-the-future-of-agentic"
+        },
+        {
+          "title": "Work with Codex from anywhere",
+          "url": "https://openai.com/index/work-with-codex-from-anywhere",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T13:00:00Z",
+          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-work-with-codex-from-anywhere"
+        },
+        {
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "source": "OpenAI",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-14-helping-chatgpt-better-recognize-context-in-sensitive-conversations"
+        },
         {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "url": "https://openai.com/index/building-codex-windows-sandbox",
@@ -678,19 +748,6 @@
           "id": "openai-2026-05-11-how-chatgpt-adoption-broadened-in-early-2026"
         },
         {
-          "title": "OpenAI Campus Network: Student club interest form",
-          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "source": "OpenAI",
-          "published_at": "2026-05-11T10:00:00Z",
-          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
-        },
-        {
           "title": "How enterprises are scaling AI",
           "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
           "source": "OpenAI",
@@ -702,6 +759,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
+        },
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
         },
         {
           "title": "OpenAI launches DeployCo to help businesses build around intelligence",
@@ -728,45 +798,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-08-running-codex-safely-at-openai"
-        },
-        {
-          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-          "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T13:00:00Z",
-          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-scaling-trusted-access-for-cyber-with-gpt-5-5"
-        },
-        {
-          "title": "Parloa builds service agents customers want to talk to",
-          "url": "https://openai.com/index/parloa",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T11:00:00Z",
-          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-parloa-builds-service-agents-customers-want-to-talk"
-        },
-        {
-          "title": "Advancing voice intelligence with new models in the API",
-          "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-05-07T10:00:00Z",
-          "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-07-advancing-voice-intelligence-with-new-models-in-the"
         }
       ]
     },
@@ -774,6 +805,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "Anthropic forms $200 million partnership with the Gates Foundation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-14-anthropic-forms-200-million-partnership-with-the-gates"
+        },
         {
           "title": "Introducing Claude for Small Business",
           "url": "https://www.anthropic.com/news/claude-for-small-business",
