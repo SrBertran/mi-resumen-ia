@@ -1,78 +1,104 @@
 {
-  "date": "2026-05-15",
-  "generated_at": "2026-05-15T07:34:17.421777Z",
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T07:14:51.205708Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
-      "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+      "title": "Xbox is now XBOX",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
       "source": "The Verge",
-      "published_at": "2026-05-14T22:46:55Z",
-      "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was annou…",
+      "published_at": "2026-05-15T23:10:13Z",
+      "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-14-honda-8217-s-hybrid-future-starts-with-new"
+      "id": "theverge-2026-05-15-xbox-is-now-xbox"
     },
     {
-      "title": "Closing time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
       "source": "The Verge",
-      "published_at": "2026-05-14T22:21:46Z",
-      "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called…",
+      "published_at": "2026-05-15T22:25:00Z",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a s…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-14-closing-time"
+      "id": "theverge-2026-05-15-youtube-is-expanding-its-ai-deepfake-detection-tool"
     },
     {
-      "title": "Metroid Prime 4: Beyond got its first big discount",
-      "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
       "source": "The Verge",
-      "published_at": "2026-05-14T21:38:45Z",
-      "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surpri…",
+      "published_at": "2026-05-15T21:14:45Z",
+      "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-14-metroid-prime-4-beyond-got-its-first-big"
+      "id": "theverge-2026-05-15-windows-11-tests-an-adjustable-taskbar-and-resizable"
     },
     {
-      "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
-      "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
       "source": "The Verge",
-      "published_at": "2026-05-14T21:08:46Z",
-      "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger,…",
+      "published_at": "2026-05-15T20:38:19Z",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the …",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "theverge-2026-05-14-meta-brings-virtual-writing-to-everyone-with-meta"
+      "category": "investigación",
+      "id": "theverge-2026-05-15-arxiv-will-ban-researchers-who-upload-papers-full"
     },
     {
-      "title": "Behold, the Elon Musk jackass trophy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "source": "The Verge",
-      "published_at": "2026-05-14T20:59:23Z",
-      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription al…",
+      "title": "La IA ha puesto patas arriba una vieja regla de los servidores: la memoria ya no quiere vivir en cada máquina",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-ha-puesto-patas-arriba-vieja-regla-servidores-memoria-no-quiere-vivir-cada-maquina",
+      "source": "Xataka",
+      "published_at": "2026-05-15T19:31:30Z",
+      "summary": "Para muchos de nosotros, la escasez de memoria puede sonar primero a un problema cercano al consumo doméstico: módulos de RAM, componentes y dispositivos condicionados por una demanda cada vez más tensionada. Pero el fen…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-14-behold-the-elon-musk-jackass-trophy"
+      "id": "xataka-2026-05-15-la-ia-ha-puesto-patas-arriba-una-vieja"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "A new personal finance experience in ChatGPT",
+          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
+        },
+        {
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "url": "https://openai.com/index/databricks",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
+        },
         {
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
           "url": "https://openai.com/index/sea-david-chen",
@@ -124,6 +150,19 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-14-anthropic-forms-200-million-partnership-with-the-gates"
+        },
+        {
+          "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+          "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-14-pwc-is-deploying-claude-to-build-technology-execute"
         },
         {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
@@ -178,17 +217,17 @@
           "id": "openai-2026-05-12-how-finance-teams-use-codex"
         },
         {
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "url": "https://openai.com/index/what-parameter-golf-taught-us",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "url": "https://openai.com/index/nvidia",
           "source": "OpenAI",
           "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-12-what-parameter-golf-taught-us-about-ai-assisted-research"
+          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
         },
         {
           "title": "AutoScout24 scales engineering with AI-powered workflows",
@@ -204,17 +243,17 @@
           "id": "openai-2026-05-12-autoscout24-scales-engineering-with-ai-powered-workflows"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "url": "https://openai.com/index/nvidia",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "url": "https://openai.com/index/what-parameter-golf-taught-us",
           "source": "OpenAI",
           "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
+          "id": "openai-2026-05-12-what-parameter-golf-taught-us-about-ai-assisted-research"
         },
         {
           "title": "How ChatGPT adoption broadened in early 2026",
@@ -230,19 +269,6 @@
           "id": "openai-2026-05-11-how-chatgpt-adoption-broadened-in-early-2026"
         },
         {
-          "title": "How enterprises are scaling AI",
-          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "source": "OpenAI",
-          "published_at": "2026-05-11T10:00:00Z",
-          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
-        },
-        {
           "title": "OpenAI Campus Network: Student club interest form",
           "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
           "source": "OpenAI",
@@ -254,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
         },
         {
           "title": "OpenAI launches DeployCo to help businesses build around intelligence",
@@ -280,32 +319,24 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-11-the-new-ai-powered-google-finance-is-expanding-to"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "See what happens when creative legends use AI to make ads for small businesses.",
-          "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-          "source": "Google AI",
-          "published_at": "2026-05-08T15:00:00Z",
-          "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+          "title": "Samsung, Hyundai y LG están poniendo dinero en una enigmática startup: quiere ser el “TSMC” de los datos para robots",
+          "url": "https://www.xataka.com/robotica-e-ia/samsung-hyundai-lg-estan-poniendo-dinero-enigmatica-startup-quiere-ser-tsmc-datos-para-robots",
+          "source": "Xataka",
+          "published_at": "2026-05-15T07:31:30Z",
+          "summary": "Durante los últimos años hemos visto cómo la inteligencia artificial avanzaba sobre una materia prima relativamente abundante: texto, imágenes, vídeos y código publicado en la web. Con los robots, el terreno cambia por c…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-08-see-what-happens-when-creative-legends-use-ai"
-        },
-        {
-          "title": "Running Codex safely at OpenAI",
-          "url": "https://openai.com/index/running-codex-safely",
-          "source": "OpenAI",
-          "published_at": "2026-05-08T12:30:00Z",
-          "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-08-running-codex-safely-at-openai"
+          "category": "negocio",
+          "id": "xataka-2026-05-15-samsung-hyundai-y-lg-estan-poniendo-dinero-en"
         }
       ]
     },
@@ -317,7 +348,7 @@
           "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
           "source": "IEEE Spectrum",
           "published_at": "2026-05-14T16:05:04Z",
-          "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field, and for the leaves of trees in an area vulnerable to forest fires. But the traditional techniques to monitor leaf hydratio…",
+          "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires. But the traditional techniques to monitor leaf hydration…",
           "why_it_matters": "",
           "tags": [
             "investigación"
@@ -337,32 +368,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-05-14-accelerating-chipmaking-innovation-for-the-energy-efficient-ai-era"
-        },
-        {
-          "title": "Can AI Chatbots Reason Like Doctors?",
-          "url": "https://spectrum.ieee.org/ai-clinical-decision-support",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-13T14:00:02Z",
-          "summary": "One of the earliest stated goals for computing in medicine was to aid in clinical reasoning: the decision-making steps required to reach a diagnosis and form a treatment plan. And over the years, researchers have built m…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-13-can-ai-chatbots-reason-like-doctors"
-        },
-        {
-          "title": "Archivists Turn to LLMs to Decipher Handwriting at Scale",
-          "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-13T12:00:01Z",
-          "summary": "When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-13-archivists-turn-to-llms-to-decipher-handwriting-at"
         }
       ]
     },
@@ -381,19 +386,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-05-14-granite-embedding-multilingual-r2-open-apache-2-0"
-        },
-        {
-          "title": "Unlocking asynchronicity in continuous batching",
-          "url": "https://huggingface.co/blog/continuous_async",
-          "source": "Hugging Face",
-          "published_at": "2026-05-14T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-14-unlocking-asynchronicity-in-continuous-batching"
         }
       ]
     },
@@ -401,69 +393,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
-          "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+          "title": "The Analogue 3D is finally getting save states",
+          "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
           "source": "The Verge",
-          "published_at": "2026-05-14T20:52:19Z",
-          "summary": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has poste…",
+          "published_at": "2026-05-15T18:43:43Z",
+          "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-14-leaked-images-reveal-xbox-elite-3-controller-with"
+          "id": "theverge-2026-05-15-the-analogue-3d-is-finally-getting-save-states"
         },
         {
-          "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+          "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
           "source": "The Verge",
-          "published_at": "2026-05-14T20:00:00Z",
-          "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI …",
+          "published_at": "2026-05-15T18:21:35Z",
+          "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-14-openai-s-codex-is-now-in-the-chatgpt"
+          "id": "theverge-2026-05-15-openai-keeps-shuffling-its-executives-in-bid-to"
         },
         {
-          "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
-          "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+          "title": "One of Intel’s fastest desktop CPUs is $50 off",
+          "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-05-14T19:44:17Z",
-          "summary": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the origina…",
+          "published_at": "2026-05-15T17:46:20Z",
+          "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor givi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-14-meta-s-summer-sale-drops-ray-ban-s-new"
+          "id": "theverge-2026-05-15-one-of-intel-s-fastest-desktop-cpus-is"
         },
         {
-          "title": "Microsoft starts canceling Claude Code licenses",
-          "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
           "source": "The Verge",
-          "published_at": "2026-05-14T19:00:00Z",
-          "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and oth…",
+          "published_at": "2026-05-15T17:09:16Z",
+          "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking F…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-14-microsoft-starts-canceling-claude-code-licenses"
+          "id": "theverge-2026-05-15-ai-radio-hosts-demonstrate-why-ai-can-t"
         },
         {
-          "title": "Linux devs are fighting the new age-gated internet",
-          "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+          "title": "Does Trump Mobile know how many stripes are on the American flag?",
+          "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
           "source": "The Verge",
-          "published_at": "2026-05-14T18:58:00Z",
-          "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Andr…",
+          "published_at": "2026-05-15T16:47:16Z",
+          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-14-linux-devs-are-fighting-the-new-age-gated-internet"
+          "id": "theverge-2026-05-15-does-trump-mobile-know-how-many-stripes-are"
+        },
+        {
+          "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+          "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+          "source": "The Verge",
+          "published_at": "2026-05-15T16:42:59Z",
+          "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Sear…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-15-google-updates-its-spam-rules-to-include-attempts"
+        },
+        {
+          "title": "Despedir a empleados y ahorrar para la IA parecía un plan sin fisuras para obtener más beneficios. Los datos demuestran que no",
+          "url": "https://www.xataka.com/empresas-y-economia/para-sorpresa-nadie-empresas-que-despiden-a-empleados-ia-no-estan-teniendo-beneficios-que-esperaban",
+          "source": "Xataka",
+          "published_at": "2026-05-15T09:30:00Z",
+          "summary": "Llevamos años escuchando que la inteligencia artificial iba a transformar el mercado laboral tal y como lo conocemos. Al parecer, las empresas que apostaran fuerte por la automatización ganarían productividad, ahorrarían…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-15-despedir-a-empleados-y-ahorrar-para-la-ia"
         },
         {
           "title": "El 'Netflix chino' ha diseñado un plan para que la IA genere la mayoría de su contenido en cinco años. Suena arriesgado",
@@ -529,58 +547,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-14-el-director-general-de-nvidia-esta-en-china"
-        },
-        {
-          "title": "Los centros de datos gigantes tienen un problema de espacio y energía. Una empresa quiere trocearlos y repartirlos por las casas",
-          "url": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
-          "source": "Xataka",
-          "published_at": "2026-05-14T07:00:00Z",
-          "summary": "Los centros de datos se han convertido en las nuevas antenas de telefonía: nadie quiere vivir cerca de uno, ni aunque ofrezcan una pasta para construir uno . Hay motivos de peso, como la contaminación o que disparan los …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-los-centros-de-datos-gigantes-tienen-un-problema"
-        },
-        {
-          "title": "Hay trabajadores de Amazon gastando tokens de IA solo para inflar las métricas de tokens gastados en IA",
-          "url": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
-          "source": "Xataka",
-          "published_at": "2026-05-13T13:45:00Z",
-          "summary": "El tokenmaxxing tiene ahora su caso más documentado. Algunos empleados de Amazon llevan semanas usando MeshClaw , una herramienta interna de agentes de IA, para automatizar tareas innecesarias y así inflar su consumo de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-13-hay-trabajadores-de-amazon-gastando-tokens-de-ia"
-        },
-        {
-          "title": "El cuello de botella de la IA no son los chips ni el talento: es la electricidad, y Kenia acaba de demostrarlo",
-          "url": "https://www.xataka.com/robotica-e-ia/microsoft-queria-crear-megacentro-datos-kenia-para-funcionar-medio-pais-tenia-que-vivir-luz",
-          "source": "Xataka",
-          "published_at": "2026-05-13T12:15:00Z",
-          "summary": "En mayo de 2024 Microsoft anunciaba lo que parecía un acuerdo histórico para el desarrollo tecnológico de Kenia. El objetivo: crear un gigantesco centro de datos que estaría impulsado por energía geotérmica. Dicho centro…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-13-el-cuello-de-botella-de-la-ia-no"
-        },
-        {
-          "title": "Hay dos clases de usuarios de IA en el mundo. Y los que llevan el MacBook a medio cerrar son la nueva élite",
-          "url": "https://www.xataka.com/robotica-e-ia/fans-ia-tienen-nueva-obsesion-llevar-portatil-modo-taco-aeropuertos-oficinas",
-          "source": "Xataka",
-          "published_at": "2026-05-13T11:30:00Z",
-          "summary": "El vídeo es, la verdad, rarito . En él aparece una mano llevando un portátil cerrado &nbsp;mientras sube unas escaleras. Unos instantes después, la toma cambia, y esa misma mano lleva el mismo portátil ligeramente abiert…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-13-hay-dos-clases-de-usuarios-de-ia-en"
         }
       ]
     }
@@ -617,6 +583,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "A new personal finance experience in ChatGPT",
+          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
+        },
+        {
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "url": "https://openai.com/index/databricks",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
+        },
         {
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
           "url": "https://openai.com/index/sea-david-chen",
@@ -696,17 +688,17 @@
           "id": "openai-2026-05-12-how-finance-teams-use-codex"
         },
         {
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "url": "https://openai.com/index/what-parameter-golf-taught-us",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "url": "https://openai.com/index/nvidia",
           "source": "OpenAI",
           "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-12-what-parameter-golf-taught-us-about-ai-assisted-research"
+          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
         },
         {
           "title": "AutoScout24 scales engineering with AI-powered workflows",
@@ -722,17 +714,17 @@
           "id": "openai-2026-05-12-autoscout24-scales-engineering-with-ai-powered-workflows"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "url": "https://openai.com/index/nvidia",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "url": "https://openai.com/index/what-parameter-golf-taught-us",
           "source": "OpenAI",
           "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
+          "id": "openai-2026-05-12-what-parameter-golf-taught-us-about-ai-assisted-research"
         },
         {
           "title": "How ChatGPT adoption broadened in early 2026",
@@ -748,19 +740,6 @@
           "id": "openai-2026-05-11-how-chatgpt-adoption-broadened-in-early-2026"
         },
         {
-          "title": "How enterprises are scaling AI",
-          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "source": "OpenAI",
-          "published_at": "2026-05-11T10:00:00Z",
-          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
-        },
-        {
           "title": "OpenAI Campus Network: Student club interest form",
           "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
           "source": "OpenAI",
@@ -774,6 +753,19 @@
           "id": "openai-2026-05-11-openai-campus-network-student-club-interest-form"
         },
         {
+          "title": "How enterprises are scaling AI",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI",
+          "published_at": "2026-05-11T10:00:00Z",
+          "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-11-how-enterprises-are-scaling-ai"
+        },
+        {
           "title": "OpenAI launches DeployCo to help businesses build around intelligence",
           "url": "https://openai.com/index/openai-launches-the-deployment-company",
           "source": "OpenAI",
@@ -785,19 +777,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-11-openai-launches-deployco-to-help-businesses-build-around"
-        },
-        {
-          "title": "Running Codex safely at OpenAI",
-          "url": "https://openai.com/index/running-codex-safely",
-          "source": "OpenAI",
-          "published_at": "2026-05-08T12:30:00Z",
-          "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-08-running-codex-safely-at-openai"
         }
       ]
     },
@@ -817,6 +796,19 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-14-anthropic-forms-200-million-partnership-with-the-gates"
+        },
+        {
+          "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+          "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-05-14T00:00:00Z",
+          "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-14-pwc-is-deploying-claude-to-build-technology-execute"
         },
         {
           "title": "Introducing Claude for Small Business",
@@ -849,19 +841,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-11-the-new-ai-powered-google-finance-is-expanding-to"
-        },
-        {
-          "title": "See what happens when creative legends use AI to make ads for small businesses.",
-          "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-          "source": "Google AI",
-          "published_at": "2026-05-08T15:00:00Z",
-          "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-08-see-what-happens-when-creative-legends-use-ai"
         }
       ]
     },
