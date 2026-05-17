@@ -1,78 +1,130 @@
 {
-  "date": "2026-05-16",
-  "generated_at": "2026-05-16T07:14:51.205708Z",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T07:23:48.164019Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Xbox is now XBOX",
-      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+      "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
       "source": "The Verge",
-      "published_at": "2026-05-15T23:10:13Z",
-      "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or …",
+      "published_at": "2026-05-16T18:34:23Z",
+      "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-15-xbox-is-now-xbox"
+      "id": "theverge-2026-05-16-snap-youtube-and-tiktok-settle-suit-over-harm"
     },
     {
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
       "source": "The Verge",
-      "published_at": "2026-05-15T22:25:00Z",
-      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a s…",
+      "published_at": "2026-05-16T15:37:05Z",
+      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-15-youtube-is-expanding-its-ai-deepfake-detection-tool"
+      "id": "theverge-2026-05-16-sony-tries-to-explain-that-its-ai-camera"
     },
     {
-      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
-      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
       "source": "The Verge",
-      "published_at": "2026-05-15T21:14:45Z",
-      "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the t…",
+      "published_at": "2026-05-16T15:00:00Z",
+      "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Col…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-15-windows-11-tests-an-adjustable-taskbar-and-resizable"
+      "id": "theverge-2026-05-16-npr-s-manoush-zomorodi-talks-about-living-with"
     },
     {
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
       "source": "The Verge",
-      "published_at": "2026-05-15T20:38:19Z",
-      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the …",
+      "published_at": "2026-05-16T14:00:00Z",
+      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 mode…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-16-turtle-beach-made-a-good-steelseries-headset-clone"
+    },
+    {
+      "title": "AI Rings on Fingers Can Interpret Sign Language",
+      "url": "https://spectrum.ieee.org/sign-language-interpreter",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-05-16T13:00:01Z",
+      "summary": "Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds. “I believe this is an important step toward making sign language translation systems …",
       "why_it_matters": "",
       "tags": [
         "investigación"
       ],
       "category": "investigación",
-      "id": "theverge-2026-05-15-arxiv-will-ban-researchers-who-upload-papers-full"
-    },
-    {
-      "title": "La IA ha puesto patas arriba una vieja regla de los servidores: la memoria ya no quiere vivir en cada máquina",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-ha-puesto-patas-arriba-vieja-regla-servidores-memoria-no-quiere-vivir-cada-maquina",
-      "source": "Xataka",
-      "published_at": "2026-05-15T19:31:30Z",
-      "summary": "Para muchos de nosotros, la escasez de memoria puede sonar primero a un problema cercano al consumo doméstico: módulos de RAM, componentes y dispositivos condicionados por una demanda cada vez más tensionada. Pero el fen…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-05-15-la-ia-ha-puesto-patas-arriba-una-vieja"
+      "id": "ieee-2026-05-16-ai-rings-on-fingers-can-interpret-sign-language"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+          "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-05-16T00:00:00Z",
+          "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-16-openai-and-malta-partner-to-bring-chatgpt-plus"
+        },
+        {
+          "title": "How business operations teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-how-business-operations-teams-use-codex"
+        },
+        {
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "url": "https://openai.com/index/databricks",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
+        },
+        {
+          "title": "How data science teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-how-data-science-teams-use-codex"
+        },
         {
           "title": "A new personal finance experience in ChatGPT",
           "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -87,17 +139,17 @@
           "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
         },
         {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "url": "https://openai.com/index/databricks",
+          "title": "How sales teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "source": "OpenAI",
           "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
+          "id": "openai-2026-05-15-how-sales-teams-use-codex"
         },
         {
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -217,19 +269,6 @@
           "id": "openai-2026-05-12-how-finance-teams-use-codex"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "url": "https://openai.com/index/nvidia",
-          "source": "OpenAI",
-          "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
-        },
-        {
           "title": "AutoScout24 scales engineering with AI-powered workflows",
           "url": "https://openai.com/index/autoscout24",
           "source": "OpenAI",
@@ -241,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-12-autoscout24-scales-engineering-with-ai-powered-workflows"
+        },
+        {
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "url": "https://openai.com/index/nvidia",
+          "source": "OpenAI",
+          "published_at": "2026-05-12T00:00:00Z",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
         },
         {
           "title": "What Parameter Golf taught us about AI-assisted research",
@@ -341,134 +393,111 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Graphene “Tattoos” for Plants Could Form Neural Networks",
-          "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-14T16:05:04Z",
-          "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires. But the traditional techniques to monitor leaf hydration…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-14-graphene-tattoos-for-plants-could-form-neural-networks"
-        },
-        {
-          "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
-          "url": "https://spectrum.ieee.org/applied-materials-epic-center",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-14T10:00:01Z",
-          "summary": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under th…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-14-accelerating-chipmaking-innovation-for-the-energy-efficient-ai-era"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-          "source": "Hugging Face",
-          "published_at": "2026-05-14T18:55:01Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-14-granite-embedding-multilingual-r2-open-apache-2-0"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "The Analogue 3D is finally getting save states",
-          "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
+          "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+          "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
           "source": "The Verge",
-          "published_at": "2026-05-15T18:43:43Z",
-          "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment …",
+          "published_at": "2026-05-16T13:00:00Z",
+          "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-the-analogue-3d-is-finally-getting-save-states"
+          "id": "theverge-2026-05-16-here-are-40-of-our-favorite-deals-from"
         },
         {
-          "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+          "title": "Mixtape is a musical portrait of teenage life",
+          "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
           "source": "The Verge",
-          "published_at": "2026-05-15T18:21:35Z",
-          "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since…",
+          "published_at": "2026-05-16T12:00:00Z",
+          "summary": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-openai-keeps-shuffling-its-executives-in-bid-to"
+          "id": "theverge-2026-05-16-mixtape-is-a-musical-portrait-of-teenage-life"
         },
         {
-          "title": "One of Intel’s fastest desktop CPUs is $50 off",
-          "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
+          "title": "The app you need to clean up your computer",
+          "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
           "source": "The Verge",
-          "published_at": "2026-05-15T17:46:20Z",
-          "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor givi…",
+          "published_at": "2026-05-16T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installe…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-one-of-intel-s-fastest-desktop-cpus-is"
+          "id": "theverge-2026-05-16-the-app-you-need-to-clean-up-your"
         },
         {
-          "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+          "title": "These are the laptops I recommend for pretty much anyone",
+          "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
           "source": "The Verge",
-          "published_at": "2026-05-15T17:09:16Z",
-          "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking F…",
+          "published_at": "2026-05-16T12:00:00Z",
+          "summary": "Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day for years to come. So t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-ai-radio-hosts-demonstrate-why-ai-can-t"
+          "id": "theverge-2026-05-16-these-are-the-laptops-i-recommend-for-pretty"
         },
         {
-          "title": "Does Trump Mobile know how many stripes are on the American flag?",
-          "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-          "source": "The Verge",
-          "published_at": "2026-05-15T16:47:16Z",
-          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we…",
+          "title": "NotebookLM vs Gemini: cuándo usar uno y cuándo usar el otro (y por qué no son lo mismo)",
+          "url": "https://www.xataka.com/basics/notebooklm-vs-gemini-cuando-usar-uno-cuando-usar-otro-que-no",
+          "source": "Xataka",
+          "published_at": "2026-05-16T10:01:30Z",
+          "summary": "Vamos a decirte las diferencias y cuándo usar NotebookLM o Gemini , de forma que tengas claras las finalidades de cada una de estas dos plataformas. Así, podrás saber las principales funciones, cuáles son sus característ…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-does-trump-mobile-know-how-many-stripes-are"
+          "id": "xataka-2026-05-16-notebooklm-vs-gemini-cuando-usar-uno-y-cuando"
         },
         {
-          "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-          "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+          "title": "Xbox is now XBOX",
+          "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
           "source": "The Verge",
-          "published_at": "2026-05-15T16:42:59Z",
-          "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Sear…",
+          "published_at": "2026-05-15T23:10:13Z",
+          "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-15-google-updates-its-spam-rules-to-include-attempts"
+          "id": "theverge-2026-05-15-xbox-is-now-xbox"
+        },
+        {
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+          "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+          "source": "The Verge",
+          "published_at": "2026-05-15T22:25:00Z",
+          "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-15-youtube-is-expanding-its-ai-deepfake-detection-tool"
+        },
+        {
+          "title": "La IA ha puesto patas arriba una vieja regla de los servidores: la memoria ya no quiere vivir en cada máquina",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-ha-puesto-patas-arriba-vieja-regla-servidores-memoria-no-quiere-vivir-cada-maquina",
+          "source": "Xataka",
+          "published_at": "2026-05-15T19:31:30Z",
+          "summary": "Para muchos de nosotros, la escasez de memoria puede sonar primero a un problema cercano al consumo doméstico: módulos de RAM, componentes y dispositivos condicionados por una demanda cada vez más tensionada. Pero el fen…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-15-la-ia-ha-puesto-patas-arriba-una-vieja"
         },
         {
           "title": "Despedir a empleados y ahorrar para la IA parecía un plan sin fisuras para obtener más beneficios. Los datos demuestran que no",
@@ -482,71 +511,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-15-despedir-a-empleados-y-ahorrar-para-la-ia"
-        },
-        {
-          "title": "El 'Netflix chino' ha diseñado un plan para que la IA genere la mayoría de su contenido en cinco años. Suena arriesgado",
-          "url": "https://www.xataka.com/robotica-e-ia/netflix-chino-ha-disenado-plan-ia-genere-mayoria-su-contenido-cinco-anos-suena-arriesgado",
-          "source": "Xataka",
-          "published_at": "2026-05-14T17:31:29Z",
-          "summary": "iQiyi, el mayor servicio de vídeo en streaming de China con más de 400 millones de usuarios activos al mes, anunció en su presentación anual de contenidos en Pekín que prevé que la IA genere la mayor parte de sus películ…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-el-netflix-chino-ha-disenado-un-plan-para"
-        },
-        {
-          "title": "Una IA montó una cafetería desde cero: sacó permisos, contrató personal y negoció con proveedores. Luego pidió 3.000 guantes de goma",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-monto-cafeteria-cero-saco-permisos-contrato-personal-negocio-proveedores-luego-pidio-3-000-guantes-goma",
-          "source": "Xataka",
-          "published_at": "2026-05-14T13:01:30Z",
-          "summary": "El lanzamiento de OpenClaw marcó una nueva en la carrera de la IA, una en la que la IA agéntica se ocupa de tareas complejas en las que hasta hace poco fallaba estrepitosamente. A pesar de que el salto cualitativo es inn…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-una-ia-monto-una-cafeteria-desde-cero-saco"
-        },
-        {
-          "title": "La última pesadilla de los centros de datos de IA no es subirte la factura de la luz: son los infrasonidos que no se oyen pero se sienten",
-          "url": "https://www.xataka.com/robotica-e-ia/ultima-pesadilla-centros-datos-ia-no-subirte-factura-luz-infrasonidos-que-no-se-oyen-se-sienten",
-          "source": "Xataka",
-          "published_at": "2026-05-14T12:15:29Z",
-          "summary": "Quienes viven cerca de centros de datos en EEUU están denunciando estar siendo afectados por los llamados infrasonidos. Se trata de sonidos de baja frecuencia que están por debajo de los límites de audición humanos pero …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-la-ultima-pesadilla-de-los-centros-de-datos"
-        },
-        {
-          "title": "Fue a una fiesta, se colocó y olvidó la contraseña de sus bitcoins. 11 años después ha logrado recuperar 400.000 dólares gracias a Claude",
-          "url": "https://www.xataka.com/criptomonedas/claude-ha-ayudado-a-hombre-a-recuperar-400-000-dolares-bitcoin-que-perdio-hace-11-anos-se-coloco-olvido-contrasena",
-          "source": "Xataka",
-          "published_at": "2026-05-14T10:45:00Z",
-          "summary": "Un usuario de X llamado Cprkrn contaba recientemente su odisea con final (muy) feliz en X .&nbsp;En 2015 compró cinco bitcoins (BTC) cuando el precio rondaba los 250 dólares. En un arrebato de euforia universitaria decid…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-fue-a-una-fiesta-se-coloco-y-olvido"
-        },
-        {
-          "title": "El director general de Nvidia está en China. Y se juega el futuro de su empresa allí",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-gana-victoria-parcial-tiene-permiso-para-vender-su-gpu-h200-a-10-empresas-chinas",
-          "source": "Xataka",
-          "published_at": "2026-05-14T08:55:00Z",
-          "summary": "Alibaba, Tencent, ByteDance y JD.com son cuatro de las diez empresas chinas que ya tienen acceso a la GPU para inteligencia artificial (IA) H200 de NVIDIA . Según Reuters , el Departamento de Comercio de EEUU, que es la …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-14-el-director-general-de-nvidia-esta-en-china"
         }
       ]
     }
@@ -584,17 +548,30 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "A new personal finance experience in ChatGPT",
-          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+          "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
           "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+          "published_at": "2026-05-16T00:00:00Z",
+          "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
+          "id": "openai-2026-05-16-openai-and-malta-partner-to-bring-chatgpt-plus"
+        },
+        {
+          "title": "How business operations teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-how-business-operations-teams-use-codex"
         },
         {
           "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
@@ -608,6 +585,45 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
+        },
+        {
+          "title": "How data science teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-how-data-science-teams-use-codex"
+        },
+        {
+          "title": "A new personal finance experience in ChatGPT",
+          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
+        },
+        {
+          "title": "How sales teams use Codex",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-15T00:00:00Z",
+          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-15-how-sales-teams-use-codex"
         },
         {
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -688,19 +704,6 @@
           "id": "openai-2026-05-12-how-finance-teams-use-codex"
         },
         {
-          "title": "How NVIDIA engineers and researchers build with Codex",
-          "url": "https://openai.com/index/nvidia",
-          "source": "OpenAI",
-          "published_at": "2026-05-12T00:00:00Z",
-          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
-        },
-        {
           "title": "AutoScout24 scales engineering with AI-powered workflows",
           "url": "https://openai.com/index/autoscout24",
           "source": "OpenAI",
@@ -712,6 +715,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-12-autoscout24-scales-engineering-with-ai-powered-workflows"
+        },
+        {
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "url": "https://openai.com/index/nvidia",
+          "source": "OpenAI",
+          "published_at": "2026-05-12T00:00:00Z",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-12-how-nvidia-engineers-and-researchers-build-with-codex"
         },
         {
           "title": "What Parameter Golf taught us about AI-assisted research",
