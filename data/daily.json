@@ -1,78 +1,234 @@
 {
-  "date": "2026-05-19",
-  "generated_at": "2026-05-19T07:44:35.573624Z",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T07:44:19.236796Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Las empresas llevan meses desplegando agentes de IA y tienen un nuevo problema: hay demasiados agentes de IA",
-      "url": "https://www.xataka.com/robotica-e-ia/empresas-llevan-meses-desplegando-agentes-ia-tienen-nuevo-problema-hay-demasiados-agentes-ia",
-      "source": "Xataka",
-      "published_at": "2026-05-19T07:01:41Z",
-      "summary": "2026 empezó con el éxito viral de OpenClaw , marcando una nueva tendencia en el boom de la IA, porque un chatbot que responde tus preguntas está bien, pero un agente de IA que hace tareas complejas por ti está mucho mejo…",
+      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+      "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+      "source": "The Verge",
+      "published_at": "2026-05-20T03:30:00Z",
+      "summary": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made his…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-19-las-empresas-llevan-meses-desplegando-agentes-de-ia"
+      "id": "theverge-2026-05-20-mercedes-electric-amg-gt-4-door-coupe-can-go"
     },
     {
-      "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
-      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
       "source": "The Verge",
-      "published_at": "2026-05-19T01:10:12Z",
-      "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh…",
+      "published_at": "2026-05-19T23:24:36Z",
+      "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-19-lg-will-release-the-first-1000hz-1080p-gaming"
+      "id": "theverge-2026-05-19-wear-os-7-will-keep-track-of-deliveries"
     },
     {
-      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
-      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+      "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
       "source": "The Verge",
-      "published_at": "2026-05-18T20:41:09Z",
-      "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous to park indoors. But it…",
+      "published_at": "2026-05-19T23:03:48Z",
+      "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetim…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-18-volvo-teases-a-new-affordable-ev-to-replace"
+      "id": "theverge-2026-05-19-plex-is-tripling-the-price-of-a-lifetime"
     },
     {
-      "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
-      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
       "source": "The Verge",
-      "published_at": "2026-05-18T19:28:42Z",
-      "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall…",
+      "published_at": "2026-05-19T22:16:02Z",
+      "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unl…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-18-playstation-exclusives-aren-8217-t-coming-to-pc"
+      "id": "theverge-2026-05-19-demis-hassabis-said-this-might-be-the-foothills"
     },
     {
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "title": "We react to Google I/O 2026",
+      "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
       "source": "The Verge",
-      "published_at": "2026-05-18T19:00:00Z",
-      "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawy…",
+      "published_at": "2026-05-19T21:48:26Z",
+      "summary": "What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-18-musk-v-altman-proved-that-ai-is-led"
+      "id": "theverge-2026-05-19-we-react-to-google-i-o-2026"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing OpenAI for Singapore",
+          "url": "https://openai.com/index/introducing-openai-for-singapore",
+          "source": "OpenAI",
+          "published_at": "2026-05-19T20:30:00Z",
+          "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-19-introducing-openai-for-singapore"
+        },
+        {
+          "title": "I/O 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-i-o-2026"
+        },
+        {
+          "title": "How AI Mode is changing the way people search in the U.S.",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-how-ai-mode-is-changing-the-way-people"
+        },
+        {
+          "title": "New ways to create and get things done in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Google Workspace",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-new-ways-to-create-and-get-things-done"
+        },
+        {
+          "title": "I/O 2026: Welcome to the agentic Gemini era",
+          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "a series of colorful icons representing Google I/O against a black background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-i-o-2026-welcome-to-the-agentic-gemini"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-gemini-3-5-frontier-intelligence-with-action"
+        },
+        {
+          "title": "A new era for AI Search",
+          "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Text that reads \"The best of a search engine with the best of AI\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-a-new-era-for-ai-search"
+        },
+        {
+          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-everything-new-in-our-google-ai-subscriptions-fresh"
+        },
+        {
+          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "url": "https://openai.com/index/advancing-content-provenance",
+          "source": "OpenAI",
+          "published_at": "2026-05-19T10:45:00Z",
+          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
+        },
+        {
+          "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+          "url": "https://www.anthropic.com/news/anthropic-kpmg",
+          "source": "Anthropic",
+          "published_at": "2026-05-19T00:00:00Z",
+          "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-19-kpmg-integrates-claude-across-its-core-business-and"
+        },
+        {
+          "title": "Widening the conversation on frontier AI",
+          "url": "https://www.anthropic.com/news/widening-conversation-ai",
+          "source": "Anthropic",
+          "published_at": "2026-05-19T00:00:00Z",
+          "summary": "Widening the conversation on frontier AI",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-19-widening-the-conversation-on-frontier-ai"
+        },
+        {
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "source": "DeepMind",
+          "published_at": "2026-05-18T18:21:39Z",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-18-fast-tracking-genetic-leads-to-reverse-cellular-aging"
+        },
         {
           "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
           "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -100,6 +256,162 @@
           "id": "anthropic-2026-05-18-anthropic-acquires-stainless"
         },
         {
+          "title": "Simulate real-world places with Project Genie and Street View",
+          "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:53:18Z",
+          "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-simulate-real-world-places-with-project-genie-and-street"
+        },
+        {
+          "title": "Introducing Gemini Omni",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:50:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-introducing-gemini-omni"
+        },
+        {
+          "title": "Introducing Google Antigravity 2.0",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:43:45Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-introducing-google-antigravity-2-0"
+        },
+        {
+          "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+          "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T13:50:34Z",
+          "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-gemini-for-science-ai-experiments-and-tools-for"
+        },
+        {
+          "title": "Making it easier to understand how content was created and edited",
+          "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T13:43:50Z",
+          "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-making-it-easier-to-understand-how-content-was"
+        },
+        {
+          "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+          "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T09:13:34Z",
+          "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-strengthening-singapore-s-ai-future-a-new-national"
+        },
+        {
+          "title": "Finding the molecular switches behind new infectious diseases",
+          "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:16:06Z",
+          "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-finding-the-molecular-switches-behind-new-infectious-diseases"
+        },
+        {
+          "title": "Opening new paths in aging research",
+          "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:08:44Z",
+          "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-opening-new-paths-in-aging-research"
+        },
+        {
+          "title": "Accelerating discovery of liver disease mechanisms",
+          "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:00:15Z",
+          "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-accelerating-discovery-of-liver-disease-mechanisms"
+        },
+        {
+          "title": "Uniting biological toolkits for a new approach to ALS",
+          "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T07:53:11Z",
+          "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-uniting-biological-toolkits-for-a-new-approach-to"
+        },
+        {
+          "title": "Uncovering repurposed medicines to fight liver fibrosis",
+          "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T07:40:27Z",
+          "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-uncovering-repurposed-medicines-to-fight-liver-fibrosis"
+        },
+        {
+          "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+          "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T03:14:17Z",
+          "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-how-weathernext-helped-the-national-hurricane-center-better"
+        },
+        {
           "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
           "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
           "source": "OpenAI",
@@ -111,6 +423,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-16-openai-and-malta-partner-to-bring-chatgpt-plus"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+          "source": "DeepMind",
+          "published_at": "2026-05-15T22:50:12Z",
+          "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-15-gemini-3-5-frontier-intelligence-with-action"
         },
         {
           "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
@@ -163,155 +488,30 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "How data science teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "title": "Nvidia ya puede vender legalmente sus GPU en China. El único problema es que no se las están comprando",
+          "url": "https://www.xataka.com/robotica-e-ia/big-tech-chinas-pueden-comprar-gpu-nvidia-problema-para-nvidia-que-ahora-no-necesitan",
+          "source": "Xataka",
+          "published_at": "2026-05-19T06:00:00Z",
+          "summary": "Estados Unidos y China están inmersos en una guerra comercial y tecnológica que ha pillado en plena línea de fuego al gigante de la IA: Nvidia . La situación es que Nvidia debe priorizar a las empresas de IA de Estados U…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-data-science-teams-use-codex"
-        },
-        {
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "url": "https://openai.com/index/sea-david-chen",
-          "source": "OpenAI",
-          "published_at": "2026-05-14T20:30:00Z",
-          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-14-sea-s-view-on-the-future-of-agentic"
-        },
-        {
-          "title": "Work with Codex from anywhere",
-          "url": "https://openai.com/index/work-with-codex-from-anywhere",
-          "source": "OpenAI",
-          "published_at": "2026-05-14T13:00:00Z",
-          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-14-work-with-codex-from-anywhere"
-        },
-        {
-          "title": "Helping ChatGPT better recognize context in sensitive conversations",
-          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-          "source": "OpenAI",
-          "published_at": "2026-05-14T00:00:00Z",
-          "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-14-helping-chatgpt-better-recognize-context-in-sensitive-conversations"
-        },
-        {
-          "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-          "source": "Anthropic",
-          "published_at": "2026-05-14T00:00:00Z",
-          "summary": "Anthropic forms $200 million partnership with the Gates Foundation",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-14-anthropic-forms-200-million-partnership-with-the-gates"
-        },
-        {
-          "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-          "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-          "source": "Anthropic",
-          "published_at": "2026-05-14T00:00:00Z",
-          "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-14-pwc-is-deploying-claude-to-build-technology-execute"
-        },
-        {
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "url": "https://openai.com/index/building-codex-windows-sandbox",
-          "source": "OpenAI",
-          "published_at": "2026-05-13T11:00:00Z",
-          "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-13-building-a-safe-effective-sandbox-to-enable-codex"
-        },
-        {
-          "title": "Our response to the TanStack npm supply chain attack",
-          "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-          "source": "OpenAI",
-          "published_at": "2026-05-13T00:00:00Z",
-          "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-13-our-response-to-the-tanstack-npm-supply-chain"
-        },
-        {
-          "title": "Introducing Claude for Small Business",
-          "url": "https://www.anthropic.com/news/claude-for-small-business",
-          "source": "Anthropic",
-          "published_at": "2026-05-13T00:00:00Z",
-          "summary": "Introducing Claude for Small Business",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-13-introducing-claude-for-small-business"
-        },
-        {
-          "title": "How finance teams use Codex",
-          "url": "https://openai.com/academy/how-finance-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-12T15:00:00Z",
-          "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-finance-teams-use-codex"
+          "category": "negocio",
+          "id": "xataka-2026-05-19-nvidia-ya-puede-vender-legalmente-sus-gpu-en"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
-        {
-          "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
-          "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-18T10:00:01Z",
-          "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Austral…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-18-how-melbourne-s-ai-and-data-center-flywheel"
-        },
         {
           "title": "Agentic AI for Robot Teams",
           "url": "https://events.bizzabo.com/867156",
@@ -326,23 +526,49 @@
           "id": "ieee-2026-05-18-agentic-ai-for-robot-teams"
         },
         {
-          "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-          "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+          "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+          "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
           "source": "IEEE Spectrum",
-          "published_at": "2026-05-17T13:00:01Z",
-          "summary": "AI-powered voice and audio tools are becoming increasingly embedded in daily life, from digital assistants to smart speakers and customer service bots. Advances in large audio-language models (LALMs), which can both anal…",
+          "published_at": "2026-05-18T10:00:01Z",
+          "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Austral…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-05-17-voice-ai-systems-are-vulnerable-to-hidden-audio"
+          "id": "ieee-2026-05-18-how-melbourne-s-ai-and-data-center-flywheel"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "OlmoEarth v1.1: A more efficient family of models",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+          "source": "Hugging Face",
+          "published_at": "2026-05-19T18:38:09Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-05-19-olmoearth-v1-1-a-more-efficient-family-of"
+        },
+        {
+          "title": "Introducing the Ettin Reranker Family",
+          "url": "https://huggingface.co/blog/ettin-reranker",
+          "source": "Hugging Face",
+          "published_at": "2026-05-19T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-05-19-introducing-the-ettin-reranker-family"
+        },
         {
           "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
           "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
@@ -388,56 +614,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Walmart launches new budget-friendly Android tablets starting at $97",
-          "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
+          "title": "The future of Google is a search box that does everything",
+          "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
           "source": "The Verge",
-          "published_at": "2026-05-18T18:44:07Z",
-          "summary": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship with Android 16 and all …",
+          "published_at": "2026-05-19T21:24:14Z",
+          "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I thin…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-18-walmart-launches-new-budget-friendly-android-tablets-starting-at"
+          "id": "theverge-2026-05-19-the-future-of-google-is-a-search-box"
         },
         {
-          "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
-          "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
+          "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it&#8217;s available now",
+          "url": "https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal",
           "source": "The Verge",
-          "published_at": "2026-05-18T18:32:25Z",
-          "summary": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to …",
+          "published_at": "2026-05-19T21:00:00Z",
+          "summary": "Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list cu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-18-dyson-s-super-slim-pencilwash-just-hit-its-best"
+          "id": "theverge-2026-05-19-nintendo-s-500-switch-2-bundle-includes-a"
         },
         {
-          "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "title": "Google’s AI future demands trust — and your personal data",
+          "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
           "source": "The Verge",
-          "published_at": "2026-05-18T17:49:49Z",
-          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
+          "published_at": "2026-05-19T21:00:00Z",
+          "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-18-all-of-the-updates-from-elon-musk-and"
+          "id": "theverge-2026-05-19-google-s-ai-future-demands-trust----and"
         },
         {
-          "title": "Elon Musk loses his case against Sam Altman",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+          "title": "Here are our favorite Memorial Day deals (so far)",
+          "url": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
           "source": "The Verge",
-          "published_at": "2026-05-18T17:39:32Z",
-          "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third faile…",
+          "published_at": "2026-05-19T20:25:09Z",
+          "summary": "Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard bar…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-18-elon-musk-loses-his-case-against-sam-altman"
+          "id": "theverge-2026-05-19-here-are-our-favorite-memorial-day-deals-so"
+        },
+        {
+          "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
+          "url": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
+          "source": "The Verge",
+          "published_at": "2026-05-19T20:13:14Z",
+          "summary": "A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's \"trivial\" and \"pathetic\" settlement with Live Nation-Ticketmaster, previewing how they might go after Trump a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-19-democrats-preview-how-they-d-go-after-the"
+        },
+        {
+          "title": "Gemini Omni quiere hacer con el vídeo lo que Nano Banana hizo con las imágenes: Google apunta muy alto",
+          "url": "https://www.xataka.com/robotica-e-ia/gemini-omni-quiere-hacer-video-que-nano-banana-hizo-imagenes-google-apunta-muy-alto",
+          "source": "Xataka",
+          "published_at": "2026-05-19T20:04:00Z",
+          "summary": "Crear una imagen con IA ya no sorprende como antes. Lo que empieza a marcar la diferencia es la capacidad de modificarla, darle continuidad y convertir una idea inicial en algo más elaborado sin perder el hilo por el cam…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-19-gemini-omni-quiere-hacer-con-el-video-lo"
+        },
+        {
+          "title": "Los centros de datos bajo el mar parecían un experimento: China acaba de darles una misión mucho más ambiciosa",
+          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-mar-parecian-experimento-china-acaba-darles-mision-mucho-ambiciosa",
+          "source": "Xataka",
+          "published_at": "2026-05-19T19:01:12Z",
+          "summary": "Cada vez que le pedimos algo a una IA, la escena parece casi invisible: escribimos una frase, recibimos una respuesta y seguimos adelante. Pero detrás de esa aparente ligereza hay edificios llenos de servidores, sistemas…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-19-los-centros-de-datos-bajo-el-mar-parecian"
+        },
+        {
+          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+          "source": "VentureBeat",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "venturebeat-2026-05-19-google-just-redesigned-the-search-box-for-the"
+        },
+        {
+          "title": "Hay una batalla por tener el modelo de IA que programa mejor. Y en ella ha aparecido un rival bueno, bonito y muy barato: Cursor",
+          "url": "https://www.xataka.com/robotica-e-ia/hay-batalla-tener-modelo-ia-que-programa-mejor-ella-ha-aparecido-rival-bueno-bonito-muy-barato-cursor",
+          "source": "Xataka",
+          "published_at": "2026-05-19T16:31:12Z",
+          "summary": "Cursor ha presentado Composer 2.5 , un modelo de IA generativa específicamente destinado a una cosa: programar bien. ¿Cómo de bien? Pues según esta startup, lo hace tan bien como los mejores modelos del momento, Claude O…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-19-hay-una-batalla-por-tener-el-modelo-de"
+        },
+        {
+          "title": "Ocho cursos gratis en vídeo de IA avanzada de la Universidad de Stanford: aprende la tecnología detrás de la IA",
+          "url": "https://www.xataka.com/basics/ocho-cursos-gratis-video-ia-avanzada-universidad-stanford-aprende-tecnologia-detras-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-19T12:00:04Z",
+          "summary": "Te traemos una colección de ocho cursos avanzados de IA creados por la Universidad de Stanford. Se trata de cursos en vídeo que han sido liberados en YouTube para que cualquier usuario pueda acceder a ellos y aprender la…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-19-ocho-cursos-gratis-en-video-de-ia-avanzada"
+        },
+        {
+          "title": "El ataque de los clones: las empresas empiezan a tener tantos agentes IA que se están ahogando en su propio éxito",
+          "url": "https://www.xataka.com/robotica-e-ia/empresas-llevan-meses-desplegando-agentes-ia-tienen-nuevo-problema-hay-demasiados-agentes-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-19T07:00:00Z",
+          "summary": "2026 empezó con el éxito viral de OpenClaw , marcando una nueva tendencia en el boom de la IA, porque un chatbot que responde tus preguntas está bien, pero un agente de IA que hace tareas complejas por ti está mucho mejo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-19-el-ataque-de-los-clones-las-empresas-empiezan"
         },
         {
           "title": "Los trabajadores tecnológicos tienen mejores salarios y un \"pero\" importante: más de la mitad teme ser sustituido por una IA",
@@ -451,32 +768,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-18-los-trabajadores-tecnologicos-tienen-mejores-salarios-y-un"
-        },
-        {
-          "title": "Google is rolling out its redesigned Workspace app icons",
-          "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
-          "source": "The Verge",
-          "published_at": "2026-05-18T16:29:37Z",
-          "summary": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will not…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-18-google-is-rolling-out-its-redesigned-workspace-app"
-        },
-        {
-          "title": "Sony is raising short-subscription prices for PlayStation Plus",
-          "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
-          "source": "The Verge",
-          "published_at": "2026-05-18T16:24:40Z",
-          "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD /…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-18-sony-is-raising-short-subscription-prices-for-playstation-plus"
         },
         {
           "title": "Por primera vez en 30 años Nvidia no presentará nuevas GPUs para gamers en 2026. Ganan muchísimo más con la IA",
@@ -516,71 +807,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-18-hay-un-superyate-equipado-con-todos-los-lujos"
-        },
-        {
-          "title": "La Universidad de Princeton llevaba 133 años sin vigilar a sus alumnos durante los exámenes. Hasta que llegó la iA",
-          "url": "https://www.xataka.com/robotica-e-ia/princeton-llevaba-133-anos-vigilar-a-sus-alumnos-examenes-codigo-honor-ia-acaba-romper-ese-pacto",
-          "source": "Xataka",
-          "published_at": "2026-05-18T13:00:00Z",
-          "summary": "Durante más de un siglo, Princeton ha basado su confianza académica en un código de honor, un juramento que sus estudiantes firmaban para no copiar en los exámenes. Incluso los profesores abandonaban el aula. Nadie vigil…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-18-la-universidad-de-princeton-llevaba-133-anos-sin"
-        },
-        {
-          "title": "Cómo crear un pack de stickers Chibi a partir de tu foto con Gemini o ChatGPT para luego usarlos en WhatsApp o donde quieras",
-          "url": "https://www.xataka.com/basics/como-crear-pack-stickers-chibi-a-partir-tu-foto-gemini-chatgpt-para-luego-usarlos-whatsapp-donde-quieras",
-          "source": "Xataka",
-          "published_at": "2026-05-18T12:17:50Z",
-          "summary": "Vamos a explicarte cómo crear un pack de stickers de estilo \"Chibi\" , ese estilo japonés en el que se caricaturiza una cara con una cabeza grande y adorable. Vamos a hacer esto utilizando inteligencia artificial , y un p…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-18-como-crear-un-pack-de-stickers-chibi-a"
-        },
-        {
-          "title": "Hace dos décadas Apple se fue de Intel porque no sabía ser una \"foundry\". Ahora vuelve porque ha aprendido la lección",
-          "url": "https://www.xataka.com/empresas-y-economia/tsmc-se-esta-centrando-lucrativa-industria-ia-asi-que-apple-ha-buscado-nueva-novia-ha-encontrado-intel",
-          "source": "Xataka",
-          "published_at": "2026-05-18T11:45:00Z",
-          "summary": "En 2023, Apple completó su transición y logró que todos los Mac de sus catálogo funcionaran con sus chips Apple de la serie M. Fue el final de una relación que empezó en 2005, cuando Steve Jobs anunció el paso de los Pow…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-18-hace-dos-decadas-apple-se-fue-de-intel"
-        },
-        {
-          "title": "La ganadora silenciosa de la IA es una empresa que compite justo donde también lo hace Nvidia: AMD",
-          "url": "https://www.xataka.com/componentes/nvidia-samsung-nombres-ia-silencio-alguien-se-esta-comiendo-mercado-procesadores-para-servidores",
-          "source": "Xataka",
-          "published_at": "2026-05-18T09:00:00Z",
-          "summary": "La inteligencia artificial está a punto de entrar en una nueva era. Tras saquear Internet y beberse todo el conocimiento humano , el entrenamiento ha dejado de ser la obsesión de las grandes de la IA y la inferencia está…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-18-la-ganadora-silenciosa-de-la-ia-es-una"
-        },
-        {
-          "title": "Bienvenidos al duopolio de la IA: el sector ya factura 80.000 millones al año, pero OpenAI y Anthropic se llevan el 89% de los ingresos",
-          "url": "https://www.xataka.com/robotica-e-ia/bienvenidos-al-duopolio-ia-sector-factura-80-000-millones-al-ano-openai-anthropic-se-llevan-89-ingresos",
-          "source": "Xataka",
-          "published_at": "2026-05-18T06:01:10Z",
-          "summary": "Todo el mundo quiere llevarse un trozo de la tarta de la IA, pero la realidad es que la tarta hoy por hoy es de dos empresas: OpenAI y Anthropic. Así lo confirma un análisis de The Information en el que se han analizado …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-18-bienvenidos-al-duopolio-de-la-ia-el-sector"
         }
       ]
     }
@@ -617,6 +843,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing OpenAI for Singapore",
+          "url": "https://openai.com/index/introducing-openai-for-singapore",
+          "source": "OpenAI",
+          "published_at": "2026-05-19T20:30:00Z",
+          "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-19-introducing-openai-for-singapore"
+        },
+        {
+          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "url": "https://openai.com/index/advancing-content-provenance",
+          "source": "OpenAI",
+          "published_at": "2026-05-19T10:45:00Z",
+          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
+        },
         {
           "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
           "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -759,32 +1011,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-13-building-a-safe-effective-sandbox-to-enable-codex"
-        },
-        {
-          "title": "Our response to the TanStack npm supply chain attack",
-          "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-          "source": "OpenAI",
-          "published_at": "2026-05-13T00:00:00Z",
-          "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-13-our-response-to-the-tanstack-npm-supply-chain"
-        },
-        {
-          "title": "How finance teams use Codex",
-          "url": "https://openai.com/academy/how-finance-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-12T15:00:00Z",
-          "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-12-how-finance-teams-use-codex"
         }
       ]
     },
@@ -792,6 +1018,32 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+          "url": "https://www.anthropic.com/news/anthropic-kpmg",
+          "source": "Anthropic",
+          "published_at": "2026-05-19T00:00:00Z",
+          "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-19-kpmg-integrates-claude-across-its-core-business-and"
+        },
+        {
+          "title": "Widening the conversation on frontier AI",
+          "url": "https://www.anthropic.com/news/widening-conversation-ai",
+          "source": "Anthropic",
+          "published_at": "2026-05-19T00:00:00Z",
+          "summary": "Widening the conversation on frontier AI",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-19-widening-the-conversation-on-frontier-ai"
+        },
         {
           "title": "Anthropic acquires Stainless",
           "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
@@ -830,19 +1082,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-14-pwc-is-deploying-claude-to-build-technology-execute"
-        },
-        {
-          "title": "Introducing Claude for Small Business",
-          "url": "https://www.anthropic.com/news/claude-for-small-business",
-          "source": "Anthropic",
-          "published_at": "2026-05-13T00:00:00Z",
-          "summary": "Introducing Claude for Small Business",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-13-introducing-claude-for-small-business"
         }
       ]
     },
@@ -851,17 +1090,95 @@
       "name": "Google AI",
       "items": [
         {
-          "title": "The new AI-powered Google Finance is expanding to Europe.",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "title": "I/O 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
           "source": "Google AI",
-          "published_at": "2026-05-11T06:00:00Z",
-          "summary": "A screenshot of the AI-powered experience on Google Finance.",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-05-11-the-new-ai-powered-google-finance-is-expanding-to"
+          "id": "googleai-2026-05-19-i-o-2026"
+        },
+        {
+          "title": "How AI Mode is changing the way people search in the U.S.",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-how-ai-mode-is-changing-the-way-people"
+        },
+        {
+          "title": "New ways to create and get things done in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Google Workspace",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-new-ways-to-create-and-get-things-done"
+        },
+        {
+          "title": "I/O 2026: Welcome to the agentic Gemini era",
+          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "a series of colorful icons representing Google I/O against a black background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-i-o-2026-welcome-to-the-agentic-gemini"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-gemini-3-5-frontier-intelligence-with-action"
+        },
+        {
+          "title": "A new era for AI Search",
+          "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "Text that reads \"The best of a search engine with the best of AI\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-a-new-era-for-ai-search"
+        },
+        {
+          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+          "source": "Google AI",
+          "published_at": "2026-05-19T17:45:00Z",
+          "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-19-everything-new-in-our-google-ai-subscriptions-fresh"
         }
       ]
     },
@@ -870,17 +1187,186 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
           "source": "DeepMind",
-          "published_at": "2026-05-06T10:43:49Z",
-          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "published_at": "2026-05-18T18:21:39Z",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-05-06-alphaevolve-how-our-gemini-powered-coding-agent-is-scaling"
+          "id": "deepmind-2026-05-18-fast-tracking-genetic-leads-to-reverse-cellular-aging"
+        },
+        {
+          "title": "Simulate real-world places with Project Genie and Street View",
+          "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:53:18Z",
+          "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-simulate-real-world-places-with-project-genie-and-street"
+        },
+        {
+          "title": "Introducing Gemini Omni",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:50:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-introducing-gemini-omni"
+        },
+        {
+          "title": "Introducing Google Antigravity 2.0",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T19:43:45Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-introducing-google-antigravity-2-0"
+        },
+        {
+          "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+          "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T13:50:34Z",
+          "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-gemini-for-science-ai-experiments-and-tools-for"
+        },
+        {
+          "title": "Making it easier to understand how content was created and edited",
+          "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+          "source": "DeepMind",
+          "published_at": "2026-05-17T13:43:50Z",
+          "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-17-making-it-easier-to-understand-how-content-was"
+        },
+        {
+          "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+          "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T09:13:34Z",
+          "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-strengthening-singapore-s-ai-future-a-new-national"
+        },
+        {
+          "title": "Finding the molecular switches behind new infectious diseases",
+          "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:16:06Z",
+          "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-finding-the-molecular-switches-behind-new-infectious-diseases"
+        },
+        {
+          "title": "Opening new paths in aging research",
+          "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:08:44Z",
+          "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-opening-new-paths-in-aging-research"
+        },
+        {
+          "title": "Accelerating discovery of liver disease mechanisms",
+          "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T08:00:15Z",
+          "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-accelerating-discovery-of-liver-disease-mechanisms"
+        },
+        {
+          "title": "Uniting biological toolkits for a new approach to ALS",
+          "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T07:53:11Z",
+          "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-uniting-biological-toolkits-for-a-new-approach-to"
+        },
+        {
+          "title": "Uncovering repurposed medicines to fight liver fibrosis",
+          "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T07:40:27Z",
+          "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-uncovering-repurposed-medicines-to-fight-liver-fibrosis"
+        },
+        {
+          "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+          "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+          "source": "DeepMind",
+          "published_at": "2026-05-16T03:14:17Z",
+          "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-16-how-weathernext-helped-the-national-hurricane-center-better"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+          "source": "DeepMind",
+          "published_at": "2026-05-15T22:50:12Z",
+          "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-15-gemini-3-5-frontier-intelligence-with-action"
         }
       ]
     }
