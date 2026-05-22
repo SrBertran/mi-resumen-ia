@@ -1,78 +1,117 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T07:45:10.639607Z",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T07:44:29.596618Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "España tendrá 27.000 nuevos funcionarios. La sorpresa es que ahora se buscan expertos en IA, ciberseguridad y ciencia de datos",
-      "url": "https://www.xataka.com/empresas-y-economia/espana-tendra-27-000-nuevos-funcionarios-sorpresa-que-ahora-se-buscan-expertos-ia-ciberseguridad-ciencia-datos",
-      "source": "Xataka",
-      "published_at": "2026-05-21T07:01:39Z",
-      "summary": "Estos últimos años, España ha impulsado las convocatorias de empleo público . Así se ha conseguido batir cifras históricas en número de plazas y, aunque la OEP (la Oferta de Empleo Público) de 2025 levantó el pie del ace…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-05-21-espana-tendra-27-000-nuevos-funcionarios-la-sorpresa"
-    },
-    {
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
       "source": "The Verge",
-      "published_at": "2026-05-21T03:42:45Z",
-      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with eac…",
+      "published_at": "2026-05-21T23:00:00Z",
+      "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-21-in-spacex-s-ipo-elon-musk-is-a"
+      "id": "theverge-2026-05-21-anker-s-new-earbuds-are-the-first-with"
     },
     {
-      "title": "SpaceX just filed for what could be the biggest IPO ever",
-      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
+      "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
+      "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
       "source": "The Verge",
-      "published_at": "2026-05-20T21:29:05Z",
-      "summary": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Na…",
+      "published_at": "2026-05-21T23:00:00Z",
+      "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use A…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-20-spacex-just-filed-for-what-could-be-the"
+      "id": "theverge-2026-05-21-anker-s-new-earbuds-have-the-best-call"
     },
     {
-      "title": "‘Solve all diseases,’ you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "title": "States ask judge to break up Live Nation-Ticketmaster",
+      "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
       "source": "The Verge",
-      "published_at": "2026-05-20T21:06:35Z",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special …",
+      "published_at": "2026-05-21T22:27:03Z",
+      "summary": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" o…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-20-solve-all-diseases-you-say"
+      "id": "theverge-2026-05-21-states-ask-judge-to-break-up-live-nation-ticketmaster"
     },
     {
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "source": "Google AI",
-      "published_at": "2026-05-20T20:40:00Z",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-05-21T20:15:18Z",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-05-20-we-re-announcing-new-community-investments-in-missouri"
+      "category": "general",
+      "id": "theverge-2026-05-21-all-of-the-updates-from-elon-musk-and"
+    },
+    {
+      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
+      "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
+      "source": "The Verge",
+      "published_at": "2026-05-21T20:05:09Z",
+      "summary": "Firefox is getting a drastic visual overhaul with a redesigned Settings section that will make it easier to find and use privacy settings, including the switch for turning off all present and future AI features. Mozilla …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-21-firefox-is-working-on-a-rounded-redesign-with"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "source": "DeepMind",
+          "published_at": "2026-05-21T19:46:42Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-21-we-re-launching-the-google-deepmind-accelerator-program"
+        },
+        {
+          "title": "AdventHealth advances whole-person care with OpenAI",
+          "url": "https://openai.com/index/adventhealth",
+          "source": "OpenAI",
+          "published_at": "2026-05-21T12:00:00Z",
+          "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
+        },
+        {
+          "title": "We’re announcing new community investments in Missouri.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+          "source": "Google AI",
+          "published_at": "2026-05-20T20:40:00Z",
+          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-20-we-re-announcing-new-community-investments-in-missouri"
+        },
         {
           "title": "100 things we announced at I/O 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
@@ -113,19 +152,6 @@
           "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
         },
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
-        },
-        {
           "title": "The next phase of OpenAI’s Education for Countries",
           "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "source": "OpenAI",
@@ -137,6 +163,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
+        },
+        {
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "source": "OpenAI",
+          "published_at": "2026-05-20T00:00:00Z",
+          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
         },
         {
           "title": "Introducing OpenAI for Singapore",
@@ -501,76 +540,68 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-05-15-gemini-3-5-frontier-intelligence-with-action"
-        },
-        {
-          "title": "A new personal finance experience in ChatGPT",
-          "url": "https://openai.com/index/personal-finance-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
-        },
-        {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "url": "https://openai.com/index/databricks",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
-        },
-        {
-          "title": "How sales teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-sales-teams-use-codex"
-        },
-        {
-          "title": "How data science teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-data-science-teams-use-codex"
         }
       ]
     },
     {
-      "name": "Herramientas",
+      "name": "Negocio",
       "items": [
         {
-          "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-          "source": "Hugging Face",
-          "published_at": "2026-05-19T18:38:09Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "Nvidia ha ingresado este trimestre tanto como todo el PIB de Uruguay. China todavía no le ha comprado ni un chip",
+          "url": "https://www.xataka.com/empresas-y-economia/hubo-epoca-que-nvidia-era-empresa-gaming-ese-negocio-ahora-calderilla-para-duena-senora-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-21T08:21:00Z",
+          "summary": "En 1993, Nvidia se fundó con el objetivo de crear chips gráficos para videojuegos. Durante casi tres décadas Nvidia ha sido básicamente eso: una empresa de semiconductores para gaming que eso sí, tenía ambición en el ter…",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "negocio"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-19-olmoearth-v1-1-a-more-efficient-family-of"
+          "category": "negocio",
+          "id": "xataka-2026-05-21-nvidia-ha-ingresado-este-trimestre-tanto-como-todo"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "Māori Text-to-Speech Model Spurns Big Tech’s Values",
+          "url": "https://spectrum.ieee.org/indigenous-ai-voice-models-maori",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-21T15:00:02Z",
+          "summary": "New Zealand is a country famed for its dramatic landscapes, but its linguistic landscape is arguably just as interesting. Of its three official languages, only te reo Māori (the Māori language) could be described as indi…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-21-maori-text-to-speech-model-spurns-big-tech-s-values"
+        },
+        {
+          "title": "Open-Source Software Is Starting to Help Robots Think",
+          "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-21T14:00:02Z",
+          "summary": "When a group of academics started making open-source robotics hardware , a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sour…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-21-open-source-software-is-starting-to-help-robots-think"
+        },
+        {
+          "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+          "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-21T10:00:02Z",
+          "summary": "This sponsored article is brought to you by Wetour Robotics . A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logisti…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-21-the-future-of-physical-ai-isn-t-smarter"
         }
       ]
     },
@@ -578,17 +609,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
-          "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+          "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
           "source": "The Verge",
-          "published_at": "2026-05-20T20:00:00Z",
-          "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on t…",
+          "published_at": "2026-05-21T20:00:06Z",
+          "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a pro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-20-here-are-42-of-our-favorite-deals-from"
+          "id": "theverge-2026-05-21-in-desperate-times-graduates-find-hope-in-humiliating"
+        },
+        {
+          "title": "Who gets to own the Luigi Mangione story?",
+          "url": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
+          "source": "The Verge",
+          "published_at": "2026-05-21T19:51:22Z",
+          "summary": "On Monday morning, a judge overseeing the New York state case on the killing of the UnitedHealthcare CEO ruled that some evidence collected by police could not be shown to a jury. It wasn't the only news coming out of th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-21-who-gets-to-own-the-luigi-mangione-story"
+        },
+        {
+          "title": "Philips’ new display has a screen on both sides",
+          "url": "https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300",
+          "source": "The Verge",
+          "published_at": "2026-05-21T19:36:00Z",
+          "summary": "Its name might be dull and uninspired, but the Philips 24B2D5300 Business Monitor brings a novel feature I've never seen on a display before: screens on either side. The design will primarily benefit people who are const…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-21-philips-new-display-has-a-screen-on-both"
+        },
+        {
+          "title": "El músculo de muchos superordenadores parecía depender de las GPU: China está probando otro camino para superar al número uno de EEUU",
+          "url": "https://www.xataka.com/ordenadores/musculo-muchos-superordenadores-parecia-depender-gpu-china-esta-probando-otro-camino-para-superar-al-numero-uno-eeuu",
+          "source": "Xataka",
+          "published_at": "2026-05-21T19:31:34Z",
+          "summary": "Cada vez que hablamos de inteligencia artificial a gran escala acabamos llegando al mismo punto: los centros de datos y sus enormes cantidades de GPU. No es casualidad. Este tipo de chips se ha convertido en una pieza ce…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-el-musculo-de-muchos-superordenadores-parecia-depender-de"
+        },
+        {
+          "title": "One of Meta’s big legal reckonings just ended in a settlement",
+          "url": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
+          "source": "The Verge",
+          "published_at": "2026-05-21T18:54:22Z",
+          "summary": "After back-to-back losses in trials grappling with its impact on teens' mental health, Meta just settled what was supposed to be its next legal battle with Kentucky's Breathitt County School District. Google's YouTube, S…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-21-one-of-meta-s-big-legal-reckonings-just"
+        },
+        {
+          "title": "Bungie gives up on Destiny",
+          "url": "https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date",
+          "source": "The Verge",
+          "published_at": "2026-05-21T17:48:34Z",
+          "summary": "Bungie is moving on from Destiny 2. The studio announced Thursday that it's releasing the last major update for the game on June 9th as its focus \"turns towards a new beginning for Bungie.\" After that final update, the g…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-21-bungie-gives-up-on-destiny"
+        },
+        {
+          "title": "Stanford ha encontrado al culpable del milagro de productividad de EEUU: no es la IA, es trabajar desde casa en pijama",
+          "url": "https://www.xataka.com/empresas-y-economia/stanford-ha-encontrado-al-culpable-milagro-productividad-eeuu-no-ia-trabajar-casa-pijama",
+          "source": "Xataka",
+          "published_at": "2026-05-21T17:31:34Z",
+          "summary": "Los datos sobre la productividad en EEUU sacan a la luz un incremento sostenido que incluso ha sorprendido al hasta ahora presidente de la Reserva Federal, Jerome Powell, admitió su asombro declarando que \" Nunca pensé q…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-stanford-ha-encontrado-al-culpable-del-milagro-de"
+        },
+        {
+          "title": "Eric Schmidt advirtió a los jóvenes universitarios que la IA lo cambiará todo. Respuesta de los universitarios: abuchearle",
+          "url": "https://www.xataka.com/empresas-y-economia/eric-schmidt-advirtio-a-jovenes-universitarios-que-ia-cambiara-todo-respuesta-universitarios-abuchearle",
+          "source": "Xataka",
+          "published_at": "2026-05-21T11:01:35Z",
+          "summary": "Estamos viviendo un momento curioso en el día a día tecnológico. Bueno, en muchísimos aspectos, realmente, pero evidentemente la inteligencia artificial es algo que acapara buena parte de la conversación y parece que no …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-eric-schmidt-advirtio-a-los-jovenes-universitarios-que"
+        },
+        {
+          "title": "Baidu nació como la Google china y se acaba de dar cuenta de algo: más que nunca, debe ser la Google china",
+          "url": "https://www.xataka.com/empresas-y-economia/baidu-nacio-como-google-china-se-acaba-dar-cuenta-algo-que-nuca-debe-ser-google-china",
+          "source": "Xataka",
+          "published_at": "2026-05-21T10:00:00Z",
+          "summary": "Durante más de dos décadas, a Baidu le fue muy bien con una estrategia muy clara: ser “la Google china”. Nació sólo un año después que Google y, mientras la estadounidense se comió el mercado mundial, Baidu hizo lo propi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-baidu-nacio-como-la-google-china-y-se"
+        },
+        {
+          "title": "Los ejecutivos occidentales que triunfan en LinkedIn tienen un secreto: asistentes virtuales en Filipinas que escriben por ellos",
+          "url": "https://www.xataka.com/magnet/ejecutivos-occidentales-que-triunfan-linkedin-tienen-secreto-asistentes-virtuales-filipinas-que-escriben-ellos",
+          "source": "Xataka",
+          "published_at": "2026-05-21T08:01:34Z",
+          "summary": "Que internet está plagada de contenido generado por IA es algo de lo que venimos hablando desde hace tiempo , pero hay una plataforma donde el fenómeno resulta especialmente evidente: LinkedIn. Ya no es que las publicaci…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-los-ejecutivos-occidentales-que-triunfan-en-linkedin-tienen"
+        },
+        {
+          "title": "España tendrá 27.000 nuevos funcionarios. La sorpresa es que ahora se buscan expertos en IA, ciberseguridad y ciencia de datos",
+          "url": "https://www.xataka.com/empresas-y-economia/espana-tendra-27-000-nuevos-funcionarios-sorpresa-que-ahora-se-buscan-expertos-ia-ciberseguridad-ciencia-datos",
+          "source": "Xataka",
+          "published_at": "2026-05-21T07:01:39Z",
+          "summary": "Estos últimos años, España ha impulsado las convocatorias de empleo público . Así se ha conseguido batir cifras históricas en número de plazas y, aunque la OEP (la Oferta de Empleo Público) de 2025 levantó el pie del ace…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-21-espana-tendra-27-000-nuevos-funcionarios-la-sorpresa"
         },
         {
           "title": "China ya tiene listo su siguiente movimiento en la guerra de la IA: “fábricas de tokens” con hardware propio",
@@ -617,84 +778,6 @@
           "id": "xataka-2026-05-20-un-pais-de-la-ue-sera-el-primero"
         },
         {
-          "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
-          "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-          "source": "The Verge",
-          "published_at": "2026-05-20T18:14:38Z",
-          "summary": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireles…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-i-ve-tested-the-latest-switch-2-controllers"
-        },
-        {
-          "title": "Anthropic and OpenAI take their beef to the midterm elections",
-          "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
-          "source": "The Verge",
-          "published_at": "2026-05-20T17:50:00Z",
-          "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-anthropic-and-openai-take-their-beef-to-the"
-        },
-        {
-          "title": "Vibe coding is coming to your phone",
-          "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-          "source": "The Verge",
-          "published_at": "2026-05-20T17:40:00Z",
-          "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-vibe-coding-is-coming-to-your-phone"
-        },
-        {
-          "title": "Volvo is trying to put its EV stumbles in the rearview",
-          "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-          "source": "The Verge",
-          "published_at": "2026-05-20T17:30:56Z",
-          "summary": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-volvo-is-trying-to-put-its-ev-stumbles"
-        },
-        {
-          "title": "You can now remix other people’s YouTube Shorts with AI",
-          "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-          "source": "The Verge",
-          "published_at": "2026-05-20T16:41:40Z",
-          "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix ic…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-you-can-now-remix-other-people-s-youtube"
-        },
-        {
-          "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
-          "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-          "source": "The Verge",
-          "published_at": "2026-05-20T16:35:25Z",
-          "summary": "More than 47,000 Samsung Electronics workers were gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike was set to start on Thursday at Samsung's domesti…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-20-samsung-has-a-tentative-deal-with-workers-to"
-        },
-        {
           "title": "Si la pregunta es si los centros de datos de IA acaban incrementando las temperaturas en una región, la respuesta es: 2,2 ºC",
           "url": "https://www.xataka.com/robotica-e-ia/pregunta-centros-datos-ia-acaban-incrementando-temperaturas-region-respuesta-2-2-oc",
           "source": "Xataka",
@@ -706,97 +789,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-20-si-la-pregunta-es-si-los-centros-de"
-        },
-        {
-          "title": "Gemini Omni: qué es, qué ofrece la IA de creación de vídeo de Google y cómo utilizarla",
-          "url": "https://www.xataka.com/basics/gemini-omni-que-que-ofrece-ia-creacion-video-google-como-utilizarla",
-          "source": "Xataka",
-          "published_at": "2026-05-20T10:20:42Z",
-          "summary": "Vamos a explicarte qué es y cómo funciona Gemini Omni , el nuevo modelo de inteligencia artificial creado por Google. Se trata de un modelo capaz de generar vídeos a partir de cualquier tipo de entrada, lo que le dará ri…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-20-gemini-omni-que-es-que-ofrece-la-ia"
-        },
-        {
-          "title": "El listado de requisitos para Gemini Intelligence es tan largo que hasta muchos teléfonos de Google se quedan fuera",
-          "url": "https://www.xataka.com/moviles/gemini-intelligence-promete-ser-revolucion-ia-google-problema-que-casi-nadie-podra-usarlo",
-          "source": "Xataka",
-          "published_at": "2026-05-20T08:00:00Z",
-          "summary": "Las actualizaciones siempre han sido el talón de Aquiles de Android, pero desde hace varios años hemos visto como los fabricantes están empujando para ofrecer hasta siete años de actualizaciones en sus móviles . Es una b…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-20-el-listado-de-requisitos-para-gemini-intelligence-es"
-        },
-        {
-          "title": "La ambición de Google con la IA es altísima: Omini Flash quiere ser al vídeo lo que Nano Banana fue a la imagen",
-          "url": "https://www.xataka.com/robotica-e-ia/gemini-omni-quiere-hacer-video-que-nano-banana-hizo-imagenes-google-apunta-muy-alto",
-          "source": "Xataka",
-          "published_at": "2026-05-19T20:04:00Z",
-          "summary": "Crear una imagen con IA ya no sorprende como antes. Lo que empieza a marcar la diferencia es la capacidad de modificarla, darle continuidad y convertir una idea inicial en algo más elaborado sin perder el hilo por el cam…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-19-la-ambicion-de-google-con-la-ia-es"
-        },
-        {
-          "title": "Instalar un centro de datos bajo el mar parecía cosa de ciencia ficción. China lo está haciendo realidad",
-          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-mar-parecian-experimento-china-acaba-darles-mision-mucho-ambiciosa",
-          "source": "Xataka",
-          "published_at": "2026-05-19T19:00:00Z",
-          "summary": "Cada vez que le pedimos algo a una IA, la escena parece casi invisible: escribimos una frase, recibimos una respuesta y seguimos adelante. Pero detrás de esa aparente ligereza hay edificios llenos de servidores, sistemas…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-19-instalar-un-centro-de-datos-bajo-el-mar"
-        },
-        {
-          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-          "source": "VentureBeat",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-05-19-google-just-redesigned-the-search-box-for-the"
-        },
-        {
-          "title": "La batalla de la IA se está jugando en el modelo capaz de programar mejor y a menor coste. Y hay un actor inesperado",
-          "url": "https://www.xataka.com/robotica-e-ia/hay-batalla-tener-modelo-ia-que-programa-mejor-ella-ha-aparecido-rival-bueno-bonito-muy-barato-cursor",
-          "source": "Xataka",
-          "published_at": "2026-05-19T16:30:00Z",
-          "summary": "Cursor ha presentado Composer 2.5 , un modelo de IA generativa específicamente destinado a una cosa: programar bien. ¿Cómo de bien? Pues según esta startup, lo hace tan bien como los mejores modelos del momento, Claude O…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-19-la-batalla-de-la-ia-se-esta-jugando"
-        },
-        {
-          "title": "Ocho cursos gratis en vídeo de IA avanzada de la Universidad de Stanford: aprende la tecnología detrás de la IA",
-          "url": "https://www.xataka.com/basics/ocho-cursos-gratis-video-ia-avanzada-universidad-stanford-aprende-tecnologia-detras-ia",
-          "source": "Xataka",
-          "published_at": "2026-05-19T12:00:04Z",
-          "summary": "Te traemos una colección de ocho cursos avanzados de IA creados por la Universidad de Stanford. Se trata de cursos en vídeo que han sido liberados en YouTube para que cualquier usuario pueda acceder a ellos y aprender la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-19-ocho-cursos-gratis-en-video-de-ia-avanzada"
         }
       ]
     }
@@ -834,6 +826,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "AdventHealth advances whole-person care with OpenAI",
+          "url": "https://openai.com/index/adventhealth",
+          "source": "OpenAI",
+          "published_at": "2026-05-21T12:00:00Z",
+          "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
+        },
+        {
           "title": "How Ramp engineers accelerate code review with Codex",
           "url": "https://openai.com/index/ramp",
           "source": "OpenAI",
@@ -847,19 +852,6 @@
           "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
         },
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
-        },
-        {
           "title": "The next phase of OpenAI’s Education for Countries",
           "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "source": "OpenAI",
@@ -871,6 +863,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
+        },
+        {
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "source": "OpenAI",
+          "published_at": "2026-05-20T00:00:00Z",
+          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
         },
         {
           "title": "Introducing OpenAI for Singapore",
@@ -923,97 +928,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-16-openai-and-malta-partner-to-bring-chatgpt-plus"
-        },
-        {
-          "title": "A new personal finance experience in ChatGPT",
-          "url": "https://openai.com/index/personal-finance-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-a-new-personal-finance-experience-in-chatgpt"
-        },
-        {
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "url": "https://openai.com/index/databricks",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
-        },
-        {
-          "title": "How sales teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-sales-teams-use-codex"
-        },
-        {
-          "title": "How data science teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-data-science-teams-use-codex"
-        },
-        {
-          "title": "How business operations teams use Codex",
-          "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-15T00:00:00Z",
-          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-15-how-business-operations-teams-use-codex"
-        },
-        {
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "url": "https://openai.com/index/sea-david-chen",
-          "source": "OpenAI",
-          "published_at": "2026-05-14T20:30:00Z",
-          "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-14-sea-s-view-on-the-future-of-agentic"
-        },
-        {
-          "title": "Work with Codex from anywhere",
-          "url": "https://openai.com/index/work-with-codex-from-anywhere",
-          "source": "OpenAI",
-          "published_at": "2026-05-14T13:00:00Z",
-          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-14-work-with-codex-from-anywhere"
         }
       ]
     },
@@ -1202,6 +1116,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "source": "DeepMind",
+          "published_at": "2026-05-21T19:46:42Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-05-21-we-re-launching-the-google-deepmind-accelerator-program"
+        },
         {
           "title": "Fast-tracking genetic leads to reverse cellular aging",
           "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
