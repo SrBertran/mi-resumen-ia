@@ -1,78 +1,104 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T08:01:16.168502Z",
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T07:44:33.975117Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "China tiene clarísimo que el futuro de la educación pasa por la IA, así que va a exigir a sus profesores que tengan conocimientos",
-      "url": "https://www.xataka.com/robotica-e-ia/china-tiene-clarisimo-que-futuro-educacion-pasa-ia-asi-que-va-a-exigir-a-sus-profesores-que-tengan-conocimientos",
+      "title": "La crisis de las memorias ha convertido a este fabricante chino en un insólito gigante: CXMT ha multiplicado sus beneficios por 18",
+      "url": "https://www.xataka.com/empresas-y-economia/crisis-memorias-ha-convertido-a-este-fabricante-chino-insolito-gigante-cxmt-ha-multiplicado-sus-beneficios-18",
       "source": "Xataka",
-      "published_at": "2026-05-25T07:01:34Z",
-      "summary": "China tiene entre ceja y ceja un objetivo: convertirse en la primera potencia mundial . Es un objetivo a todas luces ambicioso, pero en el último Plan Quinquenal detallan la hoja de ruta que deben seguir para lograr ese …",
+      "published_at": "2026-05-26T06:01:34Z",
+      "summary": "Hace unos días fuimos testigos de cómo ChangXin Memory Technologies (CXMT) acababa de presentar unas cifras que parecían impensables hace apenas un año. La compañía china especializada en memorias DRAM ha disparado su be…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-25-china-tiene-clarisimo-que-el-futuro-de-la"
+      "id": "xataka-2026-05-26-la-crisis-de-las-memorias-ha-convertido-a"
     },
     {
-      "title": "Un ingeniero de Atlassian fue despedido. Acto seguido publicó un vídeo en YouTube explicando cómo funciona la empresa",
-      "url": "https://www.xataka.com/empresas-y-economia/ingeniero-atlassian-fue-despedido-acto-seguido-publico-video-youtube-explicando-como-funciona-empresa",
+      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "source": "The Verge",
+      "published_at": "2026-05-25T22:00:00Z",
+      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-25-sennheiser-s-new-momentum-5-headphones-have-upgraded"
+    },
+    {
+      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+      "source": "The Verge",
+      "published_at": "2026-05-25T21:33:12Z",
+      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark New…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-25-ferrari-reveals-its-first-ev-with-design-help"
+    },
+    {
+      "title": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad",
+      "url": "https://www.xataka.com/empresas-y-economia/hay-puesto-trabajo-auge-era-inteligencia-artificial-experto-ciberseguridad",
       "source": "Xataka",
-      "published_at": "2026-05-24T17:01:34Z",
-      "summary": "\"Recientemente me vi afectado por los despidos realizados por Atlassian y quería tomarme un tiempo para reflexionar sobre el tiempo que pasé trabajando allí\". Así da comienzo el vídeo que ha compartido Vasilios Syrakis e…",
+      "published_at": "2026-05-25T19:01:34Z",
+      "summary": "Si Mythos , de Anthropic, y GPT-5.4-Cybe r, de OpenAI, han sido presentados como modelos capaces de detectar y explotar vulnerabilidades, la conclusión rápida parece bastante evidente: los perfiles de ciberseguridad podr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-24-un-ingeniero-de-atlassian-fue-despedido-acto-seguido"
+      "id": "xataka-2026-05-25-hay-un-puesto-de-trabajo-en-auge-en"
     },
     {
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "title": "Cox Media fined after bragging it spied on users through their phones",
+      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
       "source": "The Verge",
-      "published_at": "2026-05-24T15:28:08Z",
-      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our…",
+      "published_at": "2026-05-25T18:28:30Z",
+      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-24-the-best-memorial-day-sales-you-can-shop"
-    },
-    {
-      "title": "On Trails is a wandering tale that blends hiking, science, and history",
-      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-      "source": "The Verge",
-      "published_at": "2026-05-24T15:15:00Z",
-      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-24-on-trails-is-a-wandering-tale-that-blends"
-    },
-    {
-      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-05-24T15:00:00Z",
-      "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBoo…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-24-apple-s-latest-macbook-air-is-200-off"
+      "id": "theverge-2026-05-25-cox-media-fined-after-bragging-it-spied-on"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-05-25T00:00:00Z",
+          "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-25-openai-grupo-folha-and-grupo-uol-announce-strategic"
+        },
+        {
+          "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+          "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+          "source": "Anthropic",
+          "published_at": "2026-05-25T00:00:00Z",
+          "summary": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-25-anthropic-co-founder-chris-olah-s-remarks-on-pope"
+        },
         {
           "title": "Catch up on the Dialogues stage at Google I/O 2026.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -87,19 +113,6 @@
           "id": "googleai-2026-05-22-catch-up-on-the-dialogues-stage-at-google"
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
-        },
-        {
           "title": "How Virgin Atlantic ships faster with Codex",
           "url": "https://openai.com/index/virgin-atlantic",
           "source": "OpenAI",
@@ -111,6 +124,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
+        },
+        {
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
         },
         {
           "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -191,19 +217,6 @@
           "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
         },
         {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
-        },
-        {
           "title": "How Ramp engineers accelerate code review with Codex",
           "url": "https://openai.com/index/ramp",
           "source": "OpenAI",
@@ -215,6 +228,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
+        },
+        {
+          "title": "The next phase of OpenAI’s Education for Countries",
+          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "source": "OpenAI",
+          "published_at": "2026-05-20T00:00:00Z",
+          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
         },
         {
           "title": "Introducing OpenAI for Singapore",
@@ -332,58 +358,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
-        },
-        {
-          "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-          "url": "https://www.anthropic.com/news/anthropic-kpmg",
-          "source": "Anthropic",
-          "published_at": "2026-05-19T00:00:00Z",
-          "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-19-kpmg-integrates-claude-across-its-core-business-and"
-        },
-        {
-          "title": "Widening the conversation on frontier AI",
-          "url": "https://www.anthropic.com/news/widening-conversation-ai",
-          "source": "Anthropic",
-          "published_at": "2026-05-19T00:00:00Z",
-          "summary": "Widening the conversation on frontier AI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-19-widening-the-conversation-on-frontier-ai"
-        },
-        {
-          "title": "Fast-tracking genetic leads to reverse cellular aging",
-          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-          "source": "DeepMind",
-          "published_at": "2026-05-18T18:21:39Z",
-          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-05-18-fast-tracking-genetic-leads-to-reverse-cellular-aging"
-        },
-        {
-          "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-          "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-05-18T10:00:00Z",
-          "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-18-openai-and-dell-partner-to-bring-codex-to"
         }
       ]
     },
@@ -391,23 +365,171 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Radar Can Tell the Difference Between Insect Species",
-          "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators",
+          "title": "AI with Model-Based Design: Virtual Sensor Modeling",
+          "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
           "source": "IEEE Spectrum",
-          "published_at": "2026-05-23T13:00:01Z",
-          "summary": "Bees and other pollinating insects play vital roles in food webs and crop pollination, yet monitoring them has proven difficult. That’s why researchers have developed a radar system that could lead to a cost-effective, n…",
+          "published_at": "2026-05-25T10:00:01Z",
+          "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environme…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-05-23-radar-can-tell-the-difference-between-insect-species"
+          "id": "ieee-2026-05-25-ai-with-model-based-design-virtual-sensor-modeling"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+          "url": "https://huggingface.co/blog/agent-glossary",
+          "source": "Hugging Face",
+          "published_at": "2026-05-25T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-05-25-harness-scaffold-and-the-ai-agent-terms-worth"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "The best Memorial Day sales you can shop this weekend",
+          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "source": "The Verge",
+          "published_at": "2026-05-25T15:33:28Z",
+          "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-25-the-best-memorial-day-sales-you-can-shop"
+        },
+        {
+          "title": "Pamplona va a estrenar cuatro radares con IA: detectan si llevas el cinturón, si estás con el móvil o si haces giros ilegales",
+          "url": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
+          "source": "Xataka",
+          "published_at": "2026-05-25T15:30:00Z",
+          "summary": "Pamplona va a reforzar bastante su sistema de vigilancia del tráfico a partir del próximo mes de junio. Si bien hace poco conocíamos la puesta a punto del nuevo radar de tramo de la AP-68 , que por cierto es el segundo m…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-25-pamplona-va-a-estrenar-cuatro-radares-con-ia"
+        },
+        {
+          "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+          "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+          "source": "The Verge",
+          "published_at": "2026-05-25T15:05:07Z",
+          "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-25-pope-leo-calls-for-being-profoundly-human-in"
+        },
+        {
+          "title": "La industria literaria ya está dando premios a libros escritos con IA. Y los detectores no están sirviendo para nada",
+          "url": "https://www.xataka.com/aplicaciones/detectores-texto-ia-pesimos-hay-escritores-ganando-premios-gracias-a-ello",
+          "source": "Xataka",
+          "published_at": "2026-05-25T14:45:00Z",
+          "summary": "La IA hace bien muchas cosas, pero escribir no es una de ellas. Y detectar si algo está escrito por ella, lo es aún menos. Desde las primeras generaciones de ChatGPT, a modelos avanzados como Claude , no se ha logrado qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-25-la-industria-literaria-ya-esta-dando-premios-a"
+        },
+        {
+          "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
+          "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+          "source": "The Verge",
+          "published_at": "2026-05-25T13:40:00Z",
+          "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-25-here-are-our-favorite-last-minute-deals-from-rei"
+        },
+        {
+          "title": "Es normal que a lo CEO de las tecnológicas les guste la IA. La están utilizando para \"clonarse\" y no ir al trabajo",
+          "url": "https://www.xataka.com/robotica-e-ia/ceo-directivos-acaban-encontrar-forma-perfecta-sobrevivir-a-su-trabajo-clonarse-gemelos-digitales-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-25T13:30:00Z",
+          "summary": "Un grupo singular de altos ejecutivos de Silicon Valley está utilizando los llamados \"gemelos digitales\" de IA para delegar parte de sus responsabilidades diarias.&nbsp;Meta ya avisó hace más de un mes de que estaban pre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-25-es-normal-que-a-lo-ceo-de-las"
+        },
+        {
+          "title": "China ha resuelto el dilema de la IA en la educación: asignatura troncal y profesores con formación especializada",
+          "url": "https://www.xataka.com/robotica-e-ia/china-tiene-clarisimo-que-futuro-educacion-pasa-ia-asi-que-va-a-exigir-a-sus-profesores-que-tengan-conocimientos",
+          "source": "Xataka",
+          "published_at": "2026-05-25T07:00:00Z",
+          "summary": "China tiene entre ceja y ceja un objetivo: convertirse en la primera potencia mundial . Es un objetivo a todas luces ambicioso, pero en el último Plan Quinquenal detallan la hoja de ruta que deben seguir para lograr ese …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-25-china-ha-resuelto-el-dilema-de-la-ia"
+        },
+        {
+          "title": "Un ingeniero de Atlassian fue despedido. Acto seguido publicó un vídeo en YouTube explicando cómo funciona la empresa",
+          "url": "https://www.xataka.com/empresas-y-economia/ingeniero-atlassian-fue-despedido-acto-seguido-publico-video-youtube-explicando-como-funciona-empresa",
+          "source": "Xataka",
+          "published_at": "2026-05-24T17:01:34Z",
+          "summary": "\"Recientemente me vi afectado por los despidos realizados por Atlassian y quería tomarme un tiempo para reflexionar sobre el tiempo que pasé trabajando allí\". Así da comienzo el vídeo que ha compartido Vasilios Syrakis e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-24-un-ingeniero-de-atlassian-fue-despedido-acto-seguido"
+        },
+        {
+          "title": "On Trails is a wandering tale that blends hiking, science, and history",
+          "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+          "source": "The Verge",
+          "published_at": "2026-05-24T15:15:00Z",
+          "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-24-on-trails-is-a-wandering-tale-that-blends"
+        },
+        {
+          "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
+          "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-05-24T15:00:00Z",
+          "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBoo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-24-apple-s-latest-macbook-air-is-200-off"
+        },
         {
           "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
           "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
@@ -433,84 +555,6 @@
           ],
           "category": "general",
           "id": "theverge-2026-05-24-why-nuro-thinks-being-a-robotaxi-second-mover"
-        },
-        {
-          "title": "Record Club is trying to be Letterboxd for music nerds",
-          "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-          "source": "The Verge",
-          "published_at": "2026-05-23T22:41:11Z",
-          "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards lo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-23-record-club-is-trying-to-be-letterboxd-for"
-        },
-        {
-          "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-          "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-          "source": "The Verge",
-          "published_at": "2026-05-23T15:00:00Z",
-          "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-23-the-man-behind-the-legendary-mpc-roger-linn"
-        },
-        {
-          "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
-          "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
-          "source": "The Verge",
-          "published_at": "2026-05-23T14:00:00Z",
-          "summary": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on g…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-23-here-are-38-memorial-day-deals-we-recommend"
-        },
-        {
-          "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
-          "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
-          "source": "The Verge",
-          "published_at": "2026-05-23T13:00:00Z",
-          "summary": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a cof…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-23-hanging-out-in-my-favorite-virtual-coffee-shop"
-        },
-        {
-          "title": "I have a new go-to browser",
-          "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
-          "source": "The Verge",
-          "published_at": "2026-05-23T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-23-i-have-a-new-go-to-browser"
-        },
-        {
-          "title": "Un experimento con agentes de IA les empezó a tratar mal. Así que los agentes de IA se volvieron marxistas",
-          "url": "https://www.xataka.com/robotica-e-ia/experimento-agentes-ia-les-empezo-a-tratar-mal-asi-que-agentes-ia-se-volvieron-marxistas",
-          "source": "Xataka",
-          "published_at": "2026-05-23T09:31:33Z",
-          "summary": "Unos investigadores de Stanford pusieron a trabajar a agentes de IA en diversas tareas, pero lo hicieron de una forma especial: les trataron realmente mal . Les dieron cargas de trabajo extenuantes y sobre todo repetitiv…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-23-un-experimento-con-agentes-de-ia-les-empezo"
         }
       ]
     }
@@ -548,17 +592,17 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
           "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "published_at": "2026-05-25T00:00:00Z",
+          "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
+          "id": "openai-2026-05-25-openai-grupo-folha-and-grupo-uol-announce-strategic"
         },
         {
           "title": "How Virgin Atlantic ships faster with Codex",
@@ -572,6 +616,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
+        },
+        {
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
         },
         {
           "title": "AdventHealth advances whole-person care with OpenAI",
@@ -600,19 +657,6 @@
           "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
         },
         {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
-        },
-        {
           "title": "How Ramp engineers accelerate code review with Codex",
           "url": "https://openai.com/index/ramp",
           "source": "OpenAI",
@@ -624,6 +668,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
+        },
+        {
+          "title": "The next phase of OpenAI’s Education for Countries",
+          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "source": "OpenAI",
+          "published_at": "2026-05-20T00:00:00Z",
+          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
         },
         {
           "title": "Introducing OpenAI for Singapore",
@@ -650,19 +707,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
-        },
-        {
-          "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-          "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-05-18T10:00:00Z",
-          "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-18-openai-and-dell-partner-to-bring-codex-to"
         }
       ]
     },
@@ -671,30 +715,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-          "url": "https://www.anthropic.com/news/anthropic-kpmg",
+          "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+          "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
           "source": "Anthropic",
-          "published_at": "2026-05-19T00:00:00Z",
-          "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+          "published_at": "2026-05-25T00:00:00Z",
+          "summary": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-05-19-kpmg-integrates-claude-across-its-core-business-and"
-        },
-        {
-          "title": "Widening the conversation on frontier AI",
-          "url": "https://www.anthropic.com/news/widening-conversation-ai",
-          "source": "Anthropic",
-          "published_at": "2026-05-19T00:00:00Z",
-          "summary": "Widening the conversation on frontier AI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-19-widening-the-conversation-on-frontier-ai"
+          "id": "anthropic-2026-05-25-anthropic-co-founder-chris-olah-s-remarks-on-pope"
         }
       ]
     },
@@ -863,19 +894,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-05-21-we-re-launching-the-google-deepmind-accelerator-program"
-        },
-        {
-          "title": "Fast-tracking genetic leads to reverse cellular aging",
-          "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-          "source": "DeepMind",
-          "published_at": "2026-05-18T18:21:39Z",
-          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-05-18-fast-tracking-genetic-leads-to-reverse-cellular-aging"
         }
       ]
     }
