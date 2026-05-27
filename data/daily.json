@@ -1,78 +1,91 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T07:44:33.975117Z",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T07:51:00.191957Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "La crisis de las memorias ha convertido a este fabricante chino en un insólito gigante: CXMT ha multiplicado sus beneficios por 18",
-      "url": "https://www.xataka.com/empresas-y-economia/crisis-memorias-ha-convertido-a-este-fabricante-chino-insolito-gigante-cxmt-ha-multiplicado-sus-beneficios-18",
+      "title": "En China quieren que los robots humanoides hagan las tareas del hogar. El problema es que una casa no es una fábrica",
+      "url": "https://www.xataka.com/robotica-e-ia/china-quieren-que-robots-humanoides-hagan-tareas-hogar-problema-que-casa-no-fabrica",
       "source": "Xataka",
-      "published_at": "2026-05-26T06:01:34Z",
-      "summary": "Hace unos días fuimos testigos de cómo ChangXin Memory Technologies (CXMT) acababa de presentar unas cifras que parecían impensables hace apenas un año. La compañía china especializada en memorias DRAM ha disparado su be…",
+      "published_at": "2026-05-27T07:30:08Z",
+      "summary": "Durante años hemos visto robots humanoides dar volteretas mortales , bailar , p racticar artes marciales o moverse por fábricas con capacidades cada vez más llamativas. El siguiente paso parece casi natural: llevarlos a …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-26-la-crisis-de-las-memorias-ha-convertido-a"
+      "id": "xataka-2026-05-27-en-china-quieren-que-los-robots-humanoides-hagan"
     },
     {
-      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
-      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
-      "source": "The Verge",
-      "published_at": "2026-05-25T22:00:00Z",
-      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-25-sennheiser-s-new-momentum-5-headphones-have-upgraded"
-    },
-    {
-      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
-      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
-      "source": "The Verge",
-      "published_at": "2026-05-25T21:33:12Z",
-      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark New…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-05-25-ferrari-reveals-its-first-ev-with-design-help"
-    },
-    {
-      "title": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad",
-      "url": "https://www.xataka.com/empresas-y-economia/hay-puesto-trabajo-auge-era-inteligencia-artificial-experto-ciberseguridad",
+      "title": "Los universitarios están sacando más sobresalientes que en ningún otro momento de la historia. Hay un sospechoso",
+      "url": "https://www.xataka.com/robotica-e-ia/universitarios-estan-sacando-sobresalientes-que-nunca-bienvenidos-a-era-chatgpt-inflacion-notas",
       "source": "Xataka",
-      "published_at": "2026-05-25T19:01:34Z",
-      "summary": "Si Mythos , de Anthropic, y GPT-5.4-Cybe r, de OpenAI, han sido presentados como modelos capaces de detectar y explotar vulnerabilidades, la conclusión rápida parece bastante evidente: los perfiles de ciberseguridad podr…",
+      "published_at": "2026-05-27T06:01:34Z",
+      "summary": "Algunos lo llaman ya \"inflación de las notas\". Es un fenómeno que debería alegrarnos —qué notazas sacan nuestros jóvenes— pero que cada vez más preocupante en el mundo educativo. Los alumnos universitarios jamás habían s…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-25-hay-un-puesto-de-trabajo-en-auge-en"
+      "id": "xataka-2026-05-27-los-universitarios-estan-sacando-mas-sobresalientes-que-en"
     },
     {
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
       "source": "The Verge",
-      "published_at": "2026-05-25T18:28:30Z",
-      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually …",
+      "published_at": "2026-05-27T00:38:11Z",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-25-cox-media-fined-after-bragging-it-spied-on"
+      "id": "theverge-2026-05-27-did-the-pope-use-ai-to-write-about"
+    },
+    {
+      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "source": "The Verge",
+      "published_at": "2026-05-26T22:24:53Z",
+      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA say…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-26-nasa-8217-s-permanent-moon-base-plans-start"
+    },
+    {
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "source": "The Verge",
+      "published_at": "2026-05-26T19:00:15Z",
+      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously annou…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-26-google-health-is-here-but-a-lot-of"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+          "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+          "source": "Anthropic",
+          "published_at": "2026-05-26T00:00:00Z",
+          "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-of"
+        },
         {
           "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
           "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -113,19 +126,6 @@
           "id": "googleai-2026-05-22-catch-up-on-the-dialogues-stage-at-google"
         },
         {
-          "title": "How Virgin Atlantic ships faster with Codex",
-          "url": "https://openai.com/index/virgin-atlantic",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
-        },
-        {
           "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
           "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
           "source": "OpenAI",
@@ -137,6 +137,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
+        },
+        {
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "url": "https://openai.com/index/virgin-atlantic",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
         },
         {
           "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -202,168 +215,56 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-20-a-new-experiment-brings-better-group-meetings-to"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+          "title": "La fiebre de la IA ya no depende solo de OpenAI y Anthropic: hay una nueva ola de startups creando nuevos millonarios de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/fiebre-ia-depende-solo-openai-anthropic-hay-nueva-ola-startups-creando-nuevos-millonarios-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-26T16:15:34Z",
+          "summary": "El auge de la IA ha generado una nueva saga de hipermillonarios que están rompiendo todos los límites de riqueza hasta la fecha. No hay más que repasar la lista de las &nbsp;10 de mayores fortunas del mundo de Forbes par…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
-        },
-        {
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "url": "https://openai.com/index/ramp",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
-        },
-        {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
-        },
-        {
-          "title": "Introducing OpenAI for Singapore",
-          "url": "https://openai.com/index/introducing-openai-for-singapore",
-          "source": "OpenAI",
-          "published_at": "2026-05-19T20:30:00Z",
-          "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-19-introducing-openai-for-singapore"
-        },
-        {
-          "title": "I/O 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-i-o-2026"
-        },
-        {
-          "title": "How AI Mode is changing the way people search in the U.S.",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-how-ai-mode-is-changing-the-way-people"
-        },
-        {
-          "title": "New ways to create and get things done in Google Workspace",
-          "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Google Workspace",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-new-ways-to-create-and-get-things-done"
-        },
-        {
-          "title": "I/O 2026: Welcome to the agentic Gemini era",
-          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "a series of colorful icons representing Google I/O against a black background",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-i-o-2026-welcome-to-the-agentic-gemini"
-        },
-        {
-          "title": "Gemini 3.5: frontier intelligence with action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-gemini-3-5-frontier-intelligence-with-action"
-        },
-        {
-          "title": "A new era for AI Search",
-          "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Text that reads \"The best of a search engine with the best of AI\"",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-a-new-era-for-ai-search"
-        },
-        {
-          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-everything-new-in-our-google-ai-subscriptions-fresh"
-        },
-        {
-          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-          "url": "https://openai.com/index/advancing-content-provenance",
-          "source": "OpenAI",
-          "published_at": "2026-05-19T10:45:00Z",
-          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
+          "category": "negocio",
+          "id": "xataka-2026-05-26-la-fiebre-de-la-ia-ya-no-depende"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
+          "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-26T12:00:01Z",
+          "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commute…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-26-thermal-cameras-and-ai-help-ships-steer-clear"
+        },
+        {
+          "title": "Reclaiming Social Engineering for Good",
+          "url": "https://spectrum.ieee.org/social-engineering-good",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-25T13:00:01Z",
+          "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudster…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-25-reclaiming-social-engineering-for-good"
+        },
         {
           "title": "AI with Model-Based Design: Virtual Sensor Modeling",
           "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
@@ -380,38 +281,150 @@
       ]
     },
     {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-          "url": "https://huggingface.co/blog/agent-glossary",
-          "source": "Hugging Face",
-          "published_at": "2026-05-25T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-25-harness-scaffold-and-the-ai-agent-terms-worth"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "The best Memorial Day sales you can shop this weekend",
-          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+          "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-05-25T15:33:28Z",
-          "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many…",
+          "published_at": "2026-05-26T18:50:35Z",
+          "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. That’s $184 less than buyi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-25-the-best-memorial-day-sales-you-can-shop"
+          "id": "theverge-2026-05-26-ge-s-nugget-ice-maker-is-nearly-half"
+        },
+        {
+          "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
+          "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
+          "source": "The Verge",
+          "published_at": "2026-05-26T16:30:00Z",
+          "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring every…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-sony-s-sloppy-spider-man-universe-gets-even-messier"
+        },
+        {
+          "title": "The best Memorial Day sales you can still shop",
+          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "source": "The Verge",
+          "published_at": "2026-05-26T16:10:06Z",
+          "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-the-best-memorial-day-sales-you-can-still"
+        },
+        {
+          "title": "American Airlines is getting Starlink Wi-Fi",
+          "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+          "source": "The Verge",
+          "published_at": "2026-05-26T16:07:39Z",
+          "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 50…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-american-airlines-is-getting-starlink-wi-fi"
+        },
+        {
+          "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
+          "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+          "source": "The Verge",
+          "published_at": "2026-05-26T16:00:00Z",
+          "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Artu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-memory-v-re-creates-the-memorymoog-without-the-massive"
+        },
+        {
+          "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
+          "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-05-26T15:33:42Z",
+          "summary": "If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers get $200 worth of credit towards games,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-saving-for-a-switch-2-is-easier-with"
+        },
+        {
+          "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
+          "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+          "source": "The Verge",
+          "published_at": "2026-05-26T15:07:45Z",
+          "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-05-26-oppo-s-bubble-is-a-thin-round-screen"
+        },
+        {
+          "title": "\"Como 23 bombas atómicas\": EEUU quiere construir el mayor centro de datos del mundo y muchos expertos temen problemas",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-quiere-levantar-uno-mayores-centros-datos-planeta-algunos-expertos-temen-consecuencias-dificiles-medir",
+          "source": "Xataka",
+          "published_at": "2026-05-26T12:30:00Z",
+          "summary": "Hay una iniciativa para construir un gigantesco centro de datos en Utah (EEUU). El llamado Stratos Project prevé ocupar una superficie equivalente a la ciudad de Washington D.C. y se estima que consumirá 9 GW de potencia…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-26-como-23-bombas-atomicas-eeuu-quiere-construir-el"
+        },
+        {
+          "title": "Sin hacer ruido, Tenerife se está convirtiendo en una de las mayores potencias de España en supercomputadores",
+          "url": "https://www.xataka.com/robotica-e-ia/tenerife-era-conocida-sol-sus-playas-pronto-albergara-uno-cinco-supercomputadores-potentes-espana",
+          "source": "Xataka",
+          "published_at": "2026-05-26T12:15:00Z",
+          "summary": "Tenerife tendrá nuevo supercomputador. Ya tenía dos con los nombres de Teide y de Anaga , y a ellos se les sumará ahora un nuevo y prometedor proyecto llamado Centro de Supercomputación del Atlántico. Con él se espera co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-26-sin-hacer-ruido-tenerife-se-esta-convirtiendo-en"
+        },
+        {
+          "title": "Casi todo el mundo se está arruinando por la escalada del precio de la memoria. Excepto una empresa china llamada CXMT",
+          "url": "https://www.xataka.com/empresas-y-economia/crisis-memorias-ha-convertido-a-este-fabricante-chino-insolito-gigante-cxmt-ha-multiplicado-sus-beneficios-18",
+          "source": "Xataka",
+          "published_at": "2026-05-26T06:00:00Z",
+          "summary": "Hace unos días fuimos testigos de cómo ChangXin Memory Technologies (CXMT) acababa de presentar unas cifras que parecían impensables hace apenas un año. La compañía china especializada en memorias DRAM ha disparado su be…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-26-casi-todo-el-mundo-se-esta-arruinando-por"
+        },
+        {
+          "title": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad",
+          "url": "https://www.xataka.com/empresas-y-economia/hay-puesto-trabajo-auge-era-inteligencia-artificial-experto-ciberseguridad",
+          "source": "Xataka",
+          "published_at": "2026-05-25T19:01:34Z",
+          "summary": "Si Mythos , de Anthropic, y GPT-5.4-Cybe r, de OpenAI, han sido presentados como modelos capaces de detectar y explotar vulnerabilidades, la conclusión rápida parece bastante evidente: los perfiles de ciberseguridad podr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-25-hay-un-puesto-de-trabajo-en-auge-en"
         },
         {
           "title": "Pamplona va a estrenar cuatro radares con IA: detectan si llevas el cinturón, si estás con el móvil o si haces giros ilegales",
@@ -427,19 +440,6 @@
           "id": "xataka-2026-05-25-pamplona-va-a-estrenar-cuatro-radares-con-ia"
         },
         {
-          "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-          "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-          "source": "The Verge",
-          "published_at": "2026-05-25T15:05:07Z",
-          "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-25-pope-leo-calls-for-being-profoundly-human-in"
-        },
-        {
           "title": "La industria literaria ya está dando premios a libros escritos con IA. Y los detectores no están sirviendo para nada",
           "url": "https://www.xataka.com/aplicaciones/detectores-texto-ia-pesimos-hay-escritores-ganando-premios-gracias-a-ello",
           "source": "Xataka",
@@ -453,19 +453,6 @@
           "id": "xataka-2026-05-25-la-industria-literaria-ya-esta-dando-premios-a"
         },
         {
-          "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
-          "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-          "source": "The Verge",
-          "published_at": "2026-05-25T13:40:00Z",
-          "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-25-here-are-our-favorite-last-minute-deals-from-rei"
-        },
-        {
           "title": "Es normal que a lo CEO de las tecnológicas les guste la IA. La están utilizando para \"clonarse\" y no ir al trabajo",
           "url": "https://www.xataka.com/robotica-e-ia/ceo-directivos-acaban-encontrar-forma-perfecta-sobrevivir-a-su-trabajo-clonarse-gemelos-digitales-ia",
           "source": "Xataka",
@@ -477,84 +464,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-25-es-normal-que-a-lo-ceo-de-las"
-        },
-        {
-          "title": "China ha resuelto el dilema de la IA en la educación: asignatura troncal y profesores con formación especializada",
-          "url": "https://www.xataka.com/robotica-e-ia/china-tiene-clarisimo-que-futuro-educacion-pasa-ia-asi-que-va-a-exigir-a-sus-profesores-que-tengan-conocimientos",
-          "source": "Xataka",
-          "published_at": "2026-05-25T07:00:00Z",
-          "summary": "China tiene entre ceja y ceja un objetivo: convertirse en la primera potencia mundial . Es un objetivo a todas luces ambicioso, pero en el último Plan Quinquenal detallan la hoja de ruta que deben seguir para lograr ese …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-25-china-ha-resuelto-el-dilema-de-la-ia"
-        },
-        {
-          "title": "Un ingeniero de Atlassian fue despedido. Acto seguido publicó un vídeo en YouTube explicando cómo funciona la empresa",
-          "url": "https://www.xataka.com/empresas-y-economia/ingeniero-atlassian-fue-despedido-acto-seguido-publico-video-youtube-explicando-como-funciona-empresa",
-          "source": "Xataka",
-          "published_at": "2026-05-24T17:01:34Z",
-          "summary": "\"Recientemente me vi afectado por los despidos realizados por Atlassian y quería tomarme un tiempo para reflexionar sobre el tiempo que pasé trabajando allí\". Así da comienzo el vídeo que ha compartido Vasilios Syrakis e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-24-un-ingeniero-de-atlassian-fue-despedido-acto-seguido"
-        },
-        {
-          "title": "On Trails is a wandering tale that blends hiking, science, and history",
-          "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-          "source": "The Verge",
-          "published_at": "2026-05-24T15:15:00Z",
-          "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-24-on-trails-is-a-wandering-tale-that-blends"
-        },
-        {
-          "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-          "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-05-24T15:00:00Z",
-          "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBoo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-24-apple-s-latest-macbook-air-is-200-off"
-        },
-        {
-          "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-          "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-          "source": "The Verge",
-          "published_at": "2026-05-24T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Ste…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-24-hackers-are-learning-to-exploit-chatbot-8216-personalities"
-        },
-        {
-          "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-          "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
-          "source": "The Verge",
-          "published_at": "2026-05-24T11:00:00Z",
-          "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-05-24-why-nuro-thinks-being-a-robotaxi-second-mover"
         }
       ]
     }
@@ -605,19 +514,6 @@
           "id": "openai-2026-05-25-openai-grupo-folha-and-grupo-uol-announce-strategic"
         },
         {
-          "title": "How Virgin Atlantic ships faster with Codex",
-          "url": "https://openai.com/index/virgin-atlantic",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
-        },
-        {
           "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
           "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
           "source": "OpenAI",
@@ -631,6 +527,19 @@
           "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
         },
         {
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "url": "https://openai.com/index/virgin-atlantic",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
+        },
+        {
           "title": "AdventHealth advances whole-person care with OpenAI",
           "url": "https://openai.com/index/adventhealth",
           "source": "OpenAI",
@@ -642,71 +551,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
-        },
-        {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-an-openai-model-has-disproved-a-central-conjecture"
-        },
-        {
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "url": "https://openai.com/index/ramp",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-how-ramp-engineers-accelerate-code-review-with-codex"
-        },
-        {
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "source": "OpenAI",
-          "published_at": "2026-05-20T00:00:00Z",
-          "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-20-the-next-phase-of-openai-s-education-for"
-        },
-        {
-          "title": "Introducing OpenAI for Singapore",
-          "url": "https://openai.com/index/introducing-openai-for-singapore",
-          "source": "OpenAI",
-          "published_at": "2026-05-19T20:30:00Z",
-          "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-19-introducing-openai-for-singapore"
-        },
-        {
-          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-          "url": "https://openai.com/index/advancing-content-provenance",
-          "source": "OpenAI",
-          "published_at": "2026-05-19T10:45:00Z",
-          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-19-advancing-content-provenance-for-a-safer-more-transparent"
         }
       ]
     },
@@ -714,6 +558,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+          "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+          "source": "Anthropic",
+          "published_at": "2026-05-26T00:00:00Z",
+          "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-of"
+        },
         {
           "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
           "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
@@ -784,97 +641,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-20-a-new-experiment-brings-better-group-meetings-to"
-        },
-        {
-          "title": "I/O 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-i-o-2026"
-        },
-        {
-          "title": "How AI Mode is changing the way people search in the U.S.",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-how-ai-mode-is-changing-the-way-people"
-        },
-        {
-          "title": "New ways to create and get things done in Google Workspace",
-          "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Google Workspace",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-new-ways-to-create-and-get-things-done"
-        },
-        {
-          "title": "I/O 2026: Welcome to the agentic Gemini era",
-          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "a series of colorful icons representing Google I/O against a black background",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-i-o-2026-welcome-to-the-agentic-gemini"
-        },
-        {
-          "title": "Gemini 3.5: frontier intelligence with action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-gemini-3-5-frontier-intelligence-with-action"
-        },
-        {
-          "title": "A new era for AI Search",
-          "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "Text that reads \"The best of a search engine with the best of AI\"",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-a-new-era-for-ai-search"
-        },
-        {
-          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-          "source": "Google AI",
-          "published_at": "2026-05-19T17:45:00Z",
-          "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-19-everything-new-in-our-google-ai-subscriptions-fresh"
         }
       ]
     },
