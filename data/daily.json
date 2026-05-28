@@ -1,78 +1,130 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T07:51:00.191957Z",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T07:46:15.746658Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "En China quieren que los robots humanoides hagan las tareas del hogar. El problema es que una casa no es una fábrica",
-      "url": "https://www.xataka.com/robotica-e-ia/china-quieren-que-robots-humanoides-hagan-tareas-hogar-problema-que-casa-no-fabrica",
+      "title": "“Estamos 10 pasos por detrás del cibercrimen”: Francisco Valencia, CEO de Secure&IT, sobre el desafío de los ataques con IA",
+      "url": "https://www.xataka.com/seguridad/estamos-10-pasos-detras-cibercrimen-francisco-valencia-ceo-secure-it-desafio-ataques-ia",
       "source": "Xataka",
-      "published_at": "2026-05-27T07:30:08Z",
-      "summary": "Durante años hemos visto robots humanoides dar volteretas mortales , bailar , p racticar artes marciales o moverse por fábricas con capacidades cada vez más llamativas. El siguiente paso parece casi natural: llevarlos a …",
+      "published_at": "2026-05-28T06:31:36Z",
+      "summary": "Ayer por la mañana fui a una nueva edición de las jornadas de ciberseguridad de Secure&amp;IT en Madrid con una idea bastante clara: escuchar cómo las empresas están usando la inteligencia artificial para defenderse mejo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-27-en-china-quieren-que-los-robots-humanoides-hagan"
+      "id": "xataka-2026-05-28-estamos-10-pasos-por-detras-del-cibercrimen-francisco"
     },
     {
-      "title": "Los universitarios están sacando más sobresalientes que en ningún otro momento de la historia. Hay un sospechoso",
-      "url": "https://www.xataka.com/robotica-e-ia/universitarios-estan-sacando-sobresalientes-que-nunca-bienvenidos-a-era-chatgpt-inflacion-notas",
-      "source": "Xataka",
-      "published_at": "2026-05-27T06:01:34Z",
-      "summary": "Algunos lo llaman ya \"inflación de las notas\". Es un fenómeno que debería alegrarnos —qué notazas sacan nuestros jóvenes— pero que cada vez más preocupante en el mundo educativo. Los alumnos universitarios jamás habían s…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-05-27-los-universitarios-estan-sacando-mas-sobresalientes-que-en"
-    },
-    {
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "title": "The golden age of handheld gaming is already over",
+      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
       "source": "The Verge",
-      "published_at": "2026-05-27T00:38:11Z",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to…",
+      "published_at": "2026-05-28T06:30:23Z",
+      "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-27-did-the-pope-use-ai-to-write-about"
+      "id": "theverge-2026-05-28-the-golden-age-of-handheld-gaming-is-already"
     },
     {
-      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
-      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
       "source": "The Verge",
-      "published_at": "2026-05-26T22:24:53Z",
-      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA say…",
+      "published_at": "2026-05-27T22:30:02Z",
+      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-26-nasa-8217-s-permanent-moon-base-plans-start"
+      "id": "theverge-2026-05-27-a-google-employee-allegedly-used-inside-information-to"
     },
     {
-      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-05-26T19:00:15Z",
-      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously annou…",
+      "published_at": "2026-05-27T21:08:41Z",
+      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-26-google-health-is-here-but-a-lot-of"
+      "id": "theverge-2026-05-27-apple-s-newest-ipad-air-is-up-to"
+    },
+    {
+      "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
+      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "source": "The Verge",
+      "published_at": "2026-05-27T20:22:57Z",
+      "summary": "Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old. It was designed with help from Jony Ive’s LoveFrom, but what worked for Ive at Apple isn…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-27-all-the-news-about-ferrari-8217-s-polarizing"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "url": "https://openai.com/index/cisco",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T11:00:00Z",
+          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-cisco-and-openai-redefine-enterprise-engineering-with-codex"
+        },
+        {
+          "title": "Building self-improving tax agents with Codex",
+          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T07:00:00Z",
+          "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
+        },
+        {
+          "title": "Election information and safeguards in 2026",
+          "url": "https://openai.com/index/election-safeguards-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
+        },
+        {
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "url": "https://openai.com/index/warp",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
+        },
         {
           "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
           "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
@@ -126,19 +178,6 @@
           "id": "googleai-2026-05-22-catch-up-on-the-dialogues-stage-at-google"
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
-        },
-        {
           "title": "How Virgin Atlantic ships faster with Codex",
           "url": "https://openai.com/index/virgin-atlantic",
           "source": "OpenAI",
@@ -150,6 +189,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
+        },
+        {
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
         },
         {
           "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -176,69 +228,56 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
-        },
-        {
-          "title": "We’re announcing new community investments in Missouri.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T20:40:00Z",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-we-re-announcing-new-community-investments-in-missouri"
-        },
-        {
-          "title": "100 things we announced at I/O 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T19:30:00Z",
-          "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-100-things-we-announced-at-i-o-2026"
-        },
-        {
-          "title": "A new experiment brings better group meetings to Google Beam",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T16:45:00Z",
-          "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-a-new-experiment-brings-better-group-meetings-to"
         }
       ]
     },
     {
-      "name": "Negocio",
+      "name": "Regulación",
       "items": [
         {
-          "title": "La fiebre de la IA ya no depende solo de OpenAI y Anthropic: hay una nueva ola de startups creando nuevos millonarios de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/fiebre-ia-depende-solo-openai-anthropic-hay-nueva-ola-startups-creando-nuevos-millonarios-ia",
+          "title": "España tiene al fin su ansiada ley de IA: no para incentivarla sino para regularla e imponer sanciones millonarias",
+          "url": "https://www.xataka.com/legislacion-y-derechos/espana-aprueba-su-ley-ia-deepfakes-sexuales-fuera-etiqueta-ia-obligatoria-multas-millonarias-al-sector-privado",
           "source": "Xataka",
-          "published_at": "2026-05-26T16:15:34Z",
-          "summary": "El auge de la IA ha generado una nueva saga de hipermillonarios que están rompiendo todos los límites de riqueza hasta la fecha. No hay más que repasar la lista de las &nbsp;10 de mayores fortunas del mundo de Forbes par…",
+          "published_at": "2026-05-27T09:14:00Z",
+          "summary": "España ha aprobado el proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial. La norma adapta la legislación al marco establecido por la Unión Europea con la ley de IA y establece una ser…",
           "why_it_matters": "",
           "tags": [
-            "negocio"
+            "regulación"
           ],
-          "category": "negocio",
-          "id": "xataka-2026-05-26-la-fiebre-de-la-ia-ya-no-depende"
+          "category": "regulación",
+          "id": "xataka-2026-05-27-espana-tiene-al-fin-su-ansiada-ley-de"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "source": "Hugging Face",
+          "published_at": "2026-05-27T17:20:29Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-05-27-itbench-aa-frontier-models-score-below-50-on-the"
+        },
+        {
+          "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+          "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-27T13:00:01Z",
+          "summary": "This article is adapted by the author with permission from Tech Policy Press . Read the original article . South Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-27-south-africa-has-ai-leverage-its-draft-policy"
+        },
         {
           "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
           "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
@@ -251,32 +290,37 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-05-26-thermal-cameras-and-ai-help-ships-steer-clear"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "Reclaiming Social Engineering for Good",
-          "url": "https://spectrum.ieee.org/social-engineering-good",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-25T13:00:01Z",
-          "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudster…",
+          "title": "Reachy Mini goes fully local",
+          "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+          "source": "Hugging Face",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-05-25-reclaiming-social-engineering-for-good"
+          "category": "herramientas",
+          "id": "huggingface-2026-05-27-reachy-mini-goes-fully-local"
         },
         {
-          "title": "AI with Model-Based Design: Virtual Sensor Modeling",
-          "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-25T10:00:01Z",
-          "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environme…",
+          "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+          "url": "https://huggingface.co/blog/delta-weight-sync",
+          "source": "Hugging Face",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-05-25-ai-with-model-based-design-virtual-sensor-modeling"
+          "category": "herramientas",
+          "id": "huggingface-2026-05-27-shipping-a-trillion-parameters-with-a-hub-bucket"
         }
       ]
     },
@@ -284,95 +328,160 @@
       "name": "General",
       "items": [
         {
-          "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-          "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+          "title": "The new Halide camera app launches with film looks and an upgraded photo editor",
+          "url": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
           "source": "The Verge",
-          "published_at": "2026-05-26T18:50:35Z",
-          "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. That’s $184 less than buyi…",
+          "published_at": "2026-05-27T20:06:12Z",
+          "summary": "After first being announced in December 2024, Lux Optics has finally released the latest version of its Halide camera app for the iPhone and iPad. The Halide Mark III app's most compelling feature is a new film simulatio…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-ge-s-nugget-ice-maker-is-nearly-half"
+          "id": "theverge-2026-05-27-the-new-halide-camera-app-launches-with-film"
         },
         {
-          "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-          "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
+          "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",
+          "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
           "source": "The Verge",
-          "published_at": "2026-05-26T16:30:00Z",
-          "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring every…",
+          "published_at": "2026-05-27T20:03:42Z",
+          "summary": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-sony-s-sloppy-spider-man-universe-gets-even-messier"
+          "id": "theverge-2026-05-27-facebook-launches-a-plus-subscription-that-gives-you"
         },
         {
-          "title": "The best Memorial Day sales you can still shop",
-          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "title": "Roids were all the rage at the Enhanced Games",
+          "url": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
           "source": "The Verge",
-          "published_at": "2026-05-26T16:10:06Z",
-          "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You …",
+          "published_at": "2026-05-27T19:08:31Z",
+          "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's \"U Can't Touch This\" thumps over the loudspea…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-the-best-memorial-day-sales-you-can-still"
+          "id": "theverge-2026-05-27-roids-were-all-the-rage-at-the-enhanced"
         },
         {
-          "title": "American Airlines is getting Starlink Wi-Fi",
-          "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+          "title": "Valve raises Steam Deck prices by more than $200",
+          "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
           "source": "The Verge",
-          "published_at": "2026-05-26T16:07:39Z",
-          "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 50…",
+          "published_at": "2026-05-27T17:32:48Z",
+          "summary": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As I write this, both mod…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-american-airlines-is-getting-starlink-wi-fi"
+          "id": "theverge-2026-05-27-valve-raises-steam-deck-prices-by-more-than"
         },
         {
-          "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
-          "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+          "title": "The Verge’s 2026 college graduation gift guide",
+          "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
           "source": "The Verge",
-          "published_at": "2026-05-26T16:00:00Z",
-          "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Artu…",
+          "published_at": "2026-05-27T17:00:00Z",
+          "summary": "Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting their first apartment, too,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-memory-v-re-creates-the-memorymoog-without-the-massive"
+          "id": "theverge-2026-05-27-the-verge-s-2026-college-graduation-gift-guide"
         },
         {
-          "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
-          "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
+          "title": "You can print, slice, and engrave using this desktop crafting machine",
+          "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
           "source": "The Verge",
-          "published_at": "2026-05-26T15:33:42Z",
-          "summary": "If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers get $200 worth of credit towards games,…",
+          "published_at": "2026-05-27T16:56:02Z",
+          "summary": "xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop. Its modular design facilitates a CMYK print head that works on multiple materials …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-saving-for-a-switch-2-is-easier-with"
+          "id": "theverge-2026-05-27-you-can-print-slice-and-engrave-using-this"
         },
         {
-          "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
-          "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
-          "source": "The Verge",
-          "published_at": "2026-05-26T15:07:45Z",
-          "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality …",
+          "title": "A Samsung le va tan bien que sus trabajadores amenazaron con una huelga si no repartía beneficios. Y han salido ganando",
+          "url": "https://www.xataka.com/empresas-y-economia/samsung-ha-ganado-muchisimo-dinero-crisis-memorias-sus-empleados-querian-su-parte-resultado-bonus-340-000-dolares",
+          "source": "Xataka",
+          "published_at": "2026-05-27T14:30:00Z",
+          "summary": "Los empleados de la división de chips de Samsung estaban que trinaban. Y es lógico: su empresa se está haciendo de oro gracias al auge de los centros de datos para la IA. La demanda de chips de memoria es extraordinaria …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-26-oppo-s-bubble-is-a-thin-round-screen"
+          "id": "xataka-2026-05-27-a-samsung-le-va-tan-bien-que-sus"
+        },
+        {
+          "title": "Pones un podcast en YouTube y un sonido indetectable al oído humano comienza a sonar: son instrucciones para tus agentes IA",
+          "url": "https://www.xataka.com/robotica-e-ia/llega-era-2-0-mensajes-subliminales-videos-podcast-sonidos-indetectables-que-hackean-chats-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-27T11:00:00Z",
+          "summary": "Tienes puesto un podcast o un vídeo de YouTube en casa y, sin darte cuenta, empieza a reproducir un sonido indetectable para ti, pero que está enviando órdenes a tus asistentes de IA. Acto seguido, el asistente empieza a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-27-pones-un-podcast-en-youtube-y-un-sonido"
+        },
+        {
+          "title": "A la Iglesia nunca le han gustado demasiado los avances tecnológicos. A los avances tecnológicos eso les ha  importado exactamente cero",
+          "url": "https://www.xataka.com/robotica-e-ia/cada-vez-que-vaticano-ha-advertido-peligro-tecnologia-esa-tecnologia-ha-acabado-cambiando-mundo-le-toca-a-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-27T09:30:00Z",
+          "summary": "Hagamos un poco de memoria. Se nos acababa el siglo XV y a la Iglesia Cristiana la imprenta le pareció maravillosa , casi providencial. La adopción de aquel invento por parte de las instituciones eclesiásticas fue entusi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-27-a-la-iglesia-nunca-le-han-gustado-demasiado"
+        },
+        {
+          "title": "En China quieren que los robots humanoides hagan las tareas del hogar. El problema es que una casa no es una fábrica",
+          "url": "https://www.xataka.com/robotica-e-ia/china-quieren-que-robots-humanoides-hagan-tareas-hogar-problema-que-casa-no-fabrica",
+          "source": "Xataka",
+          "published_at": "2026-05-27T07:30:08Z",
+          "summary": "Durante años hemos visto robots humanoides dar volteretas mortales , bailar , p racticar artes marciales o moverse por fábricas con capacidades cada vez más llamativas. El siguiente paso parece casi natural: llevarlos a …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-27-en-china-quieren-que-los-robots-humanoides-hagan"
+        },
+        {
+          "title": "No sabemos si los universitarios están utilizando la IA. Sí sabemos que están sacando más sobresalientes que nunca",
+          "url": "https://www.xataka.com/robotica-e-ia/universitarios-estan-sacando-sobresalientes-que-nunca-bienvenidos-a-era-chatgpt-inflacion-notas",
+          "source": "Xataka",
+          "published_at": "2026-05-27T06:00:00Z",
+          "summary": "Algunos lo llaman ya \"inflación de las notas\". Es un fenómeno que debería alegrarnos —qué notazas sacan nuestros jóvenes— pero que cada vez más preocupante en el mundo educativo. Los alumnos universitarios jamás habían s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-27-no-sabemos-si-los-universitarios-estan-utilizando-la"
+        },
+        {
+          "title": "La \"segunda ola\" de los milmillonarios por la IA: los nuevos hombres más ricos del mundo gracias a la tecnología",
+          "url": "https://www.xataka.com/robotica-e-ia/fiebre-ia-depende-solo-openai-anthropic-hay-nueva-ola-startups-creando-nuevos-millonarios-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-26T16:15:00Z",
+          "summary": "El auge de la IA ha generado una nueva saga de hipermillonarios que están rompiendo todos los límites de riqueza hasta la fecha. No hay más que repasar la lista de las &nbsp;10 de mayores fortunas del mundo de Forbes par…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-26-la-segunda-ola-de-los-milmillonarios-por-la"
         },
         {
           "title": "\"Como 23 bombas atómicas\": EEUU quiere construir el mayor centro de datos del mundo y muchos expertos temen problemas",
@@ -399,71 +508,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-26-sin-hacer-ruido-tenerife-se-esta-convirtiendo-en"
-        },
-        {
-          "title": "Casi todo el mundo se está arruinando por la escalada del precio de la memoria. Excepto una empresa china llamada CXMT",
-          "url": "https://www.xataka.com/empresas-y-economia/crisis-memorias-ha-convertido-a-este-fabricante-chino-insolito-gigante-cxmt-ha-multiplicado-sus-beneficios-18",
-          "source": "Xataka",
-          "published_at": "2026-05-26T06:00:00Z",
-          "summary": "Hace unos días fuimos testigos de cómo ChangXin Memory Technologies (CXMT) acababa de presentar unas cifras que parecían impensables hace apenas un año. La compañía china especializada en memorias DRAM ha disparado su be…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-26-casi-todo-el-mundo-se-esta-arruinando-por"
-        },
-        {
-          "title": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad",
-          "url": "https://www.xataka.com/empresas-y-economia/hay-puesto-trabajo-auge-era-inteligencia-artificial-experto-ciberseguridad",
-          "source": "Xataka",
-          "published_at": "2026-05-25T19:01:34Z",
-          "summary": "Si Mythos , de Anthropic, y GPT-5.4-Cybe r, de OpenAI, han sido presentados como modelos capaces de detectar y explotar vulnerabilidades, la conclusión rápida parece bastante evidente: los perfiles de ciberseguridad podr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-25-hay-un-puesto-de-trabajo-en-auge-en"
-        },
-        {
-          "title": "Pamplona va a estrenar cuatro radares con IA: detectan si llevas el cinturón, si estás con el móvil o si haces giros ilegales",
-          "url": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
-          "source": "Xataka",
-          "published_at": "2026-05-25T15:30:00Z",
-          "summary": "Pamplona va a reforzar bastante su sistema de vigilancia del tráfico a partir del próximo mes de junio. Si bien hace poco conocíamos la puesta a punto del nuevo radar de tramo de la AP-68 , que por cierto es el segundo m…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-25-pamplona-va-a-estrenar-cuatro-radares-con-ia"
-        },
-        {
-          "title": "La industria literaria ya está dando premios a libros escritos con IA. Y los detectores no están sirviendo para nada",
-          "url": "https://www.xataka.com/aplicaciones/detectores-texto-ia-pesimos-hay-escritores-ganando-premios-gracias-a-ello",
-          "source": "Xataka",
-          "published_at": "2026-05-25T14:45:00Z",
-          "summary": "La IA hace bien muchas cosas, pero escribir no es una de ellas. Y detectar si algo está escrito por ella, lo es aún menos. Desde las primeras generaciones de ChatGPT, a modelos avanzados como Claude , no se ha logrado qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-25-la-industria-literaria-ya-esta-dando-premios-a"
-        },
-        {
-          "title": "Es normal que a lo CEO de las tecnológicas les guste la IA. La están utilizando para \"clonarse\" y no ir al trabajo",
-          "url": "https://www.xataka.com/robotica-e-ia/ceo-directivos-acaban-encontrar-forma-perfecta-sobrevivir-a-su-trabajo-clonarse-gemelos-digitales-ia",
-          "source": "Xataka",
-          "published_at": "2026-05-25T13:30:00Z",
-          "summary": "Un grupo singular de altos ejecutivos de Silicon Valley está utilizando los llamados \"gemelos digitales\" de IA para delegar parte de sus responsabilidades diarias.&nbsp;Meta ya avisó hace más de un mes de que estaban pre…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-25-es-normal-que-a-lo-ceo-de-las"
         }
       ]
     }
@@ -501,6 +545,58 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "url": "https://openai.com/index/cisco",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T11:00:00Z",
+          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-cisco-and-openai-redefine-enterprise-engineering-with-codex"
+        },
+        {
+          "title": "Building self-improving tax agents with Codex",
+          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T07:00:00Z",
+          "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
+        },
+        {
+          "title": "Election information and safeguards in 2026",
+          "url": "https://openai.com/index/election-safeguards-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
+        },
+        {
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "url": "https://openai.com/index/warp",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
+        },
+        {
           "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
           "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
           "source": "OpenAI",
@@ -514,19 +610,6 @@
           "id": "openai-2026-05-25-openai-grupo-folha-and-grupo-uol-announce-strategic"
         },
         {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
-        },
-        {
           "title": "How Virgin Atlantic ships faster with Codex",
           "url": "https://openai.com/index/virgin-atlantic",
           "source": "OpenAI",
@@ -538,6 +621,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
+        },
+        {
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "source": "OpenAI",
+          "published_at": "2026-05-22T00:00:00Z",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
         },
         {
           "title": "AdventHealth advances whole-person care with OpenAI",
@@ -602,45 +698,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-22-catch-up-on-the-dialogues-stage-at-google"
-        },
-        {
-          "title": "We’re announcing new community investments in Missouri.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T20:40:00Z",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-we-re-announcing-new-community-investments-in-missouri"
-        },
-        {
-          "title": "100 things we announced at I/O 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T19:30:00Z",
-          "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-100-things-we-announced-at-i-o-2026"
-        },
-        {
-          "title": "A new experiment brings better group meetings to Google Beam",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-          "source": "Google AI",
-          "published_at": "2026-05-20T16:45:00Z",
-          "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-20-a-new-experiment-brings-better-group-meetings-to"
         }
       ]
     },
