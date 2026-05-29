@@ -1,78 +1,156 @@
 {
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T07:46:15.746658Z",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T07:46:13.670494Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "“Estamos 10 pasos por detrás del cibercrimen”: Francisco Valencia, CEO de Secure&IT, sobre el desafío de los ataques con IA",
-      "url": "https://www.xataka.com/seguridad/estamos-10-pasos-detras-cibercrimen-francisco-valencia-ceo-secure-it-desafio-ataques-ia",
+      "title": "La sorpresa del nuevo Claude Opus 4.8 no es que sea (un poco) mejor. La sorpresa es el \"solo sé que no sé nada\"",
+      "url": "https://www.xataka.com/robotica-e-ia/sorpresa-nuevo-claude-opus-4-8-no-que-sea-poco-mejor-sorpresa-solo-se-que-no-se-nada",
       "source": "Xataka",
-      "published_at": "2026-05-28T06:31:36Z",
-      "summary": "Ayer por la mañana fui a una nueva edición de las jornadas de ciberseguridad de Secure&amp;IT en Madrid con una idea bastante clara: escuchar cómo las empresas están usando la inteligencia artificial para defenderse mejo…",
+      "published_at": "2026-05-29T07:06:54Z",
+      "summary": "No lo esperábamos tan pronto, pero aquí está Claude Opus 4.8 , la nueva versión del modelo frontera de Anthropic. Han pasado tan solo 41 días desde el lanzamiento de Claude Opus 4.7 , lo que parece dejar claro que la emp…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-05-28-estamos-10-pasos-por-detras-del-cibercrimen-francisco"
+      "id": "xataka-2026-05-29-la-sorpresa-del-nuevo-claude-opus-4-8"
     },
     {
-      "title": "The golden age of handheld gaming is already over",
-      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "title": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
       "source": "The Verge",
-      "published_at": "2026-05-28T06:30:23Z",
-      "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a…",
+      "published_at": "2026-05-28T20:16:16Z",
+      "summary": "A decade ago, Nintendo made a big splash into the world of mobile gaming with a new Super Mario platformer directed by none other than Shigeru Miyamoto. But even though the game proved popular, it wasn't the success the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-28-the-golden-age-of-handheld-gaming-is-already"
+      "id": "theverge-2026-05-28-nintendo-8217-s-newest-warioware-is-a-weirdo"
     },
     {
-      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
-      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
       "source": "The Verge",
-      "published_at": "2026-05-27T22:30:02Z",
-      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint,…",
+      "published_at": "2026-05-28T20:14:07Z",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured respons…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-27-a-google-employee-allegedly-used-inside-information-to"
+      "id": "theverge-2026-05-28-microsoft-365-copilot-gets-a-speed-boost-and"
     },
     {
-      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
-      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+      "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
+      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
       "source": "The Verge",
-      "published_at": "2026-05-27T21:08:41Z",
-      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of…",
+      "published_at": "2026-05-28T20:10:09Z",
+      "summary": "If you like to read by the pool or at the beach, the 2021 Kindle Paperwhite remains one of the best e-readers available despite its age. That’s because, unlike Amazon’s latest entry-level Kindle, the last-gen Paperwhite …",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "theverge-2026-05-27-apple-s-newest-ipad-air-is-up-to"
+      "category": "investigación",
+      "id": "theverge-2026-05-28-amazon-s-last-gen-paperwhite-is-on-sale-for"
     },
     {
-      "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
-      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "title": "Motorola’s last-gen Razr Ultra is almost half off",
+      "url": "https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-05-27T20:22:57Z",
-      "summary": "Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old. It was designed with help from Jony Ive’s LoveFrom, but what worked for Ive at Apple isn…",
+      "published_at": "2026-05-28T18:33:08Z",
+      "summary": "Motorola’s latest Razr Ultra proves that its flip foldable format has evolved to become more than just a nostalgic gimmick. I’d understand if you’re not interested in shelling out $1,499.99 for the 2026 model, but the si…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-27-all-the-news-about-ferrari-8217-s-polarizing"
+      "id": "theverge-2026-05-28-motorola-s-last-gen-razr-ultra-is-almost-half"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Catch up on 12 major I/O 2026 moments",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "source": "Google AI",
+          "published_at": "2026-05-28T15:00:00Z",
+          "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-28-catch-up-on-12-major-i-o-2026"
+        },
+        {
+          "title": "How Endava builds an agentic organization with Codex",
+          "url": "https://openai.com/index/endava",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T12:00:00Z",
+          "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
+        },
+        {
+          "title": "OpenAI’s Frontier Governance Framework",
+          "url": "https://openai.com/index/openai-frontier-governance-framework",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
+        },
+        {
+          "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "url": "https://www.anthropic.com/news/series-h",
+          "source": "Anthropic",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-28-anthropic-raises-65b-in-series-h-funding-at"
+        },
+        {
+          "title": "Introducing Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "source": "Anthropic",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Introducing Claude Opus 4.8",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-28-introducing-claude-opus-4-8"
+        },
         {
           "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
           "url": "https://openai.com/index/cisco",
@@ -124,6 +202,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
+        },
+        {
+          "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+          "url": "https://www.anthropic.com/news/milan-office-opening",
+          "source": "Anthropic",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-27-anthropic-opens-milan-office-to-support-italian-enterprise"
         },
         {
           "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
@@ -176,58 +267,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-05-22-catch-up-on-the-dialogues-stage-at-google"
-        },
-        {
-          "title": "How Virgin Atlantic ships faster with Codex",
-          "url": "https://openai.com/index/virgin-atlantic",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
-        },
-        {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
-        },
-        {
-          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-          "source": "DeepMind",
-          "published_at": "2026-05-21T19:46:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-05-21-we-re-launching-the-google-deepmind-accelerator-program"
-        },
-        {
-          "title": "AdventHealth advances whole-person care with OpenAI",
-          "url": "https://openai.com/index/adventhealth",
-          "source": "OpenAI",
-          "published_at": "2026-05-21T12:00:00Z",
-          "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
         }
       ]
     },
@@ -253,6 +292,19 @@
       "name": "Investigación",
       "items": [
         {
+          "title": "Finding Success in Industry as a Chip Designer",
+          "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-05-28T13:00:01Z",
+          "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-05-28-finding-success-in-industry-as-a-chip-designer"
+        },
+        {
           "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
           "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
           "source": "Hugging Face",
@@ -270,57 +322,13 @@
           "url": "https://spectrum.ieee.org/south-africa-ai-policy",
           "source": "IEEE Spectrum",
           "published_at": "2026-05-27T13:00:01Z",
-          "summary": "This article is adapted by the author with permission from Tech Policy Press . Read the original article . South Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the …",
+          "summary": "This article is adapted by the author with permission from Tech Policy Press . Read the original article . South Africa is not just another developing country struggling to govern artificial intelligence; it is the excep…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
           "id": "ieee-2026-05-27-south-africa-has-ai-leverage-its-draft-policy"
-        },
-        {
-          "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
-          "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-26T12:00:01Z",
-          "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commute…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-26-thermal-cameras-and-ai-help-ships-steer-clear"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Reachy Mini goes fully local",
-          "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-          "source": "Hugging Face",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-27-reachy-mini-goes-fully-local"
-        },
-        {
-          "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-          "url": "https://huggingface.co/blog/delta-weight-sync",
-          "source": "Hugging Face",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-27-shipping-a-trillion-parameters-with-a-hub-bucket"
         }
       ]
     },
@@ -328,82 +336,108 @@
       "name": "General",
       "items": [
         {
-          "title": "The new Halide camera app launches with film looks and an upgraded photo editor",
-          "url": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
+          "title": "The line between games and movies keeps getting blurrier",
+          "url": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games",
           "source": "The Verge",
-          "published_at": "2026-05-27T20:06:12Z",
-          "summary": "After first being announced in December 2024, Lux Optics has finally released the latest version of its Halide camera app for the iPhone and iPad. The Halide Mark III app's most compelling feature is a new film simulatio…",
+          "published_at": "2026-05-28T18:03:51Z",
+          "summary": "The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a way that feels disconn…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-the-new-halide-camera-app-launches-with-film"
+          "id": "theverge-2026-05-28-the-line-between-games-and-movies-keeps-getting"
         },
         {
-          "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",
-          "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+          "title": "Claude’s new model is more ‘honest’ when it messes up",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
           "source": "The Verge",
-          "published_at": "2026-05-27T20:03:42Z",
-          "summary": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to…",
+          "published_at": "2026-05-28T17:00:00Z",
+          "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can'…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-facebook-launches-a-plus-subscription-that-gives-you"
+          "id": "theverge-2026-05-28-claude-s-new-model-is-more-honest-when"
         },
         {
-          "title": "Roids were all the rage at the Enhanced Games",
-          "url": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
+          "title": "Here’s where you can preorder the new Oura Ring 5",
+          "url": "https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability",
           "source": "The Verge",
-          "published_at": "2026-05-27T19:08:31Z",
-          "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's \"U Can't Touch This\" thumps over the loudspea…",
+          "published_at": "2026-05-28T16:43:52Z",
+          "summary": "If you’ve been waiting for a smaller version of the Oura Ring, the company’s latest wearable is now available for preorder ahead of its June 4th release from Oura and various third-party retailers, including both Amazon …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-roids-were-all-the-rage-at-the-enhanced"
+          "id": "theverge-2026-05-28-here-s-where-you-can-preorder-the-new"
         },
         {
-          "title": "Valve raises Steam Deck prices by more than $200",
-          "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+          "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+          "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
           "source": "The Verge",
-          "published_at": "2026-05-27T17:32:48Z",
-          "summary": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As I write this, both mod…",
+          "published_at": "2026-05-28T16:08:45Z",
+          "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-valve-raises-steam-deck-prices-by-more-than"
+          "id": "theverge-2026-05-28-a-2-000-ai-generated-film-will-make-its"
         },
         {
-          "title": "The Verge’s 2026 college graduation gift guide",
-          "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
+          "title": "Call of Duty: Warzone is dropping PS4 and Xbox One support later this year",
+          "url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
           "source": "The Verge",
-          "published_at": "2026-05-27T17:00:00Z",
-          "summary": "Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting their first apartment, too,…",
+          "published_at": "2026-05-28T16:05:42Z",
+          "summary": "Activision is planning to drop support for PS4 and Xbox One consoles in Call of Duty: Warzone later this year. Players will need to upgrade to a PS5 or Xbox Series S / X console to continue playing Call of Duty: Warzone …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-the-verge-s-2026-college-graduation-gift-guide"
+          "id": "theverge-2026-05-28-call-of-duty-warzone-is-dropping-ps4-and"
         },
         {
-          "title": "You can print, slice, and engrave using this desktop crafting machine",
-          "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
+          "title": "YouTube takes baby steps to being a real podcast app",
+          "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
           "source": "The Verge",
-          "published_at": "2026-05-27T16:56:02Z",
-          "summary": "xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop. Its modular design facilitates a CMYK print head that works on multiple materials …",
+          "published_at": "2026-05-28T16:05:00Z",
+          "summary": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTube into an audio-fir…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-27-you-can-print-slice-and-engrave-using-this"
+          "id": "theverge-2026-05-28-youtube-takes-baby-steps-to-being-a-real"
+        },
+        {
+          "title": "Google creó el mejor buscador del mundo y después lo destruyó con sus propias manos. DuckDuckGo se está aprovechando",
+          "url": "https://www.xataka.com/robotica-e-ia/buscador-google-esta-matando-enlaces-azules-asi-que-cada-vez-usuarios-estan-encontrando-refugio-duckduckgo",
+          "source": "Xataka",
+          "published_at": "2026-05-28T11:30:00Z",
+          "summary": "Buscar cosas en Google ya no es lo mismo . El gigante tecnológico está convirtiendo su buscador tradicional en otra cosa muy distinta en la que la IA está tomando el control nos guste o no. La buena noticia es que si no …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-28-google-creo-el-mejor-buscador-del-mundo-y"
+        },
+        {
+          "title": "Hemos hablado con una de las empresas líder en ciberseguridad en España. Y su diagnóstico no es alentador",
+          "url": "https://www.xataka.com/seguridad/estamos-10-pasos-detras-cibercrimen-francisco-valencia-ceo-secure-it-desafio-ataques-ia",
+          "source": "Xataka",
+          "published_at": "2026-05-28T06:30:00Z",
+          "summary": "Ayer por la mañana fui a una nueva edición de las jornadas de ciberseguridad de Secure&amp;IT en Madrid con una idea bastante clara: escuchar cómo las empresas están usando la inteligencia artificial para defenderse mejo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-28-hemos-hablado-con-una-de-las-empresas-lider"
         },
         {
           "title": "A Samsung le va tan bien que sus trabajadores amenazaron con una huelga si no repartía beneficios. Y han salido ganando",
@@ -443,71 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-27-a-la-iglesia-nunca-le-han-gustado-demasiado"
-        },
-        {
-          "title": "En China quieren que los robots humanoides hagan las tareas del hogar. El problema es que una casa no es una fábrica",
-          "url": "https://www.xataka.com/robotica-e-ia/china-quieren-que-robots-humanoides-hagan-tareas-hogar-problema-que-casa-no-fabrica",
-          "source": "Xataka",
-          "published_at": "2026-05-27T07:30:08Z",
-          "summary": "Durante años hemos visto robots humanoides dar volteretas mortales , bailar , p racticar artes marciales o moverse por fábricas con capacidades cada vez más llamativas. El siguiente paso parece casi natural: llevarlos a …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-27-en-china-quieren-que-los-robots-humanoides-hagan"
-        },
-        {
-          "title": "No sabemos si los universitarios están utilizando la IA. Sí sabemos que están sacando más sobresalientes que nunca",
-          "url": "https://www.xataka.com/robotica-e-ia/universitarios-estan-sacando-sobresalientes-que-nunca-bienvenidos-a-era-chatgpt-inflacion-notas",
-          "source": "Xataka",
-          "published_at": "2026-05-27T06:00:00Z",
-          "summary": "Algunos lo llaman ya \"inflación de las notas\". Es un fenómeno que debería alegrarnos —qué notazas sacan nuestros jóvenes— pero que cada vez más preocupante en el mundo educativo. Los alumnos universitarios jamás habían s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-27-no-sabemos-si-los-universitarios-estan-utilizando-la"
-        },
-        {
-          "title": "La \"segunda ola\" de los milmillonarios por la IA: los nuevos hombres más ricos del mundo gracias a la tecnología",
-          "url": "https://www.xataka.com/robotica-e-ia/fiebre-ia-depende-solo-openai-anthropic-hay-nueva-ola-startups-creando-nuevos-millonarios-ia",
-          "source": "Xataka",
-          "published_at": "2026-05-26T16:15:00Z",
-          "summary": "El auge de la IA ha generado una nueva saga de hipermillonarios que están rompiendo todos los límites de riqueza hasta la fecha. No hay más que repasar la lista de las &nbsp;10 de mayores fortunas del mundo de Forbes par…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-26-la-segunda-ola-de-los-milmillonarios-por-la"
-        },
-        {
-          "title": "\"Como 23 bombas atómicas\": EEUU quiere construir el mayor centro de datos del mundo y muchos expertos temen problemas",
-          "url": "https://www.xataka.com/robotica-e-ia/eeuu-quiere-levantar-uno-mayores-centros-datos-planeta-algunos-expertos-temen-consecuencias-dificiles-medir",
-          "source": "Xataka",
-          "published_at": "2026-05-26T12:30:00Z",
-          "summary": "Hay una iniciativa para construir un gigantesco centro de datos en Utah (EEUU). El llamado Stratos Project prevé ocupar una superficie equivalente a la ciudad de Washington D.C. y se estima que consumirá 9 GW de potencia…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-26-como-23-bombas-atomicas-eeuu-quiere-construir-el"
-        },
-        {
-          "title": "Sin hacer ruido, Tenerife se está convirtiendo en una de las mayores potencias de España en supercomputadores",
-          "url": "https://www.xataka.com/robotica-e-ia/tenerife-era-conocida-sol-sus-playas-pronto-albergara-uno-cinco-supercomputadores-potentes-espana",
-          "source": "Xataka",
-          "published_at": "2026-05-26T12:15:00Z",
-          "summary": "Tenerife tendrá nuevo supercomputador. Ya tenía dos con los nombres de Teide y de Anaga , y a ellos se les sumará ahora un nuevo y prometedor proyecto llamado Centro de Supercomputación del Atlántico. Con él se espera co…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-26-sin-hacer-ruido-tenerife-se-esta-convirtiendo-en"
         }
       ]
     }
@@ -544,6 +513,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "How Endava builds an agentic organization with Codex",
+          "url": "https://openai.com/index/endava",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T12:00:00Z",
+          "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
+        },
+        {
+          "title": "OpenAI’s Frontier Governance Framework",
+          "url": "https://openai.com/index/openai-frontier-governance-framework",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
+        },
         {
           "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
           "url": "https://openai.com/index/cisco",
@@ -608,45 +616,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-25-openai-grupo-folha-and-grupo-uol-announce-strategic"
-        },
-        {
-          "title": "How Virgin Atlantic ships faster with Codex",
-          "url": "https://openai.com/index/virgin-atlantic",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-how-virgin-atlantic-ships-faster-with-codex"
-        },
-        {
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-          "source": "OpenAI",
-          "published_at": "2026-05-22T00:00:00Z",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-22-openai-named-a-leader-in-enterprise-coding-agents"
-        },
-        {
-          "title": "AdventHealth advances whole-person care with OpenAI",
-          "url": "https://openai.com/index/adventhealth",
-          "source": "OpenAI",
-          "published_at": "2026-05-21T12:00:00Z",
-          "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-21-adventhealth-advances-whole-person-care-with-openai"
         }
       ]
     },
@@ -654,6 +623,45 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "url": "https://www.anthropic.com/news/series-h",
+          "source": "Anthropic",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-28-anthropic-raises-65b-in-series-h-funding-at"
+        },
+        {
+          "title": "Introducing Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "source": "Anthropic",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Introducing Claude Opus 4.8",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-28-introducing-claude-opus-4-8"
+        },
+        {
+          "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+          "url": "https://www.anthropic.com/news/milan-office-opening",
+          "source": "Anthropic",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-05-27-anthropic-opens-milan-office-to-support-italian-enterprise"
+        },
         {
           "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
           "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
@@ -686,6 +694,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Catch up on 12 major I/O 2026 moments",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "source": "Google AI",
+          "published_at": "2026-05-28T15:00:00Z",
+          "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-28-catch-up-on-12-major-i-o-2026"
+        },
         {
           "title": "Catch up on the Dialogues stage at Google I/O 2026.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
