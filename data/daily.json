@@ -1,78 +1,91 @@
 {
-  "date": "2026-05-30",
-  "generated_at": "2026-05-30T07:26:55.678713Z",
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T07:44:36.686703Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "source": "The Verge",
-      "published_at": "2026-05-29T23:03:29Z",
-      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and N…",
+      "title": "Ya no vale con contar dedos para saber si una imagen está hecha con IA. Ahora hay que aprender dibujo técnico",
+      "url": "https://www.xataka.com/robotica-e-ia/no-vale-contar-dedos-para-saber-imagen-esta-hecha-ia-ahora-hay-que-aprender-dibujo-tecnico",
+      "source": "Xataka",
+      "published_at": "2026-05-30T17:30:44Z",
+      "summary": "Detectar imágenes generadas por inteligencia artificial se ha convertido en un juego del gato y el ratón. Y lo peor es que va a ir a más. Durante un tiempo, &nbsp;todos nos empezábamos a fijar en las manos y en la cantid…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-29-nvidia-microsoft-and-arm-are-all-teasing-nvidia"
+      "id": "xataka-2026-05-30-ya-no-vale-con-contar-dedos-para-saber"
     },
     {
-      "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
-      "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
+      "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
       "source": "The Verge",
-      "published_at": "2026-05-29T21:48:52Z",
-      "summary": "The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned \"Golden Dome\" defense system, as reported earlier by Bloomberg. In an announcement on…",
+      "published_at": "2026-05-30T16:58:51Z",
+      "summary": "The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obliterates A24's previous …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-29-spacex-gets-4-billion-contract-to-build-missile-tracking"
+      "id": "theverge-2026-05-30-backrooms-is-a-certified-blockbuster-with-a-38"
     },
     {
-      "title": "Acer’s launching a Linux handheld for streaming your PC games",
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
       "source": "The Verge",
-      "published_at": "2026-05-29T19:01:48Z",
-      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's l…",
+      "published_at": "2026-05-30T16:00:00Z",
+      "summary": "Cecil Baldwin's r&#233;sum&#233; includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists theater company. But he is…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-29-acer-s-launching-a-linux-handheld-for-streaming"
+      "id": "theverge-2026-05-30-welcome-to-night-vale-host-cecil-baldwin-shares"
     },
     {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI",
-      "published_at": "2026-05-29T19:00:00Z",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-05-29-take-our-i-o-2026-quiz-vibe-coded"
-    },
-    {
-      "title": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
       "source": "The Verge",
-      "published_at": "2026-05-29T17:37:43Z",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there'…",
+      "published_at": "2026-05-30T15:19:50Z",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts sugg…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-05-29-tech-companies-desperately-want-to-film-you-doing"
+      "id": "theverge-2026-05-30-microsoft-is-threatening-legal-action-for-disclosing-exploits"
+    },
+    {
+      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+      "source": "The Verge",
+      "published_at": "2026-05-30T15:00:00Z",
+      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025 CanvasTV. The 65-in…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-05-30-two-of-our-favorite-art-tvs-are-more"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+          "source": "Google AI",
+          "published_at": "2026-05-29T19:00:00Z",
+          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-05-29-take-our-i-o-2026-quiz-vibe-coded"
+        },
         {
           "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
@@ -178,19 +191,6 @@
           "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
         },
         {
-          "title": "OpenAI’s Frontier Governance Framework",
-          "url": "https://openai.com/index/openai-frontier-governance-framework",
-          "source": "OpenAI",
-          "published_at": "2026-05-28T00:00:00Z",
-          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
-        },
-        {
           "title": "MUFG aims to become AI-native with OpenAI",
           "url": "https://openai.com/index/mufg",
           "source": "OpenAI",
@@ -202,6 +202,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
+        },
+        {
+          "title": "OpenAI’s Frontier Governance Framework",
+          "url": "https://openai.com/index/openai-frontier-governance-framework",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
         },
         {
           "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
@@ -256,19 +269,6 @@
           "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
         },
         {
-          "title": "Election information and safeguards in 2026",
-          "url": "https://openai.com/index/election-safeguards-2026",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
-        },
-        {
           "title": "Warp’s big bet on building open source with GPT-5.5",
           "url": "https://openai.com/index/warp",
           "source": "OpenAI",
@@ -280,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
+        },
+        {
+          "title": "Election information and safeguards in 2026",
+          "url": "https://openai.com/index/election-safeguards-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
         },
         {
           "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
@@ -336,121 +349,111 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Finding Success in Industry as a Chip Designer",
-          "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-05-28T13:00:01Z",
-          "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-05-28-finding-success-in-industry-as-a-chip-designer"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-          "url": "https://huggingface.co/blog/torch-profiler",
-          "source": "Hugging Face",
-          "published_at": "2026-05-29T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-05-29-profiling-in-pytorch-part-1-a-beginner-s"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "The Verge’s 2026 high school graduation gift guide",
-          "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+          "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+          "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
           "source": "The Verge",
-          "published_at": "2026-05-29T17:00:00Z",
-          "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve …",
+          "published_at": "2026-05-30T14:02:51Z",
+          "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you. Here's the new Steam Controller performing the \"Ground Th…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-the-verge-s-2026-high-school-graduation-gift"
+          "id": "theverge-2026-05-30-listen-to-the-new-steam-controller-buzz-to"
         },
         {
-          "title": "Microsoft delays Fable (again) to avoid GTA VI",
-          "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+          "title": "Pebblebee’s Halo watches my back and my belongings",
+          "url": "https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review",
           "source": "The Verge",
-          "published_at": "2026-05-29T16:51:08Z",
-          "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new look\" at the game at i…",
+          "published_at": "2026-05-30T14:00:00Z",
+          "summary": "I live in a part of Los Angeles where I feel safer bringing pepper spray on walks. The problem is, I don't always remember to bring it with me, and it's not legal to carry it everywhere I go. Pebblebee's $59.99 Halo Blue…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-microsoft-delays-fable-again-to-avoid-gta-vi"
+          "id": "theverge-2026-05-30-pebblebee-s-halo-watches-my-back-and-my"
         },
         {
-          "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
-          "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
+          "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+          "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
           "source": "The Verge",
-          "published_at": "2026-05-29T16:21:22Z",
-          "summary": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" comple…",
+          "published_at": "2026-05-30T14:00:00Z",
+          "summary": "As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package.&#160; It manages to squeeze the best features of past mo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-microsoft-teases-new-surface-hardware-and-a-new"
+          "id": "theverge-2026-05-30-the-arduboy-fx-c-is-an-excellent-time-killer"
         },
         {
-          "title": "Trump’s mass deportations are only possible with racial profiling",
-          "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
+          "title": "How one founder’s bet on ‘the old school web’ is paying off",
+          "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
           "source": "The Verge",
-          "published_at": "2026-05-29T15:00:00Z",
-          "summary": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately …",
+          "published_at": "2026-05-30T13:00:00Z",
+          "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-trump-s-mass-deportations-are-only-possible-with"
+          "id": "theverge-2026-05-30-how-one-founder-s-bet-on-the-old"
         },
         {
-          "title": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
-          "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
+          "title": "AI grifters are creating fake Black people to sell Shein junk",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
           "source": "The Verge",
-          "published_at": "2026-05-29T14:59:12Z",
-          "summary": "This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I co…",
+          "published_at": "2026-05-30T13:00:00Z",
+          "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-at-549-lenovo-s-legion-go-s-gaming"
+          "id": "theverge-2026-05-30-ai-grifters-are-creating-fake-black-people-to"
         },
         {
-          "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
-          "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+          "title": "Sometimes, a short game hits the spot",
+          "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
           "source": "The Verge",
-          "published_at": "2026-05-29T14:46:58Z",
-          "summary": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, …",
+          "published_at": "2026-05-30T12:00:00Z",
+          "summary": "Slots &#38; Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuilding roguelikes with slo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-05-29-you-can-buy-two-of-anker-s-qi2"
+          "id": "theverge-2026-05-30-sometimes-a-short-game-hits-the-spot"
+        },
+        {
+          "title": "Los CEOs tecnológicos tienen un problema con la “psicosis de la IA”: están sufriendo delirios de grandeza",
+          "url": "https://www.xataka.com/robotica-e-ia/ceos-tecnologicos-tienen-problema-psicosis-ia-estan-sufriendo-delirios-grandeza",
+          "source": "Xataka",
+          "published_at": "2026-05-30T10:30:44Z",
+          "summary": "Aaron Levie, fundador y CEO de Box, se ha dado cuenta de algo: la IA está provocando que algunos directivos sufran cierta desconexión con el trabajo real y crean que la IA hace cosas que en realidad (de momento) no puede…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-30-los-ceos-tecnologicos-tienen-un-problema-con-la"
+        },
+        {
+          "title": "Cómo repasar el temario de la PAU usando NotebookLM y prepararte para el examen de selectividad",
+          "url": "https://www.xataka.com/basics/como-repasar-temario-pau-usando-notebooklm-prepararte-para-examen-selectividad",
+          "source": "Xataka",
+          "published_at": "2026-05-30T10:00:45Z",
+          "summary": "Vamos a explicarte cómo repasar el temario de la PAU usando NotebookLM , la herramienta de inteligencia artificial de Google. NotebookLM te permite utilizar la IA de Google pero basándose solo en los datos que le subas, …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-05-30-como-repasar-el-temario-de-la-pau-usando"
         },
         {
           "title": "Amazon quiso que sus empleados no pararan de usar la IA. Acaban de cortar por lo sano pidiendo que “no uséis la IA solo por usarla”",
@@ -490,32 +493,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-05-29-en-2022-openai-parecia-predestinada-a-imponer-un"
-        },
-        {
-          "title": "Claude Opus 4.8 no solo es mejor que otros modelos IA. Es algo mucho más importante: honesto sobre su inteligencia",
-          "url": "https://www.xataka.com/robotica-e-ia/sorpresa-nuevo-claude-opus-4-8-no-que-sea-poco-mejor-sorpresa-solo-se-que-no-se-nada",
-          "source": "Xataka",
-          "published_at": "2026-05-29T07:06:00Z",
-          "summary": "No lo esperábamos tan pronto, pero aquí está Claude Opus 4.8 , la nueva versión del modelo frontera de Anthropic. Han pasado tan solo 41 días desde el lanzamiento de Claude Opus 4.7 , lo que parece dejar claro que la emp…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-29-claude-opus-4-8-no-solo-es-mejor"
-        },
-        {
-          "title": "Google creó el mejor buscador del mundo y después lo destruyó con sus propias manos. DuckDuckGo se está aprovechando",
-          "url": "https://www.xataka.com/robotica-e-ia/buscador-google-esta-matando-enlaces-azules-asi-que-cada-vez-usuarios-estan-encontrando-refugio-duckduckgo",
-          "source": "Xataka",
-          "published_at": "2026-05-28T11:30:00Z",
-          "summary": "Buscar cosas en Google ya no es lo mismo . El gigante tecnológico está convirtiendo su buscador tradicional en otra cosa muy distinta en la que la IA está tomando el control nos guste o no. La buena noticia es que si no …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-05-28-google-creo-el-mejor-buscador-del-mundo-y"
         }
       ]
     }
@@ -618,19 +595,6 @@
           "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
         },
         {
-          "title": "OpenAI’s Frontier Governance Framework",
-          "url": "https://openai.com/index/openai-frontier-governance-framework",
-          "source": "OpenAI",
-          "published_at": "2026-05-28T00:00:00Z",
-          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
-        },
-        {
           "title": "MUFG aims to become AI-native with OpenAI",
           "url": "https://openai.com/index/mufg",
           "source": "OpenAI",
@@ -642,6 +606,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
+        },
+        {
+          "title": "OpenAI’s Frontier Governance Framework",
+          "url": "https://openai.com/index/openai-frontier-governance-framework",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
         },
         {
           "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
@@ -670,19 +647,6 @@
           "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
         },
         {
-          "title": "Election information and safeguards in 2026",
-          "url": "https://openai.com/index/election-safeguards-2026",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
-        },
-        {
           "title": "Warp’s big bet on building open source with GPT-5.5",
           "url": "https://openai.com/index/warp",
           "source": "OpenAI",
@@ -694,6 +658,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
+        },
+        {
+          "title": "Election information and safeguards in 2026",
+          "url": "https://openai.com/index/election-safeguards-2026",
+          "source": "OpenAI",
+          "published_at": "2026-05-27T00:00:00Z",
+          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
         },
         {
           "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
