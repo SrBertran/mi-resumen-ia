@@ -1,78 +1,143 @@
 {
-  "date": "2026-06-02",
-  "generated_at": "2026-06-02T08:06:07.298429Z",
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T08:14:54.024909Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
-      "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "title": "God of War Laufey is coming to the PS5",
+      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
       "source": "The Verge",
-      "published_at": "2026-06-01T20:59:14Z",
-      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his fri…",
+      "published_at": "2026-06-02T22:16:08Z",
+      "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-01-the-google-pixel-watch-5-may-have-been"
+      "id": "theverge-2026-06-02-god-of-war-laufey-is-coming-to-the"
     },
     {
-      "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
-      "url": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
+      "title": "Remedy’s Control sequel launches in September",
+      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
       "source": "The Verge",
-      "published_at": "2026-06-01T20:30:06Z",
-      "summary": "If you&#8217;re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you&#8217;ll be exploring on your own. The Pebblebee Halo combines those two gadgets …",
+      "published_at": "2026-06-02T21:55:32Z",
+      "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show. The trailer also g…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-01-pebblebee-8217-s-halo-can-help-track-lost"
+      "id": "theverge-2026-06-02-remedy-s-control-sequel-launches-in-september"
     },
     {
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "title": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
+      "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
       "source": "The Verge",
-      "published_at": "2026-06-01T20:02:31Z",
-      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - a…",
+      "published_at": "2026-06-02T21:11:46Z",
+      "summary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the iconic yellow Wolverine out…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-01-this-could-be-windows-m1-moment----but"
+      "id": "theverge-2026-06-02-here-8217-s-seven-bloody-minutes-of-wolverine"
     },
     {
-      "title": "Los chips de IA siempre han querido ser más y más potentes. TSMC acaba de señalar el verdadero límite: la eficiencia",
-      "url": "https://www.xataka.com/componentes/chips-ia-siempre-han-querido-ser-potentes-tsmc-acaba-senalar-verdadero-limite-eficiencia",
-      "source": "Xataka",
-      "published_at": "2026-06-01T20:01:40Z",
-      "summary": "¿Más rendimiento? Es lo primero que solemos pedirle a un nuevo chip, casi sin pensarlo. Lo hemos hecho durante años con los procesadores de nuestros dispositivos y lo hacemos ahora con los chips que sostienen buena parte…",
+      "title": "PlayStation State of Play June 2026: All the news and trailers",
+      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "source": "The Verge",
+      "published_at": "2026-06-02T20:40:00Z",
+      "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It&#8217;s coming at a pivotal time for the Pl…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-01-los-chips-de-ia-siempre-han-querido-ser"
+      "id": "theverge-2026-06-02-playstation-state-of-play-june-2026-all-the"
     },
     {
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "title": "I held the next-gen handheld",
+      "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
       "source": "The Verge",
-      "published_at": "2026-06-01T20:00:00Z",
-      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last …",
+      "published_at": "2026-06-02T19:56:02Z",
+      "summary": "Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-01-gemini-s-new-ai-agent-is-about-as"
+      "id": "theverge-2026-06-02-i-held-the-next-gen-handheld"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "url": "https://openai.com/index/travelers",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T12:00:00Z",
+          "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-travelers-deploys-ai-powered-claims-countrywide-with-openai"
+        },
+        {
+          "title": "Codex for every role, tool, and workflow",
+          "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T09:00:00Z",
+          "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-codex-for-every-role-tool-and-workflow"
+        },
+        {
+          "title": "Advancing youth safety and opportunity through global leadership",
+          "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T07:00:00Z",
+          "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-advancing-youth-safety-and-opportunity-through-global-leadership"
+        },
+        {
+          "title": "Codex is becoming a productivity tool for everyone",
+          "url": "https://openai.com/index/codex-for-knowledge-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T02:00:00Z",
+          "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-codex-is-becoming-a-productivity-tool-for-everyone"
+        },
+        {
+          "title": "Expanding Project Glasswing",
+          "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "source": "Anthropic",
+          "published_at": "2026-06-02T00:00:00Z",
+          "summary": "Expanding Project Glasswing",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-02-expanding-project-glasswing"
+        },
         {
           "title": "Our views on AI policy and political advocacy",
           "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
@@ -256,19 +321,6 @@
           "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
         },
         {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "url": "https://openai.com/index/mufg",
-          "source": "OpenAI",
-          "published_at": "2026-05-28T00:00:00Z",
-          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
-        },
-        {
           "title": "OpenAI’s Frontier Governance Framework",
           "url": "https://openai.com/index/openai-frontier-governance-framework",
           "source": "OpenAI",
@@ -280,6 +332,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
         },
         {
           "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
@@ -319,82 +384,25 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-27-cisco-and-openai-redefine-enterprise-engineering-with-codex"
-        },
-        {
-          "title": "Building self-improving tax agents with Codex",
-          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T07:00:00Z",
-          "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
-        },
-        {
-          "title": "Election information and safeguards in 2026",
-          "url": "https://openai.com/index/election-safeguards-2026",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
-        },
-        {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "url": "https://openai.com/index/warp",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
-        },
-        {
-          "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-          "url": "https://www.anthropic.com/news/milan-office-opening",
-          "source": "Anthropic",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-27-anthropic-opens-milan-office-to-support-italian-enterprise"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "China no puede comprar los mejores chips de Nvidia. Así que Alibaba ha decidido conectar los suyos y venderlos como si fueran uno solo",
-          "url": "https://www.xataka.com/empresas-y-economia/china-no-puede-comprar-mejores-chips-nvidia-asi-que-alibaba-ha-decidido-conectar-suyos-venderlos-como-fueran-uno-solo",
-          "source": "Xataka",
-          "published_at": "2026-05-31T10:30:44Z",
-          "summary": "Alibaba no quiere que su infraestructura de inteligencia artificial (IA) siga dependiendo de las tecnologías de Nvidia. Poco a poco las mayores compañías de tecnología de China están asumiendo la petición que el Gobierno…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-05-31-china-no-puede-comprar-los-mejores-chips-de"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Why Aren’t We Measuring How AI Affects Humans?",
+          "url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-02T14:00:01Z",
+          "summary": "As AI systems become more capable, a lot of resources and effort are being put toward measuring their abilities. Researchers look at technical evaluation metrics, subject AIs to reasoning tests, track their throughput, a…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-06-02-why-aren-t-we-measuring-how-ai-affects"
+        },
         {
           "title": "New Server Hopes to Break Through AI’s “Memory Wall”",
           "url": "https://spectrum.ieee.org/huge-memory-ai-server",
@@ -413,6 +421,19 @@
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Holo3.1: Fast & Local Computer Use Agents",
+          "url": "https://huggingface.co/blog/Hcompany/holo31",
+          "source": "Hugging Face",
+          "published_at": "2026-06-02T14:13:23Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-02-holo3-1-fast-local-computer-use-agents"
+        },
         {
           "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
           "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
@@ -438,32 +459,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-06-01-beyond-llms-why-scalable-enterprise-ai-adoption-depends"
-        },
-        {
-          "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-          "source": "Hugging Face",
-          "published_at": "2026-06-01T04:44:55Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-01-welcome-nvidia-cosmos-3-the-first-open-omni-model"
-        },
-        {
-          "title": "\"Queremos que haya mil millones de desarrolladores\": así es como ve el futuro de la programación Mario Rodríguez, CPO de GitHub",
-          "url": "https://www.xataka.com/robotica-e-ia/queremos-que-haya-mil-millones-desarrolladores-asi-como-ve-futuro-programacion-mario-rodriguez-cpo-github",
-          "source": "Xataka",
-          "published_at": "2026-05-31T09:00:45Z",
-          "summary": "Hace casi cinco años nos preguntábamos para qué programar cuando una máquina podía hacerlo por ti . Corría el mes de julio de 2021 y se lanzaba GitHub Copilot, el primer gran asistente de IA que además presumía de estar …",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "xataka-2026-05-31-queremos-que-haya-mil-millones-de-desarrolladores-asi"
         }
       ]
     },
@@ -471,160 +466,199 @@
       "name": "General",
       "items": [
         {
-          "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-          "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+          "title": "Microsoft Build 2026: The 7 biggest announcements",
+          "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
           "source": "The Verge",
-          "published_at": "2026-06-01T19:20:47Z",
-          "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch t…",
+          "published_at": "2026-06-02T19:23:52Z",
+          "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant an…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-01-meta-8217-s-own-ai-was-exploited-to"
+          "id": "theverge-2026-06-02-microsoft-build-2026-the-7-biggest-announcements"
         },
         {
-          "title": "Casey Neistat’s guide to posting every day",
-          "url": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
+          "title": "Trump signs executive order to review AI models before they’re released",
+          "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
           "source": "The Verge",
-          "published_at": "2026-06-01T19:07:03Z",
-          "summary": "Some news: The Vergecast is now a daily podcast! Starting today, we'll be posting every weekday, with even more gadgets and rankings and conversations and feelings and podcasts-within-podcasts. We're excited for all the …",
+          "published_at": "2026-06-02T18:33:42Z",
+          "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-01-casey-neistat-s-guide-to-posting-every-day"
+          "id": "theverge-2026-06-02-trump-signs-executive-order-to-review-ai-models"
         },
         {
-          "title": "Anthropic has officially filed to go public",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+          "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+          "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
           "source": "The Verge",
-          "published_at": "2026-06-01T16:40:38Z",
-          "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commiss…",
+          "published_at": "2026-06-02T18:15:00Z",
+          "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-01-anthropic-has-officially-filed-to-go-public"
+          "id": "theverge-2026-06-02-microsoft-s-next-gen-quantum-chip-cuts-timeline-to"
         },
         {
-          "title": "Sony’s new fight stick and gaming monitor launch in August",
-          "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+          "title": "Microsoft’s first advanced reasoning AI is here",
+          "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
           "source": "The Verge",
-          "published_at": "2026-06-01T16:36:18Z",
-          "summary": "Sony is sharing new details about some of its upcoming gaming-focused hardware, including pricing and August launch dates for its FlexStrike fight stick and its 27-inch monitor. The FlexStrike fight stick will be availab…",
+          "published_at": "2026-06-02T18:12:44Z",
+          "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house mo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-01-sony-s-new-fight-stick-and-gaming-monitor"
+          "id": "theverge-2026-06-02-microsoft-s-first-advanced-reasoning-ai-is-here"
         },
         {
-          "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-          "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+          "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
+          "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-01T15:30:00Z",
-          "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn&#8217;t just feature the big tentpole shows; th…",
+          "published_at": "2026-06-02T18:05:35Z",
+          "summary": "I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the color blue. The Wonderboo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-01-summer-game-fest-2026-all-the-news-from"
+          "id": "theverge-2026-06-02-the-durable-floatable-ue-wonderboom-4-speaker-is"
         },
         {
-          "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-          "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-06-01T15:24:32Z",
-          "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-01-an-affordable-long-lasting-airtag-alternative-is-15-right"
-        },
-        {
-          "title": "Las empresas de ordenadores no ganaban dinero con los ordenadores. Lo que están haciendo es forrarse gracias a los servidores de IA",
-          "url": "https://www.xataka.com/ordenadores/empresas-ordenadores-no-ganaban-dinero-ordenadores-que-estan-haciendo-forrarse-gracias-a-servidores-ia",
+          "title": "El problema no es gastar muchos tokens, es que la mayoría se están desperdiciando",
+          "url": "https://www.xataka.com/robotica-e-ia/problema-no-gastar-muchos-tokens-que-mayoria-se-estan-desperdiciando",
           "source": "Xataka",
-          "published_at": "2026-06-01T11:30:41Z",
-          "summary": "El viernes 29 de mayo, las acciones de Dell crecieron un 39% de golpe y porrazo . Desde que volviera a ser una empresa cotizada en bolsa hace siete años, Dell jamás había tenido una subida como esa. A priori ese crecimie…",
+          "published_at": "2026-06-02T17:15:40Z",
+          "summary": "Hace un año, Sam Altman hacía una predicción llamativa : a medida que la producción de centros de datos se automatice, el coste de la inteligencia [IA] debería converger en algún momento con el coste de la electricidad\".…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-01-las-empresas-de-ordenadores-no-ganaban-dinero-con"
+          "id": "xataka-2026-06-02-el-problema-no-es-gastar-muchos-tokens-es"
         },
         {
-          "title": "Nvidia acaba de lanzar su misil contra el dominio de Intel AMD en PCs y portátiles. Hay un problema: es un misil un poco obsoleto",
-          "url": "https://www.xataka.com/ordenadores/nvidia-acaba-lanzar-su-misil-dominio-intel-amd-pcs-portatiles-hay-problema-misil-poco-obsoleto",
+          "title": "China quería su propia Nvidia. Ahora quiere algo diferente: está reinventando sus chips de IA desde cero",
+          "url": "https://www.xataka.com/empresas-y-economia/china-queria-su-propia-nvidia-ahora-quiere-algo-diferente-esta-reinventando-sus-chips-ia-cero",
           "source": "Xataka",
-          "published_at": "2026-06-01T05:30:44Z",
-          "summary": "En octubre de 2025 Nvidia lanzaba su DGX Spark , una singular estación de trabajo que la empresa calificó como \"la supercomputadora de IA más pequeña del mundo\". Aquella máquina fue anunciada realmente en enero , pero ta…",
+          "published_at": "2026-06-02T16:15:40Z",
+          "summary": "Cambricon Technologies es una compañía esencial en los planes de China para disputar a EEUU su liderazgo en inteligencia artificial (IA). Aunque no es tan conocida como Huawei o Moore Threads, esta es una de las empresas…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-01-nvidia-acaba-de-lanzar-su-misil-contra-el"
+          "id": "xataka-2026-06-02-china-queria-su-propia-nvidia-ahora-quiere-algo"
         },
         {
-          "title": "China acaba de poner en marcha un “DNI” para robots humanoides: la ambición va mucho más allá del registro",
-          "url": "https://www.xataka.com/robotica-e-ia/china-acaba-poner-marcha-dni-para-robots-humanoides-ambicion-va-mucho-alla-registro",
+          "title": "YouTube sabe que cada vez es más difícil distinguir un vídeo real de uno generado por IA: por eso tiene un nuevo plan",
+          "url": "https://www.xataka.com/aplicaciones/youtube-sabe-que-cada-vez-dificil-distinguir-video-real-uno-generado-ia-eso-tiene-nuevo-plan",
           "source": "Xataka",
-          "published_at": "2026-05-31T19:00:45Z",
-          "summary": "Las personas, según el lugar del mundo en el que vivan, tienen un DNI, los vehículos tienen un número de bastidor y muchos dispositivos tecnológicos pueden seguirse a través de identificadores únicos. No es solo burocrac…",
+          "published_at": "2026-06-02T15:15:40Z",
+          "summary": "YouTube ha anunciado un cambio importante en su política de transparencia. Y es que a partir de este mes, la plataforma dejará de depender únicamente de las casillas referidas a IA que marquen los creadores de contenido …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-31-china-acaba-de-poner-en-marcha-un-dni"
+          "id": "xataka-2026-06-02-youtube-sabe-que-cada-vez-es-mas-dificil"
         },
         {
-          "title": "Qué es la memoria en la IA y cómo exprimirla al máximo y usarla corréctamente",
-          "url": "https://www.xataka.com/basics/que-memoria-ia-como-exprimirla-al-maximo-usarla-correctamente",
+          "title": "La IA está destruyendo trabajos, y también está creando otros: 2.000 dólares por masturbarte",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-esta-destruyendo-trabajos-tambien-esta-creando-otros-2-000-dolares-masturbarte",
           "source": "Xataka",
-          "published_at": "2026-05-31T12:00:44Z",
-          "summary": "Vamos a explicarte qué es la memoria de la IA y cómo usarla bien para sacarle el máximo provecho. Se trata de una característica que ya está incluida en prácticamente todos los principales bots de chat con inteligencia a…",
+          "published_at": "2026-06-02T13:31:40Z",
+          "summary": "La IA no solo está poniendo en riesgo empleos, también está inventando otros tan insólitos como inquietantes. Mientras unos puestos se tambalean y otros ganan valor , una empresa que vende compañeros virtuales ha dado un…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-31-que-es-la-memoria-en-la-ia-y"
+          "id": "xataka-2026-06-02-la-ia-esta-destruyendo-trabajos-y-tambien-esta"
         },
         {
-          "title": "Los microscopios llevaban casi un siglo dependiendo de operadores humanos. China quiere cambiar eso con IA",
-          "url": "https://www.xataka.com/investigacion/microscopios-llevaban-casi-siglo-dependiendo-operadores-humanos-china-quiere-cambiar-eso-ia",
+          "title": "EEUU abrió la puerta al chip H200 de Nvidia en China. El ejército chino lleva tiempo esperando al otro lado",
+          "url": "https://www.xataka.com/empresas-y-economia/eeuu-abrio-puerta-al-chip-h200-nvidia-china-ejercito-chino-lleva-tiempo-esperando-al-otro-lado",
           "source": "Xataka",
-          "published_at": "2026-05-31T11:30:44Z",
-          "summary": "Un equipo de investigadores chinos ha presentado en Pekín lo que aseguran que es el primer sistema de microscopía electrónica de transmisión del mundo capaz de funcionar de forma totalmente autónoma. Bautizado como \"Aeye…",
+          "published_at": "2026-06-02T12:45:40Z",
+          "summary": "Jensen Huang, el director general de Nvidia, se ha visto obligado a \"pelear\" con el Departamento de Comercio de EEUU durante meses, pero ha conseguido lo que pretendía: su compañía ya puede entregar a algunos de sus clie…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-31-los-microscopios-llevaban-casi-un-siglo-dependiendo-de"
+          "id": "xataka-2026-06-02-eeuu-abrio-la-puerta-al-chip-h200-de"
         },
         {
-          "title": "\"Nos está idiotizando\": hablamos con los jóvenes españoles que rechazan utilizar la IA conscientemente",
-          "url": "https://www.xataka.com/robotica-e-ia/nos-esta-idiotizando-hablamos-jovenes-espanoles-que-rechazan-utilizar-ia-conscientemente",
+          "title": "China tiene un nuevo \"cerebro de IA\": la tecnología necesaria para espiar y tomar decisiones militares desde el cielo",
+          "url": "https://www.xataka.com/espacio/china-quiere-satelites-que-piensen-solos-ia-llega-a-vigilancia-orbital-expertos-se-preocupan",
           "source": "Xataka",
-          "published_at": "2026-05-31T10:16:44Z",
-          "summary": "Mientras la IA se integra cada vez más en los estudios, el trabajo y la vida cotidiana, un fenómeno paralelo y aún minoritario se gesta en el subsuelo de la opinión pública y de los entornos profesionales: la de una corr…",
+          "published_at": "2026-06-02T10:01:40Z",
+          "summary": "La Inteligencia Artificial (IA) conlleva muchos beneficios, pero también muchos riesgos. Por eso, eliminar la supervisión humana puede ser una malísima idea. Es un tema bastante recurrente que se ha vuelto a poner sobre …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-05-31-nos-esta-idiotizando-hablamos-con-los-jovenes-espanoles"
+          "id": "xataka-2026-06-02-china-tiene-un-nuevo-cerebro-de-ia-la"
+        },
+        {
+          "title": "Qué es Gemini Spark, qué puedes hacer con él, cómo funciona y quién puede usarlo",
+          "url": "https://www.xataka.com/basics/que-gemini-spark-que-puedes-hacer-como-funciona-quien-puede-usarlo",
+          "source": "Xataka",
+          "published_at": "2026-06-02T09:54:46Z",
+          "summary": "Vamos a explicarte qué es y cómo funciona Gemini Spark , la nueva función de inteligencia artificial integrada dentro de la aplicación de Gemini . Se trata de una respuesta por parte de la empresa a OpenClaw y otros agen…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-02-que-es-gemini-spark-que-puedes-hacer-con"
+        },
+        {
+          "title": "Rusia está pintando sus camiones militares como si fueran pasos de cebra. Es la última táctica contra los drones de Ucrania",
+          "url": "https://www.xataka.com/magnet/disparatada-guerra-drones-ucrania-ha-entrado-fase-insolita-rusia-esta-escondiendo-sus-vehiculos-pintura",
+          "source": "Xataka",
+          "published_at": "2026-06-02T09:30:00Z",
+          "summary": "La escena es una de las más recordadas de la Primera Guerra Mundial. Ocurrió cuando la Marina británica empezó a pintar sus barcos con enormes rayas y formas geométricas en 1917, momento en que muchos pensaron que se hab…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-02-rusia-esta-pintando-sus-camiones-militares-como-si"
+        },
+        {
+          "title": "Anthropic se ha adelantado a OpenAI en su carrera para salir a bolsa. Son malísimas noticias para Sam Altman",
+          "url": "https://www.xataka.com/empresas-y-economia/anthropic-se-ha-adelantado-a-openai-su-carrera-para-salir-a-bolsa-malisimas-noticias-para-sam-altman",
+          "source": "Xataka",
+          "published_at": "2026-06-02T09:27:45Z",
+          "summary": "Anthropic confirmó el lunes que ha registrado formalmente su solicitud para su esperada salida a bolsa.&nbsp;La operación puede convertirse en la mayor de la historia de este tipo, y nos recuerda otro momento singular. E…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-02-anthropic-se-ha-adelantado-a-openai-en-su"
+        },
+        {
+          "title": "La IA cuesta una fortuna y su retorno parece cero: quizás el problema no es la IA, sino nuestra forma de medir",
+          "url": "https://www.xataka.com/empresas-y-economia/sabemos-exactamente-que-cuesta-ia-somos-incapaces-medir-que-produce-eso-empieza-a-ser-problema-serio",
+          "source": "Xataka",
+          "published_at": "2026-06-02T08:00:00Z",
+          "summary": "Conocemos muy bien el coste que tiene desarrollar la IA: los centros de datos mastodónticos , el consumo de electricidad disparado , el capex de las tecnológicas por las nubes ... El problema es que parece que todo eso n…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-02-la-ia-cuesta-una-fortuna-y-su-retorno"
         }
       ]
     }
@@ -661,6 +695,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "url": "https://openai.com/index/travelers",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T12:00:00Z",
+          "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-travelers-deploys-ai-powered-claims-countrywide-with-openai"
+        },
+        {
+          "title": "Codex for every role, tool, and workflow",
+          "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T09:00:00Z",
+          "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-codex-for-every-role-tool-and-workflow"
+        },
+        {
+          "title": "Advancing youth safety and opportunity through global leadership",
+          "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T07:00:00Z",
+          "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-advancing-youth-safety-and-opportunity-through-global-leadership"
+        },
+        {
+          "title": "Codex is becoming a productivity tool for everyone",
+          "url": "https://openai.com/index/codex-for-knowledge-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-02T02:00:00Z",
+          "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-02-codex-is-becoming-a-productivity-tool-for-everyone"
+        },
         {
           "title": "Our views on AI policy and political advocacy",
           "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
@@ -766,19 +852,6 @@
           "id": "openai-2026-05-28-how-endava-builds-an-agentic-organization-with-codex"
         },
         {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "url": "https://openai.com/index/mufg",
-          "source": "OpenAI",
-          "published_at": "2026-05-28T00:00:00Z",
-          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
-        },
-        {
           "title": "OpenAI’s Frontier Governance Framework",
           "url": "https://openai.com/index/openai-frontier-governance-framework",
           "source": "OpenAI",
@@ -792,6 +865,19 @@
           "id": "openai-2026-05-28-openai-s-frontier-governance-framework"
         },
         {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-05-28T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-05-28-mufg-aims-to-become-ai-native-with-openai"
+        },
+        {
           "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
           "url": "https://openai.com/index/cisco",
           "source": "OpenAI",
@@ -803,45 +889,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-05-27-cisco-and-openai-redefine-enterprise-engineering-with-codex"
-        },
-        {
-          "title": "Building self-improving tax agents with Codex",
-          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T07:00:00Z",
-          "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-building-self-improving-tax-agents-with-codex"
-        },
-        {
-          "title": "Election information and safeguards in 2026",
-          "url": "https://openai.com/index/election-safeguards-2026",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-election-information-and-safeguards-in-2026"
-        },
-        {
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "url": "https://openai.com/index/warp",
-          "source": "OpenAI",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-27-warp-s-big-bet-on-building-open-source"
         }
       ]
     },
@@ -849,6 +896,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Expanding Project Glasswing",
+          "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "source": "Anthropic",
+          "published_at": "2026-06-02T00:00:00Z",
+          "summary": "Expanding Project Glasswing",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-02-expanding-project-glasswing"
+        },
         {
           "title": "Anthropic confidentially submits draft S-1 to the SEC",
           "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
@@ -887,19 +947,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-05-28-introducing-claude-opus-4-8"
-        },
-        {
-          "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-          "url": "https://www.anthropic.com/news/milan-office-opening",
-          "source": "Anthropic",
-          "published_at": "2026-05-27T00:00:00Z",
-          "summary": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-05-27-anthropic-opens-milan-office-to-support-italian-enterprise"
         }
       ]
     },
