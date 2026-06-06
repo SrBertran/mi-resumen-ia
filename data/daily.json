@@ -1,78 +1,91 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T07:53:30.913312Z",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T07:30:00.030906Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
-      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
       "source": "The Verge",
-      "published_at": "2026-06-04T22:48:53Z",
-      "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by …",
+      "published_at": "2026-06-05T23:25:34Z",
+      "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-04-valve-says-it-8217-s-ready-to-launch"
+      "id": "theverge-2026-06-05-more-than-a-decade-later-the-team-behind"
     },
     {
-      "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
-      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+      "title": "Grand Theft Auto VI is warping the video game release calendar",
+      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
       "source": "The Verge",
-      "published_at": "2026-06-04T20:07:31Z",
-      "summary": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral…",
+      "published_at": "2026-06-05T23:05:27Z",
+      "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-04-cyberdecks-used-to-look-like-little-laptops-but"
+      "id": "theverge-2026-06-05-grand-theft-auto-vi-is-warping-the-video"
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face",
-      "published_at": "2026-06-04T18:57:45Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-06-04-nemotron-3-5-content-safety-customizable-multimodal-safety"
-    },
-    {
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "title": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
+      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
       "source": "The Verge",
-      "published_at": "2026-06-04T18:38:04Z",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to…",
+      "published_at": "2026-06-05T22:52:06Z",
+      "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-04-kevin-o-leary-agrees-to-downsize-massive-utah"
+      "id": "theverge-2026-06-05-final-fantasy-vii-8217-s-remake-trilogy-will"
     },
     {
-      "title": "Google is letting social media stars customize their search result page",
-      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+      "title": "Control Resonant is a sequel — and also a starting point",
+      "url": "https://www.theverge.com/games/944151/control-resonant-hands-on",
       "source": "The Verge",
-      "published_at": "2026-06-04T18:32:23Z",
-      "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or o…",
+      "published_at": "2026-06-05T21:45:44Z",
+      "summary": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first rev…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-04-google-is-letting-social-media-stars-customize-their"
+      "id": "theverge-2026-06-05-control-resonant-is-a-sequel----and-also"
+    },
+    {
+      "title": "Congress still can’t decide what to do about warrantless surveillance",
+      "url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+      "source": "The Verge",
+      "published_at": "2026-06-05T21:15:48Z",
+      "summary": "The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds like deja vu, it's because…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-05-congress-still-can-t-decide-what-to-do"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "The latest AI news we announced in May 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+          "source": "Google AI",
+          "published_at": "2026-06-05T14:45:00Z",
+          "summary": "May AI recap",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-05-the-latest-ai-news-we-announced-in-may"
+        },
         {
           "title": "How Endava is redesigning software delivery around AI agents",
           "url": "https://openai.com/index/endava-frontiers",
@@ -332,146 +345,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-06-01-anthropic-confidentially-submits-draft-s-1-to-the-sec"
-        },
-        {
-          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T19:00:00Z",
-          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-take-our-i-o-2026-quiz-vibe-coded"
-        },
-        {
-          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T17:30:00Z",
-          "summary": "Gemini Omni & Gemini 3.5 hero",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-9-demos-of-gemini-omni-and-gemini-3"
-        },
-        {
-          "title": "Boston Children’s uses AI to unlock new diagnoses",
-          "url": "https://openai.com/index/boston-childrens-hospital",
-          "source": "OpenAI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-29-boston-children-s-uses-ai-to-unlock-new"
-        },
-        {
-          "title": "How Braintrust turns customer requests into code with Codex",
-          "url": "https://openai.com/index/braintrust",
-          "source": "OpenAI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-29-how-braintrust-turns-customer-requests-into-code-with"
-        },
-        {
-          "title": "Check out real-life AI prototypes from the Futures Lab.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-check-out-real-life-ai-prototypes-from-the-futures"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Remarkable’s refurbished Paper Pro bundle is hundreds off",
-          "url": "https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-06-04T15:46:07Z",
-          "summary": "Color E Ink tablets aren’t usually affordable. I’m not going to say that Woot’s price on a refurbished “good as new” Remarkable Paper Pro is cheap, but it’s pretty fantastic compared to buying one new. Normally $629 just…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "theverge-2026-06-04-remarkable-s-refurbished-paper-pro-bundle-is-hundreds"
-        },
-        {
-          "title": "7 Ways New Engineers Can Flourish in the Age of AI",
-          "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-03T18:00:02Z",
-          "summary": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition. Here are seven tips to help keep young professionals in de…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-03-7-ways-new-engineers-can-flourish-in-the"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-          "source": "Hugging Face",
-          "published_at": "2026-06-04T12:24:58Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-04-eva-bench-data-2-0-3-domains-121-tools"
-        },
-        {
-          "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-          "url": "https://huggingface.co/blog/hf-cli-for-agents",
-          "source": "Hugging Face",
-          "published_at": "2026-06-04T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-04-designing-the-hf-cli-as-an-agent-optimized-way"
-        },
-        {
-          "title": "Direct Preference Optimization Beyond Chatbots",
-          "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-          "source": "Hugging Face",
-          "published_at": "2026-06-03T12:55:11Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-03-direct-preference-optimization-beyond-chatbots"
         }
       ]
     },
@@ -479,173 +352,69 @@
       "name": "General",
       "items": [
         {
-          "title": "La Unión Europea presenta su plan de soberanía digital para competir con EEUU tecnológicamente. Es una maravillosa utopía",
-          "url": "https://www.xataka.com/empresas-y-economia/union-europea-presenta-su-plan-soberania-digital-para-competir-eeuu-tecnologicamente-maravillosa-utopia",
-          "source": "Xataka",
-          "published_at": "2026-06-04T17:15:29Z",
-          "summary": "La comisión Europea acaba de anunciar el Paquete Europeo de Soberanía Tecnológica. El objetivo es el de reducir a dependencia europea de proveedores extranjeros tanto de soluciones hardware como software, y para ello el …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-04-la-union-europea-presenta-su-plan-de-soberania"
-        },
-        {
-          "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-          "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+          "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+          "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
           "source": "The Verge",
-          "published_at": "2026-06-04T17:01:15Z",
-          "summary": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-…",
+          "published_at": "2026-06-05T20:40:00Z",
+          "summary": "Geoff Keighley&#8217;s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the third Final Fantasy VII r…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-04-amazon-s-new-plan-for-games-james-bond"
+          "id": "theverge-2026-06-05-summer-game-fest-live-2026-the-biggest-news"
         },
         {
-          "title": "Francia se ha empeñado en robarle a España su posición como potencia de los centros de datos en Europa",
-          "url": "https://www.xataka.com/robotica-e-ia/francia-se-ha-empenado-robarle-a-espana-su-posicion-como-potencia-centros-datos-europa",
-          "source": "Xataka",
-          "published_at": "2026-06-04T16:01:29Z",
-          "summary": "El país galo ha dado todo un puñetazo en la mesa en su ambición para convertirse en referente tecnológico en Europa. El acuerdo alcanzado entre Emmanuel Macron y Masayoshi Son (CEO de SoftBank) tiene como objetivo desple…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-04-francia-se-ha-empenado-en-robarle-a-espana"
-        },
-        {
-          "title": "Belkin’s new Joy-Con grips also boost the Switch 2’s battery life",
-          "url": "https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller",
+          "title": "Gone in 60 minutes",
+          "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
           "source": "The Verge",
-          "published_at": "2026-06-04T16:00:00Z",
-          "summary": "Most of Belkin's Switch 2 accessories are designed to either protect or power up Nintendo's latest handheld, like its Charging Case Pro that actually does both at the same time. Its new multitasking Charging Grip can als…",
+          "published_at": "2026-06-05T18:44:20Z",
+          "summary": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS ha…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-04-belkin-s-new-joy-con-grips-also-boost-the"
+          "id": "theverge-2026-06-05-gone-in-60-minutes"
         },
         {
-          "title": "Cash App made a magic wand for contactless payments",
-          "url": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
+          "title": "The Sonos Era 100 speaker is down to its lowest price in months",
+          "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-04T16:00:00Z",
-          "summary": "The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent,…",
+          "published_at": "2026-06-05T17:00:47Z",
+          "summary": "Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-04-cash-app-made-a-magic-wand-for-contactless"
+          "id": "theverge-2026-06-05-the-sonos-era-100-speaker-is-down-to"
         },
         {
-          "title": "Windows is back on the Microsoft menu",
-          "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+          "title": "This is your laptop… on AI",
+          "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
           "source": "The Verge",
-          "published_at": "2026-06-04T16:00:00Z",
-          "summary": "I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microsoft is trying to fix in …",
+          "published_at": "2026-06-05T16:39:07Z",
+          "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-04-windows-is-back-on-the-microsoft-menu"
+          "id": "theverge-2026-06-05-this-is-your-laptop-on-ai"
         },
         {
-          "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-          "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+          "title": "What happens when your phone is confiscated at the airport",
+          "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
           "source": "The Verge",
-          "published_at": "2026-06-04T14:15:44Z",
-          "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Blo…",
+          "published_at": "2026-06-05T16:15:00Z",
+          "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organize…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-04-tsmc-struggles-to-keep-up-with-ai-demand"
-        },
-        {
-          "title": "SpaceX quiere alcanzar una capitalización de 1,75 billones de dólares. Los analistas tienen claro que vale menos de la mitad",
-          "url": "https://www.xataka.com/empresas-y-economia/spacex-quiere-alcanzar-capitalizacion-1-75-billones-dolares-analistas-tienen-claro-que-vale-mitad",
-          "source": "Xataka",
-          "published_at": "2026-06-04T12:15:28Z",
-          "summary": "La de SpaceX es la primera de las salidas a bolsa romperrécords que se esperan este año: tendrá lugar el próximo 12 de junio de 2026 bajo el símbolo SPCX. Esta operación promete ser la oferta pública de venta de acciones…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-04-spacex-quiere-alcanzar-una-capitalizacion-de-1-75"
-        },
-        {
-          "title": "Cómo usar la IA para encontrar trabajo: las mejores herramientas de búsqueda de empleo",
-          "url": "https://www.xataka.com/robotica-e-ia/como-usar-ia-para-encontrar-trabajo-mejores-herramientas-busqueda-empleo",
-          "source": "Xataka",
-          "published_at": "2026-06-04T09:31:28Z",
-          "summary": "Buscar trabajo requiere tanto esfuerzo y dedicación que ya supone un trabajo a tiempo completo en sí mismo. La búsqueda de empleo ha cambiado mucho y ya no consiste en enviar tu currículum de forma masiva a todas las emp…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-04-como-usar-la-ia-para-encontrar-trabajo-las"
-        },
-        {
-          "title": "Una vez más, Bitcoin se está desplomando. La diferencia esta vez es que hay muchas dudas sobre si se recuperará",
-          "url": "https://www.xataka.com/criptomonedas/burbuja-criptomonedas-esta-haciendo-crack-nuevo-problema-que-no-esta-nada-claro-que-vez-sobrevivan",
-          "source": "Xataka",
-          "published_at": "2026-06-03T15:15:00Z",
-          "summary": "Las criptos no levantan cabeza. En los últimos 11 meses el valor ha caído desde aquellos 124.000 dólares de julio de 2025 a los 67.000 en los que se está moviendo a día de hoy. Esta caída del 46% se ha contagiado al rest…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-03-una-vez-mas-bitcoin-se-esta-desplomando-la"
-        },
-        {
-          "title": "El negocio más rentable de Xiaomi es justo el que menos llama la atención y paga todo lo demás: los servicios",
-          "url": "https://www.xataka.com/empresas-y-economia/hay-division-xiaomi-a-que-nadie-presta-atencion-justo-que-esta-pagando-fiesta-moviles-ia-coches",
-          "source": "Xataka",
-          "published_at": "2026-06-03T13:45:00Z",
-          "summary": "Xiaomi ya no es solo una empresa de smartphones; es un conglomerado de cuatro grandes divisiones que se apoyan y alimentan entre sí para competir en un mercado cada vez más agresivo. La sorpresa es que financieramente la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-03-el-negocio-mas-rentable-de-xiaomi-es-justo"
-        },
-        {
-          "title": "El inmenso dispendio de dinero que supone la IA, resumido en esta web interactiva sobre su inexistente rentabilidad",
-          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-web-ia-rentable-para-responder-a-pregunta-nuestro-tiempo-tiempo-real",
-          "source": "Xataka",
-          "published_at": "2026-06-03T13:30:00Z",
-          "summary": "Existe una web llamada “ Is AI Profitable Yet? ” cuya única misión es responder a una de las preguntas más importantes —y más incómodas— de la industria tecnológica actual: ¿la inteligencia artificial gana dinero ya? La …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-03-el-inmenso-dispendio-de-dinero-que-supone-la"
-        },
-        {
-          "title": "Se suponía que las GPU de Nvidia no llegaban a China. Hasta que EEUU se puso a revisar a Singapur y Malasia",
-          "url": "https://www.xataka.com/empresas-y-economia/chips-nvidia-llegaban-a-china-solo-falta-filial-malasia",
-          "source": "Xataka",
-          "published_at": "2026-06-03T10:45:00Z",
-          "summary": "El Gobierno de EEUU sospecha desde hace varios años que las compañías y los centros de investigación chinos que se dedican a la inteligencia artificial (IA) adquieren las GPU más avanzadas de Nvidia a través de empresas …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-03-se-suponia-que-las-gpu-de-nvidia-no"
+          "id": "theverge-2026-06-05-what-happens-when-your-phone-is-confiscated-at"
         }
       ]
     }
@@ -863,32 +632,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-01-openai-frontier-models-and-codex-are-now-available"
-        },
-        {
-          "title": "Boston Children’s uses AI to unlock new diagnoses",
-          "url": "https://openai.com/index/boston-childrens-hospital",
-          "source": "OpenAI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-29-boston-children-s-uses-ai-to-unlock-new"
-        },
-        {
-          "title": "How Braintrust turns customer requests into code with Codex",
-          "url": "https://openai.com/index/braintrust",
-          "source": "OpenAI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-05-29-how-braintrust-turns-customer-requests-into-code-with"
         }
       ]
     },
@@ -955,6 +698,19 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "The latest AI news we announced in May 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+          "source": "Google AI",
+          "published_at": "2026-06-05T14:45:00Z",
+          "summary": "May AI recap",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-05-the-latest-ai-news-we-announced-in-may"
+        },
+        {
           "title": "5 ways Google Search can level up your thrift and vintage shopping",
           "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
           "source": "Google AI",
@@ -979,45 +735,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-01-how-we-used-gemini-to-build-google-i"
-        },
-        {
-          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T19:00:00Z",
-          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-take-our-i-o-2026-quiz-vibe-coded"
-        },
-        {
-          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T17:30:00Z",
-          "summary": "Gemini Omni & Gemini 3.5 hero",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-9-demos-of-gemini-omni-and-gemini-3"
-        },
-        {
-          "title": "Check out real-life AI prototypes from the Futures Lab.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-          "source": "Google AI",
-          "published_at": "2026-05-29T12:00:00Z",
-          "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-05-29-check-out-real-life-ai-prototypes-from-the-futures"
         }
       ]
     },
