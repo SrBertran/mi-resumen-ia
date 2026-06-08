@@ -1,72 +1,72 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T07:46:10.241818Z",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T08:13:45.200285Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Google quiere convertir a Gemini en un cohete y ya sabe cómo: pagando 920 millones al mes a SpaceX",
-      "url": "https://www.xataka.com/servicios/google-quiere-convertir-a-gemini-cohete-sabe-como-pagando-920-millones-al-mes-a-spacex",
+      "title": "La nueva Siri necesita funcionar a toda costa y eso no pasa por chips de Apple: pasa por Nvidia y Google",
+      "url": "https://www.xataka.com/aplicaciones/nueva-siri-necesita-funcionar-a-toda-costa-eso-no-pasa-chips-apple-pasa-nvidia-google",
       "source": "Xataka",
-      "published_at": "2026-06-07T07:13:32Z",
-      "summary": "Elon Musk creó SpaceX para la exploración espacial, reducir costes relacionados con el transporte y en última instancia colonizar Marte, pero lo que ha encontrado es un filón en la Tierra: Google y SpaceX acaban de firma…",
+      "published_at": "2026-06-08T07:01:10Z",
+      "summary": "Da igual cuándo leas esto, pero la nueva Siri está al caer. Sé que ya se dijo hace dos años , pero ahora parece que iOS 27 traerá esta nueva Siri en su fase beta . Los planes de Apple tanto para su asistente como para su…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-07-google-quiere-convertir-a-gemini-en-un-cohete"
+      "id": "xataka-2026-06-08-la-nueva-siri-necesita-funcionar-a-toda-costa"
     },
     {
-      "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
-      "url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "title": "El CEO de una empresa tecnológica ha explicado a sus empleados porqué no les subirá el sueldo: se lo gastarán en IA",
+      "url": "https://www.xataka.com/empresas-y-economia/ceo-empresa-tecnologica-ha-explicado-a-sus-empleados-porque-no-les-subira-sueldo-se-gastaran-ia",
+      "source": "Xataka",
+      "published_at": "2026-06-08T06:01:10Z",
+      "summary": "Que la IA no te quite el trabajo no te libra de sufrir las consecuencias de su implementación. Y si no que se lo digan a los empleados de Teradata que han visto como este año les congelaban los sueldos, no por cuadrar un…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-06-08-el-ceo-de-una-empresa-tecnologica-ha-explicado"
+    },
+    {
+      "title": "NASA will wear high-tech Prada long johns to the Moon",
+      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
       "source": "The Verge",
-      "published_at": "2026-06-07T07:00:00Z",
-      "summary": "Sorry Anker: JMGO now makes my favorite flagship portable projector. The N3 Ultimate is an excellent portable 4K projector that defeats moderate ambient light at severe placement angles and can rival more expensive home …",
+      "published_at": "2026-06-07T22:16:41Z",
+      "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear under…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-07-jmgo-s-n3-ultimate-projector-is-the-new"
+      "id": "theverge-2026-06-07-nasa-will-wear-high-tech-prada-long-johns-to"
     },
     {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
       "source": "Hugging Face",
-      "published_at": "2026-06-06T19:02:33Z",
+      "published_at": "2026-06-07T19:44:27Z",
       "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
         "herramientas"
       ],
       "category": "herramientas",
-      "id": "huggingface-2026-06-06-five-labs-five-minds-building-a-multi-model-finance"
+      "id": "huggingface-2026-06-07-amazing-digital-dentures-a-failed-project"
     },
     {
-      "title": "The first Story-Rich showcase was packed with narrative-driven games",
-      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
       "source": "The Verge",
-      "published_at": "2026-06-06T18:00:00Z",
-      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there…",
+      "published_at": "2026-06-07T18:45:33Z",
+      "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big keynotes were used as a ch…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-06-the-first-story-rich-showcase-was-packed-with-narrative-driven"
-    },
-    {
-      "title": "GOG apologizes for emailing people Nazi symbols",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "source": "The Verge",
-      "published_at": "2026-06-06T17:59:37Z",
-      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" includin…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-06-gog-apologizes-for-emailing-people-nazi-symbols"
+      "id": "theverge-2026-06-07-the-7-biggest-storylines-from-summer-game-fest"
     }
   ],
   "sections": [
@@ -332,19 +332,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-01-openai-frontier-models-and-codex-are-now-available"
-        },
-        {
-          "title": "Anthropic confidentially submits draft S-1 to the SEC",
-          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-          "source": "Anthropic",
-          "published_at": "2026-06-01T00:00:00Z",
-          "summary": "Anthropic confidentially submits draft S-1 to the SEC",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-01-anthropic-confidentially-submits-draft-s-1-to-the-sec"
         }
       ]
     },
@@ -370,82 +357,147 @@
       "name": "General",
       "items": [
         {
-          "title": "The cutest games from the Wholesome Direct 2026 showcase",
-          "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+          "title": "Persona 6 exists, and that’s all we know",
+          "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
           "source": "The Verge",
-          "published_at": "2026-06-06T17:00:00Z",
-          "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the…",
+          "published_at": "2026-06-07T18:00:41Z",
+          "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long-awaited return of the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-the-cutest-games-from-the-wholesome-direct-2026"
+          "id": "theverge-2026-06-07-persona-6-exists-and-that-s-all-we"
         },
         {
-          "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-          "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+          "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
+          "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
           "source": "The Verge",
-          "published_at": "2026-06-06T16:14:23Z",
-          "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly …",
+          "published_at": "2026-06-07T17:45:48Z",
+          "summary": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console and controller featuri…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-summer-game-fest-2026-all-the-news-from"
+          "id": "theverge-2026-06-07-microsoft-s-xbox-25th-anniversary-console-comes-in"
         },
         {
-          "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
-          "url": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
+          "title": "Minecraft Dungeons 2 gets a September release date",
+          "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
           "source": "The Verge",
-          "published_at": "2026-06-06T16:00:00Z",
-          "summary": "If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Universal Pictures, in case yo…",
+          "published_at": "2026-06-07T17:45:25Z",
+          "summary": "Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 re…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-4k-blu-rays-are-three-for-33-ahead-of"
+          "id": "theverge-2026-06-07-minecraft-dungeons-2-gets-a-september-release-date"
         },
         {
-          "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+          "title": "Fable launches in late February after recent delay",
+          "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
           "source": "The Verge",
-          "published_at": "2026-06-06T15:05:00Z",
-          "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying …",
+          "published_at": "2026-06-07T17:14:57Z",
+          "summary": "Just a few days after pushing Fable out of 2026, Microsoft showed off more footage of Fable, the first new entry in the storied RPG franchise since 2010's Fable III, at its Xbox Games Showcase on Sunday. The company also…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-the-mayor-of-shelbyville-indiana-says-only-people"
+          "id": "theverge-2026-06-07-fable-launches-in-late-february-after-recent-delay"
         },
         {
-          "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
-          "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
+          "title": "Halo: Campaign Evolved arrives July 28th",
+          "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
           "source": "The Verge",
-          "published_at": "2026-06-06T15:00:00Z",
-          "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel…",
+          "published_at": "2026-06-07T17:14:08Z",
+          "summary": "As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-benn-jordan-longs-for-the-days-of-tech"
+          "id": "theverge-2026-06-07-halo-campaign-evolved-arrives-july-28th"
         },
         {
-          "title": "82-0 is the best basketball game, to hell with NBA 2K",
-          "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
+          "title": "Gears of War: E-Day isn’t coming to the PS5",
+          "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
           "source": "The Verge",
-          "published_at": "2026-06-06T14:30:00Z",
-          "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just…",
+          "published_at": "2026-06-07T17:08:56Z",
+          "summary": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch in addition to Xbox and…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-06-82-0-is-the-best-basketball-game-to-hell"
+          "id": "theverge-2026-06-07-gears-of-war-e-day-isn-t-coming-to"
+        },
+        {
+          "title": "La IA está sustituyendo uno de los trabajos más odiados del mundo: el cobrador del frac",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-esta-sustituyendo-uno-trabajos-odiados-mundo",
+          "source": "Xataka",
+          "published_at": "2026-06-07T17:01:09Z",
+          "summary": "Hace años, si ibas por la calle en España y veías a un hombre vestido con frac y chistera siguiendo a alguien, sólo podía significar una cosa: ese alguien era un moroso. Aunque el Cobrador del Frac sigue en activo , hoy …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-07-la-ia-esta-sustituyendo-uno-de-los-trabajos"
+        },
+        {
+          "title": "The Verge Weekend Questionnaire",
+          "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
+          "source": "The Verge",
+          "published_at": "2026-06-07T17:00:00Z",
+          "summary": "Have you ever wondered what the most indispensable app is for your favorite musician or how the world&#8217;s tech CEOs stay focused? Well, that&#8217;s the sort of thing we aim to uncover in our Verge Weekend Questionna…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-07-the-verge-weekend-questionnaire"
+        },
+        {
+          "title": "Xbox Games Showcase 2026: All the news and trailers",
+          "url": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
+          "source": "The Verge",
+          "published_at": "2026-06-07T16:40:00Z",
+          "summary": "The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest. Sony did that by focusing on the single-player titles it’s kno…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-07-xbox-games-showcase-2026-all-the-news-and"
+        },
+        {
+          "title": "La IA ha provocado el colapso incluso de una industria no relacionada con la IA: las turbinas de gas",
+          "url": "https://www.xataka.com/energia/cuando-todos-huyen-se-queda-ex-cto-meta-ex-vicepresidente-tesla-se-alian-para-evitar-que-ia-apague-mundo",
+          "source": "Xataka",
+          "published_at": "2026-06-07T09:31:09Z",
+          "summary": "Cuando todo el mundo sale corriendo, el ex director de tecnología de Meta se queda. Mientras la mayoría de los inversores de Silicon Valley ha abandonado la tesis del C limate Tech —hastiados de promesas que no se convie…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-07-la-ia-ha-provocado-el-colapso-incluso-de"
+        },
+        {
+          "title": "Google quiere convertir a Gemini en un cohete y ya sabe cómo: pagando 920 millones al mes a SpaceX",
+          "url": "https://www.xataka.com/servicios/google-quiere-convertir-a-gemini-cohete-sabe-como-pagando-920-millones-al-mes-a-spacex",
+          "source": "Xataka",
+          "published_at": "2026-06-07T07:13:32Z",
+          "summary": "Elon Musk creó SpaceX para la exploración espacial, reducir costes relacionados con el transporte y en última instancia colonizar Marte, pero lo que ha encontrado es un filón en la Tierra: Google y SpaceX acaban de firma…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-07-google-quiere-convertir-a-gemini-en-un-cohete"
         },
         {
           "title": "Sam Altman reconoce un secreto a voces: \"Creo que es la crítica más válida a la IA ahora mismo, hay mucho despilfarro\"",
@@ -459,110 +511,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-06-sam-altman-reconoce-un-secreto-a-voces-creo"
-        },
-        {
-          "title": "Meta made its own AI-generated clickbait news feed",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-          "source": "The Verge",
-          "published_at": "2026-06-06T14:00:00Z",
-          "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stor…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-06-meta-made-its-own-ai-generated-clickbait-news-feed"
-        },
-        {
-          "title": "DeepSeek acaba de lograr algo impensable hace unos meses: ganar terreno entre empresas estadounidenses",
-          "url": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lograr-algo-impensable-hace-unos-meses-ganar-terreno-empresas-estadounidenses",
-          "source": "Xataka",
-          "published_at": "2026-06-05T20:01:10Z",
-          "summary": "Hace no tanto, la idea de que una empresa estadounidense pagara directamente a una compañía china como DeepSeek para usar inteligencia artificial habría sonado, como mínimo, improbable. No porque faltaran modelos alterna…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-deepseek-acaba-de-lograr-algo-impensable-hace-unos"
-        },
-        {
-          "title": "China prepara un hotel donde los robots harán de recepcionistas, camareros, limpiadores y vigilantes: aspira a automatizarlo casi todo",
-          "url": "https://www.xataka.com/robotica-e-ia/china-prepara-hotel-donde-robots-haran-recepcionistas-camareros-limpiadores-vigilantes-aspira-a-automatizarlo-casi-todo",
-          "source": "Xataka",
-          "published_at": "2026-06-05T19:01:10Z",
-          "summary": "Durante años, cuando hablábamos de robots atendiendo a personas, Japón aparecía casi siempre en primer plano. Ahora el foco se ha desplazado. La carrera por llevar la robótica y la inteligencia artificial a la vida cotid…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-china-prepara-un-hotel-donde-los-robots-haran"
-        },
-        {
-          "title": "Pronto no hará falta que te acuerdes del nombre de nadie. Ya lo harán las gafas de Meta por ti",
-          "url": "https://www.xataka.com/wearables/pronto-no-hara-falta-que-te-acuerdes-nombre-nadie-haran-gafas-meta-ti",
-          "source": "Xataka",
-          "published_at": "2026-06-05T17:31:09Z",
-          "summary": "Hace poco supimos que &nbsp;las Ray-Ban Meta siguen grabando cuando te las quitas y que hay contratistas en Kenia viendo todo lo que ocurre. También se están usando para cosas tan turbias como grabar mujeres sin su conse…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-pronto-no-hara-falta-que-te-acuerdes-del"
-        },
-        {
-          "title": "Anthropic está en el momento más importante de su historia y tiene una advertencia: hay que levantar el acelerador de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-esta-momento-importante-su-historia-tiene-advertencia-hay-que-levantar-acelerador-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-05T14:31:09Z",
-          "summary": "Anthropic y OpenAI están compitiendo en dos carreras paralelas . Por un lado, la carrera por tener el mejor modelo que siga empujando la IA de vanguardia. Por otro, la de salir a bolsa para convertirse en una empresa púb…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-anthropic-esta-en-el-momento-mas-importante-de"
-        },
-        {
-          "title": "La IA de Anthropic ya escribe el 80% de su propio código porque era inevitable que las IAs se mejoraran a sí mismas",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-anthropic-escribe-80-su-propio-codigo-porque-era-inevitable-que-ias-se-mejoraran-a-mismas",
-          "source": "Xataka",
-          "published_at": "2026-06-05T12:45:10Z",
-          "summary": "\"En mayo de 2026, más del 80% del código que integramos en la base de código de Anthropic fue creado por Claude\". Quienes revelan ese dato son dos investigadores de Anthropic que han publicado uno de los textos más revel…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-la-ia-de-anthropic-ya-escribe-el-80"
-        },
-        {
-          "title": "Los centros de datos espaciales parecen una chaladura. Tienen mucho más sentido del que parece",
-          "url": "https://www.xataka.com/espacio/centros-datos-espaciales-parecen-chaladura-tienen-mucho-sentido-que-parece",
-          "source": "Xataka",
-          "published_at": "2026-06-05T11:01:09Z",
-          "summary": "\"El espacio, la última frontera\" se convirtió en una frase clásica de la cultura pop gracias a la serie Star Trek. Ahora hay quien la completa con un \"... de los centros de datos\", porque eso es lo que desde luego quiere…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-los-centros-de-datos-espaciales-parecen-una-chaladura"
-        },
-        {
-          "title": "Una empresa china lleva años construyendo una IA para predecir quién va a criticar al gobierno antes de que lo haga",
-          "url": "https://www.xataka.com/privacidad/empresa-china-lleva-anos-construyendo-ia-para-predecir-quien-va-a-criticar-al-gobierno-haga",
-          "source": "Xataka",
-          "published_at": "2026-06-05T08:31:29Z",
-          "summary": "En ' Minority Report ', Tom Cruise era el jefe de la policía precrimen, un departamento capaz de detener delincuentes antes de que pudieran cometer el delito en cuestión, todo gracias a los poderes de los mutantes o prec…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-05-una-empresa-china-lleva-anos-construyendo-una-ia"
         }
       ]
     }
@@ -825,19 +773,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-06-02-expanding-project-glasswing"
-        },
-        {
-          "title": "Anthropic confidentially submits draft S-1 to the SEC",
-          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-          "source": "Anthropic",
-          "published_at": "2026-06-01T00:00:00Z",
-          "summary": "Anthropic confidentially submits draft S-1 to the SEC",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-01-anthropic-confidentially-submits-draft-s-1-to-the-sec"
         }
       ]
     },
