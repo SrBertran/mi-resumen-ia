@@ -1,78 +1,169 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T07:44:48.411727Z",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T07:53:58.353833Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Mientras Google presume de IA, sus empleados hacen otra cosa en una red social interna: reírse de ella",
-      "url": "https://www.xataka.com/robotica-e-ia/google-presume-ia-sus-empleados-hacen-otra-cosa-red-social-interna-reirse-ella",
-      "source": "Xataka",
-      "published_at": "2026-06-09T07:00:17Z",
-      "summary": "Si hay una compañía que está empujando la IA es… bueno, aparentemente todas en este momento. La industria se ha abalanzado a los brazos de esta tecnología y, con tantísimo dinero invertido , deben usarla para algo. Googl…",
+      "title": "Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse",
+      "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-06-10T07:01:00Z",
+      "summary": "Logitech finally announced its new ultraportable travel mouse following leaked marketing images that spoiled the surprise last month. As the name implies, the Mobi Fold is a compact mouse that can fold in half using a hi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-09-mientras-google-presume-de-ia-sus-empleados-hacen"
+      "id": "theverge-2026-06-10-logitech-s-new-mobi-fold-squeezes-a-lot"
     },
     {
-      "title": "Instagram is finally letting everyone reorganize their profile grid",
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "title": "I tried Siri AI, and so far it actually works",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "source": "The Verge",
-      "published_at": "2026-06-08T23:58:30Z",
-      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out wide…",
+      "published_at": "2026-06-09T23:43:00Z",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-08-instagram-is-finally-letting-everyone-reorganize-their-profile"
+      "id": "theverge-2026-06-09-i-tried-siri-ai-and-so-far-it"
     },
     {
-      "title": "Apple’s Screen Time updates are too little, too late",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "title": "Congress just gave DHS another $70 billion",
+      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
       "source": "The Verge",
-      "published_at": "2026-06-08T23:41:00Z",
-      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost …",
+      "published_at": "2026-06-09T21:34:46Z",
+      "summary": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliatio…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-08-apple-s-screen-time-updates-are-too-little"
+      "id": "theverge-2026-06-09-congress-just-gave-dhs-another-70-billion"
     },
     {
-      "title": "5 things I already love from the iOS 27 beta",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "title": "The App Store is going to add subscription bundles soon",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
       "source": "The Verge",
-      "published_at": "2026-06-08T23:30:00Z",
-      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist fo…",
+      "published_at": "2026-06-09T21:30:48Z",
+      "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bun…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-08-5-things-i-already-love-from-the-ios"
+      "id": "theverge-2026-06-09-the-app-store-is-going-to-add-subscription"
     },
     {
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
       "source": "The Verge",
-      "published_at": "2026-06-08T22:14:17Z",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now,…",
+      "published_at": "2026-06-09T21:00:00Z",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker ann…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-08-apple-is-using-ai-to-fix-safari-s"
+      "id": "theverge-2026-06-09-gm-thinks-evs-can-help-offset-ai-s"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+          "source": "DeepMind",
+          "published_at": "2026-06-09T15:16:25Z",
+          "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-09-fluid-natural-voice-translation-with-gemini-3-5"
+        },
+        {
+          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+          "source": "DeepMind",
+          "published_at": "2026-06-09T14:10:19Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-09-introducing-gemma-4-12b-a-unified-encoder-free-multimodal"
+        },
+        {
+          "title": "Powering the future of robotics in Europe",
+          "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+          "source": "DeepMind",
+          "published_at": "2026-06-09T14:02:33Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-09-powering-the-future-of-robotics-in-europe"
+        },
+        {
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "url": "https://openai.com/index/nextdoor",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T12:00:00Z",
+          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-how-engineers-at-nextdoor-use-codex-to-build"
+        },
+        {
+          "title": "What Codex unlocks for Notion",
+          "url": "https://openai.com/index/notion",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T10:00:00Z",
+          "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
+        },
+        {
+          "title": "Industrial policy for the Intelligence Age",
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T00:00:00Z",
+          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-industrial-policy-for-the-intelligence-age"
+        },
+        {
+          "title": "Claude Fable 5 and Claude Mythos 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "Anthropic",
+          "published_at": "2026-06-09T00:00:00Z",
+          "summary": "Claude Fable 5 and Claude Mythos 5",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-09-claude-fable-5-and-claude-mythos-5"
+        },
         {
           "title": "Confidential submission of draft S-1 to the SEC",
           "url": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -85,6 +176,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-08-confidential-submission-of-draft-s-1-to-the-sec"
+        },
+        {
+          "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+          "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+          "source": "DeepMind",
+          "published_at": "2026-06-08T13:04:59Z",
+          "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-08-measuring-the-impact-of-learning-with-ai-in"
         },
         {
           "title": "Built to benefit everyone: our plan",
@@ -228,76 +332,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-03-openai-public-policy-agenda"
-        },
-        {
-          "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-          "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-          "source": "Anthropic",
-          "published_at": "2026-06-03T00:00:00Z",
-          "summary": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-03-what-we-learned-mapping-a-year-s-worth"
-        },
-        {
-          "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-          "url": "https://www.anthropic.com/news/services-track-partner-hub",
-          "source": "Anthropic",
-          "published_at": "2026-06-03T00:00:00Z",
-          "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-03-introducing-the-services-track-and-partner-hub-of"
-        },
-        {
-          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-          "url": "https://openai.com/index/travelers",
-          "source": "OpenAI",
-          "published_at": "2026-06-02T12:00:00Z",
-          "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-02-travelers-deploys-ai-powered-claims-countrywide-with-openai"
-        },
-        {
-          "title": "Codex for every role, tool, and workflow",
-          "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-          "source": "OpenAI",
-          "published_at": "2026-06-02T09:00:00Z",
-          "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-02-codex-for-every-role-tool-and-workflow"
         }
       ]
     },
     {
-      "name": "Herramientas",
+      "name": "Investigación",
       "items": [
         {
-          "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-          "url": "https://huggingface.co/blog/openenv-agentic-rl",
-          "source": "Hugging Face",
-          "published_at": "2026-06-08T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "AI Can Help Track the World’s Shrinking Glaciers",
+          "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-09T13:00:02Z",
+          "summary": "Tracking how fast glaciers are shrinking is crucial for measuring the pace of climate change and projecting future sea level rises. This is normally a painstaking manual job, but a new approach that enables AI to analyze…",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "investigación"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-08-the-open-source-community-is-backing-openenv-for"
+          "category": "investigación",
+          "id": "ieee-2026-06-09-ai-can-help-track-the-world-s-shrinking"
         }
       ]
     },
@@ -305,199 +357,69 @@
       "name": "General",
       "items": [
         {
-          "title": "Where was tvOS 27 at WWDC?",
-          "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+          "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+          "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
           "source": "The Verge",
-          "published_at": "2026-06-08T22:04:42Z",
-          "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current A…",
+          "published_at": "2026-06-09T20:24:25Z",
+          "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an e…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-08-where-was-tvos-27-at-wwdc"
+          "id": "theverge-2026-06-09-microsoft-ai-head-calls-out-anthropic-for-acting"
         },
         {
-          "title": "Apple’s new parental controls are for keeping Apple out of trouble",
-          "url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
+          "title": "Nintendo is playing things too safe",
+          "url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
           "source": "The Verge",
-          "published_at": "2026-06-08T21:48:08Z",
-          "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulat…",
+          "published_at": "2026-06-09T19:01:04Z",
+          "summary": "Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive thanks to a price hike, it…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-08-apple-s-new-parental-controls-are-for-keeping"
+          "id": "theverge-2026-06-09-nintendo-is-playing-things-too-safe"
         },
         {
-          "title": "OpenAI files for IPO, following Anthropic",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+          "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+          "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-08T21:38:29Z",
-          "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the …",
+          "published_at": "2026-06-09T17:35:51Z",
+          "summary": "Whether you&#8217;re shopping for Father&#8217;s Day or trying to keep your kids entertained over summer break, you don&#8217;t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-08-openai-files-for-ipo-following-anthropic"
+          "id": "theverge-2026-06-09-fitbit-s-charge-6-and-ace-lte-are"
         },
         {
-          "title": "44 things coming to your Apple devices that you might have missed",
-          "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+          "title": "Apple wants Europe to blink",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
           "source": "The Verge",
-          "published_at": "2026-06-08T20:26:52Z",
-          "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've r…",
+          "published_at": "2026-06-09T17:13:14Z",
+          "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-08-44-things-coming-to-your-apple-devices-that"
+          "id": "theverge-2026-06-09-apple-wants-europe-to-blink"
         },
         {
-          "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
-          "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+          "title": "Anthropic releases its first Mythos-class model Claude Fable",
+          "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
           "source": "The Verge",
-          "published_at": "2026-06-08T19:45:00Z",
-          "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling …",
+          "published_at": "2026-06-09T17:00:00Z",
+          "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, know…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-08-apple-drops-support-for-a-long-list-of"
-        },
-        {
-          "title": "Apple announces watchOS 27, now with Siri AI",
-          "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-          "source": "The Verge",
-          "published_at": "2026-06-08T19:34:10Z",
-          "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 upd…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-08-apple-announces-watchos-27-now-with-siri-ai"
-        },
-        {
-          "title": "Estas son todas las novedades de Apple Intelligence y Siri AI que llegan a tu iPhone con iOS 27",
-          "url": "https://www.xataka.com/basics/estas-todas-novedades-apple-intelligence-siri-ai-que-llegan-a-tu-iphone-ios-27",
-          "source": "Xataka",
-          "published_at": "2026-06-08T19:21:36Z",
-          "summary": "Vamos a decirte todas las novedades de Apple Intelligence y Siri AI que llegarán a tu iPhone cuando actualice a iOS 27. Porque la gran protagonista de la próxima versión del sistema operativo móvil de Apple es la intelig…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-estas-son-todas-las-novedades-de-apple-intelligence"
-        },
-        {
-          "title": "Apple ha encontrado la forma perfecta de integrar el nuevo Siri AI en macOS: copiando lo que hace Claude Cowork",
-          "url": "https://www.xataka.com/robotica-e-ia/apple-ha-encontrado-forma-perfecta-integrar-nuevo-siri-ai-macos-copiando-que-hace-claude-cowork",
-          "source": "Xataka",
-          "published_at": "2026-06-08T18:18:00Z",
-          "summary": "Uno podría pensar que la nueva Siri AI estaría especialmente integrado en los iPhone con iOS 27 , pero en realidad sus opciones pueden acabar siendo incluso más llamativas en macOS.&nbsp; El sistema operativo de escritor…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-apple-ha-encontrado-la-forma-perfecta-de-integrar"
-        },
-        {
-          "title": "Modo bloqueo de ChatGPT: qué es, para qué sirve, quién puede usarlo y cómo activarlo",
-          "url": "https://www.xataka.com/basics/modo-bloqueo-chatgpt-que-sirve-quien-puede-usarlo-como-activarlo",
-          "source": "Xataka",
-          "published_at": "2026-06-08T10:29:06Z",
-          "summary": "Vamos a explicarte qué es el modo bloqueo de ChatGPT , un método con el que podrás tener más protección frente a ataques dirigidos a la inteligencia artificial . Para hacerlo, limitará muchísimo lo que puede hacer la IA,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-modo-bloqueo-de-chatgpt-que-es-para-que"
-        },
-        {
-          "title": "Rusia es la gran desaparecida de la carrera de la IA. No tiene ni chips ni talento, y su gran aliada solo le da las sobras",
-          "url": "https://www.xataka.com/robotica-e-ia/rusia-gran-desaparecida-carrera-ia-no-tiene-chips-talento-su-gran-aliada-solo-le-da-sobras",
-          "source": "Xataka",
-          "published_at": "2026-06-08T10:00:17Z",
-          "summary": "¿Qué pasa con la IA en Rusia? La carrera de la inteligencia artificial tiene como absolutos protagonistas a EEUU y a China, y resulta sorprendente que una potencia como Rusia no parezca estar avanzando en este tipo de ca…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-rusia-es-la-gran-desaparecida-de-la-carrera"
-        },
-        {
-          "title": "Primero ató a Samsung, ahora a SK Hynix. En la fiesta de la crisis de la RAM, Nvidia se ha asegurado la tarta",
-          "url": "https://www.xataka.com/empresas-y-economia/primero-ato-a-samsung-ahora-a-sk-hynix-fiesta-crisis-ram-nvidia-se-ha-asegurado-tarta",
-          "source": "Xataka",
-          "published_at": "2026-06-08T08:30:16Z",
-          "summary": "En cualquier grupo de amigos, hay una persona que siempre intenta llevarse bien con todo el mundo. En el mundillo tecnológico, esa persona es Nvidia. El gigante estadounidense que hasta hace no tanto era quien dominaba l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-primero-ato-a-samsung-ahora-a-sk-hynix"
-        },
-        {
-          "title": "La nueva Siri necesita funcionar a toda costa y eso no pasa por chips de Apple: pasa por Nvidia y Google",
-          "url": "https://www.xataka.com/aplicaciones/nueva-siri-necesita-funcionar-a-toda-costa-eso-no-pasa-chips-apple-pasa-nvidia-google",
-          "source": "Xataka",
-          "published_at": "2026-06-08T07:01:10Z",
-          "summary": "Da igual cuándo leas esto, pero la nueva Siri está al caer. Sé que ya se dijo hace dos años , pero ahora parece que iOS 27 traerá esta nueva Siri en su fase beta . Los planes de Apple tanto para su asistente como para su…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-la-nueva-siri-necesita-funcionar-a-toda-costa"
-        },
-        {
-          "title": "El CEO de una empresa tecnológica ha explicado a sus empleados porqué no les subirá el sueldo: se lo gastarán en IA",
-          "url": "https://www.xataka.com/empresas-y-economia/ceo-empresa-tecnologica-ha-explicado-a-sus-empleados-porque-no-les-subira-sueldo-se-gastaran-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-08T06:01:10Z",
-          "summary": "Que la IA no te quite el trabajo no te libra de sufrir las consecuencias de su implementación. Y si no que se lo digan a los empleados de Teradata que han visto como este año les congelaban los sueldos, no por cuadrar un…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-08-el-ceo-de-una-empresa-tecnologica-ha-explicado"
-        },
-        {
-          "title": "La IA está sustituyendo uno de los trabajos más odiados del mundo: el cobrador del frac",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-esta-sustituyendo-uno-trabajos-odiados-mundo",
-          "source": "Xataka",
-          "published_at": "2026-06-07T17:01:09Z",
-          "summary": "Hace años, si ibas por la calle en España y veías a un hombre vestido con frac y chistera siguiendo a alguien, sólo podía significar una cosa: ese alguien era un moroso. Aunque el Cobrador del Frac sigue en activo , hoy …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-07-la-ia-esta-sustituyendo-uno-de-los-trabajos"
-        },
-        {
-          "title": "La IA ha provocado el colapso incluso de una industria no relacionada con la IA: las turbinas de gas",
-          "url": "https://www.xataka.com/energia/cuando-todos-huyen-se-queda-ex-cto-meta-ex-vicepresidente-tesla-se-alian-para-evitar-que-ia-apague-mundo",
-          "source": "Xataka",
-          "published_at": "2026-06-07T09:31:09Z",
-          "summary": "Cuando todo el mundo sale corriendo, el ex director de tecnología de Meta se queda. Mientras la mayoría de los inversores de Silicon Valley ha abandonado la tesis del C limate Tech —hastiados de promesas que no se convie…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-07-la-ia-ha-provocado-el-colapso-incluso-de"
+          "id": "theverge-2026-06-09-anthropic-releases-its-first-mythos-class-model-claude-fable"
         }
       ]
     }
@@ -535,6 +457,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "url": "https://openai.com/index/nextdoor",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T12:00:00Z",
+          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-how-engineers-at-nextdoor-use-codex-to-build"
+        },
+        {
+          "title": "What Codex unlocks for Notion",
+          "url": "https://openai.com/index/notion",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T10:00:00Z",
+          "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
+        },
+        {
+          "title": "Industrial policy for the Intelligence Age",
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "source": "OpenAI",
+          "published_at": "2026-06-09T00:00:00Z",
+          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-09-industrial-policy-for-the-intelligence-age"
+        },
+        {
           "title": "Confidential submission of draft S-1 to the SEC",
           "url": "https://openai.com/index/openai-submits-confidential-s-1",
           "source": "OpenAI",
@@ -663,32 +624,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-03-openai-public-policy-agenda"
-        },
-        {
-          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-          "url": "https://openai.com/index/travelers",
-          "source": "OpenAI",
-          "published_at": "2026-06-02T12:00:00Z",
-          "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-02-travelers-deploys-ai-powered-claims-countrywide-with-openai"
-        },
-        {
-          "title": "Codex for every role, tool, and workflow",
-          "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-          "source": "OpenAI",
-          "published_at": "2026-06-02T09:00:00Z",
-          "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-02-codex-for-every-role-tool-and-workflow"
         }
       ]
     },
@@ -697,30 +632,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-          "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+          "title": "Claude Fable 5 and Claude Mythos 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
           "source": "Anthropic",
-          "published_at": "2026-06-03T00:00:00Z",
-          "summary": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+          "published_at": "2026-06-09T00:00:00Z",
+          "summary": "Claude Fable 5 and Claude Mythos 5",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-06-03-what-we-learned-mapping-a-year-s-worth"
-        },
-        {
-          "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-          "url": "https://www.anthropic.com/news/services-track-partner-hub",
-          "source": "Anthropic",
-          "published_at": "2026-06-03T00:00:00Z",
-          "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-03-introducing-the-services-track-and-partner-hub-of"
+          "id": "anthropic-2026-06-09-claude-fable-5-and-claude-mythos-5"
         }
       ]
     },
@@ -761,17 +683,56 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
           "source": "DeepMind",
-          "published_at": "2026-05-21T19:46:42Z",
+          "published_at": "2026-06-09T15:16:25Z",
+          "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-09-fluid-natural-voice-translation-with-gemini-3-5"
+        },
+        {
+          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+          "source": "DeepMind",
+          "published_at": "2026-06-09T14:10:19Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-05-21-we-re-launching-the-google-deepmind-accelerator-program"
+          "id": "deepmind-2026-06-09-introducing-gemma-4-12b-a-unified-encoder-free-multimodal"
+        },
+        {
+          "title": "Powering the future of robotics in Europe",
+          "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+          "source": "DeepMind",
+          "published_at": "2026-06-09T14:02:33Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-09-powering-the-future-of-robotics-in-europe"
+        },
+        {
+          "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+          "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+          "source": "DeepMind",
+          "published_at": "2026-06-08T13:04:59Z",
+          "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-08-measuring-the-impact-of-learning-with-ai-in"
         }
       ]
     }
