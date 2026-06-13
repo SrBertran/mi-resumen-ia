@@ -1,78 +1,169 @@
 {
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T08:03:43.047535Z",
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T07:44:37.571827Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Siri won’t be your AI girlfriend",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "source": "The Verge",
-      "published_at": "2026-06-12T07:00:31Z",
-      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophan…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-12-siri-won-t-be-your-ai-girlfriend"
-    },
-    {
-      "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
-      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-      "source": "The Verge",
-      "published_at": "2026-06-11T22:06:32Z",
-      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-11-amazon-8217-s-echo-hub-gets-a-customizable"
-    },
-    {
-      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
-      "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
-      "source": "The Verge",
-      "published_at": "2026-06-11T20:00:00Z",
-      "summary": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a uniq…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-11-logitech-s-awesome-mx-master-3s-mouse-drops"
-    },
-    {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI",
-      "published_at": "2026-06-11T20:00:00Z",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
-    },
-    {
-      "title": "Grecia quiso poner IA a vigilar el tráfico. El problema llegó cuando hubo que revisar las multas",
-      "url": "https://www.xataka.com/movilidad/grecia-quiso-poner-ia-a-vigilar-trafico-problema-llego-cuando-hubo-que-revisar-multas",
+      "title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China",
+      "url": "https://www.xataka.com/servicios/estados-unidos-pulsa-boton-miedo-claude-mythos-fable-5-apagon-claro-beneficiado-china",
       "source": "Xataka",
-      "published_at": "2026-06-11T19:00:17Z",
-      "summary": "Poner cámaras con inteligencia artificial a vigilar el tráfico suena, sobre el papel, a una solución casi inevitable: menos papeleo, más rapidez y una administración capaz de detectar infracciones sin depender de que un …",
+      "published_at": "2026-06-13T07:16:17Z",
+      "summary": "Estados Unidos ha cortado el grifo del modelo de IA más potente, caro y avanzado jamás lanzado por Anthropic, pero lo ha hecho en un movimiento desconcertante y con letra pequeña. Ayer 12 de junio, la Casa Blanca ordenó …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-11-grecia-quiso-poner-ia-a-vigilar-el-trafico"
+      "id": "xataka-2026-06-13-estados-unidos-pulsa-el-boton-del-miedo-con"
+    },
+    {
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "source": "The Verge",
+      "published_at": "2026-06-13T01:32:18Z",
+      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the St…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-13-valve-just-imported-13-tons-of-vr-headsets"
+    },
+    {
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "source": "The Verge",
+      "published_at": "2026-06-12T20:02:48Z",
+      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-12-nothing-ceo-says-phone-prices-are-going-to"
+    },
+    {
+      "title": "China tiene dos ideas para ganar la carrera de la IA: invertir un dineral y dejar a NVIDIA casi sin margen",
+      "url": "https://www.xataka.com/robotica-e-ia/china-tiene-dos-ideas-para-ganar-carrera-ia-invertir-dineral-dejar-a-nvidia-casi-margen",
+      "source": "Xataka",
+      "published_at": "2026-06-12T20:00:17Z",
+      "summary": "Hay pocas dudas de que la carrera de la inteligencia artificial tiene hoy dos grandes protagonistas: Estados Unidos y China. No son los únicos países que están moviendo ficha, pero sí los dos que están marcando el ritmo,…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-06-12-china-tiene-dos-ideas-para-ganar-la-carrera"
+    },
+    {
+      "title": "The world’s first trillionaire is a killer",
+      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
+      "source": "The Verge",
+      "published_at": "2026-06-12T18:46:40Z",
+      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-12-the-world-s-first-trillionaire-is-a-killer"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "New OpenAI Academy courses for the next era of work",
+          "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-12T10:00:00Z",
+          "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
+        },
+        {
+          "title": "How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
+        },
+        {
+          "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-tcs-and-anthropic-partner-to-bring-claude-to"
+        },
+        {
+          "title": "Results from the first Anthropic Public Record",
+          "url": "https://www.anthropic.com/news/anthropic-public-record",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Results from the first Anthropic Public Record",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-results-from-the-first-anthropic-public-record"
+        },
+        {
+          "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-statement-on-the-us-government-directive-to-suspend"
+        },
+        {
+          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+          "source": "Google AI",
+          "published_at": "2026-06-11T20:00:00Z",
+          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
+        },
         {
           "title": "BBVA puts AI at the core of banking with OpenAI",
           "url": "https://openai.com/index/bbva",
@@ -111,19 +202,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
-        },
-        {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
         },
         {
           "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -358,19 +436,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-08-introducing-the-openai-economic-research-exchange"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "The latest AI news we announced in May 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-05T14:45:00Z",
-          "summary": "May AI recap",
+          "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+          "source": "The Verge",
+          "published_at": "2026-06-12T14:03:39Z",
+          "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-po…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-05-the-latest-ai-news-we-announced-in-may"
+          "category": "negocio",
+          "id": "theverge-2026-06-12-jeff-bezos-ai-startup-aims-to-build-an"
         }
       ]
     },
@@ -378,7 +461,7 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "How a Google DeepMind Spinoff Hunts Hidden Drug Targets",
+          "title": "How a Google DeepMind Spin-off Hunts Hidden Drug Targets",
           "url": "https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery",
           "source": "IEEE Spectrum",
           "published_at": "2026-06-11T12:00:01Z",
@@ -388,20 +471,7 @@
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-06-11-how-a-google-deepmind-spinoff-hunts-hidden-drug"
-        },
-        {
-          "title": "Timing Trick Cuts Energy Used in LLM Training by Up to 14 Percent",
-          "url": "https://spectrum.ieee.org/llm-training-energy-saving-trick",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-10T11:00:01Z",
-          "summary": "OpenAI ’s fourth large language model (LLM), GPT-4 , took an estimated 50 gigawatt-hours to train, or the equivalent of 5,000 American homes ’ yearly power consumption. That was in 2023. Since then, the computational res…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-10-timing-trick-cuts-energy-used-in-llm-training"
+          "id": "ieee-2026-06-11-how-a-google-deepmind-spin-off-hunts-hidden-drug"
         }
       ]
     },
@@ -409,17 +479,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-          "url": "https://huggingface.co/blog/torch-mlp-fusion",
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
           "source": "Hugging Face",
-          "published_at": "2026-06-11T00:00:00Z",
+          "published_at": "2026-06-12T15:56:10Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-06-11-profiling-in-pytorch-part-2-from-nn-linear"
+          "id": "huggingface-2026-06-12-olmo-eval-an-evaluation-workbench-for-the-model-development"
         }
       ]
     },
@@ -427,199 +497,186 @@
       "name": "General",
       "items": [
         {
-          "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
-          "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
+          "title": "Siri is good now??",
+          "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
           "source": "The Verge",
-          "published_at": "2026-06-11T18:04:43Z",
-          "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a Blink Battery Doorbell…",
+          "published_at": "2026-06-12T17:17:04Z",
+          "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a ti…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-blink-s-six-piece-outdoor-camera-kit-is-a"
+          "id": "theverge-2026-06-12-siri-is-good-now"
         },
         {
-          "title": "Roborock&#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date",
-          "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+          "title": "A trillion dollars is a stupid amount of money",
+          "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
           "source": "The Verge",
-          "published_at": "2026-06-11T17:42:29Z",
-          "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That&#8217;s especially true today. It’s down to just $269…",
+          "published_at": "2026-06-12T16:26:29Z",
+          "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-roborock-8217-s-q10-s5-plus-robovac-is"
+          "id": "theverge-2026-06-12-a-trillion-dollars-is-a-stupid-amount-of"
         },
         {
-          "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-          "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+          "title": "Elon Musk is the world&#8217;s first trillionaire",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
           "source": "The Verge",
-          "published_at": "2026-06-11T17:26:57Z",
-          "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water con…",
+          "published_at": "2026-06-12T16:24:39Z",
+          "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his w…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-amazon-8217-s-data-centers-used-2-5"
+          "id": "theverge-2026-06-12-elon-musk-is-the-world-8217-s-first"
         },
         {
-          "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
-          "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+          "title": "I held the Trump phone",
+          "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
           "source": "The Verge",
-          "published_at": "2026-06-11T17:23:02Z",
-          "summary": "Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform actual…",
+          "published_at": "2026-06-12T16:05:00Z",
+          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an une…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-the-bill-that-would-let-jimmy-kimmel-sue"
+          "id": "theverge-2026-06-12-i-held-the-trump-phone"
         },
         {
-          "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
-          "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+          "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
+          "url": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-11T17:14:28Z",
-          "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to …",
+          "published_at": "2026-06-12T15:07:45Z",
+          "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it&#8217;s down to just $59.99 ($20 off) at Amazon,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-here-are-the-price-matching-policies-for-best-buy"
+          "id": "theverge-2026-06-12-govee-8217-s-rechargeable-smart-table-lamp-is"
         },
         {
-          "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
-          "url": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+          "title": "SpaceX’s massive IPO: all the latest news",
+          "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
           "source": "The Verge",
-          "published_at": "2026-06-11T16:03:38Z",
-          "summary": "Congress has failed to pass a three-week extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), with the House voting 218-198 against reauthorizing the controversial warrantless wiretapping authori…",
+          "published_at": "2026-06-12T14:35:48Z",
+          "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-a-warrantless-wiretap-law-is-about-to-expire"
+          "id": "theverge-2026-06-12-spacex-s-massive-ipo-all-the-latest-news"
         },
         {
-          "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
-          "url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
-          "source": "The Verge",
-          "published_at": "2026-06-11T16:00:00Z",
-          "summary": "Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waym…",
+          "title": "Ya sabemos cuánta agua consume Amazon en sus centros de datos. Tenemos buenas y malas noticias",
+          "url": "https://www.xataka.com/robotica-e-ia/peaje-oculto-ia-amazon-gasta-monton-agua-sus-servidores-bastante-eficiente-que-sus-rivales",
+          "source": "Xataka",
+          "published_at": "2026-06-12T13:46:17Z",
+          "summary": "Amazon ha hecho públicos los datos de consumo de agua en sus centros de datos. Es un ejercicio de transparencia notable, sobre todo porque su división Amazon Web Services (AWS) es en la actualidad la mayor infraestructur…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-11-waymo-introduces-30-a-month-premium-tier-for-riders-who"
+          "id": "xataka-2026-06-12-ya-sabemos-cuanta-agua-consume-amazon-en-sus"
         },
         {
-          "title": "El último truco de las empresas de IA para parecer menos artificiales es usar tipografías clásicas. Es la llegada del 'Tasteslop'",
+          "title": "Los anuncios de Facebook Marketplace se están llenando de mujeres sexys generadas con IA y hay una razón muy concreta detrás",
+          "url": "https://www.xataka.com/magnet/anuncios-facebook-marketplace-se-estan-llenando-mujeres-sexys-generadas-ia-hay-razon-muy-concreta-detras",
+          "source": "Xataka",
+          "published_at": "2026-06-12T11:00:17Z",
+          "summary": "Lo de vender en plataformas de compraventa no siempre es tarea sencilla. Que los anuncios se pasen semanas sin que nadie se interese por ellos es bastante habitual, especialmente si lo que queremos vender es algo caro co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-12-los-anuncios-de-facebook-marketplace-se-estan-llenando"
+        },
+        {
+          "title": "La IA está aligerando el trabajo diario, pero tiene un efecto secundario: se trabaja más para rehacer lo que hace la IA",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-esta-aligerando-trabajo-diario-tiene-efecto-secundario-se-trabaja-para-rehacer-que-hace-ia",
+          "source": "Xataka",
+          "published_at": "2026-06-12T08:00:00Z",
+          "summary": "Cuando la IA empezó a demostrar que podía ser competente a la hora de escribir código, todo un sector se echó a temblar. El de los ingenieros de software parecía uno de esos trabajos que iba a ser rápidamente eclipsado p…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-12-la-ia-esta-aligerando-el-trabajo-diario-pero"
+        },
+        {
+          "title": "Grecia se las prometía muy felices cuando automatizó la vigilancia del tráfico a una IA. Hasta que se puso a multar",
+          "url": "https://www.xataka.com/movilidad/grecia-quiso-poner-ia-a-vigilar-trafico-problema-llego-cuando-hubo-que-revisar-multas",
+          "source": "Xataka",
+          "published_at": "2026-06-11T19:00:00Z",
+          "summary": "Poner cámaras con inteligencia artificial a vigilar el tráfico suena, sobre el papel, a una solución casi inevitable: menos papeleo, más rapidez y una administración capaz de detectar infracciones sin depender de que un …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-11-grecia-se-las-prometia-muy-felices-cuando-automatizo"
+        },
+        {
+          "title": "La industria de la IA te quiere convencer de que son gente seria y formal. Y por eso lo está llenado todo de serifas",
           "url": "https://www.xataka.com/robotica-e-ia/ultimo-truco-empresas-ia-para-parecer-artificiales-usar-tipografias-clasicas-llegada-tasteslop",
           "source": "Xataka",
-          "published_at": "2026-06-11T15:30:17Z",
+          "published_at": "2026-06-11T15:30:00Z",
           "summary": "Mucho ha llovido desde &nbsp;el Will Smith al que le costaba comer espaguetis y los vídeos por IA que tenemos ahora , con potencial para que nos los traguemos si no prestamos atención. Más curioso es que, no hace tanto t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-11-el-ultimo-truco-de-las-empresas-de-ia"
+          "id": "xataka-2026-06-11-la-industria-de-la-ia-te-quiere-convencer"
         },
         {
-          "title": "Desde los tiempos de Aristóteles, los filósofos nunca lo han tenido fácil para trabajar de lo suyo. Hasta que llegó la IA",
+          "title": "Siempre se ha dicho que la carrera de Filosofía \"no tiene salidas\". La industria de la IA está demostrando lo contrario",
           "url": "https://www.xataka.com/magnet/tiempos-aristoteles-filosofos-nunca-han-tenido-facil-para-trabajar-suyo-que-llego-ia",
           "source": "Xataka",
-          "published_at": "2026-06-11T13:30:17Z",
+          "published_at": "2026-06-11T13:30:00Z",
           "summary": "La Filosofía (así, con mayúscula) promete ampliar nuestros horizontes, expandir mentes e iluminar los recovecos más profundos de la condición humana, pero hay algo que siempre le ha costado mucho prometer: empleo. Antes …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-11-desde-los-tiempos-de-aristoteles-los-filosofos-nunca"
+          "id": "xataka-2026-06-11-siempre-se-ha-dicho-que-la-carrera-de"
         },
         {
-          "title": "Que Hong Kong abra una tienda 24 horas no tiene nada de extraordinario, excepto porque la lleva un robot humanoide",
+          "title": "Una tienda en Hong Kong opera sin descanso las 24 horas del días. Dentro hay un trabajador especial: un robot humanoide",
           "url": "https://www.xataka.com/robotica-e-ia/que-hong-kong-abra-tienda-24-horas-no-tiene-nada-extraordinario-excepto-porque-lleva-robot-humanoide",
           "source": "Xataka",
-          "published_at": "2026-06-11T13:00:17Z",
+          "published_at": "2026-06-11T13:00:00Z",
           "summary": "China tiene una particular forma de entender e integrar la IA en la vida diaria. Mientras que en EEUU apuesta por liderar los grandes modelos de lenguaje, en China la estrategia pasa por crear lo que llaman 'embodied AI'…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-11-que-hong-kong-abra-una-tienda-24-horas"
+          "id": "xataka-2026-06-11-una-tienda-en-hong-kong-opera-sin-descanso"
         },
         {
-          "title": "Amazon obliga a sus ingenieros a usar IA y mide quién la usa más. La respuesta de los empleados: memes anti-IA",
+          "title": "Dentro de Amazon, sus trabajadores están desarrollando una silenciosa cultura de la resistencia: la oposición a la IA",
           "url": "https://www.xataka.com/robotica-e-ia/amazon-obliga-a-sus-ingenieros-a-usar-ia-mide-quien-usa-respuesta-empleados-memes-anti-ia",
           "source": "Xataka",
-          "published_at": "2026-06-11T10:00:17Z",
+          "published_at": "2026-06-11T10:00:00Z",
           "summary": "Los gurús de la IA no dejan de vendernos que esta tecnología va a cambiar el mundo y que la AGI está al caer. De puertas hacia fuera, todo son promesas de automatización y productividad, pero de puertas hacia dentro el s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-11-amazon-obliga-a-sus-ingenieros-a-usar-ia"
-        },
-        {
-          "title": "China acaba de situarse segunda en capacidad de computación inteligente. La cifra importante no es la más llamativa",
-          "url": "https://www.xataka.com/robotica-e-ia/china-acaba-situarse-segunda-capacidad-computacion-inteligente-cifra-importante-no-llamativa",
-          "source": "Xataka",
-          "published_at": "2026-06-11T06:30:17Z",
-          "summary": "Hay una forma sencilla de exagerar la inteligencia artificial: hablar solo de modelos. Y hay una forma más útil de entenderla: mirar qué países tienen capacidad para entrenarlos, ejecutarlos y llevarlos a millones de usu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-china-acaba-de-situarse-segunda-en-capacidad-de"
-        },
-        {
-          "title": "Javier Milei quiere crear una nueva categoría empresarial en Argentina: compañías operadas por agentes de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/milei-quiere-crear-nueva-categoria-empresarial-argentina-companias-operadas-agentes-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-10T19:00:00Z",
-          "summary": "La inteligencia artificial ha dejado de ser una promesa lejana para convertirse en una fuerza que ya está reordenando empresas, infraestructuras, empleos, ciencia y poder económico. Lo que hemos visto hasta ahora probabl…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-10-javier-milei-quiere-crear-una-nueva-categoria-empresarial"
-        },
-        {
-          "title": "Claude 5 Fable: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
-          "url": "https://www.xataka.com/basics/claude-5-fable-lista-novedades-nueva-version-modelo-inteligencia-artificial-anthropic",
-          "source": "Xataka",
-          "published_at": "2026-06-10T11:17:41Z",
-          "summary": "Vamos a decirte cuáles son las novedades de Claude Fable 5 , el nuevo modelo público de Anthropic para su chat de inteligencia artificial , Se trata del primer modelo de la nueva clase Mythos , que ya cuando lanzó su ver…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-10-claude-5-fable-lista-de-novedades-de-la"
-        },
-        {
-          "title": "Meta metió con calzador su chatbot IA en WhatsApp. Ahora Europa lanza una orden: tienen cinco días para abrirse a los rivales",
-          "url": "https://www.xataka.com/legislacion-y-derechos/meta-metio-calzador-su-chatbot-ia-whatsapp-ahora-europa-lanza-orden-tienen-cinco-dias-para-abrirse-a-rivales",
-          "source": "Xataka",
-          "published_at": "2026-06-10T08:30:45Z",
-          "summary": "Si hay algo que no gusta nada a la Comisión Europea es que las empresas tecnológicas usen su poder para crear monopolios. Lleva años combatiendo activamente&nbsp; estas prácticas con persecuciones y multas históricas . E…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-10-meta-metio-con-calzador-su-chatbot-ia-en"
+          "id": "xataka-2026-06-11-dentro-de-amazon-sus-trabajadores-estan-desarrollando-una"
         }
       ]
     }
@@ -656,6 +713,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "New OpenAI Academy courses for the next era of work",
+          "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-12T10:00:00Z",
+          "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
+        },
+        {
+          "title": "How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
+        },
         {
           "title": "BBVA puts AI at the core of banking with OpenAI",
           "url": "https://openai.com/index/bbva",
@@ -694,19 +790,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
-        },
-        {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
         },
         {
           "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -832,6 +915,45 @@
       "name": "Anthropic",
       "items": [
         {
+          "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-tcs-and-anthropic-partner-to-bring-claude-to"
+        },
+        {
+          "title": "Results from the first Anthropic Public Record",
+          "url": "https://www.anthropic.com/news/anthropic-public-record",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Results from the first Anthropic Public Record",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-results-from-the-first-anthropic-public-record"
+        },
+        {
+          "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Anthropic",
+          "published_at": "2026-06-12T00:00:00Z",
+          "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-12-statement-on-the-us-government-directive-to-suspend"
+        },
+        {
           "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
           "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
           "source": "Anthropic",
@@ -888,19 +1010,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
-        },
-        {
-          "title": "The latest AI news we announced in May 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-05T14:45:00Z",
-          "summary": "May AI recap",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-05-the-latest-ai-news-we-announced-in-may"
         }
       ]
     },
