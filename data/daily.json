@@ -1,72 +1,72 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T07:44:37.571827Z",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T08:00:17.695518Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China",
-      "url": "https://www.xataka.com/servicios/estados-unidos-pulsa-boton-miedo-claude-mythos-fable-5-apagon-claro-beneficiado-china",
-      "source": "Xataka",
-      "published_at": "2026-06-13T07:16:17Z",
-      "summary": "Estados Unidos ha cortado el grifo del modelo de IA más potente, caro y avanzado jamás lanzado por Anthropic, pero lo ha hecho en un movimiento desconcertante y con letra pequeña. Ayer 12 de junio, la Casa Blanca ordenó …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-06-13-estados-unidos-pulsa-el-boton-del-miedo-con"
-    },
-    {
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "source": "The Verge",
-      "published_at": "2026-06-13T01:32:18Z",
-      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the St…",
+      "published_at": "2026-06-13T21:39:26Z",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CE…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "theverge-2026-06-13-valve-just-imported-13-tons-of-vr-headsets"
+      "category": "investigación",
+      "id": "theverge-2026-06-13-amazon-security-research-reportedly-led-to-the-white"
     },
     {
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
       "source": "The Verge",
-      "published_at": "2026-06-12T20:02:48Z",
-      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X…",
+      "published_at": "2026-06-13T20:00:00Z",
+      "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-12-nothing-ceo-says-phone-prices-are-going-to"
+      "id": "theverge-2026-06-13-x-men-97-has-what-master-of-the-universe"
     },
     {
-      "title": "China tiene dos ideas para ganar la carrera de la IA: invertir un dineral y dejar a NVIDIA casi sin margen",
-      "url": "https://www.xataka.com/robotica-e-ia/china-tiene-dos-ideas-para-ganar-carrera-ia-invertir-dineral-dejar-a-nvidia-casi-margen",
-      "source": "Xataka",
-      "published_at": "2026-06-12T20:00:17Z",
-      "summary": "Hay pocas dudas de que la carrera de la inteligencia artificial tiene hoy dos grandes protagonistas: Estados Unidos y China. No son los únicos países que están moviendo ficha, pero sí los dos que están marcando el ritmo,…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-06-12-china-tiene-dos-ideas-para-ganar-la-carrera"
-    },
-    {
-      "title": "The world’s first trillionaire is a killer",
-      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
       "source": "The Verge",
-      "published_at": "2026-06-12T18:46:40Z",
-      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk…",
+      "published_at": "2026-06-13T18:37:21Z",
+      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-12-the-world-s-first-trillionaire-is-a-killer"
+      "id": "theverge-2026-06-13-sealed-super-mario-bros-sells-for-a-record"
+    },
+    {
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "source": "The Verge",
+      "published_at": "2026-06-13T16:29:47Z",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its rela…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-13-microsoft-hasn-t-ruled-out-spinning-off-xbox"
+    },
+    {
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-06-13T16:00:00Z",
+      "summary": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-13-bose-s-latest-quietcomfort-ultra-are-70-off"
     }
   ],
   "sections": [
@@ -440,38 +440,20 @@
       ]
     },
     {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-          "source": "The Verge",
-          "published_at": "2026-06-12T14:03:39Z",
-          "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-po…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "theverge-2026-06-12-jeff-bezos-ai-startup-aims-to-build-an"
-        }
-      ]
-    },
-    {
       "name": "Investigación",
       "items": [
         {
-          "title": "How a Google DeepMind Spin-off Hunts Hidden Drug Targets",
-          "url": "https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery",
+          "title": "Visual Language Models Train Robots to Read Human Emotions",
+          "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
           "source": "IEEE Spectrum",
-          "published_at": "2026-06-11T12:00:01Z",
-          "summary": "For more than a decade, artificial intelligence has been touted as a way to dramatically accelerate drug discovery . Yet despite billions of dollars in investment, relatively few AI-designed medicines have made it to pat…",
+          "published_at": "2026-06-13T13:00:01Z",
+          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find thems…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-06-11-how-a-google-deepmind-spin-off-hunts-hidden-drug"
+          "id": "ieee-2026-06-13-visual-language-models-train-robots-to-read-human"
         }
       ]
     },
@@ -497,82 +479,108 @@
       "name": "General",
       "items": [
         {
-          "title": "Siri is good now??",
-          "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-06-12T17:17:04Z",
-          "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a ti…",
+          "title": "Jeff Bezos dice que la IA no destruirá empleos. Acto seguido ha lanzado una empresa para crear ingenieros artificiales",
+          "url": "https://www.xataka.com/robotica-e-ia/jeff-bezos-dice-que-ia-no-destruira-empleos-acto-seguido-lanza-empresa-para-crear-ingenieros-artificiales",
+          "source": "Xataka",
+          "published_at": "2026-06-13T15:00:17Z",
+          "summary": "Jeff Bezos es una de las figuras&nbsp;representativas del actual optimismo tecnológico respecto a la inteligencia artificial. Mientras en Estados Unidos estamos viendo a los universitarios que abuchean a los que afirman …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-siri-is-good-now"
+          "id": "xataka-2026-06-13-jeff-bezos-dice-que-la-ia-no-destruira"
         },
         {
-          "title": "A trillion dollars is a stupid amount of money",
-          "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
+          "title": "My first 24 hours with Siri AI on the Mac",
+          "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
           "source": "The Verge",
-          "published_at": "2026-06-12T16:26:29Z",
-          "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom …",
+          "published_at": "2026-06-13T15:00:00Z",
+          "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly ret…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-a-trillion-dollars-is-a-stupid-amount-of"
+          "id": "theverge-2026-06-13-my-first-24-hours-with-siri-ai-on"
         },
         {
-          "title": "Elon Musk is the world&#8217;s first trillionaire",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+          "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+          "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
           "source": "The Verge",
-          "published_at": "2026-06-12T16:24:39Z",
-          "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his w…",
+          "published_at": "2026-06-13T14:00:00Z",
+          "summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an ab…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-elon-musk-is-the-world-8217-s-first"
+          "id": "theverge-2026-06-13-never-post-s-mike-rugnetta-on-the-creative"
         },
         {
-          "title": "I held the Trump phone",
-          "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+          "title": "My yard is dying, so I made an app for that",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
           "source": "The Verge",
-          "published_at": "2026-06-12T16:05:00Z",
-          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an une…",
+          "published_at": "2026-06-13T13:00:00Z",
+          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-i-held-the-trump-phone"
+          "id": "theverge-2026-06-13-my-yard-is-dying-so-i-made-an"
         },
         {
-          "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
-          "url": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
+          "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
           "source": "The Verge",
-          "published_at": "2026-06-12T15:07:45Z",
-          "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it&#8217;s down to just $59.99 ($20 off) at Amazon,…",
+          "published_at": "2026-06-13T12:55:49Z",
+          "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Ant…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-govee-8217-s-rechargeable-smart-table-lamp-is"
+          "id": "theverge-2026-06-13-anthropic-cuts-off-fable-5-and-mythos-5"
         },
         {
-          "title": "SpaceX’s massive IPO: all the latest news",
-          "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+          "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+          "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
           "source": "The Verge",
-          "published_at": "2026-06-12T14:35:48Z",
-          "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, …",
+          "published_at": "2026-06-13T12:00:00Z",
+          "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he n…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-12-spacex-s-massive-ipo-all-the-latest-news"
+          "id": "theverge-2026-06-13-echo-isle-is-a-pint-sized-adventure-inspired-by"
+        },
+        {
+          "title": "EEUU obliga a Anthropic a suspender Claude Fable 5 y Mythos 5: es una cuestión de seguridad nacional",
+          "url": "https://www.xataka.com/servicios/estados-unidos-pulsa-boton-miedo-claude-mythos-fable-5-apagon-claro-beneficiado-china",
+          "source": "Xataka",
+          "published_at": "2026-06-13T07:15:00Z",
+          "summary": "Estados Unidos ha cortado el grifo del modelo de IA más potente, caro y avanzado jamás lanzado por Anthropic, pero lo ha hecho en un movimiento desconcertante y con letra pequeña.&nbsp; Ayer 12 de junio la Casa Blanca or…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-13-eeuu-obliga-a-anthropic-a-suspender-claude-fable"
+        },
+        {
+          "title": "China tiene dos ideas para ganar la carrera de la IA: invertir un dineral y dejar a NVIDIA casi sin margen",
+          "url": "https://www.xataka.com/robotica-e-ia/china-tiene-dos-ideas-para-ganar-carrera-ia-invertir-dineral-dejar-a-nvidia-casi-margen",
+          "source": "Xataka",
+          "published_at": "2026-06-12T20:00:17Z",
+          "summary": "Hay pocas dudas de que la carrera de la inteligencia artificial tiene hoy dos grandes protagonistas: Estados Unidos y China. No son los únicos países que están moviendo ficha, pero sí los dos que están marcando el ritmo,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-12-china-tiene-dos-ideas-para-ganar-la-carrera"
         },
         {
           "title": "Ya sabemos cuánta agua consume Amazon en sus centros de datos. Tenemos buenas y malas noticias",
@@ -599,84 +607,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-12-los-anuncios-de-facebook-marketplace-se-estan-llenando"
-        },
-        {
-          "title": "La IA está aligerando el trabajo diario, pero tiene un efecto secundario: se trabaja más para rehacer lo que hace la IA",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-esta-aligerando-trabajo-diario-tiene-efecto-secundario-se-trabaja-para-rehacer-que-hace-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-12T08:00:00Z",
-          "summary": "Cuando la IA empezó a demostrar que podía ser competente a la hora de escribir código, todo un sector se echó a temblar. El de los ingenieros de software parecía uno de esos trabajos que iba a ser rápidamente eclipsado p…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-12-la-ia-esta-aligerando-el-trabajo-diario-pero"
-        },
-        {
-          "title": "Grecia se las prometía muy felices cuando automatizó la vigilancia del tráfico a una IA. Hasta que se puso a multar",
-          "url": "https://www.xataka.com/movilidad/grecia-quiso-poner-ia-a-vigilar-trafico-problema-llego-cuando-hubo-que-revisar-multas",
-          "source": "Xataka",
-          "published_at": "2026-06-11T19:00:00Z",
-          "summary": "Poner cámaras con inteligencia artificial a vigilar el tráfico suena, sobre el papel, a una solución casi inevitable: menos papeleo, más rapidez y una administración capaz de detectar infracciones sin depender de que un …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-grecia-se-las-prometia-muy-felices-cuando-automatizo"
-        },
-        {
-          "title": "La industria de la IA te quiere convencer de que son gente seria y formal. Y por eso lo está llenado todo de serifas",
-          "url": "https://www.xataka.com/robotica-e-ia/ultimo-truco-empresas-ia-para-parecer-artificiales-usar-tipografias-clasicas-llegada-tasteslop",
-          "source": "Xataka",
-          "published_at": "2026-06-11T15:30:00Z",
-          "summary": "Mucho ha llovido desde &nbsp;el Will Smith al que le costaba comer espaguetis y los vídeos por IA que tenemos ahora , con potencial para que nos los traguemos si no prestamos atención. Más curioso es que, no hace tanto t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-la-industria-de-la-ia-te-quiere-convencer"
-        },
-        {
-          "title": "Siempre se ha dicho que la carrera de Filosofía \"no tiene salidas\". La industria de la IA está demostrando lo contrario",
-          "url": "https://www.xataka.com/magnet/tiempos-aristoteles-filosofos-nunca-han-tenido-facil-para-trabajar-suyo-que-llego-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-11T13:30:00Z",
-          "summary": "La Filosofía (así, con mayúscula) promete ampliar nuestros horizontes, expandir mentes e iluminar los recovecos más profundos de la condición humana, pero hay algo que siempre le ha costado mucho prometer: empleo. Antes …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-siempre-se-ha-dicho-que-la-carrera-de"
-        },
-        {
-          "title": "Una tienda en Hong Kong opera sin descanso las 24 horas del días. Dentro hay un trabajador especial: un robot humanoide",
-          "url": "https://www.xataka.com/robotica-e-ia/que-hong-kong-abra-tienda-24-horas-no-tiene-nada-extraordinario-excepto-porque-lleva-robot-humanoide",
-          "source": "Xataka",
-          "published_at": "2026-06-11T13:00:00Z",
-          "summary": "China tiene una particular forma de entender e integrar la IA en la vida diaria. Mientras que en EEUU apuesta por liderar los grandes modelos de lenguaje, en China la estrategia pasa por crear lo que llaman 'embodied AI'…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-una-tienda-en-hong-kong-opera-sin-descanso"
-        },
-        {
-          "title": "Dentro de Amazon, sus trabajadores están desarrollando una silenciosa cultura de la resistencia: la oposición a la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/amazon-obliga-a-sus-ingenieros-a-usar-ia-mide-quien-usa-respuesta-empleados-memes-anti-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-11T10:00:00Z",
-          "summary": "Los gurús de la IA no dejan de vendernos que esta tecnología va a cambiar el mundo y que la AGI está al caer. De puertas hacia fuera, todo son promesas de automatización y productividad, pero de puertas hacia dentro el s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-11-dentro-de-amazon-sus-trabajadores-estan-desarrollando-una"
         }
       ]
     }
