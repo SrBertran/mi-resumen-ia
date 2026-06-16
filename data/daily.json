@@ -1,78 +1,104 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T08:32:30.455741Z",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T08:28:36.648611Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Under-16 social media ban announced by UK government",
-      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
-      "source": "The Verge",
-      "published_at": "2026-06-15T08:19:09Z",
-      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be j…",
+      "title": "El veto a Fable 5 confirma lo que llevamos años temiendo: la IA no es un producto, es un arma. Y Europa no tiene ninguna",
+      "url": "https://www.xataka.com/robotica-e-ia/veto-a-fable-5-confirma-que-llevamos-anos-diciendo-ia-no-producto-arma-europa-no-tiene-ninguna",
+      "source": "Xataka",
+      "published_at": "2026-06-16T06:30:17Z",
+      "summary": "Hace unos días el Gobierno de España sacaba pecho anunciando que el proyecto de Sandbox Regulatorio de IA de la UE había sido un éxito. Es difícil entender por qué, pero mientras esos esfuerzos por regular se llevan inve…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-15-under-16-social-media-ban-announced-by-uk-government"
+      "id": "xataka-2026-06-16-el-veto-a-fable-5-confirma-lo-que"
     },
     {
-      "title": "The FBI built a small town to simulate cyberattacks",
-      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "title": "Inside the fight over Claude Mythos 5",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
       "source": "The Verge",
-      "published_at": "2026-06-14T20:35:41Z",
-      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot rep…",
+      "published_at": "2026-06-16T03:00:00Z",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-14-the-fbi-built-a-small-town-to-simulate"
+      "id": "theverge-2026-06-16-inside-the-fight-over-claude-mythos-5"
     },
     {
-      "title": "China may have accessed Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
       "source": "The Verge",
-      "published_at": "2026-06-14T18:27:55Z",
-      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese gove…",
+      "published_at": "2026-06-15T21:15:08Z",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It'…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-14-china-may-have-accessed-mythos"
+      "id": "theverge-2026-06-15-facebook-s-new-ai-mode-search-gets-its"
     },
     {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI",
-      "published_at": "2026-06-14T17:00:00Z",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "openai-2026-06-14-introducing-the-openai-partner-network"
-    },
-    {
-      "title": "Conclave is the sound of a NYC summer block party",
-      "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
       "source": "The Verge",
-      "published_at": "2026-06-14T16:30:00Z",
-      "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry w…",
+      "published_at": "2026-06-15T21:13:35Z",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-14-conclave-is-the-sound-of-a-nyc-summer"
+      "id": "theverge-2026-06-15-xbox-is-closing-down-hellblade-creator-ninja-theory"
+    },
+    {
+      "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
+      "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
+      "source": "Xataka",
+      "published_at": "2026-06-15T20:16:17Z",
+      "summary": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capa…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-06-15-meta-gasto-al-menos-14-000-millones-de"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+          "source": "Google AI",
+          "published_at": "2026-06-15T15:00:00Z",
+          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-15-we-re-strengthening-our-presence-in-alabama-through"
+        },
+        {
+          "title": "Introducing the OpenAI Partner Network",
+          "url": "https://openai.com/index/introducing-openai-partner-network",
+          "source": "OpenAI",
+          "published_at": "2026-06-14T17:00:00Z",
+          "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-14-introducing-the-openai-partner-network"
+        },
         {
           "title": "New OpenAI Academy courses for the next era of work",
           "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -152,17 +178,17 @@
           "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
         },
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "title": "OpenAI to acquire Ona",
+          "url": "https://openai.com/index/openai-to-acquire-ona",
           "source": "OpenAI",
           "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
+          "id": "openai-2026-06-11-openai-to-acquire-ona"
         },
         {
           "title": "BBVA puts AI at the core of banking with OpenAI",
@@ -178,19 +204,6 @@
           "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
         },
         {
-          "title": "OpenAI to acquire Ona",
-          "url": "https://openai.com/index/openai-to-acquire-ona",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-openai-to-acquire-ona"
-        },
-        {
           "title": "How an astrophysicist uses Codex to help simulate black holes",
           "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "source": "OpenAI",
@@ -202,6 +215,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
         },
         {
           "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -358,89 +384,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
-        },
-        {
-          "title": "Industrial policy for the Intelligence Age",
-          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T00:00:00Z",
-          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-industrial-policy-for-the-intelligence-age"
-        },
-        {
-          "title": "Claude Fable 5 and Claude Mythos 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "Anthropic",
-          "published_at": "2026-06-09T00:00:00Z",
-          "summary": "Claude Fable 5 and Claude Mythos 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-09-claude-fable-5-and-claude-mythos-5"
-        },
-        {
-          "title": "Confidential submission of draft S-1 to the SEC",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1",
-          "source": "OpenAI",
-          "published_at": "2026-06-08T14:00:00Z",
-          "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-08-confidential-submission-of-draft-s-1-to-the-sec"
-        },
-        {
-          "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-          "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-          "source": "DeepMind",
-          "published_at": "2026-06-08T13:04:59Z",
-          "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-08-measuring-the-impact-of-learning-with-ai-in"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-          "source": "The Verge",
-          "published_at": "2026-06-13T21:39:26Z",
-          "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CE…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "theverge-2026-06-13-amazon-security-research-reportedly-led-to-the-white"
-        },
-        {
-          "title": "Visual Language Models Train Robots to Read Human Emotions",
-          "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-13T13:00:01Z",
-          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find thems…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-13-visual-language-models-train-robots-to-read-human"
         }
       ]
     },
@@ -448,69 +391,186 @@
       "name": "General",
       "items": [
         {
-          "title": "How to watch most of the World Cup matches with free trials",
-          "url": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
+          "title": "Fox wants to take over your TV — and the tech inside it",
+          "url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
           "source": "The Verge",
-          "published_at": "2026-06-14T16:00:00Z",
-          "summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some money. That, or get c…",
+          "published_at": "2026-06-15T20:04:29Z",
+          "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-14-how-to-watch-most-of-the-world-cup"
+          "id": "theverge-2026-06-15-fox-wants-to-take-over-your-tv---"
         },
         {
-          "title": "The impossible dream of the universal remote",
-          "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+          "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
+          "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-14T13:42:07Z",
-          "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this i…",
+          "published_at": "2026-06-15T19:33:28Z",
+          "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It&#8217;s down to just $57.99 …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-14-the-impossible-dream-of-the-universal-remote"
+          "id": "theverge-2026-06-15-amazon-8217-s-smart-thermostat-is-on-sale"
         },
         {
-          "title": "Solid-state batteries still aren’t ready, but gels are",
-          "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+          "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
           "source": "The Verge",
+          "published_at": "2026-06-15T19:04:53Z",
+          "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Myt…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-15-all-the-news-about-anthropic-8217-s-new"
+        },
+        {
+          "title": "No sabemos si la IA nos va a quitar el trabajo. El problema es que quien está desarrollando la IA tampoco lo sabe",
+          "url": "https://www.xataka.com/robotica-e-ia/no-sabemos-ia-nos-va-a-quitar-trabajo-problema-que-quien-esta-desarrollando-ia-tampoco-sabe",
+          "source": "Xataka",
+          "published_at": "2026-06-15T18:46:16Z",
+          "summary": "La llegada de la IA ha sembrado la semilla de la incertidumbre en muchos sectores poniendo sobre la mesa una pregunta para la que, a día de hoy, nadie tiene una respuesta clara: ¿La IA va a quitarnos el trabajo o no? Lo …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-no-sabemos-si-la-ia-nos-va-a"
+        },
+        {
+          "title": "The best early Amazon Prime Day deals so far",
+          "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+          "source": "The Verge",
+          "published_at": "2026-06-15T18:39:37Z",
+          "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selli…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-15-the-best-early-amazon-prime-day-deals-so"
+        },
+        {
+          "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+          "source": "The Verge",
+          "published_at": "2026-06-15T18:10:27Z",
+          "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all fore…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-15-trump-s-anthropic-shutdown-just-made-the-case"
+        },
+        {
+          "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
+          "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
+          "source": "The Verge",
+          "published_at": "2026-06-15T18:06:18Z",
+          "summary": "Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-15-google-chrome-is-closing-the-loopholes-that-let"
+        },
+        {
+          "title": "Big Tech’s desperate last push at AI regulation",
+          "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+          "source": "The Verge",
+          "published_at": "2026-06-15T17:44:10Z",
+          "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-15-big-tech-s-desperate-last-push-at-ai"
+        },
+        {
+          "title": "“Siento que me estoy quedando ciego”: por qué el gran gurú de los deepfakes se ha rendido y se ha retirado a una granja",
+          "url": "https://www.xataka.com/robotica-e-ia/mayor-experto-mundo-identificar-deepfakes-tiene-gran-problema-no-capaz-identificarlos",
+          "source": "Xataka",
+          "published_at": "2026-06-15T13:30:00Z",
+          "summary": "Se llama Hany Farid y es considerado como uno de los mayores expertos en vídeos falsos (deefakes) del mundo. Este experto forense digital era capaz de destapar por ejemplo vídeos manipulados por los gobiernos, pero ahora…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-siento-que-me-estoy-quedando-ciego-por-que"
+        },
+        {
+          "title": "Hay una empresa demostrando que la IA puede ser el entrevistador perfecto para las empresas. Se llama Orbio y es de Madrid",
+          "url": "https://www.xataka.com/empresas-y-economia/hay-empresa-demostrando-que-ia-puede-ser-entrevistador-perfecto-para-empresas-se-llama-orbio-madrid",
+          "source": "Xataka",
+          "published_at": "2026-06-15T10:30:17Z",
+          "summary": "Las IAs han empezado a hacer entrevistas de trabajo, y los entrevistados están saliendo horrorizados de ellas . Es una realidad palpable en un segmento que vive su particular revolución, y ahí es donde entra Orbio , una …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-hay-una-empresa-demostrando-que-la-ia-puede"
+        },
+        {
+          "title": "Cómo crear un calendario con los partidos de tus equipos del Mundial 2026 y añadirlos a Google Calendar con inteligencia artificial",
+          "url": "https://www.xataka.com/basics/como-crear-calendario-partidos-tus-equipos-mundial-2026-anadirlos-a-google-calendar-inteligencia-artificial",
+          "source": "Xataka",
+          "published_at": "2026-06-15T10:22:01Z",
+          "summary": "Vamos a decirte cómo crear un calendario con los partidos de tus equipos favoritos del Mundial 2026 utilizando inteligencia artificial , algo bastante sencillo de hacer. Porque aquí se pone interesante, porque luego te d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-como-crear-un-calendario-con-los-partidos-de"
+        },
+        {
+          "title": "La acusación usó IA, la defensa usó IA: la jueza canceló el juicio y les puso una multa",
+          "url": "https://www.xataka.com/legislacion-y-derechos/acusacion-uso-ia-defensa-uso-ia-jueza-cancelo-juicio-les-puso-multa",
+          "source": "Xataka",
+          "published_at": "2026-06-15T10:00:17Z",
+          "summary": "La abogacía es una de las profesiones que abrazó el uso de la IA generativa antes incluso de que llegara el boom de ChatGPT. Hemos conocido casos de abogados sancionados por incluir citas falsas , pero eso no ha disuadid…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-la-acusacion-uso-ia-la-defensa-uso-ia"
+        },
+        {
+          "title": "El apagón de Fable 5 por parte de Anthropic es la chispa para que Europa refuerce su mensaje: el de la soberanía tecnológica",
+          "url": "https://www.xataka.com/robotica-e-ia/apagon-fable-5-parte-anthropic-chispa-europa-refuerce-su-mensaje-soberania-tecnologica",
+          "source": "Xataka",
+          "published_at": "2026-06-15T07:38:00Z",
+          "summary": "El último modelo de Anthropic, Fable 5 , es alucinante. Eso es, al menos, lo que sabemos gracias a las pruebas que hemos podido ver. Porque pasa una cosa: Anthropic ha desactivado Fable 5. Atendiendo a una orden de Estad…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-el-apagon-de-fable-5-por-parte-de"
+        },
+        {
+          "title": "\"Mis estudiantes no pueden leer\": un profesor universitario lleva años con el mismo texto de 20 páginas y este año nadie lo terminó",
+          "url": "https://www.xataka.com/magnet/estudiantes-universitarios-estan-perdiendo-rapidamente-capacidad-fundamental-leer",
+          "source": "Xataka",
           "published_at": "2026-06-14T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscriber…",
+          "summary": "Mis estudiantes no pueden leer. Es el título de la columna de opinión en la que Tyler Jagt , profesor universitario de literatura, narra la situación que se encuentra en sus aulas actualmente. Muchos estudiantes no son c…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-14-solid-state-batteries-still-aren-t-ready-but-gels"
-        },
-        {
-          "title": "X-Men ’97 has what Master of the Universe is missing",
-          "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
-          "source": "The Verge",
-          "published_at": "2026-06-13T20:00:00Z",
-          "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-13-x-men-97-has-what-master-of-the-universe"
-        },
-        {
-          "title": "Sealed Super Mario Bros. sells for a record $3 million",
-          "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-          "source": "The Verge",
-          "published_at": "2026-06-13T18:37:21Z",
-          "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-13-sealed-super-mario-bros-sells-for-a-record"
+          "id": "xataka-2026-06-14-mis-estudiantes-no-pueden-leer-un-profesor-universitario"
         }
       ]
     }
@@ -587,17 +647,17 @@
           "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
         },
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "title": "OpenAI to acquire Ona",
+          "url": "https://openai.com/index/openai-to-acquire-ona",
           "source": "OpenAI",
           "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
+          "id": "openai-2026-06-11-openai-to-acquire-ona"
         },
         {
           "title": "BBVA puts AI at the core of banking with OpenAI",
@@ -613,19 +673,6 @@
           "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
         },
         {
-          "title": "OpenAI to acquire Ona",
-          "url": "https://openai.com/index/openai-to-acquire-ona",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-openai-to-acquire-ona"
-        },
-        {
           "title": "How an astrophysicist uses Codex to help simulate black holes",
           "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "source": "OpenAI",
@@ -637,6 +684,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
         },
         {
           "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -702,32 +762,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
-        },
-        {
-          "title": "Industrial policy for the Intelligence Age",
-          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T00:00:00Z",
-          "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-industrial-policy-for-the-intelligence-age"
-        },
-        {
-          "title": "Confidential submission of draft S-1 to the SEC",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1",
-          "source": "OpenAI",
-          "published_at": "2026-06-08T14:00:00Z",
-          "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-08-confidential-submission-of-draft-s-1-to-the-sec"
         }
       ]
     },
@@ -799,19 +833,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-06-11-introducing-claude-corps"
-        },
-        {
-          "title": "Claude Fable 5 and Claude Mythos 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "Anthropic",
-          "published_at": "2026-06-09T00:00:00Z",
-          "summary": "Claude Fable 5 and Claude Mythos 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-09-claude-fable-5-and-claude-mythos-5"
         }
       ]
     },
@@ -819,6 +840,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+          "source": "Google AI",
+          "published_at": "2026-06-15T15:00:00Z",
+          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-15-we-re-strengthening-our-presence-in-alabama-through"
+        },
         {
           "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
@@ -902,19 +936,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-09-powering-the-future-of-robotics-in-europe"
-        },
-        {
-          "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-          "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-          "source": "DeepMind",
-          "published_at": "2026-06-08T13:04:59Z",
-          "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-08-measuring-the-impact-of-learning-with-ai-in"
         }
       ]
     }
