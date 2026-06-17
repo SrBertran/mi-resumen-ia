@@ -1,78 +1,91 @@
 {
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T08:28:36.648611Z",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T08:17:03.891080Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "El veto a Fable 5 confirma lo que llevamos años temiendo: la IA no es un producto, es un arma. Y Europa no tiene ninguna",
-      "url": "https://www.xataka.com/robotica-e-ia/veto-a-fable-5-confirma-que-llevamos-anos-diciendo-ia-no-producto-arma-europa-no-tiene-ninguna",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "DeepMind",
+      "published_at": "2026-06-16T21:29:50Z",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
+    },
+    {
+      "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
+      "url": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-06-16T20:00:00Z",
+      "summary": "Father’s Day is nearly here. Hopefully, you already got a gift for dads you care about, but if not, here’s a quick, easy recommendation for anyone who enjoys a good comic strip. The Complete Calvin and Hobbes contains ev…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-16-the-complete-calvin-and-hobbes-is-a-great"
+    },
+    {
+      "title": "La paradoja del \"botsitting\": cuando la IA no te libera del trabajo, sino que crea una nueva tarea que termina agotándote más",
+      "url": "https://www.xataka.com/robotica-e-ia/paradoja-botsitting-cuando-ia-no-te-libera-trabajo-sino-que-crea-nueva-tarea-que-termina-agotandote",
       "source": "Xataka",
-      "published_at": "2026-06-16T06:30:17Z",
-      "summary": "Hace unos días el Gobierno de España sacaba pecho anunciando que el proyecto de Sandbox Regulatorio de IA de la UE había sido un éxito. Es difícil entender por qué, pero mientras esos esfuerzos por regular se llevan inve…",
+      "published_at": "2026-06-16T18:30:17Z",
+      "summary": "Imagina que contratas a alguien para que te ayude a gestionar tu correo . Como es lógico, la primera semana tienes que explicarle cómo te gusta que filtre los mensajes y te comunique lo más urgente. La segunda semana, co…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-16-el-veto-a-fable-5-confirma-lo-que"
+      "id": "xataka-2026-06-16-la-paradoja-del-botsitting-cuando-la-ia-no"
     },
     {
-      "title": "Inside the fight over Claude Mythos 5",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+      "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
       "source": "The Verge",
-      "published_at": "2026-06-16T03:00:00Z",
-      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday,…",
+      "published_at": "2026-06-16T18:30:00Z",
+      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 bri…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-16-inside-the-fight-over-claude-mythos-5"
+      "id": "theverge-2026-06-16-all-the-latest-news-on-android-17-wear"
     },
     {
-      "title": "Facebook’s new AI Mode search gets its info from public posts",
-      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "title": "Android 17 arrives on Pixel phones today",
+      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
       "source": "The Verge",
-      "published_at": "2026-06-15T21:15:08Z",
-      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It'…",
+      "published_at": "2026-06-16T18:00:00Z",
+      "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-15-facebook-s-new-ai-mode-search-gets-its"
-    },
-    {
-      "title": "Xbox is closing down Hellblade creator Ninja Theory",
-      "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
-      "source": "The Verge",
-      "published_at": "2026-06-15T21:13:35Z",
-      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-15-xbox-is-closing-down-hellblade-creator-ninja-theory"
-    },
-    {
-      "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
-      "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
-      "source": "Xataka",
-      "published_at": "2026-06-15T20:16:17Z",
-      "summary": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capa…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-06-15-meta-gasto-al-menos-14-000-millones-de"
+      "id": "theverge-2026-06-16-android-17-arrives-on-pixel-phones-today"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Predicting model behavior before release by simulating deployment",
+          "url": "https://openai.com/index/deployment-simulation",
+          "source": "OpenAI",
+          "published_at": "2026-06-16T00:00:00Z",
+          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-16-predicting-model-behavior-before-release-by-simulating-deployment"
+        },
         {
           "title": "We’re strengthening our presence in Alabama through new investments and community support.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
@@ -178,6 +191,19 @@
           "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
         },
         {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
+        },
+        {
           "title": "OpenAI to acquire Ona",
           "url": "https://openai.com/index/openai-to-acquire-ona",
           "source": "OpenAI",
@@ -202,19 +228,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
         },
         {
           "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -306,84 +319,24 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-10-investing-in-multi-agent-ai-safety-research"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "From data to decisions: how LSEG is scaling trusted AI",
-          "url": "https://openai.com/index/lseg",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T00:00:00Z",
-          "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+          "title": "SpaceX compra Cursor por 60.000 millones de dólares. Ahora le queda lo más difícil: hacer que Grok sea relevante",
+          "url": "https://www.xataka.com/robotica-e-ia/spacex-compra-cursor-60-000-millones-dolares-ahora-le-queda-dificil-hacer-que-grok-sea-relevante",
+          "source": "Xataka",
+          "published_at": "2026-06-16T14:09:55Z",
+          "summary": "La operación, que SpaceX ya anunció hace dos meses, parecía un win-win de libro . Ahora lo parece aún más, porque SpaceX ha tenido un debut absolutamente extraordinario en bolsa, y porque Cursor se ha convertido por dere…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-from-data-to-decisions-how-lseg-is-scaling"
-        },
-        {
-          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T15:16:25Z",
-          "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-fluid-natural-voice-translation-with-gemini-3-5"
-        },
-        {
-          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T14:10:19Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-introducing-gemma-4-12b-a-unified-encoder-free-multimodal"
-        },
-        {
-          "title": "Powering the future of robotics in Europe",
-          "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T14:02:33Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-powering-the-future-of-robotics-in-europe"
-        },
-        {
-          "title": "How engineers at Nextdoor use Codex to build without limits",
-          "url": "https://openai.com/index/nextdoor",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T12:00:00Z",
-          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-how-engineers-at-nextdoor-use-codex-to-build"
-        },
-        {
-          "title": "What Codex unlocks for Notion",
-          "url": "https://openai.com/index/notion",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T10:00:00Z",
-          "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
+          "category": "negocio",
+          "id": "xataka-2026-06-16-spacex-compra-cursor-por-60-000-millones-de"
         }
       ]
     },
@@ -391,186 +344,199 @@
       "name": "General",
       "items": [
         {
-          "title": "Fox wants to take over your TV — and the tech inside it",
-          "url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+          "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
+          "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
           "source": "The Verge",
-          "published_at": "2026-06-15T20:04:29Z",
-          "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix…",
+          "published_at": "2026-06-16T18:00:00Z",
+          "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS dev…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-fox-wants-to-take-over-your-tv---"
+          "id": "theverge-2026-06-16-google-launches-wear-os-7-with-live-updates"
         },
         {
-          "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
-          "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
+          "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
+          "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
           "source": "The Verge",
-          "published_at": "2026-06-15T19:33:28Z",
-          "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It&#8217;s down to just $57.99 …",
+          "published_at": "2026-06-16T17:19:35Z",
+          "summary": "Verizon is launching a new Simplicity plan that starts at $30 / month for new customers, or $45 / month for existing ones. In its announcement, Verizon says the plan drops activation and upgrade fees, while offering one …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-amazon-8217-s-smart-thermostat-is-on-sale"
+          "id": "theverge-2026-06-16-verizon-8217-s-8216-simplicity-8217-flat-rate-plan"
         },
         {
-          "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+          "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+          "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
           "source": "The Verge",
-          "published_at": "2026-06-15T19:04:53Z",
-          "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Myt…",
+          "published_at": "2026-06-16T17:04:05Z",
+          "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previousl…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-all-the-news-about-anthropic-8217-s-new"
+          "id": "theverge-2026-06-16-apple-2027-rumors-airpods-with-cameras-for-ai"
         },
         {
-          "title": "No sabemos si la IA nos va a quitar el trabajo. El problema es que quien está desarrollando la IA tampoco lo sabe",
-          "url": "https://www.xataka.com/robotica-e-ia/no-sabemos-ia-nos-va-a-quitar-trabajo-problema-que-quien-esta-desarrollando-ia-tampoco-sabe",
-          "source": "Xataka",
-          "published_at": "2026-06-15T18:46:16Z",
-          "summary": "La llegada de la IA ha sembrado la semilla de la incertidumbre en muchos sectores poniendo sobre la mesa una pregunta para la que, a día de hoy, nadie tiene una respuesta clara: ¿La IA va a quitarnos el trabajo o no? Lo …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-15-no-sabemos-si-la-ia-nos-va-a"
-        },
-        {
-          "title": "The best early Amazon Prime Day deals so far",
-          "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+          "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+          "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
           "source": "The Verge",
-          "published_at": "2026-06-15T18:39:37Z",
-          "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selli…",
+          "published_at": "2026-06-16T17:00:00Z",
+          "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-the-best-early-amazon-prime-day-deals-so"
+          "id": "theverge-2026-06-16-qualcomm-s-latest-chip-hints-that-more-powerful"
         },
         {
-          "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+          "title": "The Google / Xreal Aura XR glasses are now available to preorder",
+          "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
           "source": "The Verge",
-          "published_at": "2026-06-15T18:10:27Z",
-          "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all fore…",
+          "published_at": "2026-06-16T17:00:00Z",
+          "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 start…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-trump-s-anthropic-shutdown-just-made-the-case"
+          "id": "theverge-2026-06-16-the-google-xreal-aura-xr-glasses-are-now"
         },
         {
-          "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
-          "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
+          "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
+          "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
           "source": "The Verge",
-          "published_at": "2026-06-15T18:06:18Z",
-          "summary": "Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad…",
+          "published_at": "2026-06-16T16:50:00Z",
+          "summary": "Snap is finally launching augmented glasses for the public. Specs, which Snap describes as \"a wearable computer built into see-through augmented reality glasses,\" will cost $2,195. You can preorder a pair of Specs now at…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-google-chrome-is-closing-the-loopholes-that-let"
+          "id": "theverge-2026-06-16-snap-is-finally-about-to-ship-ar-glasses"
         },
         {
-          "title": "Big Tech’s desperate last push at AI regulation",
-          "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+          "title": "Everything you need to know about Prime Day 2026",
+          "url": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
           "source": "The Verge",
-          "published_at": "2026-06-15T17:44:10Z",
-          "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set …",
+          "published_at": "2026-06-16T16:31:40Z",
+          "summary": "Amazon Prime Day 2026 is getting closer, and it’s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the deals go live? We have …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-15-big-tech-s-desperate-last-push-at-ai"
+          "id": "theverge-2026-06-16-everything-you-need-to-know-about-prime-day"
         },
         {
-          "title": "“Siento que me estoy quedando ciego”: por qué el gran gurú de los deepfakes se ha rendido y se ha retirado a una granja",
-          "url": "https://www.xataka.com/robotica-e-ia/mayor-experto-mundo-identificar-deepfakes-tiene-gran-problema-no-capaz-identificarlos",
+          "title": "La empresa de TikTok entra en el diseño de chips: ByteDance desarrolla su propia CPU ante las subidas de precio de Intel y AMD",
+          "url": "https://www.xataka.com/empresas-y-economia/bytedance-ha-decidido-que-intel-amd-le-salen-demasiado-caros-asi-que-va-a-fabricar-sus-propias-cpu",
           "source": "Xataka",
-          "published_at": "2026-06-15T13:30:00Z",
-          "summary": "Se llama Hany Farid y es considerado como uno de los mayores expertos en vídeos falsos (deefakes) del mundo. Este experto forense digital era capaz de destapar por ejemplo vídeos manipulados por los gobiernos, pero ahora…",
+          "published_at": "2026-06-16T16:30:00Z",
+          "summary": "ByteDance, la empresa matriz de TikTok, compra desde hace muchos años los procesadores que necesita para sus centros de datos a Intel y AMD. Va a dejar de hacerlo. Y es que esta compañía china ha decidido que este modelo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-15-siento-que-me-estoy-quedando-ciego-por-que"
+          "id": "xataka-2026-06-16-la-empresa-de-tiktok-entra-en-el-diseno"
         },
         {
-          "title": "Hay una empresa demostrando que la IA puede ser el entrevistador perfecto para las empresas. Se llama Orbio y es de Madrid",
-          "url": "https://www.xataka.com/empresas-y-economia/hay-empresa-demostrando-que-ia-puede-ser-entrevistador-perfecto-para-empresas-se-llama-orbio-madrid",
+          "title": "40 expertos se encerraron para resolver un problema: cómo evitar que la sociedad colapse por culpa de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/40-expertos-se-encerraron-para-resolver-problema-como-evitar-que-sociedad-colapse-culpa-ia",
           "source": "Xataka",
-          "published_at": "2026-06-15T10:30:17Z",
-          "summary": "Las IAs han empezado a hacer entrevistas de trabajo, y los entrevistados están saliendo horrorizados de ellas . Es una realidad palpable en un segmento que vive su particular revolución, y ahí es donde entra Orbio , una …",
+          "published_at": "2026-06-16T16:00:17Z",
+          "summary": "Todo el mundo parece tener claro que la IA va a tener un impacto en el mercado laboral, el problema es que no se ponen de acuerdo en cómo será ese impacto . Mientras unos dicen que destruirá muchos empleos , otros vatici…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-15-hay-una-empresa-demostrando-que-la-ia-puede"
+          "id": "xataka-2026-06-16-40-expertos-se-encerraron-para-resolver-un-problema"
         },
         {
-          "title": "Cómo crear un calendario con los partidos de tus equipos del Mundial 2026 y añadirlos a Google Calendar con inteligencia artificial",
-          "url": "https://www.xataka.com/basics/como-crear-calendario-partidos-tus-equipos-mundial-2026-anadirlos-a-google-calendar-inteligencia-artificial",
+          "title": "España dedicará 719 millones para construir una \"Gigafactoría de IA\" entre Madrid y Tarragona. De giga tendrá poco",
+          "url": "https://www.xataka.com/robotica-e-ia/espana-dedicara-719-millones-para-construir-gigafactoria-ia-madrid-tarragona-giga-tendra-poco",
           "source": "Xataka",
-          "published_at": "2026-06-15T10:22:01Z",
-          "summary": "Vamos a decirte cómo crear un calendario con los partidos de tus equipos favoritos del Mundial 2026 utilizando inteligencia artificial , algo bastante sencillo de hacer. Porque aquí se pone interesante, porque luego te d…",
+          "published_at": "2026-06-16T12:16:16Z",
+          "summary": "Mientras el mundo debate sobre el control de modelos como Claude Fable 5 , el Gobierno de España ha movido ficha para tratar de arañar posiciones en la carrera por la soberanía tecnológica. El Consejo de Ministros ha aut…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-15-como-crear-un-calendario-con-los-partidos-de"
+          "id": "xataka-2026-06-16-espana-dedicara-719-millones-para-construir-una-gigafactoria"
         },
         {
-          "title": "La acusación usó IA, la defensa usó IA: la jueza canceló el juicio y les puso una multa",
-          "url": "https://www.xataka.com/legislacion-y-derechos/acusacion-uso-ia-defensa-uso-ia-jueza-cancelo-juicio-les-puso-multa",
+          "title": "Durante décadas las empresas han acumulado capital y talento. Satya Nadella cree que ahora necesitan algo más: capital de tokens",
+          "url": "https://www.xataka.com/robotica-e-ia/durante-decadas-empresas-han-acumulado-capital-talento-satya-nadella-cree-que-ahora-necesitan-algo-capital-tokens",
           "source": "Xataka",
-          "published_at": "2026-06-15T10:00:17Z",
-          "summary": "La abogacía es una de las profesiones que abrazó el uso de la IA generativa antes incluso de que llegara el boom de ChatGPT. Hemos conocido casos de abogados sancionados por incluir citas falsas , pero eso no ha disuadid…",
+          "published_at": "2026-06-16T11:46:16Z",
+          "summary": "Las reflexiones de los CEO de las grandes empresas hay que tomarlas siempre con cierta cautela ya que no acostumbran a ser simples reflexiones lanzadas al aire. Buscan regalarle el oído a alguien: inversores, rivales, us…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-15-la-acusacion-uso-ia-la-defensa-uso-ia"
+          "id": "xataka-2026-06-16-durante-decadas-las-empresas-han-acumulado-capital-y"
         },
         {
-          "title": "El apagón de Fable 5 por parte de Anthropic es la chispa para que Europa refuerce su mensaje: el de la soberanía tecnológica",
-          "url": "https://www.xataka.com/robotica-e-ia/apagon-fable-5-parte-anthropic-chispa-europa-refuerce-su-mensaje-soberania-tecnologica",
+          "title": "Parecía imposible que OpenAI perdiera aún más dinero que en 2024. Pues bien: el año pasado se dejó casi ocho veces más",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-perdio-38-500-millones-dolares-2025-casi-ocho-veces-que-2024-asi-saldra-a-bolsa",
           "source": "Xataka",
-          "published_at": "2026-06-15T07:38:00Z",
-          "summary": "El último modelo de Anthropic, Fable 5 , es alucinante. Eso es, al menos, lo que sabemos gracias a las pruebas que hemos podido ver. Porque pasa una cosa: Anthropic ha desactivado Fable 5. Atendiendo a una orden de Estad…",
+          "published_at": "2026-06-16T10:30:00Z",
+          "summary": "El conocido analista Ed Zitron ha filtrado el estado financiero de OpenAI auditado para 2024 y 2025. Los datos son apabullantes y muestran cómo la empresa, que perdió 5.000 millones de dólares en 2024, perdió casi ocho v…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-15-el-apagon-de-fable-5-por-parte-de"
+          "id": "xataka-2026-06-16-parecia-imposible-que-openai-perdiera-aun-mas-dinero"
         },
         {
-          "title": "\"Mis estudiantes no pueden leer\": un profesor universitario lleva años con el mismo texto de 20 páginas y este año nadie lo terminó",
-          "url": "https://www.xataka.com/magnet/estudiantes-universitarios-estan-perdiendo-rapidamente-capacidad-fundamental-leer",
+          "title": "Meta despidió a 8.000 personas y reubicó a 7.000. El resultado: el ambiente de trabajo es irrespirable",
+          "url": "https://www.xataka.com/empresas-y-economia/dile-que-trozo-mierda-empleado-meta-interrumpe-reunion-resume-bastante-bien-como-estan-cosas-dentro",
           "source": "Xataka",
-          "published_at": "2026-06-14T12:00:00Z",
-          "summary": "Mis estudiantes no pueden leer. Es el título de la columna de opinión en la que Tyler Jagt , profesor universitario de literatura, narra la situación que se encuentra en sus aulas actualmente. Muchos estudiantes no son c…",
+          "published_at": "2026-06-16T10:00:00Z",
+          "summary": "A finales de mayo, Meta hizo la mayor reestructuración de su historia: 8.000 empleados a la calle y 7.000 fueron reubicados en nuevos departamentos. Las filtraciones internas dibujan un clima bastante insoportable: los e…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-06-14-mis-estudiantes-no-pueden-leer-un-profesor-universitario"
+          "id": "xataka-2026-06-16-meta-despidio-a-8-000-personas-y-reubico"
+        },
+        {
+          "title": "El veto a Fable 5 confirma lo que llevamos años temiendo: la IA no es un producto, es un arma. Y Europa no tiene ninguna",
+          "url": "https://www.xataka.com/robotica-e-ia/veto-a-fable-5-confirma-que-llevamos-anos-diciendo-ia-no-producto-arma-europa-no-tiene-ninguna",
+          "source": "Xataka",
+          "published_at": "2026-06-16T06:30:17Z",
+          "summary": "Hace unos días el Gobierno de España sacaba pecho anunciando que el proyecto de Sandbox Regulatorio de IA de la UE había sido un éxito. Es difícil entender por qué, pero mientras esos esfuerzos por regular se llevan inve…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-16-el-veto-a-fable-5-confirma-lo-que"
+        },
+        {
+          "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
+          "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
+          "source": "Xataka",
+          "published_at": "2026-06-15T20:16:17Z",
+          "summary": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-15-meta-gasto-al-menos-14-000-millones-de"
         }
       ]
     }
@@ -608,6 +574,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Predicting model behavior before release by simulating deployment",
+          "url": "https://openai.com/index/deployment-simulation",
+          "source": "OpenAI",
+          "published_at": "2026-06-16T00:00:00Z",
+          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-16-predicting-model-behavior-before-release-by-simulating-deployment"
+        },
+        {
           "title": "Introducing the OpenAI Partner Network",
           "url": "https://openai.com/index/introducing-openai-partner-network",
           "source": "OpenAI",
@@ -647,6 +626,19 @@
           "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
         },
         {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "source": "OpenAI",
+          "published_at": "2026-06-11T00:00:00Z",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
+        },
+        {
           "title": "OpenAI to acquire Ona",
           "url": "https://openai.com/index/openai-to-acquire-ona",
           "source": "OpenAI",
@@ -671,19 +663,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
         },
         {
           "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -723,45 +702,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-10-prc-linked-influence-operations-are-targeting-ai-debates-in"
-        },
-        {
-          "title": "From data to decisions: how LSEG is scaling trusted AI",
-          "url": "https://openai.com/index/lseg",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T00:00:00Z",
-          "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-from-data-to-decisions-how-lseg-is-scaling"
-        },
-        {
-          "title": "How engineers at Nextdoor use Codex to build without limits",
-          "url": "https://openai.com/index/nextdoor",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T12:00:00Z",
-          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-how-engineers-at-nextdoor-use-codex-to-build"
-        },
-        {
-          "title": "What Codex unlocks for Notion",
-          "url": "https://openai.com/index/notion",
-          "source": "OpenAI",
-          "published_at": "2026-06-09T10:00:00Z",
-          "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-09-what-codex-unlocks-for-notion"
         }
       ]
     },
@@ -873,6 +813,19 @@
       "name": "DeepMind",
       "items": [
         {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "source": "DeepMind",
+          "published_at": "2026-06-16T21:29:50Z",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
+        },
+        {
           "title": "DiffusionGemma: 4x faster text generation",
           "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
           "source": "DeepMind",
@@ -897,45 +850,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-10-investing-in-multi-agent-ai-safety-research"
-        },
-        {
-          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T15:16:25Z",
-          "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-fluid-natural-voice-translation-with-gemini-3-5"
-        },
-        {
-          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T14:10:19Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-introducing-gemma-4-12b-a-unified-encoder-free-multimodal"
-        },
-        {
-          "title": "Powering the future of robotics in Europe",
-          "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-          "source": "DeepMind",
-          "published_at": "2026-06-09T14:02:33Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-09-powering-the-future-of-robotics-in-europe"
         }
       ]
     }
