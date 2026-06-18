@@ -1,78 +1,143 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T08:17:03.891080Z",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T08:13:15.559834Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source": "DeepMind",
-      "published_at": "2026-06-16T21:29:50Z",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
-    },
-    {
-      "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
-      "url": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-06-16T20:00:00Z",
-      "summary": "Father’s Day is nearly here. Hopefully, you already got a gift for dads you care about, but if not, here’s a quick, easy recommendation for anyone who enjoys a good comic strip. The Complete Calvin and Hobbes contains ev…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-16-the-complete-calvin-and-hobbes-is-a-great"
-    },
-    {
-      "title": "La paradoja del \"botsitting\": cuando la IA no te libera del trabajo, sino que crea una nueva tarea que termina agotándote más",
-      "url": "https://www.xataka.com/robotica-e-ia/paradoja-botsitting-cuando-ia-no-te-libera-trabajo-sino-que-crea-nueva-tarea-que-termina-agotandote",
+      "title": "Jeff Bezos asegura que hay un tipo de empleado que nunca podrá ser reemplazado por una IA: los inventores",
+      "url": "https://www.xataka.com/robotica-e-ia/jeff-bezos-asegura-que-hay-tipo-empleado-que-nunca-podra-ser-reemplazado-ia-inventores-1",
       "source": "Xataka",
-      "published_at": "2026-06-16T18:30:17Z",
-      "summary": "Imagina que contratas a alguien para que te ayude a gestionar tu correo . Como es lógico, la primera semana tienes que explicarle cómo te gusta que filtre los mensajes y te comunique lo más urgente. La segunda semana, co…",
+      "published_at": "2026-06-18T07:30:17Z",
+      "summary": "Con unos procesos de selección saturados ( o rotos directamente ) y la IA condicionando las habilidades que demandan las empresas, hay una habilidad que Jeff Bezos considera insustituible: la capacidad de inventar. El mi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-16-la-paradoja-del-botsitting-cuando-la-ia-no"
+      "id": "xataka-2026-06-18-jeff-bezos-asegura-que-hay-un-tipo-de"
     },
     {
-      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-      "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "source": "The Verge",
-      "published_at": "2026-06-16T18:30:00Z",
-      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 bri…",
+      "published_at": "2026-06-18T03:12:31Z",
+      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubb…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-16-all-the-latest-news-on-android-17-wear"
+      "id": "theverge-2026-06-18-midjourney-goes-from-generating-cat-images-to-full-body"
     },
     {
-      "title": "Android 17 arrives on Pixel phones today",
-      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
+      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
+      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
       "source": "The Verge",
-      "published_at": "2026-06-16T18:00:00Z",
-      "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the …",
+      "published_at": "2026-06-17T21:42:21Z",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-16-android-17-arrives-on-pixel-phones-today"
+      "id": "theverge-2026-06-17-tim-cook-says-ram-expenses-are-8216-unsustainable"
+    },
+    {
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "source": "The Verge",
+      "published_at": "2026-06-17T20:43:28Z",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a refer…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-17-vsco-launches-studio-pro-mobile-photo-editing-app"
+    },
+    {
+      "title": "Epic wants to let you bring your Fortnite skins to other games",
+      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "source": "The Verge",
+      "published_at": "2026-06-17T19:09:00Z",
+      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic pla…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-17-epic-wants-to-let-you-bring-your-fortnite"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+          "source": "Google AI",
+          "published_at": "2026-06-17T15:00:00Z",
+          "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-17-new-research-shows-how-amie-our-medical-ai"
+        },
+        {
+          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "OpenAI",
+          "published_at": "2026-06-17T10:00:00Z",
+          "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-17-a-near-autonomous-ai-chemist-improves-a-challenging-reaction"
+        },
+        {
+          "title": "Introducing LifeSciBench",
+          "url": "https://openai.com/index/introducing-life-sci-bench",
+          "source": "OpenAI",
+          "published_at": "2026-06-17T00:00:00Z",
+          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-17-introducing-lifescibench"
+        },
+        {
+          "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+          "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+          "source": "Anthropic",
+          "published_at": "2026-06-17T00:00:00Z",
+          "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-17-anthropic-opens-seoul-office-and-announces-new-partnerships"
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "source": "DeepMind",
+          "published_at": "2026-06-16T21:29:50Z",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
+        },
         {
           "title": "Predicting model behavior before release by simulating deployment",
           "url": "https://openai.com/index/deployment-simulation",
@@ -189,136 +254,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
-        },
-        {
-          "title": "OpenAI to acquire Ona",
-          "url": "https://openai.com/index/openai-to-acquire-ona",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-openai-to-acquire-ona"
-        },
-        {
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "url": "https://openai.com/index/bbva",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
-        },
-        {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
-        },
-        {
-          "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-          "source": "Anthropic",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-11-dxc-will-integrate-claude-into-the-systems-banks"
-        },
-        {
-          "title": "Introducing Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "Anthropic",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Introducing Claude Corps",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-11-introducing-claude-corps"
-        },
-        {
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T20:00:00Z",
-          "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-access-openai-models-and-codex-through-your-oracle"
-        },
-        {
-          "title": "DiffusionGemma: 4x faster text generation",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-          "source": "DeepMind",
-          "published_at": "2026-06-10T16:24:11Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-10-diffusiongemma-4x-faster-text-generation"
-        },
-        {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T12:00:00Z",
-          "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-prc-linked-influence-operations-are-targeting-ai-debates-in"
-        },
-        {
-          "title": "Investing in multi-agent AI safety research",
-          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-          "source": "DeepMind",
-          "published_at": "2026-06-10T10:21:19Z",
-          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-10-investing-in-multi-agent-ai-safety-research"
         }
       ]
     },
@@ -341,98 +276,225 @@
       ]
     },
     {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "How Musicians Can Get Paid for Training AI",
+          "url": "https://spectrum.ieee.org/ai-music-attribution",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-17T15:04:23Z",
+          "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-06-17-how-musicians-can-get-paid-for-training-ai"
+        },
+        {
+          "title": "General Motors Is Cutting Its Development Cycles in Half",
+          "url": "https://spectrum.ieee.org/gm-ai-design",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-17T12:00:01Z",
+          "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they rece…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-06-17-general-motors-is-cutting-its-development-cycles-in"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "MolmoMotion: Language-guided 3D motion forecasting",
+          "url": "https://huggingface.co/blog/allenai/molmomotion",
+          "source": "Hugging Face",
+          "published_at": "2026-06-17T15:26:44Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-17-molmomotion-language-guided-3d-motion-forecasting"
+        },
+        {
+          "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+          "source": "Hugging Face",
+          "published_at": "2026-06-17T10:18:05Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-17-from-the-hugging-face-hub-to-robot-hardware"
+        },
+        {
+          "title": "GLM-5.2: Built for Long-Horizon Tasks",
+          "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+          "source": "Hugging Face",
+          "published_at": "2026-06-17T09:01:25Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-17-glm-5-2-built-for-long-horizon-tasks"
+        },
+        {
+          "title": "Agentic Resource Discovery: Let agents search",
+          "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+          "source": "Hugging Face",
+          "published_at": "2026-06-17T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-17-agentic-resource-discovery-let-agents-search"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-          "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
+          "title": "Anthropic got hit by export rules nobody understands",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
           "source": "The Verge",
-          "published_at": "2026-06-16T18:00:00Z",
-          "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS dev…",
+          "published_at": "2026-06-17T18:28:50Z",
+          "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US an…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-google-launches-wear-os-7-with-live-updates"
+          "id": "theverge-2026-06-17-anthropic-got-hit-by-export-rules-nobody-understands"
         },
         {
-          "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
-          "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-          "source": "The Verge",
-          "published_at": "2026-06-16T17:19:35Z",
-          "summary": "Verizon is launching a new Simplicity plan that starts at $30 / month for new customers, or $45 / month for existing ones. In its announcement, Verizon says the plan drops activation and upgrade fees, while offering one …",
+          "title": "Freepik se convirtió en Magnific para abrazar la IA. Ahora plantea un ERE para casi un tercio de sus empleados en España",
+          "url": "https://www.xataka.com/empresas-y-economia/freepik-se-convirtio-magnific-para-abrazar-ia-ahora-plantea-ere-para-casi-tercio-sus-empleados-espana",
+          "source": "Xataka",
+          "published_at": "2026-06-17T17:35:00Z",
+          "summary": "La inteligencia artificial generativa no solo está cambiando las herramientas que usamos para crear imágenes, vídeos o diseños. También está obligando a muchas compañías a preguntarse qué quieren ser dentro de un mercado…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-verizon-8217-s-8216-simplicity-8217-flat-rate-plan"
+          "id": "xataka-2026-06-17-freepik-se-convirtio-en-magnific-para-abrazar-la"
         },
         {
-          "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-          "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+          "title": "Two-thirds of Americans think AI is advancing too quickly",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
           "source": "The Verge",
-          "published_at": "2026-06-16T17:04:05Z",
-          "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previousl…",
+          "published_at": "2026-06-17T17:20:24Z",
+          "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatical…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-apple-2027-rumors-airpods-with-cameras-for-ai"
+          "id": "theverge-2026-06-17-two-thirds-of-americans-think-ai-is-advancing-too"
         },
         {
-          "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-          "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+          "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
+          "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-16T17:00:00Z",
-          "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today …",
+          "published_at": "2026-06-17T16:47:43Z",
+          "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon&#8217;s own devices. Several Echo speakers have dropped to new low prices, including the Echo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-qualcomm-s-latest-chip-hints-that-more-powerful"
+          "id": "theverge-2026-06-17-the-echo-dot-max-is-cheaper-than-ever"
         },
         {
-          "title": "The Google / Xreal Aura XR glasses are now available to preorder",
-          "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
-          "source": "The Verge",
-          "published_at": "2026-06-16T17:00:00Z",
-          "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 start…",
+          "title": "Jeff Bezos, sobre Prometheus: \"Solucionar problemas no estará limitado por nuestra capacidad, sino por la imaginación”",
+          "url": "https://www.xataka.com/empresas-y-economia/jeff-bezos-prometheus-solucionar-problemas-no-estara-limitado-nuestra-capacidad-sino-imaginacion",
+          "source": "Xataka",
+          "published_at": "2026-06-17T16:30:17Z",
+          "summary": "Jeff Bezos se ha propuesto estar en todas partes tanto física como metafóricamente. Aparte de estar detrás de Amazon ( dejándola de lado&nbsp; para centrarse en otros proyectos) o Blue Origin , tiene una \"nueva\" empresa …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-the-google-xreal-aura-xr-glasses-are-now"
+          "id": "xataka-2026-06-17-jeff-bezos-sobre-prometheus-solucionar-problemas-no-estara"
         },
         {
-          "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
-          "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+          "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+          "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
           "source": "The Verge",
-          "published_at": "2026-06-16T16:50:00Z",
-          "summary": "Snap is finally launching augmented glasses for the public. Specs, which Snap describes as \"a wearable computer built into see-through augmented reality glasses,\" will cost $2,195. You can preorder a pair of Specs now at…",
+          "published_at": "2026-06-17T16:27:00Z",
+          "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-snap-is-finally-about-to-ship-ar-glasses"
+          "id": "theverge-2026-06-17-vibe-decoding-the-white-house-anthropic-fight-over-fable"
         },
         {
-          "title": "Everything you need to know about Prime Day 2026",
-          "url": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
+          "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+          "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
           "source": "The Verge",
-          "published_at": "2026-06-16T16:31:40Z",
-          "summary": "Amazon Prime Day 2026 is getting closer, and it’s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the deals go live? We have …",
+          "published_at": "2026-06-17T16:13:34Z",
+          "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-16-everything-you-need-to-know-about-prime-day"
+          "id": "theverge-2026-06-17-can-anyone-look-cool-wearing-snap-s-2"
+        },
+        {
+          "title": "We got free GTA V upgrades before GTA VI",
+          "url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
+          "source": "The Verge",
+          "published_at": "2026-06-17T15:45:36Z",
+          "summary": "Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, players with any version of …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-17-we-got-free-gta-v-upgrades-before-gta"
+        },
+        {
+          "title": "MiMo Claw: qué es, cómo funciona y quién puede usar la plataforma de agentes de IA de Xiaomi",
+          "url": "https://www.xataka.com/basics/mimo-claw-que-como-funciona-quien-puede-usar-plataforma-agentes-ia-xiaomi",
+          "source": "Xataka",
+          "published_at": "2026-06-17T10:41:48Z",
+          "summary": "Vamos a decirte qué es y cómo funciona Xiaomi MiMo Claw , la plataforma de inteligencia artificial creada por Xiaomi. Se trata de una servicio que combina la inteligencia artificial propia del fabricante con la plataform…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-17-mimo-claw-que-es-como-funciona-y-quien"
+        },
+        {
+          "title": "La paradoja del \"botsitting\": cuando la IA no te libera del trabajo, sino que crea una nueva tarea que termina agotándote más",
+          "url": "https://www.xataka.com/robotica-e-ia/paradoja-botsitting-cuando-ia-no-te-libera-trabajo-sino-que-crea-nueva-tarea-que-termina-agotandote",
+          "source": "Xataka",
+          "published_at": "2026-06-16T18:30:17Z",
+          "summary": "Imagina que contratas a alguien para que te ayude a gestionar tu correo . Como es lógico, la primera semana tienes que explicarle cómo te gusta que filtre los mensajes y te comunique lo más urgente. La segunda semana, co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-16-la-paradoja-del-botsitting-cuando-la-ia-no"
         },
         {
           "title": "La empresa de TikTok entra en el diseño de chips: ByteDance desarrolla su propia CPU ante las subidas de precio de Intel y AMD",
@@ -485,58 +547,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-16-durante-decadas-las-empresas-han-acumulado-capital-y"
-        },
-        {
-          "title": "Parecía imposible que OpenAI perdiera aún más dinero que en 2024. Pues bien: el año pasado se dejó casi ocho veces más",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-perdio-38-500-millones-dolares-2025-casi-ocho-veces-que-2024-asi-saldra-a-bolsa",
-          "source": "Xataka",
-          "published_at": "2026-06-16T10:30:00Z",
-          "summary": "El conocido analista Ed Zitron ha filtrado el estado financiero de OpenAI auditado para 2024 y 2025. Los datos son apabullantes y muestran cómo la empresa, que perdió 5.000 millones de dólares en 2024, perdió casi ocho v…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-parecia-imposible-que-openai-perdiera-aun-mas-dinero"
-        },
-        {
-          "title": "Meta despidió a 8.000 personas y reubicó a 7.000. El resultado: el ambiente de trabajo es irrespirable",
-          "url": "https://www.xataka.com/empresas-y-economia/dile-que-trozo-mierda-empleado-meta-interrumpe-reunion-resume-bastante-bien-como-estan-cosas-dentro",
-          "source": "Xataka",
-          "published_at": "2026-06-16T10:00:00Z",
-          "summary": "A finales de mayo, Meta hizo la mayor reestructuración de su historia: 8.000 empleados a la calle y 7.000 fueron reubicados en nuevos departamentos. Las filtraciones internas dibujan un clima bastante insoportable: los e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-meta-despidio-a-8-000-personas-y-reubico"
-        },
-        {
-          "title": "El veto a Fable 5 confirma lo que llevamos años temiendo: la IA no es un producto, es un arma. Y Europa no tiene ninguna",
-          "url": "https://www.xataka.com/robotica-e-ia/veto-a-fable-5-confirma-que-llevamos-anos-diciendo-ia-no-producto-arma-europa-no-tiene-ninguna",
-          "source": "Xataka",
-          "published_at": "2026-06-16T06:30:17Z",
-          "summary": "Hace unos días el Gobierno de España sacaba pecho anunciando que el proyecto de Sandbox Regulatorio de IA de la UE había sido un éxito. Es difícil entender por qué, pero mientras esos esfuerzos por regular se llevan inve…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-el-veto-a-fable-5-confirma-lo-que"
-        },
-        {
-          "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
-          "source": "Xataka",
-          "published_at": "2026-06-15T20:16:17Z",
-          "summary": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-15-meta-gasto-al-menos-14-000-millones-de"
         }
       ]
     }
@@ -573,6 +583,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "OpenAI",
+          "published_at": "2026-06-17T10:00:00Z",
+          "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-17-a-near-autonomous-ai-chemist-improves-a-challenging-reaction"
+        },
+        {
+          "title": "Introducing LifeSciBench",
+          "url": "https://openai.com/index/introducing-life-sci-bench",
+          "source": "OpenAI",
+          "published_at": "2026-06-17T00:00:00Z",
+          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-17-introducing-lifescibench"
+        },
         {
           "title": "Predicting model behavior before release by simulating deployment",
           "url": "https://openai.com/index/deployment-simulation",
@@ -624,84 +660,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
-        },
-        {
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-how-an-astrophysicist-uses-codex-to-help-simulate"
-        },
-        {
-          "title": "OpenAI to acquire Ona",
-          "url": "https://openai.com/index/openai-to-acquire-ona",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-openai-to-acquire-ona"
-        },
-        {
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "url": "https://openai.com/index/bbva",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-bbva-puts-ai-at-the-core-of-banking"
-        },
-        {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "source": "OpenAI",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-11-supporting-europe-s-work-in-ensuring-a-trustworthy"
-        },
-        {
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T20:00:00Z",
-          "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-access-openai-models-and-codex-through-your-oracle"
-        },
-        {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-          "source": "OpenAI",
-          "published_at": "2026-06-10T12:00:00Z",
-          "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-10-prc-linked-influence-operations-are-targeting-ai-debates-in"
         }
       ]
     },
@@ -709,6 +667,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+          "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+          "source": "Anthropic",
+          "published_at": "2026-06-17T00:00:00Z",
+          "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-06-17-anthropic-opens-seoul-office-and-announces-new-partnerships"
+        },
         {
           "title": "TCS and Anthropic partner to bring Claude to regulated industries",
           "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
@@ -747,32 +718,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-06-12-statement-on-the-us-government-directive-to-suspend"
-        },
-        {
-          "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-          "source": "Anthropic",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-11-dxc-will-integrate-claude-into-the-systems-banks"
-        },
-        {
-          "title": "Introducing Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "Anthropic",
-          "published_at": "2026-06-11T00:00:00Z",
-          "summary": "Introducing Claude Corps",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-11-introducing-claude-corps"
         }
       ]
     },
@@ -780,6 +725,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+          "source": "Google AI",
+          "published_at": "2026-06-17T15:00:00Z",
+          "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-17-new-research-shows-how-amie-our-medical-ai"
+        },
         {
           "title": "We’re strengthening our presence in Alabama through new investments and community support.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
@@ -824,32 +782,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
-        },
-        {
-          "title": "DiffusionGemma: 4x faster text generation",
-          "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-          "source": "DeepMind",
-          "published_at": "2026-06-10T16:24:11Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-10-diffusiongemma-4x-faster-text-generation"
-        },
-        {
-          "title": "Investing in multi-agent AI safety research",
-          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-          "source": "DeepMind",
-          "published_at": "2026-06-10T10:21:19Z",
-          "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-10-investing-in-multi-agent-ai-safety-research"
         }
       ]
     }
