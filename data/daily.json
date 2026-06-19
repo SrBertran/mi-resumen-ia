@@ -1,78 +1,117 @@
 {
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T08:13:15.559834Z",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T08:19:55.595848Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Jeff Bezos asegura que hay un tipo de empleado que nunca podrá ser reemplazado por una IA: los inventores",
-      "url": "https://www.xataka.com/robotica-e-ia/jeff-bezos-asegura-que-hay-tipo-empleado-que-nunca-podra-ser-reemplazado-ia-inventores-1",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge",
+      "published_at": "2026-06-19T04:49:33Z",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-19-barret-zoph-is-out-at-openai-again-after"
+    },
+    {
+      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+      "source": "The Verge",
+      "published_at": "2026-06-18T20:26:06Z",
+      "summary": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually orde…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-18-valve-is-so-behind-on-steam-controller-orders"
+    },
+    {
+      "title": "You can now use the Game Boy Camera with your phone",
+      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+      "source": "The Verge",
+      "published_at": "2026-06-18T20:22:46Z",
+      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game B…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-18-you-can-now-use-the-game-boy-camera"
+    },
+    {
+      "title": "LG gram Pro (2026): potencia para IA en local y una obsesión cada vez más clara por pesar menos",
+      "url": "https://www.xataka.com/ordenadores/lg-gram-pro-2026-caracteristicas-precio-ficha-tecnica",
       "source": "Xataka",
-      "published_at": "2026-06-18T07:30:17Z",
-      "summary": "Con unos procesos de selección saturados ( o rotos directamente ) y la IA condicionando las habilidades que demandan las empresas, hay una habilidad que Jeff Bezos considera insustituible: la capacidad de inventar. El mi…",
+      "published_at": "2026-06-18T19:30:17Z",
+      "summary": "Hay muchos portátiles buenos en el mercado, quizá demasiados como para que una marca pueda diferenciarse solo con una lista de especificaciones. Por eso cada fabricante acaba defendiendo una personalidad: algunos se apoy…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-18-jeff-bezos-asegura-que-hay-un-tipo-de"
+      "id": "xataka-2026-06-18-lg-gram-pro-2026-potencia-para-ia-en"
     },
     {
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
+      "url": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-06-18T03:12:31Z",
-      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubb…",
+      "published_at": "2026-06-18T19:18:30Z",
+      "summary": "The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 percent off any of HBO M…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-18-midjourney-goes-from-generating-cat-images-to-full-body"
-    },
-    {
-      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
-      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
-      "source": "The Verge",
-      "published_at": "2026-06-17T21:42:21Z",
-      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-17-tim-cook-says-ram-expenses-are-8216-unsustainable"
-    },
-    {
-      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
-      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
-      "source": "The Verge",
-      "published_at": "2026-06-17T20:43:28Z",
-      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a refer…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-17-vsco-launches-studio-pro-mobile-photo-editing-app"
-    },
-    {
-      "title": "Epic wants to let you bring your Fortnite skins to other games",
-      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-      "source": "The Verge",
-      "published_at": "2026-06-17T19:09:00Z",
-      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic pla…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-17-epic-wants-to-let-you-bring-your-fortnite"
+      "id": "theverge-2026-06-18-hbo-max-8217-s-annual-plans-are-28"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T17:00:00Z",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-new-usage-analytics-and-updated-spend-controls-for"
+        },
+        {
+          "title": "Improving health intelligence in ChatGPT",
+          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T11:00:00Z",
+          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-improving-health-intelligence-in-chatgpt"
+        },
+        {
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T08:00:00Z",
+          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-using-ai-to-help-physicians-diagnose-rare-genetic"
+        },
         {
           "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -139,6 +178,19 @@
           "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
         },
         {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "source": "DeepMind",
+          "published_at": "2026-06-16T15:46:31Z",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-16-securing-the-future-of-ai-agents"
+        },
+        {
           "title": "Predicting model behavior before release by simulating deployment",
           "url": "https://openai.com/index/deployment-simulation",
           "source": "OpenAI",
@@ -189,95 +241,51 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
-        },
-        {
-          "title": "How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
-        },
-        {
-          "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-tcs-and-anthropic-partner-to-bring-claude-to"
-        },
-        {
-          "title": "Results from the first Anthropic Public Record",
-          "url": "https://www.anthropic.com/news/anthropic-public-record",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Results from the first Anthropic Public Record",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-results-from-the-first-anthropic-public-record"
-        },
-        {
-          "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-statement-on-the-us-government-directive-to-suspend"
-        },
-        {
-          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-          "source": "Google AI",
-          "published_at": "2026-06-11T20:00:00Z",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "SpaceX compra Cursor por 60.000 millones de dólares. Ahora le queda lo más difícil: hacer que Grok sea relevante",
-          "url": "https://www.xataka.com/robotica-e-ia/spacex-compra-cursor-60-000-millones-dolares-ahora-le-queda-dificil-hacer-que-grok-sea-relevante",
-          "source": "Xataka",
-          "published_at": "2026-06-16T14:09:55Z",
-          "summary": "La operación, que SpaceX ya anunció hace dos meses, parecía un win-win de libro . Ahora lo parece aún más, porque SpaceX ha tenido un debut absolutamente extraordinario en bolsa, y porque Cursor se ha convertido por dere…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-06-16-spacex-compra-cursor-por-60-000-millones-de"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "source": "Hugging Face",
+          "published_at": "2026-06-18T18:13:13Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-06-18-mosaicleaks-can-your-research-agent-keep-a-secret"
+        },
+        {
+          "title": "Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge",
+          "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-18T13:00:01Z",
+          "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-06-18-sound-waves-give-neuromorphic-chips-a-brain-simulating-edge"
+        },
+        {
+          "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+          "url": "https://huggingface.co/blog/is-it-agentic-enough",
+          "source": "Hugging Face",
+          "published_at": "2026-06-18T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-06-18-is-it-agentic-enough-benchmarking-open-models-on"
+        },
         {
           "title": "How Musicians Can Get Paid for Training AI",
           "url": "https://spectrum.ieee.org/ai-music-attribution",
@@ -309,6 +317,19 @@
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "source": "Hugging Face",
+          "published_at": "2026-06-18T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-18-beyond-lora-can-you-beat-the-most-popular"
+        },
         {
           "title": "MolmoMotion: Language-guided 3D motion forecasting",
           "url": "https://huggingface.co/blog/allenai/molmomotion",
@@ -347,19 +368,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-06-17-glm-5-2-built-for-long-horizon-tasks"
-        },
-        {
-          "title": "Agentic Resource Discovery: Let agents search",
-          "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-          "source": "Hugging Face",
-          "published_at": "2026-06-17T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-17-agentic-resource-discovery-let-agents-search"
         }
       ]
     },
@@ -367,17 +375,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Anthropic got hit by export rules nobody understands",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+          "title": "Snap’s Specs look good on nobody",
+          "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
           "source": "The Verge",
-          "published_at": "2026-06-17T18:28:50Z",
-          "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US an…",
+          "published_at": "2026-06-18T19:15:03Z",
+          "summary": "Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years of AR lens development, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-17-anthropic-got-hit-by-export-rules-nobody-understands"
+          "id": "theverge-2026-06-18-snap-s-specs-look-good-on-nobody"
+        },
+        {
+          "title": "The best early Amazon Prime Day deals so far",
+          "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+          "source": "The Verge",
+          "published_at": "2026-06-18T18:54:32Z",
+          "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selli…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-18-the-best-early-amazon-prime-day-deals-so"
+        },
+        {
+          "title": "This robotic self-driving toilet comes to you",
+          "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+          "source": "The Verge",
+          "published_at": "2026-06-18T18:08:17Z",
+          "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-18-this-robotic-self-driving-toilet-comes-to-you"
+        },
+        {
+          "title": "A year of Walmart Plus is half off ahead of Prime Day",
+          "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-06-18T17:33:00Z",
+          "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-18-a-year-of-walmart-plus-is-half-off"
+        },
+        {
+          "title": "Firefox’s new home page widgets are helping me focus",
+          "url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
+          "source": "The Verge",
+          "published_at": "2026-06-18T17:29:50Z",
+          "summary": "I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already some of my favorite new…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-18-firefox-s-new-home-page-widgets-are-helping"
+        },
+        {
+          "title": "The Onion’s rebooted InfoWars is coming July 2nd",
+          "url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
+          "source": "The Verge",
+          "published_at": "2026-06-18T17:00:00Z",
+          "summary": "The Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and a half after news brok…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-18-the-onion-s-rebooted-infowars-is-coming-july"
+        },
+        {
+          "title": "La IA va a generar una riqueza sin precedentes. La pregunta que empieza a hacerse todo el mundo es quién va a quedarse con ella",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-va-a-generar-riqueza-precedentes-pregunta-que-empieza-a-hacerse-todo-mundo-quien-va-a-quedarse-ella",
+          "source": "Xataka",
+          "published_at": "2026-06-18T16:00:17Z",
+          "summary": "Hay un debate candente en torno a la rentabilidad de la IA. De momento, la salvaje inversión en centros de datos no está contribuyendo en absoluto al crecimiento de la economía de EEUU , pero hay quienes creen que la IA …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-18-la-ia-va-a-generar-una-riqueza-sin"
+        },
+        {
+          "title": "La nueva joya china de los semiconductores se llama Enflame. Así es la nueva integrante de “los cuatro dragones de los chips” de China",
+          "url": "https://www.xataka.com/empresas-y-economia/nueva-joya-china-semiconductores-se-llama-enflame-asi-nueva-integrante-cuatro-dragones-chips-china",
+          "source": "Xataka",
+          "published_at": "2026-06-18T15:30:17Z",
+          "summary": "Puede que el nombre Enflame no te suene todavía. Pero es muy probable que en los próximos meses acabe dando bastante de qué hablar. Y es que esta empresa china de chips para IA acaba de recibir el visto bueno para salir …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-18-la-nueva-joya-china-de-los-semiconductores-se"
+        },
+        {
+          "title": "Jeff Bezos asegura que hay un tipo de empleado que nunca podrá ser reemplazado por una IA: los inventores",
+          "url": "https://www.xataka.com/robotica-e-ia/jeff-bezos-asegura-que-hay-tipo-empleado-que-nunca-podra-ser-reemplazado-ia-inventores-1",
+          "source": "Xataka",
+          "published_at": "2026-06-18T07:30:17Z",
+          "summary": "Con unos procesos de selección saturados ( o rotos directamente ) y la IA condicionando las habilidades que demandan las empresas, hay una habilidad que Jeff Bezos considera insustituible: la capacidad de inventar. El mi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-18-jeff-bezos-asegura-que-hay-un-tipo-de"
         },
         {
           "title": "Freepik se convirtió en Magnific para abrazar la IA. Ahora plantea un ERE para casi un tercio de sus empleados en España",
@@ -393,36 +505,10 @@
           "id": "xataka-2026-06-17-freepik-se-convirtio-en-magnific-para-abrazar-la"
         },
         {
-          "title": "Two-thirds of Americans think AI is advancing too quickly",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-          "source": "The Verge",
-          "published_at": "2026-06-17T17:20:24Z",
-          "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatical…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-17-two-thirds-of-americans-think-ai-is-advancing-too"
-        },
-        {
-          "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
-          "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-06-17T16:47:43Z",
-          "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon&#8217;s own devices. Several Echo speakers have dropped to new low prices, including the Echo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-17-the-echo-dot-max-is-cheaper-than-ever"
-        },
-        {
-          "title": "Jeff Bezos, sobre Prometheus: \"Solucionar problemas no estará limitado por nuestra capacidad, sino por la imaginación”",
+          "title": "Jeff Bezos, sobre Prometheus: \"Solucionar problemas no estará limitado por nuestra capacidad, sino por la imaginación\"",
           "url": "https://www.xataka.com/empresas-y-economia/jeff-bezos-prometheus-solucionar-problemas-no-estara-limitado-nuestra-capacidad-sino-imaginacion",
           "source": "Xataka",
-          "published_at": "2026-06-17T16:30:17Z",
+          "published_at": "2026-06-17T16:30:00Z",
           "summary": "Jeff Bezos se ha propuesto estar en todas partes tanto física como metafóricamente. Aparte de estar detrás de Amazon ( dejándola de lado&nbsp; para centrarse en otros proyectos) o Blue Origin , tiene una \"nueva\" empresa …",
           "why_it_matters": "",
           "tags": [
@@ -430,45 +516,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-17-jeff-bezos-sobre-prometheus-solucionar-problemas-no-estara"
-        },
-        {
-          "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-          "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-          "source": "The Verge",
-          "published_at": "2026-06-17T16:27:00Z",
-          "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-17-vibe-decoding-the-white-house-anthropic-fight-over-fable"
-        },
-        {
-          "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-          "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-          "source": "The Verge",
-          "published_at": "2026-06-17T16:13:34Z",
-          "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-17-can-anyone-look-cool-wearing-snap-s-2"
-        },
-        {
-          "title": "We got free GTA V upgrades before GTA VI",
-          "url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
-          "source": "The Verge",
-          "published_at": "2026-06-17T15:45:36Z",
-          "summary": "Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, players with any version of …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-17-we-got-free-gta-v-upgrades-before-gta"
         },
         {
           "title": "MiMo Claw: qué es, cómo funciona y quién puede usar la plataforma de agentes de IA de Xiaomi",
@@ -482,71 +529,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-17-mimo-claw-que-es-como-funciona-y-quien"
-        },
-        {
-          "title": "La paradoja del \"botsitting\": cuando la IA no te libera del trabajo, sino que crea una nueva tarea que termina agotándote más",
-          "url": "https://www.xataka.com/robotica-e-ia/paradoja-botsitting-cuando-ia-no-te-libera-trabajo-sino-que-crea-nueva-tarea-que-termina-agotandote",
-          "source": "Xataka",
-          "published_at": "2026-06-16T18:30:17Z",
-          "summary": "Imagina que contratas a alguien para que te ayude a gestionar tu correo . Como es lógico, la primera semana tienes que explicarle cómo te gusta que filtre los mensajes y te comunique lo más urgente. La segunda semana, co…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-la-paradoja-del-botsitting-cuando-la-ia-no"
-        },
-        {
-          "title": "La empresa de TikTok entra en el diseño de chips: ByteDance desarrolla su propia CPU ante las subidas de precio de Intel y AMD",
-          "url": "https://www.xataka.com/empresas-y-economia/bytedance-ha-decidido-que-intel-amd-le-salen-demasiado-caros-asi-que-va-a-fabricar-sus-propias-cpu",
-          "source": "Xataka",
-          "published_at": "2026-06-16T16:30:00Z",
-          "summary": "ByteDance, la empresa matriz de TikTok, compra desde hace muchos años los procesadores que necesita para sus centros de datos a Intel y AMD. Va a dejar de hacerlo. Y es que esta compañía china ha decidido que este modelo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-la-empresa-de-tiktok-entra-en-el-diseno"
-        },
-        {
-          "title": "40 expertos se encerraron para resolver un problema: cómo evitar que la sociedad colapse por culpa de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/40-expertos-se-encerraron-para-resolver-problema-como-evitar-que-sociedad-colapse-culpa-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-16T16:00:17Z",
-          "summary": "Todo el mundo parece tener claro que la IA va a tener un impacto en el mercado laboral, el problema es que no se ponen de acuerdo en cómo será ese impacto . Mientras unos dicen que destruirá muchos empleos , otros vatici…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-40-expertos-se-encerraron-para-resolver-un-problema"
-        },
-        {
-          "title": "España dedicará 719 millones para construir una \"Gigafactoría de IA\" entre Madrid y Tarragona. De giga tendrá poco",
-          "url": "https://www.xataka.com/robotica-e-ia/espana-dedicara-719-millones-para-construir-gigafactoria-ia-madrid-tarragona-giga-tendra-poco",
-          "source": "Xataka",
-          "published_at": "2026-06-16T12:16:16Z",
-          "summary": "Mientras el mundo debate sobre el control de modelos como Claude Fable 5 , el Gobierno de España ha movido ficha para tratar de arañar posiciones en la carrera por la soberanía tecnológica. El Consejo de Ministros ha aut…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-espana-dedicara-719-millones-para-construir-una-gigafactoria"
-        },
-        {
-          "title": "Durante décadas las empresas han acumulado capital y talento. Satya Nadella cree que ahora necesitan algo más: capital de tokens",
-          "url": "https://www.xataka.com/robotica-e-ia/durante-decadas-empresas-han-acumulado-capital-talento-satya-nadella-cree-que-ahora-necesitan-algo-capital-tokens",
-          "source": "Xataka",
-          "published_at": "2026-06-16T11:46:16Z",
-          "summary": "Las reflexiones de los CEO de las grandes empresas hay que tomarlas siempre con cierta cautela ya que no acostumbran a ser simples reflexiones lanzadas al aire. Buscan regalarle el oído a alguien: inversores, rivales, us…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-16-durante-decadas-las-empresas-han-acumulado-capital-y"
         }
       ]
     }
@@ -583,6 +565,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T17:00:00Z",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-new-usage-analytics-and-updated-spend-controls-for"
+        },
+        {
+          "title": "Improving health intelligence in ChatGPT",
+          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T11:00:00Z",
+          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-improving-health-intelligence-in-chatgpt"
+        },
+        {
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI",
+          "published_at": "2026-06-18T08:00:00Z",
+          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-18-using-ai-to-help-physicians-diagnose-rare-genetic"
+        },
         {
           "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
           "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -647,19 +668,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
-        },
-        {
-          "title": "How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-12-how-preply-combines-ai-and-human-tutors-to"
         }
       ]
     },
@@ -679,45 +687,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-06-17-anthropic-opens-seoul-office-and-announces-new-partnerships"
-        },
-        {
-          "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-tcs-and-anthropic-partner-to-bring-claude-to"
-        },
-        {
-          "title": "Results from the first Anthropic Public Record",
-          "url": "https://www.anthropic.com/news/anthropic-public-record",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Results from the first Anthropic Public Record",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-results-from-the-first-anthropic-public-record"
-        },
-        {
-          "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Anthropic",
-          "published_at": "2026-06-12T00:00:00Z",
-          "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-12-statement-on-the-us-government-directive-to-suspend"
         }
       ]
     },
@@ -750,19 +719,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-15-we-re-strengthening-our-presence-in-alabama-through"
-        },
-        {
-          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-          "source": "Google AI",
-          "published_at": "2026-06-11T20:00:00Z",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-11-our-new-community-investments-in-virginia-support-local"
         }
       ]
     },
@@ -782,6 +738,19 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-16-unlocking-uk-house-building-with-ai-accelerated-planning"
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "source": "DeepMind",
+          "published_at": "2026-06-16T15:46:31Z",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-06-16-securing-the-future-of-ai-agents"
         }
       ]
     }
