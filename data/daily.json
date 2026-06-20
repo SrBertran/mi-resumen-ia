@@ -1,72 +1,72 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T08:19:55.595848Z",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T07:45:06.699143Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
       "source": "The Verge",
-      "published_at": "2026-06-19T04:49:33Z",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking…",
+      "published_at": "2026-06-20T07:00:00Z",
+      "summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchB…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-19-barret-zoph-is-out-at-openai-again-after"
+      "id": "theverge-2026-06-20-switchbot-s-standing-circulator-fan-is-worth-fighting"
     },
     {
-      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
-      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
       "source": "The Verge",
-      "published_at": "2026-06-18T20:26:06Z",
-      "summary": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually orde…",
+      "published_at": "2026-06-19T21:28:39Z",
+      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We we…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-18-valve-is-so-behind-on-steam-controller-orders"
+      "id": "theverge-2026-06-19-nothing-cancels-this-year-8217-s-cmf-phone"
     },
     {
-      "title": "You can now use the Game Boy Camera with your phone",
-      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "source": "The Verge",
-      "published_at": "2026-06-18T20:22:46Z",
-      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game B…",
+      "published_at": "2026-06-19T18:41:48Z",
+      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Rel…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-18-you-can-now-use-the-game-boy-camera"
+      "id": "theverge-2026-06-19-nasa-selects-eric-schmidt-8217-s-rocket-company"
     },
     {
-      "title": "LG gram Pro (2026): potencia para IA en local y una obsesión cada vez más clara por pesar menos",
-      "url": "https://www.xataka.com/ordenadores/lg-gram-pro-2026-caracteristicas-precio-ficha-tecnica",
-      "source": "Xataka",
-      "published_at": "2026-06-18T19:30:17Z",
-      "summary": "Hay muchos portátiles buenos en el mercado, quizá demasiados como para que una marca pueda diferenciarse solo con una lista de especificaciones. Por eso cada fabricante acaba defendiendo una personalidad: algunos se apoy…",
+      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-06-19T18:00:01Z",
+      "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and tra…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "xataka-2026-06-18-lg-gram-pro-2026-potencia-para-ia-en"
+      "category": "investigación",
+      "id": "ieee-2026-06-19-ieee-rolls-out-large-language-models-virtual-training"
     },
     {
-      "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
-      "url": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
       "source": "The Verge",
-      "published_at": "2026-06-18T19:18:30Z",
-      "summary": "The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 percent off any of HBO M…",
+      "published_at": "2026-06-19T17:24:45Z",
+      "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-18-hbo-max-8217-s-annual-plans-are-28"
+      "id": "theverge-2026-06-19-hue-s-wired-wall-modules-bring-non-smart-lights"
     }
   ],
   "sections": [
@@ -228,19 +228,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-14-introducing-the-openai-partner-network"
-        },
-        {
-          "title": "New OpenAI Academy courses for the next era of work",
-          "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "source": "OpenAI",
-          "published_at": "2026-06-12T10:00:00Z",
-          "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
         }
       ]
     },
@@ -272,102 +259,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-06-18-sound-waves-give-neuromorphic-chips-a-brain-simulating-edge"
-        },
-        {
-          "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-          "url": "https://huggingface.co/blog/is-it-agentic-enough",
-          "source": "Hugging Face",
-          "published_at": "2026-06-18T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-06-18-is-it-agentic-enough-benchmarking-open-models-on"
-        },
-        {
-          "title": "How Musicians Can Get Paid for Training AI",
-          "url": "https://spectrum.ieee.org/ai-music-attribution",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-17T15:04:23Z",
-          "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-17-how-musicians-can-get-paid-for-training-ai"
-        },
-        {
-          "title": "General Motors Is Cutting Its Development Cycles in Half",
-          "url": "https://spectrum.ieee.org/gm-ai-design",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-17T12:00:01Z",
-          "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they rece…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-17-general-motors-is-cutting-its-development-cycles-in"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-          "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "source": "Hugging Face",
-          "published_at": "2026-06-18T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-18-beyond-lora-can-you-beat-the-most-popular"
-        },
-        {
-          "title": "MolmoMotion: Language-guided 3D motion forecasting",
-          "url": "https://huggingface.co/blog/allenai/molmomotion",
-          "source": "Hugging Face",
-          "published_at": "2026-06-17T15:26:44Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-17-molmomotion-language-guided-3d-motion-forecasting"
-        },
-        {
-          "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-          "source": "Hugging Face",
-          "published_at": "2026-06-17T10:18:05Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-17-from-the-hugging-face-hub-to-robot-hardware"
-        },
-        {
-          "title": "GLM-5.2: Built for Long-Horizon Tasks",
-          "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-          "source": "Hugging Face",
-          "published_at": "2026-06-17T09:01:25Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-17-glm-5-2-built-for-long-horizon-tasks"
         }
       ]
     },
@@ -375,82 +266,134 @@
       "name": "General",
       "items": [
         {
-          "title": "Snap’s Specs look good on nobody",
-          "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-06-18T19:15:03Z",
-          "summary": "Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years of AR lens development, …",
+          "title": "Antes en las reuniones del G7 los focos eran para los líderes mundiales. Ahora los protagonistas son Amodei, Altman y Hassabis",
+          "url": "https://www.xataka.com/robotica-e-ia/antes-reuniones-g7-focos-eran-para-lideres-mundiales-ahora-protagonistas-amodei-altman-hassabis",
+          "source": "Xataka",
+          "published_at": "2026-06-19T16:30:17Z",
+          "summary": "Esta semana se ha celebrado la edición número 52 de la cumbre del G7 . Los representantes de las siete mayores potencias mundiales debatieron sobre Ucrania, Oriente Medio, o tierras raras, como se esperaba. Lo que no se …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-snap-s-specs-look-good-on-nobody"
+          "id": "xataka-2026-06-19-antes-en-las-reuniones-del-g7-los-focos"
         },
         {
-          "title": "The best early Amazon Prime Day deals so far",
-          "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-          "source": "The Verge",
-          "published_at": "2026-06-18T18:54:32Z",
-          "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selli…",
+          "title": "EEUU no apagó Claude Mythos por miedo a un jailbreak, lo hizo porque sospechaba que alguien estaba mirando. Ese alguien es China",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-no-apago-claude-mythos-jailbreak-hizo-porque-sospechaba-que-alguien-estaba-mirando-ese-alguien-china",
+          "source": "Xataka",
+          "published_at": "2026-06-19T15:30:17Z",
+          "summary": "El sábado pasado, la Casa Blanca ordenó a Anthropic que retirara el acceso a Fable 5 y Mythos a cualquier persona extranjera, sin importar si estaban dentro o fuera de EEUU. Supuestamente esta orden vino tras un aviso de…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-the-best-early-amazon-prime-day-deals-so"
+          "id": "xataka-2026-06-19-eeuu-no-apago-claude-mythos-por-miedo-a"
         },
         {
-          "title": "This robotic self-driving toilet comes to you",
-          "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+          "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+          "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
           "source": "The Verge",
-          "published_at": "2026-06-18T18:08:17Z",
-          "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes t…",
+          "published_at": "2026-06-19T14:53:53Z",
+          "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplay…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-this-robotic-self-driving-toilet-comes-to-you"
+          "id": "theverge-2026-06-19-the-nts-radio-player-brings-the-best-of"
         },
         {
-          "title": "A year of Walmart Plus is half off ahead of Prime Day",
-          "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
+          "title": "The film about Sam Altman has been dropped by Amazon MGM",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
           "source": "The Verge",
-          "published_at": "2026-06-18T17:33:00Z",
-          "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically…",
+          "published_at": "2026-06-19T14:15:29Z",
+          "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's terminatio…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-a-year-of-walmart-plus-is-half-off"
+          "id": "theverge-2026-06-19-the-film-about-sam-altman-has-been-dropped"
         },
         {
-          "title": "Firefox’s new home page widgets are helping me focus",
-          "url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
+          "title": "Our long national sunscreen nightmare is almost over",
+          "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
           "source": "The Verge",
-          "published_at": "2026-06-18T17:29:50Z",
-          "summary": "I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already some of my favorite new…",
+          "published_at": "2026-06-19T14:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On T…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-firefox-s-new-home-page-widgets-are-helping"
+          "id": "theverge-2026-06-19-our-long-national-sunscreen-nightmare-is-almost-over"
         },
         {
-          "title": "The Onion’s rebooted InfoWars is coming July 2nd",
-          "url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
+          "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+          "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
           "source": "The Verge",
-          "published_at": "2026-06-18T17:00:00Z",
-          "summary": "The Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and a half after news brok…",
+          "published_at": "2026-06-19T13:00:00Z",
+          "summary": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations manager. If you've been …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-18-the-onion-s-rebooted-infowars-is-coming-july"
+          "id": "theverge-2026-06-19-t1-phone-pr-firm-is-8216-not-assisting"
+        },
+        {
+          "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
+          "url": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
+          "source": "The Verge",
+          "published_at": "2026-06-19T12:00:00Z",
+          "summary": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of scie…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-19-in-season-2-of-sugar-colin-farrell-s"
+        },
+        {
+          "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+          "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+          "source": "The Verge",
+          "published_at": "2026-06-19T12:00:00Z",
+          "summary": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-19-kaleidescape-s-movie-player-blows-streaming-and-your"
+        },
+        {
+          "title": "Creíamos que ningún modelo chino de IA se acercaría pronto a Fable 5 o GPT-5.5. Entonces llegó GLM-5.2",
+          "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-ningun-modelo-chino-ia-se-acercaria-pronto-a-fable-5-gpt-5-5-entonces-llego-glm-5-2",
+          "source": "Xataka",
+          "published_at": "2026-06-19T10:16:16Z",
+          "summary": "Hace unos días la startup china Zhipu AI (Z.ai) anunció el lanzamiento de su nuevo modelo abierto de IA, GLM-5.2 . Lo hizo presumiendo de unas prestaciones asombrosas que lo acercaban mucho a los mejores modelos cerrados…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-19-creiamos-que-ningun-modelo-chino-de-ia-se"
+        },
+        {
+          "title": "LG gram Pro (2026): potencia para IA en local y una obsesión cada vez más clara por pesar menos",
+          "url": "https://www.xataka.com/ordenadores/lg-gram-pro-2026-caracteristicas-precio-ficha-tecnica",
+          "source": "Xataka",
+          "published_at": "2026-06-18T19:30:17Z",
+          "summary": "Hay muchos portátiles buenos en el mercado, quizá demasiados como para que una marca pueda diferenciarse solo con una lista de especificaciones. Por eso cada fabricante acaba defendiendo una personalidad: algunos se apoy…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-18-lg-gram-pro-2026-potencia-para-ia-en"
         },
         {
           "title": "La IA va a generar una riqueza sin precedentes. La pregunta que empieza a hacerse todo el mundo es quién va a quedarse con ella",
@@ -477,58 +420,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-18-la-nueva-joya-china-de-los-semiconductores-se"
-        },
-        {
-          "title": "Jeff Bezos asegura que hay un tipo de empleado que nunca podrá ser reemplazado por una IA: los inventores",
-          "url": "https://www.xataka.com/robotica-e-ia/jeff-bezos-asegura-que-hay-tipo-empleado-que-nunca-podra-ser-reemplazado-ia-inventores-1",
-          "source": "Xataka",
-          "published_at": "2026-06-18T07:30:17Z",
-          "summary": "Con unos procesos de selección saturados ( o rotos directamente ) y la IA condicionando las habilidades que demandan las empresas, hay una habilidad que Jeff Bezos considera insustituible: la capacidad de inventar. El mi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-18-jeff-bezos-asegura-que-hay-un-tipo-de"
-        },
-        {
-          "title": "Freepik se convirtió en Magnific para abrazar la IA. Ahora plantea un ERE para casi un tercio de sus empleados en España",
-          "url": "https://www.xataka.com/empresas-y-economia/freepik-se-convirtio-magnific-para-abrazar-ia-ahora-plantea-ere-para-casi-tercio-sus-empleados-espana",
-          "source": "Xataka",
-          "published_at": "2026-06-17T17:35:00Z",
-          "summary": "La inteligencia artificial generativa no solo está cambiando las herramientas que usamos para crear imágenes, vídeos o diseños. También está obligando a muchas compañías a preguntarse qué quieren ser dentro de un mercado…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-17-freepik-se-convirtio-en-magnific-para-abrazar-la"
-        },
-        {
-          "title": "Jeff Bezos, sobre Prometheus: \"Solucionar problemas no estará limitado por nuestra capacidad, sino por la imaginación\"",
-          "url": "https://www.xataka.com/empresas-y-economia/jeff-bezos-prometheus-solucionar-problemas-no-estara-limitado-nuestra-capacidad-sino-imaginacion",
-          "source": "Xataka",
-          "published_at": "2026-06-17T16:30:00Z",
-          "summary": "Jeff Bezos se ha propuesto estar en todas partes tanto física como metafóricamente. Aparte de estar detrás de Amazon ( dejándola de lado&nbsp; para centrarse en otros proyectos) o Blue Origin , tiene una \"nueva\" empresa …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-17-jeff-bezos-sobre-prometheus-solucionar-problemas-no-estara"
-        },
-        {
-          "title": "MiMo Claw: qué es, cómo funciona y quién puede usar la plataforma de agentes de IA de Xiaomi",
-          "url": "https://www.xataka.com/basics/mimo-claw-que-como-funciona-quien-puede-usar-plataforma-agentes-ia-xiaomi",
-          "source": "Xataka",
-          "published_at": "2026-06-17T10:41:48Z",
-          "summary": "Vamos a decirte qué es y cómo funciona Xiaomi MiMo Claw , la plataforma de inteligencia artificial creada por Xiaomi. Se trata de una servicio que combina la inteligencia artificial propia del fabricante con la plataform…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-17-mimo-claw-que-es-como-funciona-y-quien"
         }
       ]
     }
@@ -655,19 +546,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-14-introducing-the-openai-partner-network"
-        },
-        {
-          "title": "New OpenAI Academy courses for the next era of work",
-          "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "source": "OpenAI",
-          "published_at": "2026-06-12T10:00:00Z",
-          "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-12-new-openai-academy-courses-for-the-next-era"
         }
       ]
     },
