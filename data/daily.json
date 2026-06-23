@@ -1,78 +1,130 @@
 {
-  "date": "2026-06-22",
-  "generated_at": "2026-06-22T08:32:43.313200Z",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T07:44:37.778427Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "source": "OpenAI",
-      "published_at": "2026-06-21T23:00:00Z",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
-    },
-    {
-      "title": "Bose thinks it can be a media company for some reason",
-      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+      "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
+      "url": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
       "source": "The Verge",
-      "published_at": "2026-06-21T18:53:50Z",
-      "summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red B…",
+      "published_at": "2026-06-23T07:00:20Z",
+      "summary": "Amflow, the e-bike brand spun out of DJI, just announced its TL Carbon, a do-it-all \"eSUV\" suitable for both bikepacking adventures and dropping the kid at daycare on your cycle to work. The TL Carbon is built around Amf…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-21-bose-thinks-it-can-be-a-media-company"
+      "id": "theverge-2026-06-23-amflow-8217-s-tl-e-bike-is-ready-for"
     },
     {
-      "title": "La IA está generando un mercado laboral a dos velocidades: los que ganan y los que se quedan atrás",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "source": "The Verge",
+      "published_at": "2026-06-22T23:24:32Z",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"elimi…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-22-nvidia-says-its-ai-data-center-design-runs"
+    },
+    {
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "source": "The Verge",
+      "published_at": "2026-06-22T21:07:14Z",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in p…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-22-valve-describes-just-how-brutal-ram-negotiations-are"
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "source": "The Verge",
+      "published_at": "2026-06-22T20:00:00Z",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-22-ai-is-cursing-renters-with-the-promise-of"
+    },
+    {
+      "title": "China ha encontrado un atajo inesperado para llevar la IA a millones de hogares: el robot aspirador",
+      "url": "https://www.xataka.com/robotica-e-ia/china-ha-encontrado-atajo-inesperado-para-llevar-ia-a-millones-hogares-robot-aspirador",
       "source": "Xataka",
-      "published_at": "2026-06-21T17:01:08Z",
-      "summary": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo…",
+      "published_at": "2026-06-22T19:01:01Z",
+      "summary": "Puede que ya estés usando inteligencia artificial china en casa sin haberlo pensado demasiado. No necesariamente en forma de chatbot, ni como una función escondida en el móvil, ni como una promesa más dentro del televiso…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-21-la-ia-esta-generando-un-mercado-laboral-a"
-    },
-    {
-      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
-      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
-      "source": "The Verge",
-      "published_at": "2026-06-21T17:00:33Z",
-      "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from a…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-21-cold-court-s-debut-ep-is-an-infectious"
-    },
-    {
-      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "source": "The Verge",
-      "published_at": "2026-06-21T14:19:46Z",
-      "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-21-polymarket-reportedly-paid-people-to-post-fake-videos"
+      "id": "xataka-2026-06-22-china-ha-encontrado-un-atajo-inesperado-para-llevar"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
+        },
+        {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "url": "https://openai.com/index/patch-the-planet",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
+        },
+        {
+          "title": "Codex-maxxing for long-running work",
+          "url": "https://openai.com/index/codex-maxxing-long-running-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T00:00:00Z",
+          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-codex-maxxing-for-long-running-work"
+        },
+        {
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "source": "OpenAI",
+          "published_at": "2026-06-21T23:00:00Z",
+          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
+        },
         {
           "title": "New usage analytics and updated spend controls for enterprises",
           "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -189,32 +241,55 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-06-16-securing-the-future-of-ai-agents"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
         {
-          "title": "Predicting model behavior before release by simulating deployment",
-          "url": "https://openai.com/index/deployment-simulation",
-          "source": "OpenAI",
-          "published_at": "2026-06-16T00:00:00Z",
-          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "title": "Commemorating 70 Years of Artificial Intelligence",
+          "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-22T18:00:01Z",
+          "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-16-predicting-model-behavior-before-release-by-simulating-deployment"
-        },
+          "category": "investigación",
+          "id": "ieee-2026-06-22-commemorating-70-years-of-artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-15T15:00:00Z",
-          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "source": "Hugging Face",
+          "published_at": "2026-06-22T13:18:56Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-15-we-re-strengthening-our-presence-in-alabama-through"
+          "category": "herramientas",
+          "id": "huggingface-2026-06-22-pp-ocrv6-on-hugging-face-50-language-ocr-from-1"
+        },
+        {
+          "title": "We got local models to triage the OpenClaw repo for FREE!*",
+          "url": "https://huggingface.co/blog/local-models-pr-triage",
+          "source": "Hugging Face",
+          "published_at": "2026-06-22T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-22-we-got-local-models-to-triage-the-openclaw"
         }
       ]
     },
@@ -222,43 +297,121 @@
       "name": "General",
       "items": [
         {
-          "title": "How Roomba started a robot revolution",
-          "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+          "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+          "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-21T12:29:01Z",
-          "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died …",
+          "published_at": "2026-06-22T18:00:00Z",
+          "summary": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up th…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-21-how-roomba-started-a-robot-revolution"
+          "id": "theverge-2026-06-22-the-apple-watch-se-3-is-just-199"
         },
         {
-          "title": "Electric air taxis are stuck in the courtroom",
-          "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+          "title": "The Steam Machine is the start of an even more expensive future for game consoles",
+          "url": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
           "source": "The Verge",
-          "published_at": "2026-06-21T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our sub…",
+          "published_at": "2026-06-22T18:00:00Z",
+          "summary": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of affordable handhelds is over, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-21-electric-air-taxis-are-stuck-in-the-courtroom"
+          "id": "theverge-2026-06-22-the-steam-machine-is-the-start-of-an"
         },
         {
-          "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
-          "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+          "title": "Google invests in A24 to build AI movie tools",
+          "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
           "source": "The Verge",
-          "published_at": "2026-06-21T11:00:00Z",
-          "summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto …",
+          "published_at": "2026-06-22T17:18:13Z",
+          "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development coll…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-21-sony-s-xperia-1-viii-is-still-a"
+          "id": "theverge-2026-06-22-google-invests-in-a24-to-build-ai-movie"
+        },
+        {
+          "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+          "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+          "source": "The Verge",
+          "published_at": "2026-06-22T17:10:00Z",
+          "summary": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-22-valve-is-working-with-amd-to-bring-fsr"
+        },
+        {
+          "title": "Here’s how you can reserve a Steam Machine",
+          "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+          "source": "The Verge",
+          "published_at": "2026-06-22T17:07:01Z",
+          "summary": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit. However, it's a bi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-22-here-s-how-you-can-reserve-a-steam"
+        },
+        {
+          "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+          "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+          "source": "The Verge",
+          "published_at": "2026-06-22T17:05:00Z",
+          "summary": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-22-valve-will-finally-let-you-build-your-own"
+        },
+        {
+          "title": "El problema no es que haya IA en TikTok. Es que ya es más de la mitad de lo que ves nada más entrar",
+          "url": "https://www.xataka.com/aplicaciones/problema-no-que-haya-ia-tiktok-que-mitad-que-ves-nada-entrar",
+          "source": "Xataka",
+          "published_at": "2026-06-22T15:47:01Z",
+          "summary": "Desde que tenemos modelos de generación de imágenes y vídeos con IA tan punteros, nos hemos empezado a acostumbrar a ver todo tipo de contenido generado por inteligencia artificial en redes sociales. Ya no es solo que no…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-22-el-problema-no-es-que-haya-ia-en"
+        },
+        {
+          "title": "Mientras medio mundo se pregunta cómo integrar la IA en las escuelas, Noruega ha encontrado la respuesta: no haciéndolo",
+          "url": "https://www.xataka.com/robotica-e-ia/medio-mundo-se-pregunta-como-integrar-ia-escuelas-noruega-ha-encontrado-respuesta-no-haciendolo",
+          "source": "Xataka",
+          "published_at": "2026-06-22T09:01:01Z",
+          "summary": "La inteligencia artificial ha llegado como un meteorito, impactando en prácticamente todos los sensores y no sólo destruyendo el segmento de tecnología de consumo , sino provocando que los gobiernos trabajen a contrarrel…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-22-mientras-medio-mundo-se-pregunta-como-integrar-la"
+        },
+        {
+          "title": "La IA está generando un mercado laboral a dos velocidades: los que ganan y los que se quedan atrás",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
+          "source": "Xataka",
+          "published_at": "2026-06-21T17:01:08Z",
+          "summary": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-21-la-ia-esta-generando-un-mercado-laboral-a"
         },
         {
           "title": "Las viviendas de lujo en EEUU se están vendiendo como churros y los expertos creen saber por qué: la IA",
@@ -277,7 +430,7 @@
           "title": "China está estrangulando los materiales críticos que EEUU necesita para su industria tecnológica. Es una guerra a dos velocidades",
           "url": "https://www.xataka.com/materiales/china-esta-estrangulando-materiales-criticos-que-eeuu-necesita-para-su-industria-tecnologica-guerra-a-dos-velocidades",
           "source": "Xataka",
-          "published_at": "2026-06-21T10:01:08Z",
+          "published_at": "2026-06-21T10:00:00Z",
           "summary": "A comienzos de mayo, Trump fue a China de viaje oficial y se llevó un séquito de CEOs en el Air Force One. Estaban todos de las tecnológicas (Cristiano Amon, Tim Cook, Elon Musk o Jensen Huang, por ejemplo), pero también…",
           "why_it_matters": "",
           "tags": [
@@ -298,71 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-21-la-ia-esta-matando-mis-libros-tim-ferriss"
-        },
-        {
-          "title": "The Atlantic created a searchable database of the music used to train AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-          "source": "The Verge",
-          "published_at": "2026-06-20T18:46:48Z",
-          "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-20-the-atlantic-created-a-searchable-database-of-the"
-        },
-        {
-          "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
-          "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
-          "source": "The Verge",
-          "published_at": "2026-06-20T15:20:00Z",
-          "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-20-musician-and-youtuber-hainbach-on-breath-of-the"
-        },
-        {
-          "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
-          "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
-          "source": "The Verge",
-          "published_at": "2026-06-20T14:00:00Z",
-          "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and th…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-20-moves-of-the-diamond-hand-is-an-unfinished"
-        },
-        {
-          "title": "Una quesería artesanal de California estuvo a punto de quebrar. Hoy es un negocio boyante gracias a algo: agentes de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/queseria-artesanal-california-estuvo-a-punto-quebrar-hoy-negocio-boyante-gracias-a-algo-agentes-ia",
-          "source": "Xataka",
-          "published_at": "2026-06-20T12:00:17Z",
-          "summary": "Al norte de San Francisco hay una ciudad llamada Petaluma donde se encuentra una fábrica de queso con el mismo nombre. Petaluma Creamery tiene más de un siglo de historia y llegó a generar 50 millones de dólares en su ép…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-20-una-queseria-artesanal-de-california-estuvo-a-punto"
-        },
-        {
-          "title": "Toy Story has the right take on tech",
-          "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
-          "source": "The Verge",
-          "published_at": "2026-06-20T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer hom…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-20-toy-story-has-the-right-take-on-tech"
         }
       ]
     }
@@ -399,6 +487,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
+        },
+        {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "url": "https://openai.com/index/patch-the-planet",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
+        },
+        {
+          "title": "Codex-maxxing for long-running work",
+          "url": "https://openai.com/index/codex-maxxing-long-running-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T00:00:00Z",
+          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-codex-maxxing-for-long-running-work"
+        },
         {
           "title": "Samsung Electronics brings ChatGPT and Codex to employees",
           "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -476,19 +603,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-17-introducing-lifescibench"
-        },
-        {
-          "title": "Predicting model behavior before release by simulating deployment",
-          "url": "https://openai.com/index/deployment-simulation",
-          "source": "OpenAI",
-          "published_at": "2026-06-16T00:00:00Z",
-          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-16-predicting-model-behavior-before-release-by-simulating-deployment"
         }
       ]
     },
@@ -527,19 +641,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-17-new-research-shows-how-amie-our-medical-ai"
-        },
-        {
-          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-15T15:00:00Z",
-          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-15-we-re-strengthening-our-presence-in-alabama-through"
         }
       ]
     },
