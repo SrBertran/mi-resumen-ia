@@ -1,78 +1,104 @@
 {
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T07:43:54.224274Z",
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T07:44:52.817502Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The top tech Prime Day deals to shop on day two",
-      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-      "source": "The Verge",
-      "published_at": "2026-06-24T23:48:19Z",
-      "summary": "Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and s…",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face",
+      "published_at": "2026-06-26T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-06-24-the-top-tech-prime-day-deals-to-shop"
+      "category": "herramientas",
+      "id": "huggingface-2026-06-26-run-a-vllm-server-on-hf-jobs-in"
     },
     {
       "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
       "source": "The Verge",
-      "published_at": "2026-06-24T21:58:59Z",
-      "summary": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already …",
+      "published_at": "2026-06-25T23:04:23Z",
+      "summary": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already d…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-24-this-year-s-prime-day-deals-on-apple"
+      "id": "theverge-2026-06-25-this-year-s-prime-day-deals-on-apple"
     },
     {
-      "title": "The 16 best robot vacuum deals available during Prime Day",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
       "source": "The Verge",
-      "published_at": "2026-06-24T21:51:09Z",
-      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day two of Prime Day, and Amazon, along with …",
+      "published_at": "2026-06-25T22:33:54Z",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is se…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-24-the-16-best-robot-vacuum-deals-available-during"
+      "id": "theverge-2026-06-25-android-17-8217-s-new-foldable-gaming-mode"
     },
     {
-      "title": "Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines",
-      "url": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
       "source": "The Verge",
-      "published_at": "2026-06-24T21:40:26Z",
-      "summary": "Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's death, the administration v…",
+      "published_at": "2026-06-25T22:08:30Z",
+      "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-24-charlie-kirk-8217-s-legacy-is-a-30-year"
+      "id": "theverge-2026-06-25-youtube-updates-shorts-to-make-it-even-more"
     },
     {
-      "title": "Microsoft introduces cheaper Surface devices with half the memory",
-      "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "source": "The Verge",
-      "published_at": "2026-06-24T21:39:00Z",
-      "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup. Both models come equipped with 8GB of RAM instead of 16GB, costing $849 for the specced-down Surface Pro and $949 for the Surfa…",
+      "published_at": "2026-06-25T21:57:06Z",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told empl…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-24-microsoft-introduces-cheaper-surface-devices-with-half-the"
+      "id": "theverge-2026-06-25-openai-will-delay-gpt-5-6-after-trump-administration"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Our latest Google Finance upgrades, including a new app",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+          "source": "Google AI",
+          "published_at": "2026-06-25T16:00:00Z",
+          "summary": "The Google Finance logo, surrounded by elements of the user interface",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-25-our-latest-google-finance-upgrades-including-a-new"
+        },
+        {
+          "title": "How agents are transforming work",
+          "url": "https://openai.com/index/how-agents-are-transforming-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-25T02:00:00Z",
+          "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-25-how-agents-are-transforming-work"
+        },
         {
           "title": "Introducing computer use in Gemini 3.5 Flash",
           "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
@@ -152,19 +178,6 @@
           "id": "anthropic-2026-06-23-introducing-claude-tag"
         },
         {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "url": "https://openai.com/index/daybreak-securing-the-world",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
-        },
-        {
           "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
           "url": "https://openai.com/index/patch-the-planet",
           "source": "OpenAI",
@@ -176,6 +189,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
+        },
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
         },
         {
           "title": "Codex-maxxing for long-running work",
@@ -202,63 +228,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
-        },
-        {
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T17:00:00Z",
-          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-new-usage-analytics-and-updated-spend-controls-for"
-        },
-        {
-          "title": "Improving health intelligence in ChatGPT",
-          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T11:00:00Z",
-          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-improving-health-intelligence-in-chatgpt"
-        },
-        {
-          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T08:00:00Z",
-          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-using-ai-to-help-physicians-diagnose-rare-genetic"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Todos los robots compiten por parecer personas: esta startup acaba de apostar exactamente por lo contrario",
-          "url": "https://www.xataka.com/robotica-e-ia/nos-hemos-empenado-que-robots-humanoides-parezcan-personas-esta-startup-acaba-demostrar-que-hay-otro-camino",
-          "source": "Xataka",
-          "published_at": "2026-06-23T16:00:00Z",
-          "summary": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp; de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas . Tod…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-06-23-todos-los-robots-compiten-por-parecer-personas-esta"
         }
       ]
     },
@@ -266,17 +235,30 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-          "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
-          "source": "The Verge",
-          "published_at": "2026-06-24T20:54:57Z",
-          "summary": "A critique published in Nature Wednesday calls the basic technology behind Microsoft's \"breakthrough\" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured…",
+          "title": "Why Does a Bank Need a Chief Scientist?",
+          "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-25T17:32:32Z",
+          "summary": "This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chie…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "theverge-2026-06-24-a-new-paper-argues-microsoft-exaggerated-its-quantum"
+          "id": "ieee-2026-06-25-why-does-a-bank-need-a-chief-scientist"
+        },
+        {
+          "title": "What it Means to Be a Mathematician When AI Does the Math",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-25T13:00:01Z",
+          "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on si…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-06-25-what-it-means-to-be-a-mathematician-when"
         },
         {
           "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
@@ -290,38 +272,25 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-06-24-ai-is-designing-radio-chips-that-humans-couldn"
-        },
-        {
-          "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-          "url": "https://huggingface.co/blog/ffasr-leaderboard",
-          "source": "Hugging Face",
-          "published_at": "2026-06-24T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-06-24-introducing-the-ffasr-leaderboard-benchmarking-asr-in-the"
-        },
-        {
-          "title": "AI Is Learning to Read the Room",
-          "url": "https://spectrum.ieee.org/emotion-ai-context",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-23T12:00:01Z",
-          "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You sa…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-23-ai-is-learning-to-read-the-room"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Which tokens does a hybrid model predict better?",
+          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "source": "Hugging Face",
+          "published_at": "2026-06-25T16:11:42Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-25-which-tokens-does-a-hybrid-model-predict-better"
+        },
         {
           "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
           "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
@@ -334,19 +303,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-06-24-accelerating-transformers-fine-tuning-with-nvidia-nemo-automodel"
-        },
-        {
-          "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-          "source": "Hugging Face",
-          "published_at": "2026-06-23T12:51:55Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-23-build-real-agentic-apps-using-cuga-two-dozen"
         }
       ]
     },
@@ -354,56 +310,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Congresswoman denies staff used AI to write defense funding amendment",
-          "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+          "title": "Framework has good news and bad news",
+          "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
           "source": "The Verge",
-          "published_at": "2026-06-24T19:36:46Z",
-          "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" L…",
+          "published_at": "2026-06-25T21:23:47Z",
+          "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the comp…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-24-congresswoman-denies-staff-used-ai-to-write-defense"
+          "id": "theverge-2026-06-25-framework-has-good-news-and-bad-news"
         },
         {
-          "title": "GTA VI is a worrying sign for the future of physical games",
-          "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+          "title": "Score a discounted Xbox console before the prices jump",
+          "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-24T18:42:07Z",
-          "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI wo…",
+          "published_at": "2026-06-25T20:18:47Z",
+          "summary": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we&#8217…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-24-gta-vi-is-a-worrying-sign-for-the"
+          "id": "theverge-2026-06-25-score-a-discounted-xbox-console-before-the-prices"
         },
         {
-          "title": "Google is finally opening the Play Store to outside payments",
-          "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+          "title": "Instagram wants to monopolize your attention",
+          "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
           "source": "The Verge",
-          "published_at": "2026-06-24T17:36:44Z",
-          "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolli…",
+          "published_at": "2026-06-25T20:10:24Z",
+          "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-24-google-is-finally-opening-the-play-store-to"
+          "id": "theverge-2026-06-25-instagram-wants-to-monopolize-your-attention"
         },
         {
-          "title": "Prime Day deals under $50 that are really worth it",
-          "url": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
+          "title": "RAMageddon just got extremely real",
+          "url": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
           "source": "The Verge",
-          "published_at": "2026-06-24T17:28:08Z",
-          "summary": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while stic…",
+          "published_at": "2026-06-25T20:00:00Z",
+          "summary": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no othe…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-24-prime-day-deals-under-50-that-are-really"
+          "id": "theverge-2026-06-25-ramageddon-just-got-extremely-real"
+        },
+        {
+          "title": "The 16 best robot vacuum deals available during Prime Day",
+          "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "source": "The Verge",
+          "published_at": "2026-06-25T18:47:26Z",
+          "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day three of Prime Day, and Amazon, along wit…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-25-the-16-best-robot-vacuum-deals-available-during"
+        },
+        {
+          "title": "It&#8217;s a bad time to want a new computer",
+          "url": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
+          "source": "The Verge",
+          "published_at": "2026-06-25T18:20:17Z",
+          "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given ho…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-25-it-8217-s-a-bad-time-to-want"
+        },
+        {
+          "title": "\"Si les dices que no, no te vuelven a hablar\": Valve culpa a los fabricantes de RAM por el precio de la Steam Machine",
+          "url": "https://www.xataka.com/videojuegos/precio-steam-machine-oferta-que-valve-no-podia-reclazar-les-dices-que-no-no-te-vuelven-a-hablar",
+          "source": "Xataka",
+          "published_at": "2026-06-25T14:31:32Z",
+          "summary": "La actualidad tecnológica y del videojuego está marcada esta semana por dos cosas muy claras: ' GTA VI ' por un lado, Steam Machine por el otro. Ambas tienen algo en común: polémica por el precio. En el caso del juego de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-25-si-les-dices-que-no-no-te-vuelven"
         },
         {
           "title": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
@@ -456,71 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-24-el-supercomputador-mas-potente-del-mundo-esta-en"
-        },
-        {
-          "title": "Airbus está probando IA en una de las maniobras más delicadas de un vuelo: el aterrizaje",
-          "url": "https://www.xataka.com/movilidad/airbus-esta-probando-ia-maniobras-delicadas-vuelo-aterrizaje",
-          "source": "Xataka",
-          "published_at": "2026-06-23T19:31:01Z",
-          "summary": "Aterrizar un avión comercial parece, visto desde la ventanilla, una secuencia casi rutinaria, pero en realidad, es una de las fases más exigentes del vuelo, una maniobra en la que pilotos, sistemas de navegación, condici…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-23-airbus-esta-probando-ia-en-una-de-las"
-        },
-        {
-          "title": "La solución de Nvidia para reducir a cero el consumo de agua en centros de datos apunta a ser una genialidad: usar agua caliente",
-          "url": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
-          "source": "Xataka",
-          "published_at": "2026-06-23T17:01:01Z",
-          "summary": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-23-la-solucion-de-nvidia-para-reducir-a-cero"
-        },
-        {
-          "title": "Las nuevas Meta Glasses son 0% Ray-Ban. Esa es una gran noticia para nuestro bolsillo",
-          "url": "https://www.xataka.com/wearables/meta-glasses-2026-caracteristicas-precio-ficha-tecnica",
-          "source": "Xataka",
-          "published_at": "2026-06-23T14:47:01Z",
-          "summary": "Meta acaba de anunciar el lanzamiento de varios nuevos pares de gafas inteligentes a las que llama sencillamente Meta Glasses (\"Gafas Meta\"), pero lo realmente llamativo del lanzamiento no son las especificaciones de las…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-23-las-nuevas-meta-glasses-son-0-ray-ban-esa"
-        },
-        {
-          "title": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II",
-          "url": "https://www.xataka.com/robotica-e-ia/ingeniero-microsoft-tuvo-idea-genial-para-demostrar-que-ia-no-consciente-usar-cabras-age-of-empires-ii",
-          "source": "Xataka",
-          "published_at": "2026-06-23T12:31:00Z",
-          "summary": "¿Puede un modelo de inteligencia artificial \"sentir\" y ser \"consciente de sí mismo\" ? Parece una pregunta absurda, pero hay gente que está comenzando a pensar que así es. La tecnología es cada vez más convincente y preci…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-23-un-ingeniero-de-microsoft-tuvo-una-idea-genial"
-        },
-        {
-          "title": "\"Los repartidores ya no serán necesarios\": Richard Liu, CEO del \"Amazon chino\", señala el destino de 700.000 empleados",
-          "url": "https://www.xataka.com/robotica-e-ia/repartidores-no-seran-necesarios-richard-liu-ceo-amazon-chino-senala-destino-700-000-empleados",
-          "source": "Xataka",
-          "published_at": "2026-06-23T12:17:00Z",
-          "summary": "Uno de los debates internos que están teniendo que asumir algunas de las mayores empresas tecnológicas y de logística gira en torno a la automatización de sus plantillas : sustituir a trabajadores humanos por robots que …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-23-los-repartidores-ya-no-seran-necesarios-richard-liu"
         }
       ]
     }
@@ -557,6 +487,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "How agents are transforming work",
+          "url": "https://openai.com/index/how-agents-are-transforming-work",
+          "source": "OpenAI",
+          "published_at": "2026-06-25T02:00:00Z",
+          "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-25-how-agents-are-transforming-work"
+        },
         {
           "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
           "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -610,19 +553,6 @@
           "id": "openai-2026-06-23-how-omio-is-building-the-future-of-conversational"
         },
         {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "url": "https://openai.com/index/daybreak-securing-the-world",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
-        },
-        {
           "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
           "url": "https://openai.com/index/patch-the-planet",
           "source": "OpenAI",
@@ -634,6 +564,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
+        },
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "OpenAI",
+          "published_at": "2026-06-22T10:00:00Z",
+          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
         },
         {
           "title": "Codex-maxxing for long-running work",
@@ -660,45 +603,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
-        },
-        {
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T17:00:00Z",
-          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-new-usage-analytics-and-updated-spend-controls-for"
-        },
-        {
-          "title": "Improving health intelligence in ChatGPT",
-          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T11:00:00Z",
-          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-improving-health-intelligence-in-chatgpt"
-        },
-        {
-          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-          "source": "OpenAI",
-          "published_at": "2026-06-18T08:00:00Z",
-          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-18-using-ai-to-help-physicians-diagnose-rare-genetic"
         }
       ]
     },
@@ -726,17 +630,17 @@
       "name": "Google AI",
       "items": [
         {
-          "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+          "title": "Our latest Google Finance upgrades, including a new app",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
           "source": "Google AI",
-          "published_at": "2026-06-17T15:00:00Z",
-          "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+          "published_at": "2026-06-25T16:00:00Z",
+          "summary": "The Google Finance logo, surrounded by elements of the user interface",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-06-17-new-research-shows-how-amie-our-medical-ai"
+          "id": "googleai-2026-06-25-our-latest-google-finance-upgrades-including-a-new"
         }
       ]
     },
