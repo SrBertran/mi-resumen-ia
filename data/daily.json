@@ -1,72 +1,72 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T07:31:05.073220Z",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T07:45:22.124800Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Mythos vuelve solo para un selecto club de empresas estadounidenses. Y deja algo claro: quién controla la IA más potente del mundo",
-      "url": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "source": "The Verge",
+      "published_at": "2026-06-28T07:00:00Z",
+      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique a…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-28-tmd-s-keyless-bike-lock-is-a-280"
+    },
+    {
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "source": "The Verge",
+      "published_at": "2026-06-27T21:20:32Z",
+      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-27-teenage-engineering-adds-lo-fi-mode-usb-audio-and"
+    },
+    {
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge",
+      "published_at": "2026-06-27T18:39:32Z",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-27-margaret-atwood-says-the-problem-with-ai-is"
+    },
+    {
+      "title": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
+      "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
       "source": "Xataka",
-      "published_at": "2026-06-27T06:19:40Z",
-      "summary": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solu…",
+      "published_at": "2026-06-27T18:00:13Z",
+      "summary": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-27-mythos-vuelve-solo-para-un-selecto-club-de"
+      "id": "xataka-2026-06-27-harto-de-la-ia-un-programador-creo-un"
     },
     {
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
       "source": "The Verge",
-      "published_at": "2026-06-27T02:56:52Z",
-      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remai…",
+      "published_at": "2026-06-27T17:28:18Z",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Lib…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-27-prime-day-is-almost-over-but-these-are"
-    },
-    {
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "source": "The Verge",
-      "published_at": "2026-06-27T02:54:45Z",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Som…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-27-it-s-the-last-day-of-prime-day"
-    },
-    {
-      "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
-      "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-      "source": "The Verge",
-      "published_at": "2026-06-27T02:33:54Z",
-      "summary": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to i…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-27-24-prime-day-deals-verge-readers-are-grabbing"
-    },
-    {
-      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "source": "The Verge",
-      "published_at": "2026-06-27T00:42:42Z",
-      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-27-the-17-best-robot-vacuum-deals-you-can"
+      "id": "theverge-2026-06-27-apple-wants-permission-to-buy-memory-from-a"
     }
   ],
   "sections": [
@@ -245,64 +245,38 @@
       ]
     },
     {
-      "name": "Investigación",
+      "name": "Regulación",
       "items": [
         {
-          "title": "Why Does a Bank Need a Chief Scientist?",
-          "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-25T17:32:32Z",
-          "summary": "This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chie…",
+          "title": "La gran guerra legal de la IA: el mapa de las 100 demandas que acorralan a las big tech",
+          "url": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
+          "source": "Xataka",
+          "published_at": "2026-06-27T08:00:00Z",
+          "summary": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co…",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "regulación"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-06-25-why-does-a-bank-need-a-chief-scientist"
-        },
-        {
-          "title": "What it Means to Be a Mathematician When AI Does the Math",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-25T13:00:01Z",
-          "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on si…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-25-what-it-means-to-be-a-mathematician-when"
+          "category": "regulación",
+          "id": "xataka-2026-06-27-la-gran-guerra-legal-de-la-ia-el"
         }
       ]
     },
     {
-      "name": "Herramientas",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Run a vLLM Server on HF Jobs in One Command",
-          "url": "https://huggingface.co/blog/vllm-jobs",
-          "source": "Hugging Face",
-          "published_at": "2026-06-26T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "ConlangCrafter Turns AI to Imagining Languages",
+          "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-06-27T13:00:01Z",
+          "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish langu…",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "investigación"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-26-run-a-vllm-server-on-hf-jobs-in"
-        },
-        {
-          "title": "Which tokens does a hybrid model predict better?",
-          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-          "source": "Hugging Face",
-          "published_at": "2026-06-25T16:11:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-25-which-tokens-does-a-hybrid-model-predict-better"
+          "category": "investigación",
+          "id": "ieee-2026-06-27-conlangcrafter-turns-ai-to-imagining-languages"
         }
       ]
     },
@@ -310,82 +284,108 @@
       "name": "General",
       "items": [
         {
-          "title": "Anthropic&#8217;s Mythos 5 is back",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+          "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
+          "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
           "source": "The Verge",
-          "published_at": "2026-06-27T00:33:44Z",
-          "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according t…",
+          "published_at": "2026-06-27T15:15:00Z",
+          "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-anthropic-8217-s-mythos-5-is-back"
+          "id": "theverge-2026-06-27-the-guardian-8217-s-kai-wright-refuses-to"
         },
         {
-          "title": "Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights",
-          "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+          "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+          "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
           "source": "The Verge",
-          "published_at": "2026-06-27T00:20:50Z",
-          "summary": "Philips Hue products don&#8217;t often see major discounts, which makes this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly across much of the company&#8217;s smart lighting lineup, wi…",
+          "published_at": "2026-06-27T14:00:00Z",
+          "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam sui…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-prime-day-8217-s-final-hours-bring-rare"
+          "id": "theverge-2026-06-27-indie-developers-got-tired-of-waiting-for-a"
         },
         {
-          "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
-          "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
+          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
           "source": "The Verge",
-          "published_at": "2026-06-26T22:51:28Z",
-          "summary": "We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The company has heavily di…",
+          "published_at": "2026-06-27T13:30:00Z",
+          "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-26-my-favorite-govee-smart-lamps-are-at-their"
+          "id": "theverge-2026-06-27-why-is-apple-asking-me-to-pay-more"
         },
         {
-          "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-          "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+          "title": "Inside the room where the smart home industry is still betting on Matter",
+          "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
           "source": "The Verge",
-          "published_at": "2026-06-26T22:09:46Z",
-          "summary": "We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my m…",
+          "published_at": "2026-06-27T13:00:00Z",
+          "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-26-after-covering-prime-day-for-36-hours-over"
+          "id": "theverge-2026-06-27-inside-the-room-where-the-smart-home-industry"
         },
         {
-          "title": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
-          "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
+          "title": "This puzzle game&#8217;s simple premise hides surprising depth",
+          "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
           "source": "The Verge",
-          "published_at": "2026-06-26T21:25:22Z",
-          "summary": "Prime Day has a funny way of convincing you to buy things you weren&#8217;t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour lat…",
+          "published_at": "2026-06-27T12:00:00Z",
+          "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplic…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-26-our-favorite-prime-day-gadgets-under-100-you"
+          "id": "theverge-2026-06-27-this-puzzle-game-8217-s-simple-premise-hides"
         },
         {
-          "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
-          "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+          "title": "This might be the new best smart speaker",
+          "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
           "source": "The Verge",
-          "published_at": "2026-06-26T19:42:52Z",
-          "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook N…",
+          "published_at": "2026-06-27T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Inst…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-26-these-are-the-best-deals-you-can-still"
+          "id": "theverge-2026-06-27-this-might-be-the-new-best-smart-speaker"
+        },
+        {
+          "title": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
+          "url": "https://www.xataka.com/empresas-y-economia/yann-lecun-padrino-ia-bloqueas-ia-porque-crees-que-peligrosa-estas-oscurantismo-medieval",
+          "source": "Xataka",
+          "published_at": "2026-06-27T11:00:13Z",
+          "summary": "La frase \"este modelo de IA es tan peligroso que sería un error hacerlo público\" es algo más viejo que las primeras versiones públicas de ChatGPT. Esa narrativa de la IA \"peligrosa\" tiene más de marketing que de realidad…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-27-yann-lecun-padrino-de-la-ia-si-bloqueas"
+        },
+        {
+          "title": "EEUU ata en corto a Anthropic: Mythos vuelve, pero bajo el control estricto de la administración Trump",
+          "url": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
+          "source": "Xataka",
+          "published_at": "2026-06-27T06:19:00Z",
+          "summary": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-27-eeuu-ata-en-corto-a-anthropic-mythos-vuelve"
         },
         {
           "title": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
@@ -425,19 +425,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-26-que-es-eustella-precios-y-que-puedes-hacer"
-        },
-        {
-          "title": "\"Si les dices que no, no te vuelven a hablar\": Valve culpa a los fabricantes de RAM por el precio de la Steam Machine",
-          "url": "https://www.xataka.com/videojuegos/precio-steam-machine-oferta-que-valve-no-podia-reclazar-les-dices-que-no-no-te-vuelven-a-hablar",
-          "source": "Xataka",
-          "published_at": "2026-06-25T14:31:32Z",
-          "summary": "La actualidad tecnológica y del videojuego está marcada esta semana por dos cosas muy claras: ' GTA VI ' por un lado, Steam Machine por el otro. Ambas tienen algo en común: polémica por el precio. En el caso del juego de…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-25-si-les-dices-que-no-no-te-vuelven"
         }
       ]
     }
