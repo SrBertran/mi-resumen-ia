@@ -1,72 +1,72 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T07:45:22.124800Z",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T08:13:59.630950Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
-      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
       "source": "The Verge",
-      "published_at": "2026-06-28T07:00:00Z",
-      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique a…",
+      "published_at": "2026-06-28T21:42:51Z",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenA…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-28-tmd-s-keyless-bike-lock-is-a-280"
+      "id": "theverge-2026-06-28-china-s-z-ai-claims-it-can-match"
     },
     {
-      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
       "source": "The Verge",
-      "published_at": "2026-06-27T21:20:32Z",
-      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo…",
+      "published_at": "2026-06-28T20:27:36Z",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-27-teenage-engineering-adds-lo-fi-mode-usb-audio-and"
+      "id": "theverge-2026-06-28-suno-launches-spark-incubator-program-to-feed-independent"
     },
     {
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
       "source": "The Verge",
-      "published_at": "2026-06-27T18:39:32Z",
-      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of …",
+      "published_at": "2026-06-28T17:20:59Z",
+      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-06-27-margaret-atwood-says-the-problem-with-ai-is"
+      "id": "theverge-2026-06-28-china-claims-the-world-8217-s-fastest-supercomputer"
     },
     {
-      "title": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
-      "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
+      "title": "Masayoshi Son, CEO de SoftBank: \"Decir que es una burbuja es una blasfemia contra la IA, esto no es más que el principio\"",
+      "url": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
       "source": "Xataka",
-      "published_at": "2026-06-27T18:00:13Z",
-      "summary": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte…",
+      "published_at": "2026-06-28T17:00:14Z",
+      "summary": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente . De otro, los más optimistas que ven en la IA una …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-06-27-harto-de-la-ia-un-programador-creo-un"
+      "id": "xataka-2026-06-28-masayoshi-son-ceo-de-softbank-decir-que-es"
     },
     {
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "source": "The Verge",
-      "published_at": "2026-06-27T17:28:18Z",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Lib…",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI",
+      "published_at": "2026-06-28T17:00:00Z",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-06-27-apple-wants-permission-to-buy-memory-from-a"
+      "category": "lanzamientos",
+      "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
     }
   ],
   "sections": [
@@ -215,50 +215,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
-        },
-        {
-          "title": "Codex-maxxing for long-running work",
-          "url": "https://openai.com/index/codex-maxxing-long-running-work",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T00:00:00Z",
-          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-codex-maxxing-for-long-running-work"
-        },
-        {
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "source": "OpenAI",
-          "published_at": "2026-06-21T23:00:00Z",
-          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
-        }
-      ]
-    },
-    {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "La gran guerra legal de la IA: el mapa de las 100 demandas que acorralan a las big tech",
-          "url": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
-          "source": "Xataka",
-          "published_at": "2026-06-27T08:00:00Z",
-          "summary": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-06-27-la-gran-guerra-legal-de-la-ia-el"
         }
       ]
     },
@@ -284,82 +240,147 @@
       "name": "General",
       "items": [
         {
-          "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
-          "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+          "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+          "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
           "source": "The Verge",
-          "published_at": "2026-06-27T15:15:00Z",
-          "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety,…",
+          "published_at": "2026-06-28T16:30:00Z",
+          "summary": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-the-guardian-8217-s-kai-wright-refuses-to"
+          "id": "theverge-2026-06-28-the-cube-is-jim-henson-s-little-known-proto-black"
         },
         {
-          "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-          "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
           "source": "The Verge",
-          "published_at": "2026-06-27T14:00:00Z",
-          "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam sui…",
+          "published_at": "2026-06-28T14:12:06Z",
+          "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPh…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-indie-developers-got-tired-of-waiting-for-a"
+          "id": "theverge-2026-06-28-prosecutors-used-chatgpt-logs-as-evidence-in-the"
         },
         {
-          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "title": "Nest&#8217;s quest to fix your thermostat",
+          "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
           "source": "The Verge",
-          "published_at": "2026-06-27T13:30:00Z",
-          "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the…",
+          "published_at": "2026-06-28T12:02:44Z",
+          "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-why-is-apple-asking-me-to-pay-more"
+          "id": "theverge-2026-06-28-nest-8217-s-quest-to-fix-your-thermostat"
         },
         {
-          "title": "Inside the room where the smart home industry is still betting on Matter",
-          "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+          "title": "Ad-free streaming is a luxury now",
+          "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
           "source": "The Verge",
-          "published_at": "2026-06-27T13:00:00Z",
-          "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was…",
+          "published_at": "2026-06-28T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. O…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-inside-the-room-where-the-smart-home-industry"
+          "id": "theverge-2026-06-28-ad-free-streaming-is-a-luxury-now"
         },
         {
-          "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-          "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-          "source": "The Verge",
-          "published_at": "2026-06-27T12:00:00Z",
-          "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplic…",
+          "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+          "url": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
+          "source": "Xataka",
+          "published_at": "2026-06-28T11:30:13Z",
+          "summary": "Que últimamente no están las cosas muy allá en la industria tech es una realidad (según en qué lado estés, claro). La economía en torno a la exacerbada demanda de los centros de datos de IA se ha desvirtualizado tanto qu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-this-puzzle-game-8217-s-simple-premise-hides"
+          "id": "xataka-2026-06-28-satya-nadella-ceo-de-microsoft-la-sociedad-no"
         },
         {
-          "title": "This might be the new best smart speaker",
-          "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
-          "source": "The Verge",
-          "published_at": "2026-06-27T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Inst…",
+          "title": "Foxconn quiere fabricarlo todo. TODO",
+          "url": "https://www.xataka.com/empresas-y-economia/foxconn-quiere-fabricarlo-todo-todo",
+          "source": "Xataka",
+          "published_at": "2026-06-28T10:00:14Z",
+          "summary": "La semana pasada se celebró Vivatech. Se trata de una de las mayores ferias de tecnología del mundo y una de las menos concretas. Hay robots humanoides , robots que se dedican únicamente a hacer cosas graciosas, roboasis…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-27-this-might-be-the-new-best-smart-speaker"
+          "id": "xataka-2026-06-28-foxconn-quiere-fabricarlo-todo-todo"
+        },
+        {
+          "title": "Un 49% de estadounidenses ya usan la IA con frecuencia. Solo un 16% cree que trae algo bueno",
+          "url": "https://www.xataka.com/robotica-e-ia/49-estadounidenses-usan-ia-frecuencia-solo-16-cree-que-sera-buena-para-mundo",
+          "source": "Xataka",
+          "published_at": "2026-06-28T09:00:13Z",
+          "summary": "La gente está usando la IA sin parar, pero tienen miedo de ela. Es la gran conclusión de un estudio reciente de Pew Research Center en el que se plantea un dilema singular. La adopción se dispara, pero el pesimismo y la …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-28-un-49-de-estadounidenses-ya-usan-la-ia"
+        },
+        {
+          "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+          "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+          "source": "The Verge",
+          "published_at": "2026-06-28T07:00:00Z",
+          "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-28-tmd-s-keyless-bike-lock-is-a-280"
+        },
+        {
+          "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+          "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+          "source": "The Verge",
+          "published_at": "2026-06-27T21:20:32Z",
+          "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-27-teenage-engineering-adds-lo-fi-mode-usb-audio-and"
+        },
+        {
+          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+          "source": "The Verge",
+          "published_at": "2026-06-27T18:39:32Z",
+          "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-27-margaret-atwood-says-the-problem-with-ai-is"
+        },
+        {
+          "title": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
+          "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
+          "source": "Xataka",
+          "published_at": "2026-06-27T18:00:13Z",
+          "summary": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-27-harto-de-la-ia-un-programador-creo-un"
         },
         {
           "title": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
@@ -373,58 +394,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-27-yann-lecun-padrino-de-la-ia-si-bloqueas"
-        },
-        {
-          "title": "EEUU ata en corto a Anthropic: Mythos vuelve, pero bajo el control estricto de la administración Trump",
-          "url": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
-          "source": "Xataka",
-          "published_at": "2026-06-27T06:19:00Z",
-          "summary": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-27-eeuu-ata-en-corto-a-anthropic-mythos-vuelve"
-        },
-        {
-          "title": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
-          "url": "https://www.xataka.com/robotica-e-ia/christian-klein-ceo-sap-tiene-claro-tres-cuatro-anos-posible-que-no-haya-nadie-desarrollando-software-aqui",
-          "source": "Xataka",
-          "published_at": "2026-06-26T17:47:01Z",
-          "summary": "SAP es una de las empresas de software más grandes del mundo, por eso, cuando su CEO afirma que en muy poco tiempo no habrá nadie programando , es que la cosa se va a poner realmente complicada para los ingenieros de sof…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-26-christian-klein-ceo-de-sap-lo-tiene-claro"
-        },
-        {
-          "title": "Anthropic acusa a Alibaba de clonar Claude con 25.000 cuentas falsas: es el mayor ataque de destilación jamás registrado",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acusa-a-alibaba-clonar-claude-25-000-cuentas-falsas-mayor-robo-ia-historia",
-          "source": "Xataka",
-          "published_at": "2026-06-26T15:31:39Z",
-          "summary": "Anthropic ha enviado una carta confidencial al Senado&nbsp;de los Estados Unidos&nbsp;en la que acusa a Alibaba de haber orquestado el ataque de destilación más grande que ha sufrido Claude .&nbsp;Según comparte Bloomber…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-26-anthropic-acusa-a-alibaba-de-clonar-claude-con"
-        },
-        {
-          "title": "Qué es Eustella, precios y qué puedes hacer con la nueva alternativa europea a Claude, Gemini o ChatGPT pero con agentes",
-          "url": "https://www.xataka.com/basics/que-eustella-precios-que-puedes-hacer-nueva-alternativa-europea-a-claude-gemini-chatgpt-agentes",
-          "source": "Xataka",
-          "published_at": "2026-06-26T12:18:32Z",
-          "summary": "Vamos a decirte qué es Eustella y cómo funciona esta alternativa europea a OpenClaw. Se trata de un asistente de inteligencia artificial para Android e iOS, que se promociona con la privacidad como bandera al tener todos…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-26-que-es-eustella-precios-y-que-puedes-hacer"
         }
       ]
     }
@@ -461,6 +430,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-06-28T17:00:00Z",
+          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
+        },
         {
           "title": "Previewing GPT-5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -564,32 +546,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
-        },
-        {
-          "title": "Codex-maxxing for long-running work",
-          "url": "https://openai.com/index/codex-maxxing-long-running-work",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T00:00:00Z",
-          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-codex-maxxing-for-long-running-work"
-        },
-        {
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "source": "OpenAI",
-          "published_at": "2026-06-21T23:00:00Z",
-          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-21-samsung-electronics-brings-chatgpt-and-codex-to-employees"
         }
       ]
     },
