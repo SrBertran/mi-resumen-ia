@@ -1,78 +1,117 @@
 {
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T08:13:59.630950Z",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T07:45:20.048893Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "source": "The Verge",
-      "published_at": "2026-06-28T21:42:51Z",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenA…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-28-china-s-z-ai-claims-it-can-match"
-    },
-    {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "source": "The Verge",
-      "published_at": "2026-06-28T20:27:36Z",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants,…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-28-suno-launches-spark-incubator-program-to-feed-independent"
-    },
-    {
-      "title": "China claims the world&#8217;s fastest supercomputer",
-      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
-      "source": "The Verge",
-      "published_at": "2026-06-28T17:20:59Z",
-      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-06-28-china-claims-the-world-8217-s-fastest-supercomputer"
-    },
-    {
-      "title": "Masayoshi Son, CEO de SoftBank: \"Decir que es una burbuja es una blasfemia contra la IA, esto no es más que el principio\"",
-      "url": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
-      "source": "Xataka",
-      "published_at": "2026-06-28T17:00:14Z",
-      "summary": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente . De otro, los más optimistas que ven en la IA una …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-06-28-masayoshi-son-ceo-de-softbank-decir-que-es"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-06-28T17:00:00Z",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI",
+      "published_at": "2026-06-30T06:00:00Z",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "why_it_matters": "",
       "tags": [
         "producto"
       ],
       "category": "lanzamientos",
-      "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
+      "id": "googleai-2026-06-30-unlocking-britain-s-next-era-of-productivity-building"
+    },
+    {
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "source": "The Verge",
+      "published_at": "2026-06-29T21:06:14Z",
+      "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's go…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-29-t-mobile-is-booting-customers-from-its-oldest-plans"
+    },
+    {
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "source": "The Verge",
+      "published_at": "2026-06-29T21:00:00Z",
+      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-29-after-a-great-start-dc-s-new-cinematic"
+    },
+    {
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "source": "The Verge",
+      "published_at": "2026-06-29T20:18:26Z",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-29-leaked-iphone-18-pro-photos-reportedly-wound-up"
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge",
+      "published_at": "2026-06-29T19:47:35Z",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it ha…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-06-29-tidal-won-t-pay-royalties-on-ai-generated-music"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "source": "Google AI",
+          "published_at": "2026-06-29T16:00:00Z",
+          "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-29-ask-an-ai-expert-what-exactly-is-the"
+        },
+        {
+          "title": "Mapping Europe’s AI Workforce Opportunity",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "source": "OpenAI",
+          "published_at": "2026-06-29T07:00:00Z",
+          "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-29-mapping-europe-s-ai-workforce-opportunity"
+        },
+        {
+          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-06-28T17:00:00Z",
+          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
+        },
         {
           "title": "Previewing GPT-5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -163,58 +202,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-23-helping-build-shared-standards-for-advanced-ai"
-        },
-        {
-          "title": "How Omio is building the future of conversational travel",
-          "url": "https://openai.com/index/omio",
-          "source": "OpenAI",
-          "published_at": "2026-06-23T00:00:00Z",
-          "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-23-how-omio-is-building-the-future-of-conversational"
-        },
-        {
-          "title": "Introducing Claude Tag",
-          "url": "https://www.anthropic.com/news/introducing-claude-tag",
-          "source": "Anthropic",
-          "published_at": "2026-06-23T00:00:00Z",
-          "summary": "Introducing Claude Tag",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-06-23-introducing-claude-tag"
-        },
-        {
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "url": "https://openai.com/index/patch-the-planet",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
-        },
-        {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "url": "https://openai.com/index/daybreak-securing-the-world",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
         }
       ]
     },
@@ -222,17 +209,35 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "ConlangCrafter Turns AI to Imagining Languages",
-          "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
+          "title": "The Lab Mistake That Might Revolutionize Computing",
+          "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
           "source": "IEEE Spectrum",
-          "published_at": "2026-06-27T13:00:01Z",
-          "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish langu…",
+          "published_at": "2026-06-29T13:00:01Z",
+          "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction …",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-06-27-conlangcrafter-turns-ai-to-imagining-languages"
+          "id": "ieee-2026-06-29-the-lab-mistake-that-might-revolutionize-computing"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "DiScoFormer: One transformer for density and score, across distributions",
+          "url": "https://huggingface.co/blog/allenai/discoformer",
+          "source": "Hugging Face",
+          "published_at": "2026-06-29T18:02:48Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-06-29-discoformer-one-transformer-for-density-and-score-across"
         }
       ]
     },
@@ -240,56 +245,134 @@
       "name": "General",
       "items": [
         {
-          "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
-          "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+          "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
+          "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
           "source": "The Verge",
-          "published_at": "2026-06-28T16:30:00Z",
-          "summary": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The…",
+          "published_at": "2026-06-29T19:12:15Z",
+          "summary": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-28-the-cube-is-jim-henson-s-little-known-proto-black"
+          "id": "theverge-2026-06-29-sony-8217-s-next-gen-playstation-will-go-beyond"
         },
         {
-          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "title": "OpenAI is teasing new hardware… for Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
           "source": "The Verge",
-          "published_at": "2026-06-28T14:12:06Z",
-          "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPh…",
+          "published_at": "2026-06-29T18:52:03Z",
+          "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-28-prosecutors-used-chatgpt-logs-as-evidence-in-the"
+          "id": "theverge-2026-06-29-openai-is-teasing-new-hardware-for-codex"
         },
         {
-          "title": "Nest&#8217;s quest to fix your thermostat",
-          "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+          "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
+          "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-06-28T12:02:44Z",
-          "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset t…",
+          "published_at": "2026-06-29T17:49:12Z",
+          "summary": "Most of Apple&#8217;s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn&#8217;t a good time to consider bu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-28-nest-8217-s-quest-to-fix-your-thermostat"
+          "id": "theverge-2026-06-29-at-499-apple-8217-s-m3-powered-ipad-air"
         },
         {
-          "title": "Ad-free streaming is a luxury now",
-          "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
-          "source": "The Verge",
-          "published_at": "2026-06-28T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. O…",
+          "title": "La moda del prompt engineering ya pasó. Ahora lo que se lleva es el loop engineering",
+          "url": "https://www.xataka.com/robotica-e-ia/moda-prompt-engineering-paso-se-lleva-loop-engineering",
+          "source": "Xataka",
+          "published_at": "2026-06-29T17:30:52Z",
+          "summary": "En los últimos tres años hemos visto cómo si uno quería ser un usuario avanzado de IA, tenía que convertirse en todo un ingeniero de prompts : la forma de preguntarle cosas a la IA era vital para lograr los mejores resul…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-06-28-ad-free-streaming-is-a-luxury-now"
+          "id": "xataka-2026-06-29-la-moda-del-prompt-engineering-ya-paso-ahora"
+        },
+        {
+          "title": "The best July 4th sales we found so far",
+          "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-06-29T16:42:48Z",
+          "summary": "July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of fami…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-29-the-best-july-4th-sales-we-found-so"
+        },
+        {
+          "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+          "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+          "source": "The Verge",
+          "published_at": "2026-06-29T16:00:00Z",
+          "summary": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even more private,\" allo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-29-whatsapp-is-launching-usernames-here-s-how-to"
+        },
+        {
+          "title": "Lawmakers want to ban AI companies from selling your health data",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+          "source": "The Verge",
+          "published_at": "2026-06-29T16:00:00Z",
+          "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-06-29-lawmakers-want-to-ban-ai-companies-from-selling"
+        },
+        {
+          "title": "Alguien usó Opus 4.8 para que analizara una resonancia magnética. Lo que siguió confirma que no nos podemos fiar de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/alguien-uso-opus-4-8-analizara-resonancia-magnetica-que-siguio-confirma-que-no-nos-podemos-fiar-ia",
+          "source": "Xataka",
+          "published_at": "2026-06-29T13:30:13Z",
+          "summary": "Un desarrollador llamado Antoine Finkelstein llevaba semanas con el hombro derecho dolorido. Tras visitar a un ortopedista se realizó una resonancia magnética en la zona afectada, y según el informe médico, tenía una rot…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-29-alguien-uso-opus-4-8-para-que-analizara"
+        },
+        {
+          "title": "EEUU se ha dado cuenta de que millones de trabajadores no tienen futuro por la IA. Y se ha puesto manos a la obra",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
+          "source": "Xataka",
+          "published_at": "2026-06-29T10:00:14Z",
+          "summary": "Una pregunta lleva recorriendo los consejos de ministros y los principales foros económicos del mundo desde hace que ChatGPT mostró sus capacidades en noviembre de 2022. ¿Cuántos puestos de trabajo va a destruir la IA ? …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-29-eeuu-se-ha-dado-cuenta-de-que-millones"
+        },
+        {
+          "title": "\"Decir que es una burbuja es una blasfemia contra la IA\": un señor que ha invertido un dineral en OpenAI",
+          "url": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
+          "source": "Xataka",
+          "published_at": "2026-06-28T17:00:00Z",
+          "summary": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente . De otro, los más optimistas que ven en la IA una …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-06-28-decir-que-es-una-burbuja-es-una-blasfemia"
         },
         {
           "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
@@ -329,71 +412,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-06-28-un-49-de-estadounidenses-ya-usan-la-ia"
-        },
-        {
-          "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
-          "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-          "source": "The Verge",
-          "published_at": "2026-06-28T07:00:00Z",
-          "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-28-tmd-s-keyless-bike-lock-is-a-280"
-        },
-        {
-          "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-          "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
-          "source": "The Verge",
-          "published_at": "2026-06-27T21:20:32Z",
-          "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-27-teenage-engineering-adds-lo-fi-mode-usb-audio-and"
-        },
-        {
-          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-          "source": "The Verge",
-          "published_at": "2026-06-27T18:39:32Z",
-          "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-06-27-margaret-atwood-says-the-problem-with-ai-is"
-        },
-        {
-          "title": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
-          "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
-          "source": "Xataka",
-          "published_at": "2026-06-27T18:00:13Z",
-          "summary": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-27-harto-de-la-ia-un-programador-creo-un"
-        },
-        {
-          "title": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
-          "url": "https://www.xataka.com/empresas-y-economia/yann-lecun-padrino-ia-bloqueas-ia-porque-crees-que-peligrosa-estas-oscurantismo-medieval",
-          "source": "Xataka",
-          "published_at": "2026-06-27T11:00:13Z",
-          "summary": "La frase \"este modelo de IA es tan peligroso que sería un error hacerlo público\" es algo más viejo que las primeras versiones públicas de ChatGPT. Esa narrativa de la IA \"peligrosa\" tiene más de marketing que de realidad…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-27-yann-lecun-padrino-de-la-ia-si-bloqueas"
         }
       ]
     }
@@ -430,6 +448,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Mapping Europe’s AI Workforce Opportunity",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "source": "OpenAI",
+          "published_at": "2026-06-29T07:00:00Z",
+          "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-06-29-mapping-europe-s-ai-workforce-opportunity"
+        },
         {
           "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
           "url": "https://openai.com/index/hp-frontier-partnership",
@@ -507,45 +538,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-23-helping-build-shared-standards-for-advanced-ai"
-        },
-        {
-          "title": "How Omio is building the future of conversational travel",
-          "url": "https://openai.com/index/omio",
-          "source": "OpenAI",
-          "published_at": "2026-06-23T00:00:00Z",
-          "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-23-how-omio-is-building-the-future-of-conversational"
-        },
-        {
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "url": "https://openai.com/index/patch-the-planet",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-patch-the-planet-a-daybreak-initiative-to-support"
-        },
-        {
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "url": "https://openai.com/index/daybreak-securing-the-world",
-          "source": "OpenAI",
-          "published_at": "2026-06-22T10:00:00Z",
-          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-22-daybreak-tools-for-securing-every-organization-in-the"
         }
       ]
     },
@@ -572,6 +564,32 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "source": "Google AI",
+          "published_at": "2026-06-30T06:00:00Z",
+          "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-30-unlocking-britain-s-next-era-of-productivity-building"
+        },
+        {
+          "title": "Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "source": "Google AI",
+          "published_at": "2026-06-29T16:00:00Z",
+          "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-06-29-ask-an-ai-expert-what-exactly-is-the"
+        },
         {
           "title": "Our latest Google Finance upgrades, including a new app",
           "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
