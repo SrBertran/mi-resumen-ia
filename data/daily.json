@@ -1,78 +1,104 @@
 {
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T07:39:29.812711Z",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T07:36:22.833638Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
-      "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
-      "source": "The Verge",
-      "published_at": "2026-07-01T22:39:43Z",
-      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in …",
+      "title": "El nuevo fichaje estrella de la IA no es un ingeniero ni un científico de datos, pero domina el estoicismo: los filósofos",
+      "url": "https://www.xataka.com/robotica-e-ia/nuevo-fichaje-estrella-ia-no-ingeniero-cientifico-datos-domina-estoicismo-filosofos",
+      "source": "Xataka",
+      "published_at": "2026-07-03T06:31:54Z",
+      "summary": "Hace poco menos de una década, estudiar filosofía traía implícita una pregunta: \"¿Y de qué vas a vivir?\". Como muchas otras carreras de la rama de Humanidades , la filosofía registraba una baja tasa de inserción laboral.…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-01-apple-s-entry-level-macbook-pro-could-be-up"
+      "id": "xataka-2026-07-03-el-nuevo-fichaje-estrella-de-la-ia-no"
     },
     {
-      "title": "The funeral for PlayStation discs has begun",
-      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-      "source": "The Verge",
-      "published_at": "2026-07-01T22:03:37Z",
-      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"…",
+      "title": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
+      "url": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
+      "source": "Xataka",
+      "published_at": "2026-07-03T06:01:54Z",
+      "summary": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites ( hola…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-01-the-funeral-for-playstation-discs-has-begun"
+      "id": "xataka-2026-07-03-la-nasa-ha-conseguido-que-un-satelite-entienda"
     },
     {
-      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
-      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "title": "Sony’s PlayStation disc factory is already being repurposed",
+      "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
       "source": "The Verge",
-      "published_at": "2026-07-01T21:00:00Z",
-      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an &#8220;Xbox reset.&#8221;…",
+      "published_at": "2026-07-03T01:05:13Z",
+      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-01-xbox-s-reset-all-the-news-about-microsoft"
+      "id": "theverge-2026-07-03-sony-s-playstation-disc-factory-is-already-being"
     },
     {
-      "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-      "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
       "source": "The Verge",
-      "published_at": "2026-07-01T20:10:21Z",
-      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before laun…",
+      "published_at": "2026-07-02T22:09:33Z",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-01-elon-musk-denies-a-report-about-spacex-8217"
+      "id": "theverge-2026-07-02-tesla-driver-faces-manslaughter-charges-over-texas-crash"
     },
     {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI",
-      "published_at": "2026-07-01T18:15:00Z",
-      "summary": "June Pixel Drop hero",
+      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+      "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "source": "The Verge",
+      "published_at": "2026-07-02T21:09:06Z",
+      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"g…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-07-01-the-latest-ai-news-we-announced-in-june"
+      "category": "general",
+      "id": "theverge-2026-07-02-meta-has-a-new-app-called-pocket-that"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+          "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+          "source": "Anthropic",
+          "published_at": "2026-07-02T00:00:00Z",
+          "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-02-more-details-on-fable-5-s-cyber-safeguards"
+        },
+        {
+          "title": "The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+          "source": "Google AI",
+          "published_at": "2026-07-01T18:15:00Z",
+          "summary": "June Pixel Drop hero",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-01-the-latest-ai-news-we-announced-in-june"
+        },
         {
           "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
           "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
@@ -254,19 +280,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-26-previewing-gpt-5-6-sol-a-next-generation-model"
-        },
-        {
-          "title": "Our latest Google Finance upgrades, including a new app",
-          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-25T16:00:00Z",
-          "summary": "The Google Finance logo, surrounded by elements of the user interface",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-25-our-latest-google-finance-upgrades-including-a-new"
         }
       ]
     },
@@ -287,7 +300,7 @@
           "id": "ieee-2026-07-01-as-ai-reshapes-global-energy-systems-melbourne-leads"
         },
         {
-          "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
+          "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
           "url": "https://spectrum.ieee.org/orbital-data-center-hype",
           "source": "IEEE Spectrum",
           "published_at": "2026-07-01T12:00:01Z",
@@ -297,46 +310,7 @@
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-07-01-the-orbital-data-center-hype-machine-is-already"
-        },
-        {
-          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face",
-          "published_at": "2026-06-30T18:32:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-06-30-scarfbench-benchmarking-ai-agents-for-enterprise-java-framework"
-        },
-        {
-          "title": "Emily Bender Sets the Record Straight on “Stochastic Parrots”",
-          "url": "https://spectrum.ieee.org/stochastic-parrot",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-30T14:00:02Z",
-          "summary": "In March 2021, a group of four researchers—a collaboration of linguists and computer scientists—published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper rec…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-30-emily-bender-sets-the-record-straight-on-stochastic"
-        },
-        {
-          "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
-          "url": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-06-30T12:24:33Z",
-          "summary": "He was born into a storm, lightning split the summer sky, in a village the world had not yet heard of. The midwife called it a bad omen, his mother called it a sign. Your first life began in a storm, under open sky. One …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-06-30-poetry-for-engineers-nine-lives-of-nikola-tesla"
+          "id": "ieee-2026-07-01-the-space-based-data-center-hype-machine-is-already"
         }
       ]
     },
@@ -344,30 +318,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "source": "Hugging Face",
-          "published_at": "2026-07-01T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "“La IA Open Source es peligrosa”: el CEO de Anthropic repite lo que Ballmer dijo hace 25 años al calificar a Linux de ser “un cáncer”",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-open-source-peligrosa-ceo-anthropic-repite-que-ballmer-dijo-hace-25-anos-al-calificar-a-linux-ser-cancer",
+          "source": "Xataka",
+          "published_at": "2026-07-02T12:01:54Z",
+          "summary": "En junio de 2001 Steve Ballmer, que apenas llevaba año y medio como CEO de Microsoft, concedía una entrevista al diario Chicago Sun-Times. Durante el transcurso de la misma, haría una declaración histórica al decir que \"…",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-07-01-hugging-face-and-cerebras-bring-gemma-4-to"
-        },
-        {
-          "title": "Why Specialization Is Inevitable",
-          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-          "source": "Hugging Face",
-          "published_at": "2026-06-30T14:39:11Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-06-30-why-specialization-is-inevitable"
+          "id": "xataka-2026-07-02-la-ia-open-source-es-peligrosa-el-ceo"
         }
       ]
     },
@@ -375,82 +336,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-          "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+          "title": "The best July 4th sales we found so far",
+          "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-07-01T17:45:23Z",
-          "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last…",
+          "published_at": "2026-07-02T20:15:45Z",
+          "summary": "July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of fami…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-krafton-settles-with-subnautica-2-developer-after-drawn-out"
+          "id": "theverge-2026-07-02-the-best-july-4th-sales-we-found-so"
         },
         {
-          "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-          "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+          "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+          "url": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
           "source": "The Verge",
-          "published_at": "2026-07-01T17:41:23Z",
-          "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quie…",
+          "published_at": "2026-07-02T18:19:03Z",
+          "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-xbox-testing-disc-to-digital-feature-that-digitizes-a-physical"
+          "id": "theverge-2026-07-02-weber-marks-down-grills-and-griddles-to-their"
         },
         {
-          "title": "My favorite Kindle alternative is $30 off after a recent price increase",
-          "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+          "title": "The video game disc is dead",
+          "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
           "source": "The Verge",
-          "published_at": "2026-07-01T16:28:40Z",
-          "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broa…",
+          "published_at": "2026-07-02T16:31:09Z",
+          "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-my-favorite-kindle-alternative-is-30-off-after"
+          "id": "theverge-2026-07-02-the-video-game-disc-is-dead"
         },
         {
-          "title": "Comcast’s split could make or break Peacock",
-          "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+          "title": "Influencer screenings aren’t going away",
+          "url": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
           "source": "The Verge",
-          "published_at": "2026-07-01T15:30:00Z",
-          "summary": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, …",
+          "published_at": "2026-07-02T15:50:26Z",
+          "summary": "For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan's The Odyssey for influencers. But on Monday, influencers sat alongside traditional critics and journalists…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-comcast-s-split-could-make-or-break-peacock"
+          "id": "theverge-2026-07-02-influencer-screenings-aren-t-going-away"
         },
         {
-          "title": "The best Switch 2 case I’ve tried is cheaper than usual",
-          "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+          "title": "Godox’s feature-packed key light is down to its best price yet",
+          "url": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-07-01T15:00:00Z",
-          "summary": "Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be disco…",
+          "published_at": "2026-07-02T15:00:00Z",
+          "summary": "If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-the-best-switch-2-case-i-ve-tried"
+          "id": "theverge-2026-07-02-godox-s-feature-packed-key-light-is-down-to"
         },
         {
-          "title": "Sony is killing discs — and showing us why it’s a terrible idea",
-          "url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
+          "title": "Tesla&#8217;s Q2 sales jump 25 percent",
+          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
           "source": "The Verge",
-          "published_at": "2026-07-01T15:00:00Z",
-          "summary": "The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment o…",
+          "published_at": "2026-07-02T14:14:48Z",
+          "summary": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,75…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-01-sony-is-killing-discs----and-showing-us"
+          "id": "theverge-2026-07-02-tesla-8217-s-q2-sales-jump-25-percent"
+        },
+        {
+          "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
+          "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
+          "source": "The Verge",
+          "published_at": "2026-07-02T14:00:00Z",
+          "summary": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-02-ai-won-t-save-advertising-says-digitas-amy"
         },
         {
           "title": "Corea del Sur tiene un plan para dominar en chips de memoria y en robótica. Uno de un billón de dólares",
@@ -477,58 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-01-compartir-la-contrasena-de-chatgpt-o-claude-no"
-        },
-        {
-          "title": "Anthropic acaba de lanzar Claude Sonnet 5 con un objetivo claro: no cruzar ninguna línea roja",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-sonnet-5-objetivo-claro-no-cruzar-ninguna-linea-roja",
-          "source": "Xataka",
-          "published_at": "2026-07-01T07:15:00Z",
-          "summary": "Anthropic anunció ayer el lanzamiento de Claude Sonnet 5 , un modelo más \"normal\" y conservador de lo que nos tenía acostumbrados. También es más barato, lo que lo hace interesante para usarlo en esos agentes de IA que c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-01-anthropic-acaba-de-lanzar-claude-sonnet-5-con"
-        },
-        {
-          "title": "Ford ha comprobado que la IA tiene un problema de calidad. Su solución: volver a contratar a viejos empleados",
-          "url": "https://www.xataka.com/movilidad/ford-ha-comprobado-que-ia-tiene-problema-calidad-su-solucion-volver-a-contratar-a-viejos-empleados",
-          "source": "Xataka",
-          "published_at": "2026-06-30T17:46:00Z",
-          "summary": "Hace unos años, Ford se lanzó de cabeza a la automatización de su cadena de producción. Quería que sus sistemas de inteligencia artificial revisaran cada pieza y detectaran fallos antes de que el vehículo abandonara la f…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-30-ford-ha-comprobado-que-la-ia-tiene-un"
-        },
-        {
-          "title": "Quería saber el lugar más cercano para ir a ver el eclipse. Así que he programado una aplicación con IA para buscarlo",
-          "url": "https://www.xataka.com/robotica-e-ia/queria-saber-lugar-cercano-para-ir-a-ver-eclipse-asi-que-he-programado-aplicacion-ia-para-buscarlo",
-          "source": "Xataka",
-          "published_at": "2026-06-30T13:32:29Z",
-          "summary": "El próximo 12 de agosto estaré en Madrid, y eso es un problema. Y lo es porque Madrid no será el sitio óptimo para ver el evento astronómico del siglo: el eclipse solar que ese día tendrá a millones de personas pendiente…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-30-queria-saber-el-lugar-mas-cercano-para-ir"
-        },
-        {
-          "title": "\"Tenemos un Mythos en casa\": los expertos ya afirman que el modelo chino GLM-5.2 es tan \"peligroso\" como el de Anthropic",
-          "url": "https://www.xataka.com/robotica-e-ia/creadores-modelo-chino-glm-5-2-afirman-que-igual-peligroso-que-mythos-eso-plantea-momento-sputnik-para-ia-china",
-          "source": "Xataka",
-          "published_at": "2026-06-30T10:30:00Z",
-          "summary": "La brecha tecnológica entre EEUU y China sigue reduciéndose. Al menos, si hacemos caso de lo que afirman los últimos análisis sobre el modelo GLM-5.2 . Dos empresas independientes de ciberseguridad han hecho su propia va…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-06-30-tenemos-un-mythos-en-casa-los-expertos-ya"
         }
       ]
     }
@@ -663,6 +585,19 @@
       "name": "Anthropic",
       "items": [
         {
+          "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+          "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+          "source": "Anthropic",
+          "published_at": "2026-07-02T00:00:00Z",
+          "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-02-more-details-on-fable-5-s-cyber-safeguards"
+        },
+        {
           "title": "Claude Science, an AI workbench for scientists, is now available",
           "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
           "source": "Anthropic",
@@ -758,19 +693,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-29-ask-an-ai-expert-what-exactly-is-the"
-        },
-        {
-          "title": "Our latest Google Finance upgrades, including a new app",
-          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-          "source": "Google AI",
-          "published_at": "2026-06-25T16:00:00Z",
-          "summary": "The Google Finance logo, surrounded by elements of the user interface",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-06-25-our-latest-google-finance-upgrades-including-a-new"
         }
       ]
     },
