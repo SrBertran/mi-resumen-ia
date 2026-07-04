@@ -1,78 +1,91 @@
 {
-  "date": "2026-07-03",
-  "generated_at": "2026-07-03T07:36:22.833638Z",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T07:26:00.379081Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "El nuevo fichaje estrella de la IA no es un ingeniero ni un científico de datos, pero domina el estoicismo: los filósofos",
-      "url": "https://www.xataka.com/robotica-e-ia/nuevo-fichaje-estrella-ia-no-ingeniero-cientifico-datos-domina-estoicismo-filosofos",
-      "source": "Xataka",
-      "published_at": "2026-07-03T06:31:54Z",
-      "summary": "Hace poco menos de una década, estudiar filosofía traía implícita una pregunta: \"¿Y de qué vas a vivir?\". Como muchas otras carreras de la rama de Humanidades , la filosofía registraba una baja tasa de inserción laboral.…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-07-03-el-nuevo-fichaje-estrella-de-la-ia-no"
-    },
-    {
-      "title": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
-      "url": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
-      "source": "Xataka",
-      "published_at": "2026-07-03T06:01:54Z",
-      "summary": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites ( hola…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-07-03-la-nasa-ha-conseguido-que-un-satelite-entienda"
-    },
-    {
-      "title": "Sony’s PlayStation disc factory is already being repurposed",
-      "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "title": "Qi fan fan",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
       "source": "The Verge",
-      "published_at": "2026-07-03T01:05:13Z",
-      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg …",
+      "published_at": "2026-07-04T07:00:00Z",
+      "summary": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spe…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-03-sony-s-playstation-disc-factory-is-already-being"
+      "id": "theverge-2026-07-04-qi-fan-fan"
     },
     {
-      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
-      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
       "source": "The Verge",
-      "published_at": "2026-07-02T22:09:33Z",
-      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler …",
+      "published_at": "2026-07-03T17:33:55Z",
+      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-02-tesla-driver-faces-manslaughter-charges-over-texas-crash"
+      "id": "theverge-2026-07-03-amazon-updated-2023-s-fire-hd-10-tablet"
     },
     {
-      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-      "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "title": "While you’re watching the World Cup, the feds may be watching you",
+      "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
       "source": "The Verge",
-      "published_at": "2026-07-02T21:09:06Z",
-      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"g…",
+      "published_at": "2026-07-03T15:00:00Z",
+      "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the citie…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-02-meta-has-a-new-app-called-pocket-that"
+      "id": "theverge-2026-07-03-while-you-re-watching-the-world-cup-the"
+    },
+    {
+      "title": "This slim camera has a transparent LCD screen for a viewfinder",
+      "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
+      "source": "The Verge",
+      "published_at": "2026-07-03T14:51:38Z",
+      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scramblin…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-03-this-slim-camera-has-a-transparent-lcd-screen"
+    },
+    {
+      "title": "I finally got my Trump phone",
+      "url": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
+      "source": "The Verge",
+      "published_at": "2026-07-03T14:41:11Z",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-03-i-finally-got-my-trump-phone"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "source": "DeepMind",
+          "published_at": "2026-07-03T14:25:43Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-03-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+        },
         {
           "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
           "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
@@ -267,19 +280,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI",
-          "published_at": "2026-06-26T10:00:00Z",
-          "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+          "title": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
+          "url": "https://www.xataka.com/empresas-y-economia/meta-se-pasa-al-otro-lado-mostrador-ia-esta-pasando-comprar-computo-a-venderlo",
+          "source": "Xataka",
+          "published_at": "2026-07-03T09:15:54Z",
+          "summary": "Meta está diseñando un negocio de computación en la nube para vender a terceros el exceso de capacidad de sus centros de datos de IA, según ha adelantado Bloomberg . La empresa valora dos vías: Ofrecer acceso a modelos a…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-26-previewing-gpt-5-6-sol-a-next-generation-model"
+          "category": "negocio",
+          "id": "xataka-2026-07-03-meta-se-pasa-al-otro-lado-del-mostrador"
         }
       ]
     },
@@ -287,30 +305,17 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-          "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
+          "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+          "url": "https://spectrum.ieee.org/data-centers-grid-instability",
           "source": "IEEE Spectrum",
-          "published_at": "2026-07-01T16:01:27Z",
-          "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal …",
+          "published_at": "2026-07-03T12:00:01Z",
+          "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency …",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-07-01-as-ai-reshapes-global-energy-systems-melbourne-leads"
-        },
-        {
-          "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
-          "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-01T12:00:01Z",
-          "summary": "“ The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company wa…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-01-the-space-based-data-center-hype-machine-is-already"
+          "id": "ieee-2026-07-03-ai-s-volatile-power-use-quietly-tests-grid"
         }
       ]
     },
@@ -336,121 +341,147 @@
       "name": "General",
       "items": [
         {
-          "title": "The best July 4th sales we found so far",
-          "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-02T20:15:45Z",
-          "summary": "July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of fami…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-the-best-july-4th-sales-we-found-so"
-        },
-        {
-          "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
-          "url": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
-          "source": "The Verge",
-          "published_at": "2026-07-02T18:19:03Z",
-          "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-weber-marks-down-grills-and-griddles-to-their"
-        },
-        {
-          "title": "The video game disc is dead",
-          "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-07-02T16:31:09Z",
-          "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-the-video-game-disc-is-dead"
-        },
-        {
-          "title": "Influencer screenings aren’t going away",
-          "url": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
-          "source": "The Verge",
-          "published_at": "2026-07-02T15:50:26Z",
-          "summary": "For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan's The Odyssey for influencers. But on Monday, influencers sat alongside traditional critics and journalists…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-influencer-screenings-aren-t-going-away"
-        },
-        {
-          "title": "Godox’s feature-packed key light is down to its best price yet",
-          "url": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-02T15:00:00Z",
-          "summary": "If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-godox-s-feature-packed-key-light-is-down-to"
-        },
-        {
-          "title": "Tesla&#8217;s Q2 sales jump 25 percent",
-          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
-          "source": "The Verge",
-          "published_at": "2026-07-02T14:14:48Z",
-          "summary": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,75…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-tesla-8217-s-q2-sales-jump-25-percent"
-        },
-        {
-          "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-          "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-          "source": "The Verge",
-          "published_at": "2026-07-02T14:00:00Z",
-          "summary": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-02-ai-won-t-save-advertising-says-digitas-amy"
-        },
-        {
-          "title": "Corea del Sur tiene un plan para dominar en chips de memoria y en robótica. Uno de un billón de dólares",
-          "url": "https://www.xataka.com/robotica-e-ia/corea-sur-tiene-plan-para-dominar-chips-memoria-robotica-uno-billon-dolares",
+          "title": "El regreso de Fable 5 tiene un problema preocupante: Anthropic lo ha condenado al \"preferiría no hacerlo\"",
+          "url": "https://www.xataka.com/robotica-e-ia/regreso-fable-5-tiene-problema-preocupante-anthropic-ha-condenado-al-preferiria-no-hacerlo",
           "source": "Xataka",
-          "published_at": "2026-07-01T13:30:59Z",
-          "summary": "Corea del Sur ha puesto sobre la mesa un megaproyecto para la era de la IA. Se trata de una iniciativa compuesta de tres proyectos público-privados repartidos entre semiconductores, centros de datos y la prometedora indu…",
+          "published_at": "2026-07-03T14:30:44Z",
+          "summary": "El narrador anónimo de nuestra historia contrata a un escribiente llamado Bartleby para su despacho de abogados. El empleado comienza a trabajar de forma envidiable, pero a los tres días, algo pasa. El narrador le pide q…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-01-corea-del-sur-tiene-un-plan-para-dominar"
+          "id": "xataka-2026-07-03-el-regreso-de-fable-5-tiene-un-problema"
         },
         {
-          "title": "Compartir la contraseña de ChatGPT o Claude no es como compartir la de Netflix: hay gente aprendiéndolo por las malas",
-          "url": "https://www.xataka.com/robotica-e-ia/compartir-contrasena-chatgpt-claude-no-como-compartir-netflix-hay-gente-aprendiendolo-malas",
-          "source": "Xataka",
-          "published_at": "2026-07-01T12:30:59Z",
-          "summary": "Compartir contraseña es una práctica muy habitual en servicios de pago, una que a esos servicios no les hace ninguna gracia . Hay personas que han pensado que si compartían la contraseña de Netflix, por qué no hacer lo m…",
+          "title": "Hydration isn’t complicated: Just drink water",
+          "url": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
+          "source": "The Verge",
+          "published_at": "2026-07-03T14:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Euro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-01-compartir-la-contrasena-de-chatgpt-o-claude-no"
+          "id": "theverge-2026-07-03-hydration-isn-t-complicated-just-drink-water"
+        },
+        {
+          "title": "Anthropic wants to develop its own drugs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "source": "The Verge",
+          "published_at": "2026-07-03T13:56:52Z",
+          "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-03-anthropic-wants-to-develop-its-own-drugs"
+        },
+        {
+          "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+          "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+          "source": "The Verge",
+          "published_at": "2026-07-03T13:12:35Z",
+          "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-03-jon-prosser-responds-to-apple-lawsuit-by-blaming"
+        },
+        {
+          "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
+          "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
+          "source": "The Verge",
+          "published_at": "2026-07-03T13:00:00Z",
+          "summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that are IN for summer and O…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-03-the-verge-s-annual-summer-in-and-out"
+        },
+        {
+          "title": "Anthropic ya está preparando justo lo único que le faltaba para reforzar su liderazgo IA: un chip propio",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-esta-preparando-justo-unico-que-le-faltaba-para-reforzar-su-liderazgo-ia-chip-propio",
+          "source": "Xataka",
+          "published_at": "2026-07-03T12:30:44Z",
+          "summary": "Los gigantes tecnológicos han aprendido algo a las duras: depender de terceros es una debilidad. Anthropic parece haberse dado cuenta de lo mismo, y lleva meses dándole vueltas a una idea importante: fabricar su propio c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-03-anthropic-ya-esta-preparando-justo-lo-unico-que"
+        },
+        {
+          "title": "Apple TV is hitting its stride",
+          "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+          "source": "The Verge",
+          "published_at": "2026-07-03T12:00:00Z",
+          "summary": "Since its inception, Apple TV, n&#233;e Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-03-apple-tv-is-hitting-its-stride"
+        },
+        {
+          "title": "\"El Papa está trabajando para los comunistas chinos\": Peter Thiel cree que la Santa Sede está cometiendo un craso error",
+          "url": "https://www.xataka.com/robotica-e-ia/papa-esta-trabajando-para-comunistas-chinos-peter-thiel-cree-que-santa-sede-esta-cometiendo-craso-error",
+          "source": "Xataka",
+          "published_at": "2026-07-03T10:30:43Z",
+          "summary": "Peter Thiel no se suele morder la lengua, y no lo hizo hace unos días en el Aspen Ideas Festival. El inversor y cofundador de Palantir y PayPal participó en una charla en la que acusó al Papa León XIV de estar (sin saber…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-03-el-papa-esta-trabajando-para-los-comunistas-chinos"
+        },
+        {
+          "title": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robots humanoides de compañía desde 15.000 euros",
+          "url": "https://www.xataka.com/robotica-e-ia/empresa-china-cree-tener-sus-manos-nuevo-filon-robotica-robos-humanoides-compania-15-000-euros",
+          "source": "Xataka",
+          "published_at": "2026-07-03T09:30:00Z",
+          "summary": "UBTech Robotics acaba de presentar en Shenzhen su primer robot no pensado para entornos industriales, sino para poder usarlo en entornos domésticos . Se llama U1, tiene piel de silicona, pelo real y una \"IA emocional\" qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-03-una-empresa-china-cree-tener-en-sus-manos"
+        },
+        {
+          "title": "El nuevo fichaje estrella de la IA no es un ingeniero ni un científico de datos, pero domina el estoicismo: los filósofos",
+          "url": "https://www.xataka.com/robotica-e-ia/nuevo-fichaje-estrella-ia-no-ingeniero-cientifico-datos-domina-estoicismo-filosofos",
+          "source": "Xataka",
+          "published_at": "2026-07-03T06:31:54Z",
+          "summary": "Hace poco menos de una década, estudiar filosofía traía implícita una pregunta: \"¿Y de qué vas a vivir?\". Como muchas otras carreras de la rama de Humanidades , la filosofía registraba una baja tasa de inserción laboral.…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-03-el-nuevo-fichaje-estrella-de-la-ia-no"
+        },
+        {
+          "title": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
+          "url": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
+          "source": "Xataka",
+          "published_at": "2026-07-03T06:01:54Z",
+          "summary": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites ( hola…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-03-la-nasa-ha-conseguido-que-un-satelite-entienda"
         }
       ]
     }
@@ -564,19 +595,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
-        },
-        {
-          "title": "Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI",
-          "published_at": "2026-06-26T10:00:00Z",
-          "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-26-previewing-gpt-5-6-sol-a-next-generation-model"
         }
       ]
     },
@@ -700,6 +718,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "source": "DeepMind",
+          "published_at": "2026-07-03T14:25:43Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-03-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+        },
         {
           "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
           "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
