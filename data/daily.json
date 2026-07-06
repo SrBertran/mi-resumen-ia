@@ -1,72 +1,72 @@
 {
-  "date": "2026-07-05",
-  "generated_at": "2026-07-05T07:36:47.858605Z",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T07:59:48.851608Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-      "source": "The Verge",
-      "published_at": "2026-07-04T19:06:27Z",
-      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enli…",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face",
+      "published_at": "2026-07-06T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-07-04-nasa-launched-an-emergency-mission-to-stop-the"
+      "category": "herramientas",
+      "id": "huggingface-2026-07-06-kernels-major-updates"
     },
     {
-      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
-      "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "source": "The Verge",
-      "published_at": "2026-07-04T16:19:06Z",
-      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayo…",
+      "published_at": "2026-07-05T22:30:54Z",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to A…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-04-white-house-deletes-thousands-of-web-pages-about"
+      "id": "theverge-2026-07-05-some-of-the-nation-s-rich-are-letting"
     },
     {
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+      "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
       "source": "The Verge",
-      "published_at": "2026-07-04T16:00:00Z",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you&#8217;ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on Septe…",
+      "published_at": "2026-07-05T18:30:00Z",
+      "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded ac…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-04-matic-s-robot-vacuum-is-getting-a-250"
+      "id": "theverge-2026-07-05-mr-lif-s-emergency-rations-ep-is-post-9"
     },
     {
-      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
-      "url": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
-      "source": "The Verge",
-      "published_at": "2026-07-04T15:00:00Z",
-      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey…",
+      "title": "Mientras la mayoría se opone a los centros de datos de IA hay un grupo entusiasmado con ellos: los ladrones de mercancías",
+      "url": "https://www.xataka.com/robotica-e-ia/mayoria-se-opone-a-centros-datos-ia-hay-grupo-entusiasmado-ellos-ladrones-mercancias",
+      "source": "Xataka",
+      "published_at": "2026-07-05T17:00:00Z",
+      "summary": "En Estados Unidos, se concentra al menos un tercio de todos los centros de datos del mundo. Con la inversión alcanzando cotas demenciales , cada vez se construyen infraestructuras más grandes y potentes para desgracia de…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-04-flatbush-zombies-erick-the-architect-misses-his-blackberry"
+      "id": "xataka-2026-07-05-mientras-la-mayoria-se-opone-a-los-centros"
     },
     {
-      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
-      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "title": "Where to preorder Grand Theft Auto VI",
+      "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
       "source": "The Verge",
-      "published_at": "2026-07-04T14:00:00Z",
-      "summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming ret…",
+      "published_at": "2026-07-05T16:00:00Z",
+      "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-04-hey-number-pad-lovers-this-is-a-keyboard"
+      "id": "theverge-2026-07-05-where-to-preorder-grand-theft-auto-vi"
     }
   ],
   "sections": [
@@ -254,68 +254,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-06-29-ask-an-ai-expert-what-exactly-is-the"
-        },
-        {
-          "title": "Mapping Europe’s AI Workforce Opportunity",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI",
-          "published_at": "2026-06-29T07:00:00Z",
-          "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-29-mapping-europe-s-ai-workforce-opportunity"
-        },
-        {
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-06-28T17:00:00Z",
-          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
-          "url": "https://www.xataka.com/empresas-y-economia/meta-se-pasa-al-otro-lado-mostrador-ia-esta-pasando-comprar-computo-a-venderlo",
-          "source": "Xataka",
-          "published_at": "2026-07-03T09:15:54Z",
-          "summary": "Meta está diseñando un negocio de computación en la nube para vender a terceros el exceso de capacidad de sus centros de datos de IA, según ha adelantado Bloomberg . La empresa valora dos vías: Ofrecer acceso a modelos a…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-07-03-meta-se-pasa-al-otro-lado-del-mostrador"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-          "url": "https://spectrum.ieee.org/data-centers-grid-instability",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-03T12:00:01Z",
-          "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-03-ai-s-volatile-power-use-quietly-tests-grid"
         }
       ]
     },
@@ -323,30 +261,95 @@
       "name": "General",
       "items": [
         {
-          "title": "The square-ish phone that I wanted to love",
-          "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+          "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
           "source": "The Verge",
-          "published_at": "2026-07-04T13:00:00Z",
-          "summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies…",
+          "published_at": "2026-07-05T14:23:11Z",
+          "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's colla…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-04-the-square-ish-phone-that-i-wanted-to-love"
+          "id": "theverge-2026-07-05-infuriating-google-commercial-imagines-the-founding-fathers-embracing"
         },
         {
-          "title": "The fanfiction community is at war with AI — and itself",
-          "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "title": "The Sourdough Sidekick automates the boring bit of baking",
+          "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
           "source": "The Verge",
-          "published_at": "2026-07-04T12:00:00Z",
-          "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the…",
+          "published_at": "2026-07-05T14:00:00Z",
+          "summary": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The trick…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-04-the-fanfiction-community-is-at-war-with-ai"
+          "id": "theverge-2026-07-05-the-sourdough-sidekick-automates-the-boring-bit-of"
+        },
+        {
+          "title": "How Keurig saved — and ruined — your coffee",
+          "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+          "source": "The Verge",
+          "published_at": "2026-07-05T13:51:56Z",
+          "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own cof…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-05-how-keurig-saved----and-ruined----your"
+        },
+        {
+          "title": "Vizio accidentally made the best dumb TV on the market",
+          "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+          "source": "The Verge",
+          "published_at": "2026-07-05T13:00:00Z",
+          "summary": "When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet si…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-05-vizio-accidentally-made-the-best-dumb-tv-on"
+        },
+        {
+          "title": "Xbox is a disaster",
+          "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+          "source": "The Verge",
+          "published_at": "2026-07-05T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inb…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-05-xbox-is-a-disaster"
+        },
+        {
+          "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+          "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+          "source": "The Verge",
+          "published_at": "2026-07-04T19:06:27Z",
+          "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enli…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-04-nasa-launched-an-emergency-mission-to-stop-the"
+        },
+        {
+          "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+          "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+          "source": "The Verge",
+          "published_at": "2026-07-04T16:19:06Z",
+          "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-04-white-house-deletes-thousands-of-web-pages-about"
         },
         {
           "title": "El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro",
@@ -386,97 +389,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-04-mark-zuckerberg-no-esta-contento-y-se-lo"
-        },
-        {
-          "title": "Qi fan fan",
-          "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-          "source": "The Verge",
-          "published_at": "2026-07-04T07:00:00Z",
-          "summary": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-04-qi-fan-fan"
-        },
-        {
-          "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-          "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-          "source": "The Verge",
-          "published_at": "2026-07-03T17:33:55Z",
-          "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-03-amazon-updated-2023-s-fire-hd-10-tablet"
-        },
-        {
-          "title": "While you’re watching the World Cup, the feds may be watching you",
-          "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-          "source": "The Verge",
-          "published_at": "2026-07-03T15:00:00Z",
-          "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the citie…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-03-while-you-re-watching-the-world-cup-the"
-        },
-        {
-          "title": "El regreso de Fable 5 tiene un problema preocupante: Anthropic lo ha condenado al \"preferiría no hacerlo\"",
-          "url": "https://www.xataka.com/robotica-e-ia/regreso-fable-5-tiene-problema-preocupante-anthropic-ha-condenado-al-preferiria-no-hacerlo",
-          "source": "Xataka",
-          "published_at": "2026-07-03T14:30:44Z",
-          "summary": "El narrador anónimo de nuestra historia contrata a un escribiente llamado Bartleby para su despacho de abogados. El empleado comienza a trabajar de forma envidiable, pero a los tres días, algo pasa. El narrador le pide q…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-03-el-regreso-de-fable-5-tiene-un-problema"
-        },
-        {
-          "title": "Anthropic ya está preparando justo lo único que le faltaba para reforzar su liderazgo IA: un chip propio",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-esta-preparando-justo-unico-que-le-faltaba-para-reforzar-su-liderazgo-ia-chip-propio",
-          "source": "Xataka",
-          "published_at": "2026-07-03T12:30:44Z",
-          "summary": "Los gigantes tecnológicos han aprendido algo a las duras: depender de terceros es una debilidad. Anthropic parece haberse dado cuenta de lo mismo, y lleva meses dándole vueltas a una idea importante: fabricar su propio c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-03-anthropic-ya-esta-preparando-justo-lo-unico-que"
-        },
-        {
-          "title": "\"El Papa está trabajando para los comunistas chinos\": Peter Thiel cree que la Santa Sede está cometiendo un craso error",
-          "url": "https://www.xataka.com/robotica-e-ia/papa-esta-trabajando-para-comunistas-chinos-peter-thiel-cree-que-santa-sede-esta-cometiendo-craso-error",
-          "source": "Xataka",
-          "published_at": "2026-07-03T10:30:43Z",
-          "summary": "Peter Thiel no se suele morder la lengua, y no lo hizo hace unos días en el Aspen Ideas Festival. El inversor y cofundador de Palantir y PayPal participó en una charla en la que acusó al Papa León XIV de estar (sin saber…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-03-el-papa-esta-trabajando-para-los-comunistas-chinos"
-        },
-        {
-          "title": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robots humanoides de compañía desde 15.000 euros",
-          "url": "https://www.xataka.com/robotica-e-ia/empresa-china-cree-tener-sus-manos-nuevo-filon-robotica-robos-humanoides-compania-15-000-euros",
-          "source": "Xataka",
-          "published_at": "2026-07-03T09:30:00Z",
-          "summary": "UBTech Robotics acaba de presentar en Shenzhen su primer robot no pensado para entornos industriales, sino para poder usarlo en entornos domésticos . Se llama U1, tiene piel de silicona, pelo real y una \"IA emocional\" qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-03-una-empresa-china-cree-tener-en-sus-manos"
         }
       ]
     }
@@ -564,32 +476,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-06-30-core-dump-epidemiology-fixing-an-18-year-old-bug"
-        },
-        {
-          "title": "Mapping Europe’s AI Workforce Opportunity",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI",
-          "published_at": "2026-06-29T07:00:00Z",
-          "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-29-mapping-europe-s-ai-workforce-opportunity"
-        },
-        {
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-06-28T17:00:00Z",
-          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-28-hp-inc-launches-frontier-strategic-partnership-with-openai"
         }
       ]
     },
