@@ -1,78 +1,117 @@
 {
-  "date": "2026-07-07",
-  "generated_at": "2026-07-07T07:43:17.738035Z",
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T07:17:21.304224Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "“Claude ha desarrollado un mecanismo para el acceso consciente”: Anthropic acaba de abrir una grieta en la caja negra de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia",
-      "source": "Xataka",
-      "published_at": "2026-07-07T06:30:53Z",
-      "summary": "Estamos acostumbrados a pensar que quien construye algo sabe explicar cómo funciona por dentro. Un motor, un procesador, una pieza de software: puede haber complejidad, capas y decisiones técnicas difíciles de seguir, pe…",
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "source": "The Verge",
+      "published_at": "2026-07-07T23:55:19Z",
+      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' pr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-07-claude-ha-desarrollado-un-mecanismo-para-el-acceso"
+      "id": "theverge-2026-07-07-meta-s-glasses-will-turn-off-the-camera"
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "EEUU enseñó que el acceso a la IA avanzada puede cortarse. China estudia lo mismo, según Reuters, y Europa mira desde fuera",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-enseno-que-acceso-a-ia-avanzada-puede-cortarse-china-estudia-reuters-europa-mira-fuera",
+      "source": "Xataka",
+      "published_at": "2026-07-07T23:02:00Z",
+      "summary": "Cuando Estados Unidos activó controles de exportación que acabaron llevando a Anthropic a desactivar Fable 5 y Mythos 5 para todos sus usuarios, quedó expuesta una realidad difícil de ignorar: el acceso a la IA avanzada …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-07-07-eeuu-enseno-que-el-acceso-a-la-ia"
+    },
+    {
+      "title": "Of course viewers are giving up on Netflix shows",
+      "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+      "source": "The Verge",
+      "published_at": "2026-07-07T21:58:39Z",
+      "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked i…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-07-of-course-viewers-are-giving-up-on-netflix"
+    },
+    {
+      "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+      "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+      "source": "The Verge",
+      "published_at": "2026-07-07T21:37:19Z",
+      "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Cond&#233; Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-07-netflix-is-about-to-host-videos-from-buzzfeed"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face",
-      "published_at": "2026-07-07T00:00:00Z",
+      "published_at": "2026-07-07T21:15:33Z",
       "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
         "herramientas"
       ],
       "category": "herramientas",
-      "id": "huggingface-2026-07-07-lerobot-v0-6-0-imagine-evaluate-improve"
-    },
-    {
-      "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
-      "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-07-06T20:24:28Z",
-      "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven&#8217;t assembled, Hoto&#8217;s PixelDrive cordless screwdriver can help speed up the process. It&#8217;s currently…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-06-hoto-8217-s-pixeldrive-screwdriver-is-down-to"
-    },
-    {
-      "title": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
-      "url": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
-      "source": "Xataka",
-      "published_at": "2026-07-06T19:30:54Z",
-      "summary": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasi…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-07-06-los-navegadores-de-ia-llegaron-con-la-promesa"
-    },
-    {
-      "title": "America’s greatest idea is still under threat",
-      "url": "https://www.theverge.com/policy/961802/america-250-free-speech",
-      "source": "The Verge",
-      "published_at": "2026-07-06T18:36:33Z",
-      "summary": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower;…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-06-america-s-greatest-idea-is-still-under-threat"
+      "id": "huggingface-2026-07-07-from-hugging-face-to-amazon-sagemaker-studio-in"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "source": "Google AI",
+          "published_at": "2026-07-07T08:54:00Z",
+          "summary": "Managed agents feature bundle launch",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-07-expanding-managed-agents-in-gemini-api-background-tasks"
+        },
+        {
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "url": "https://openai.com/index/australian-payments-plus",
+          "source": "OpenAI",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-07-australian-payments-plus-moves-faster-with-chatgpt-and"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-07-mufg-aims-to-become-ai-native-with-openai"
+        },
         {
           "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
           "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
@@ -137,38 +176,25 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-07-01-new-york-city-educators-and-industry-leaders-gathered"
-        },
-        {
-          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-          "source": "DeepMind",
-          "published_at": "2026-06-30T16:02:40Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-30-start-building-with-nano-banana-2-lite-and"
-        },
-        {
-          "title": "How ChatGPT adoption has expanded",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "source": "OpenAI",
-          "published_at": "2026-06-30T09:00:00Z",
-          "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-06-30-how-chatgpt-adoption-has-expanded"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "What Makes AI Art Worth Collecting?",
+          "url": "https://spectrum.ieee.org/ai-art-market",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-07T14:00:02Z",
+          "summary": "In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issu…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-07-what-makes-ai-art-worth-collecting"
+        },
         {
           "title": "Small AI Models Gain Traction Around the World",
           "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
@@ -188,6 +214,45 @@
       "name": "Herramientas",
       "items": [
         {
+          "title": "Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face",
+          "published_at": "2026-07-07T15:20:06Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-07-hugging-face-models-on-foundry-managed-compute"
+        },
+        {
+          "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-07-run-ai-workloads-on-any-cloud-store-on"
+        },
+        {
+          "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-07-lerobot-v0-6-0-imagine-evaluate-improve"
+        },
+        {
           "title": "PRX Part 4: Our Data Strategy",
           "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
           "source": "Hugging Face",
@@ -199,19 +264,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-07-06-prx-part-4-our-data-strategy"
-        },
-        {
-          "title": "🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face",
-          "published_at": "2026-07-06T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-06-kernels-major-updates"
         }
       ]
     },
@@ -219,30 +271,199 @@
       "name": "General",
       "items": [
         {
-          "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
-          "url": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
+          "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+          "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
           "source": "The Verge",
-          "published_at": "2026-07-06T17:15:29Z",
-          "summary": "Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform oth…",
+          "published_at": "2026-07-07T20:31:58Z",
+          "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-06-five-questions-for-dr-rubin-who-s-armed"
+          "id": "theverge-2026-07-07-meta-s-new-muse-image-model-can-pull"
         },
         {
-          "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-          "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
-          "source": "The Verge",
-          "published_at": "2026-07-06T16:22:34Z",
-          "summary": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, …",
+          "title": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
+          "url": "https://www.xataka.com/robotica-e-ia/deepseek-no-quiere-competir-solo-modelos-su-nuevo-frente-apunta-directamente-al-negocio-nvidia-reuters",
+          "source": "Xataka",
+          "published_at": "2026-07-07T19:31:18Z",
+          "summary": "En poco más de un año, DeepSeek ha dejado de sonar como una rareza de la industria china para convertirse en uno de esos nombres que ya aparecen cada vez que hablamos de la carrera global de la inteligencia artificial. P…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-06-former-xbox-studios-double-fine-and-compulsion-will"
+          "id": "xataka-2026-07-07-deepseek-ya-no-quiere-competir-solo-con-modelos"
+        },
+        {
+          "title": "X says top accounts steal videos from other users as it announces new video tools",
+          "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+          "source": "The Verge",
+          "published_at": "2026-07-07T18:28:08Z",
+          "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the pl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-x-says-top-accounts-steal-videos-from-other"
+        },
+        {
+          "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+          "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+          "source": "The Verge",
+          "published_at": "2026-07-07T17:52:51Z",
+          "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-the-g-wagen-of-golf-carts-could-be-the"
+        },
+        {
+          "title": "ABC tells the government to get out of its newsrooms",
+          "url": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
+          "source": "The Verge",
+          "published_at": "2026-07-07T17:47:38Z",
+          "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's action…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-abc-tells-the-government-to-get-out-of"
+        },
+        {
+          "title": "Anthropic is launching Claude Cowork on mobile and web",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+          "source": "The Verge",
+          "published_at": "2026-07-07T17:46:59Z",
+          "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-anthropic-is-launching-claude-cowork-on-mobile-and"
+        },
+        {
+          "title": "Google announces Pixel 11 launch event in August",
+          "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+          "source": "The Verge",
+          "published_at": "2026-07-07T17:22:48Z",
+          "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'l…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-google-announces-pixel-11-launch-event-in-august"
+        },
+        {
+          "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
+          "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+          "source": "The Verge",
+          "published_at": "2026-07-07T16:09:48Z",
+          "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts equate to more than 90 re…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-07-doom-developer-id-reportedly-cut-in-half-as"
+        },
+        {
+          "title": "El modelo de IA Qwen de Alibaba es la nueva joya de la corona. El único problema es que no ganan dinero con él",
+          "url": "https://www.xataka.com/robotica-e-ia/modelo-ia-qwen-alibaba-nueva-joya-corona-unico-problema-que-no-ganan-dinero",
+          "source": "Xataka",
+          "published_at": "2026-07-07T14:30:40Z",
+          "summary": "Jack Ma regresaba cual hijo pródigo al panorama internacional en febrero del año pasado. Lo hacía en un acto junto al presidente de China, Xi Jinping, y aquello suponía un importante respaldo para el líder tecnológico. D…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-el-modelo-de-ia-qwen-de-alibaba-es"
+        },
+        {
+          "title": "Samsung gana 19 veces más que hace un año. Los inversores han reaccionado hundiendo la acción un 7%",
+          "url": "https://www.xataka.com/empresas-y-economia/samsung-gana-19-veces-que-hace-ano-inversores-han-reaccionado-hundiendo-accion-7",
+          "source": "Xataka",
+          "published_at": "2026-07-07T14:16:40Z",
+          "summary": "Samsung ha anunciado que su beneficio operativo se disparó hasta los 89,4 billones de wones (58.400 millones de dólares) en el segundo trimestre de 2026. Eso representa un 1.810% más que lo que logró el año pasado, es de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-samsung-gana-19-veces-mas-que-hace-un"
+        },
+        {
+          "title": "La solución de EEUU para que su red eléctrica aguante la ola de calor: dejar que los centros de datos contaminen sin límite",
+          "url": "https://www.xataka.com/energia/solucion-eeuu-su-red-electrica-aguante-ola-calor-dejar-que-centros-datos-contaminen-limite",
+          "source": "Xataka",
+          "published_at": "2026-07-07T14:00:41Z",
+          "summary": "El verano de 2026 empezó fuerte con la primera ola de calor extremo . Hemos hablado del calor en España y en toda Europa , pero en Estados Unidos tampoco se han librado de las consecuencias. Con los aires acondicionados …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-la-solucion-de-eeuu-para-que-su-red"
+        },
+        {
+          "title": "Si con los chatbots el consumo energético ya se había disparado, con la IA agéntica este consumo se multiplica por 136,5",
+          "url": "https://www.xataka.com/energia/chatbots-consumo-energetico-se-habia-disparado-ia-agentica-este-consumo-se-multiplica-136-5",
+          "source": "Xataka",
+          "published_at": "2026-07-07T13:00:41Z",
+          "summary": "Durante un tiempo, una de las polémicas alrededor del consumo de la inteligencia artificial tenía que ver con el agua. Tiempo después supimos que los cálculos (aún consumiendo una burrada) &nbsp;no eran acertados y empez…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-si-con-los-chatbots-el-consumo-energetico-ya"
+        },
+        {
+          "title": "\"Ahora somos SpaceXAI\": las dos empresas de Elon Musk se fusionan porque a Wall Street le pirra la simplicidad",
+          "url": "https://www.xataka.com/empresas-y-economia/ahora-somos-spacexai-dos-empresas-elon-musk-se-fusionan-porque-a-wall-street-le-pirra-simplicidad",
+          "source": "Xataka",
+          "published_at": "2026-07-07T11:30:40Z",
+          "summary": "SpaceX ya no es SpaceX y xAI ya no es xAI. En lugar de eso la empresa ha decidido fusionar ambas denominaciones, y a partir de ahora pasa a llamarse SpaceXAI. Ese nuevo nombre deja algo muy claro: la empresa se está vend…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-ahora-somos-spacexai-las-dos-empresas-de-elon"
+        },
+        {
+          "title": "“Claude ha desarrollado un mecanismo para el acceso consciente”: Anthropic acaba de abrir una grieta en la caja negra de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia",
+          "source": "Xataka",
+          "published_at": "2026-07-07T06:30:53Z",
+          "summary": "Estamos acostumbrados a pensar que quien construye algo sabe explicar cómo funciona por dentro. Un motor, un procesador, una pieza de software: puede haber complejidad, capas y decisiones técnicas difíciles de seguir, pe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-07-claude-ha-desarrollado-un-mecanismo-para-el-acceso"
+        },
+        {
+          "title": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
+          "url": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
+          "source": "Xataka",
+          "published_at": "2026-07-06T19:30:54Z",
+          "summary": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-06-los-navegadores-de-ia-llegaron-con-la-promesa"
         },
         {
           "title": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
@@ -256,123 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-06-china-acaba-de-regular-algo-que-realmente-importa"
-        },
-        {
-          "title": "I spy",
-          "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-          "source": "The Verge",
-          "published_at": "2026-07-06T16:00:00Z",
-          "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollyw…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-i-spy"
-        },
-        {
-          "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
-          "url": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-06T15:09:18Z",
-          "summary": "Initially, I was going to tell you about a good deal happening on the DJI Osmo Pocket 3, which is down from the $500 it’s sold at most of the year to $378 at multiple retailers. But there’s a better deal happening on a n…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-the-dji-osmo-pocket-3-lookalike-is-down"
-        },
-        {
-          "title": "Inside the big business of the creator economy, with the agents making it happen",
-          "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
-          "source": "The Verge",
-          "published_at": "2026-07-06T14:30:00Z",
-          "summary": "We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators division at United Tale…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-inside-the-big-business-of-the-creator-economy"
-        },
-        {
-          "title": "Nintendo will stop selling the original Switch in Europe next year",
-          "url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
-          "source": "The Verge",
-          "published_at": "2026-07-06T14:15:48Z",
-          "summary": "Nintendo is making a new version of the Switch 2 with a replaceable battery in Europe - but its predecessor has a very different future. As part of an updated FAQ about revisions to Nintendo hardware in Europe, the compa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-nintendo-will-stop-selling-the-original-switch-in"
-        },
-        {
-          "title": "Can Partiful keep the party going?",
-          "url": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir",
-          "source": "The Verge",
-          "published_at": "2026-07-06T14:00:00Z",
-          "summary": "One hundred dollars will buy you 8 pounds of glitter; 10 Domino's pizzas; 406 miniature disco balls from Temu; or 100 cans of Coors Light. For a friend's birthday party one year, Ayla D'Silva spent $100 on sour candy and…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-can-partiful-keep-the-party-going"
-        },
-        {
-          "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-          "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-          "source": "The Verge",
-          "published_at": "2026-07-06T13:31:24Z",
-          "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every part of Xbox and also involve four game s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-06-microsoft-is-selling-off-four-xbox-studios-as"
-        },
-        {
-          "title": "\"La idea de hacer un móvil hace que quiera morirme\": dijo Musk. Dos años después, está dentrísimo con su prototipo de móvil con IA",
-          "url": "https://www.xataka.com/moviles/idea-hacer-movil-hace-que-quiera-morirme-dijo-musk-dos-anos-despues-esta-dentrisimo-su-prototipo-movil-ia",
-          "source": "Xataka",
-          "published_at": "2026-07-06T10:00:54Z",
-          "summary": "En octubre de 2024, Elon Musk apareció en un acto electoral en Pensilvania, y allí afirmó que \"La idea de hacer un móvil hace que quiera morirme\" porque era \"mucho trabajo\", pero después añadió que \"si tenemos que hacer …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-06-la-idea-de-hacer-un-movil-hace-que"
-        },
-        {
-          "title": "Seleccionar todos los semáforos ya no es suficiente para demostrar que no eres un robot. Ahora hay que escanear códigos QR",
-          "url": "https://www.xataka.com/seguridad/seleccionar-todos-semaforos-no-suficiente-para-demostrar-que-no-eres-robot-ahora-hay-que-escanear-codigos-qr",
-          "source": "Xataka",
-          "published_at": "2026-07-06T09:00:55Z",
-          "summary": "Hay quien piensa que en internet no hay personas y todo son bots , es lo que se conoce como &nbsp;teoría del internet muerto . Durante años, hemos usado la tecnología captcha para demostrar que no somos robots, pero los …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-06-seleccionar-todos-los-semaforos-ya-no-es-suficiente"
-        },
-        {
-          "title": "Mientras la mayoría se opone a los centros de datos de IA hay un grupo entusiasmado con ellos: los ladrones de mercancías",
-          "url": "https://www.xataka.com/robotica-e-ia/mayoria-se-opone-a-centros-datos-ia-hay-grupo-entusiasmado-ellos-ladrones-mercancias",
-          "source": "Xataka",
-          "published_at": "2026-07-05T17:00:00Z",
-          "summary": "En Estados Unidos, se concentra al menos un tercio de todos los centros de datos del mundo. Con la inversión alcanzando cotas demenciales , cada vez se construyen infraestructuras más grandes y potentes para desgracia de…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-05-mientras-la-mayoria-se-opone-a-los-centros"
         }
       ]
     }
@@ -410,17 +514,30 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "How ChatGPT adoption has expanded",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "url": "https://openai.com/index/australian-payments-plus",
           "source": "OpenAI",
-          "published_at": "2026-06-30T09:00:00Z",
-          "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-06-30-how-chatgpt-adoption-has-expanded"
+          "id": "openai-2026-07-07-australian-payments-plus-moves-faster-with-chatgpt-and"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "url": "https://openai.com/index/mufg",
+          "source": "OpenAI",
+          "published_at": "2026-07-07T00:00:00Z",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-07-mufg-aims-to-become-ai-native-with-openai"
         }
       ]
     },
@@ -460,6 +577,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "source": "Google AI",
+          "published_at": "2026-07-07T08:54:00Z",
+          "summary": "Managed agents feature bundle launch",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-07-expanding-managed-agents-in-gemini-api-background-tasks"
+        },
         {
           "title": "The latest AI news we announced in June 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -504,19 +634,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-03-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
-        },
-        {
-          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-          "source": "DeepMind",
-          "published_at": "2026-06-30T16:02:40Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-06-30-start-building-with-nano-banana-2-lite-and"
         }
       ]
     }
