@@ -1,78 +1,91 @@
 {
-  "date": "2026-07-10",
-  "generated_at": "2026-07-10T07:42:56.366825Z",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T07:13:09.729765Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
-      "url": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
-      "source": "Xataka",
-      "published_at": "2026-07-10T07:31:58Z",
-      "summary": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario . Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que …",
+      "title": "Are you filthy enough for a $700 portable shower?",
+      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "source": "The Verge",
+      "published_at": "2026-07-11T07:00:00Z",
+      "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the gre…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-10-meta-acaba-de-convertir-tus-fotos-de-instagram"
+      "id": "theverge-2026-07-11-are-you-filthy-enough-for-a-700-portable"
     },
     {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+      "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
       "source": "The Verge",
-      "published_at": "2026-07-10T00:04:13Z",
-      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent…",
+      "published_at": "2026-07-11T00:10:38Z",
+      "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received signi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-10-microsoft-s-carbon-emissions-went-up-25-percent"
+      "id": "theverge-2026-07-11-no-flock-isn-8217-t-threatening-people-for"
     },
     {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge",
-      "published_at": "2026-07-09T23:24:04Z",
-      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would tak…",
+      "published_at": "2026-07-10T23:49:50Z",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally se…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-09-fidji-simo-steps-down-from-leading-openai-s"
+      "id": "theverge-2026-07-10-meta-turns-off-the-instagram-feature-that-let"
     },
     {
-      "title": "Netflix reportedly considers adding always-on channels",
-      "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
       "source": "The Verge",
-      "published_at": "2026-07-09T23:00:31Z",
-      "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, …",
+      "published_at": "2026-07-10T22:35:18Z",
+      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of s…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-09-netflix-reportedly-considers-adding-always-on-channels"
+      "id": "theverge-2026-07-10-the-fcc-is-cracking-down-on-dji-tech"
     },
     {
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "source": "The Verge",
-      "published_at": "2026-07-09T20:34:05Z",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Wo…",
+      "published_at": "2026-07-10T21:36:51Z",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees wh…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-09-the-chatgpt-browser-is-already-dead"
+      "id": "theverge-2026-07-10-apple-sues-openai-for-allegedly-stealing-hardware-secrets"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "source": "OpenAI",
+          "published_at": "2026-07-10T07:00:00Z",
+          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
+        },
         {
           "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
           "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -85,6 +98,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
+        },
+        {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "url": "https://openai.com/index/gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-gpt-5-6-frontier-intelligence-that-scales-with-your"
         },
         {
           "title": "ChatGPT is now a partner for your most ambitious work",
@@ -111,19 +137,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
-        },
-        {
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "url": "https://openai.com/index/gpt-5-6",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-gpt-5-6-frontier-intelligence-that-scales-with-your"
         },
         {
           "title": "Introducing a way to reflect on how you use Claude",
@@ -280,19 +293,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-06-government-of-alberta-uses-claude-to-find-and"
-        },
-        {
-          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-          "source": "DeepMind",
-          "published_at": "2026-07-03T14:25:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-03-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
         }
       ]
     },
@@ -311,19 +311,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-07-09-large-tabular-models-excel-where-llms-fail"
-        },
-        {
-          "title": "AI Models Overthink Problems—and It’s a Security Risk",
-          "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-08T11:00:01Z",
-          "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critic…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-08-ai-models-overthink-problems--and-it-s-a-security"
         }
       ]
     },
@@ -331,17 +318,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
           "source": "Hugging Face",
-          "published_at": "2026-07-08T17:16:05Z",
+          "published_at": "2026-07-10T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-07-08-data-for-agents"
+          "id": "huggingface-2026-07-10-profiling-in-pytorch-part-3-attention-is-all"
         }
       ]
     },
@@ -349,69 +336,160 @@
       "name": "General",
       "items": [
         {
-          "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
-          "url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
+          "title": "A decade later, Pokémon Go finally made good on its original promise",
+          "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
           "source": "The Verge",
-          "published_at": "2026-07-09T20:32:18Z",
-          "summary": "Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker …",
+          "published_at": "2026-07-10T19:51:10Z",
+          "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in N…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-09-the-floatable-powerful-soundcore-boom-2-speaker-is"
+          "id": "theverge-2026-07-10-a-decade-later-pokemon-go-finally-made-good"
         },
         {
-          "title": "Google will now tell you if an ad was made with AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-          "source": "The Verge",
-          "published_at": "2026-07-09T20:11:38Z",
-          "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"…",
+          "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
+          "source": "Xataka",
+          "published_at": "2026-07-10T19:31:57Z",
+          "summary": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con e…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-09-google-will-now-tell-you-if-an-ad"
+          "id": "xataka-2026-07-10-openai-queria-simplificar-sus-productos-de-ia-ha"
         },
         {
-          "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-          "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
+          "title": "ICE is threatening to deport witnesses of its latest shooting",
+          "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
           "source": "The Verge",
-          "published_at": "2026-07-09T17:33:46Z",
-          "summary": "If you&#8217;re looking for a relatively affordable way to cut down on cooling costs, Google&#8217;s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in whi…",
+          "published_at": "2026-07-10T19:20:00Z",
+          "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic sto…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-09-google-8217-s-nest-thermostat-has-hit-its"
+          "id": "theverge-2026-07-10-ice-is-threatening-to-deport-witnesses-of-its"
         },
         {
-          "title": "Microsoft’s patch Tuesdays are about to get bigger",
-          "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-          "source": "The Verge",
-          "published_at": "2026-07-09T17:00:00Z",
-          "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a hig…",
+          "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
+          "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
+          "source": "Xataka",
+          "published_at": "2026-07-10T19:01:58Z",
+          "summary": "La IA es bastante &nbsp;impopular entre los ciudadanos estadounidenses . Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-09-microsoft-s-patch-tuesdays-are-about-to-get"
+          "id": "xataka-2026-07-10-no-es-que-un-centro-de-datos-de"
         },
         {
-          "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+          "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+          "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
           "source": "The Verge",
-          "published_at": "2026-07-09T17:00:00Z",
-          "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's gree…",
+          "published_at": "2026-07-10T17:31:35Z",
+          "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpas…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-09-openai-rolls-out-gpt-5-6-after-government-greenlight"
+          "id": "theverge-2026-07-10-nvidia-8217-s-biggest-ram-supplier-just-had"
+        },
+        {
+          "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
+          "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+          "source": "The Verge",
+          "published_at": "2026-07-10T17:02:13Z",
+          "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on art…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-10-spotify-will-let-you-fine-tune-your-weekly-release"
+        },
+        {
+          "title": "Netflix is turning into YouTube",
+          "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+          "source": "The Verge",
+          "published_at": "2026-07-10T16:29:50Z",
+          "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-10-netflix-is-turning-into-youtube"
+        },
+        {
+          "title": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
+          "url": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
+          "source": "Xataka",
+          "published_at": "2026-07-10T15:31:57Z",
+          "summary": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-10-los-nuevos-grok-4-5-y-muse-spark"
+        },
+        {
+          "title": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
+          "url": "https://www.xataka.com/basics/meta-ai-crea-imagenes-tu-cara-permiso-usando-tus-fotos-instagram-como-funciona-dos-modos-evitarlo",
+          "source": "Xataka",
+          "published_at": "2026-07-10T11:07:00Z",
+          "summary": "Meta AI ha estrenado una nueva función con la que cualquier usuario puede crear imágenes con las caras de otras personas sin permiso. Esto abre la puerta a todo tipo de abusos y usos poco éticos, ya que la función permit…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-10-meta-ai-puede-crear-imagenes-con-tu-cara"
+        },
+        {
+          "title": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
+          "url": "https://www.xataka.com/basics/gpt-5-6-novedades-todo-que-cambia-chatgpt-nueva-version-su-modelo-inteligencia-artificial",
+          "source": "Xataka",
+          "published_at": "2026-07-10T10:32:12Z",
+          "summary": "Vamos a decirte&nbsp; cuáles son las novedades de &nbsp; GPT-5.6 , la nueva versión del modelo de&nbsp; inteligencia artificial &nbsp;de&nbsp; ChatGPT . Vamos a hacerlo de una manera sencilla, sintetizando en una lista c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-10-gpt-5-6-novedades-y-todo-lo-que-cambia"
+        },
+        {
+          "title": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
+          "url": "https://www.xataka.com/robotica-e-ia/gpt-5-6-probablemente-sea-mejor-modelo-ia-mundo-precisamente-eso-mayoria-no-necesita",
+          "source": "Xataka",
+          "published_at": "2026-07-10T08:15:58Z",
+          "summary": "Ayer OpenAI lanzaba públicamente GPT-5.6 , su nueva familia de modelos de IA con tres variantes: Sol, la más potente, Terra, más equilibrada, y Luna, la más eficiente en costes. Una idea sobresalía en ese lanzamiento: la…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-10-gpt-5-6-probablemente-sea-el-mejor-modelo-de"
+        },
+        {
+          "title": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
+          "url": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
+          "source": "Xataka",
+          "published_at": "2026-07-10T07:31:58Z",
+          "summary": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario . Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-10-meta-acaba-de-convertir-tus-fotos-de-instagram"
         },
         {
           "title": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
@@ -427,19 +505,6 @@
           "id": "xataka-2026-07-09-las-big-tech-chinas-tienen-un-plan-la"
         },
         {
-          "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
-          "url": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
-          "source": "The Verge",
-          "published_at": "2026-07-09T15:45:46Z",
-          "summary": "The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-09-schlage-s-sense-pro-unlocks-the-door-so"
-        },
-        {
           "title": "Un profesor sospechaba que sus alumnos habían hecho trampas con IA. Hizo el examen en persona y las notas bajaron a la mitad",
           "url": "https://www.xataka.com/robotica-e-ia/profesor-sospechaba-que-sus-alumnos-habian-hecho-trampas-ia-hizo-examen-persona-notas-bajaron-a-mitad",
           "source": "Xataka",
@@ -451,58 +516,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-09-un-profesor-sospechaba-que-sus-alumnos-habian-hecho"
-        },
-        {
-          "title": "Daniel Púa, jefe de seguridad en Magnific: \"El usuario de a pie debería estar preocupado porque el phishing se está refinando con IA\"",
-          "url": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-usuario-a-pie-deberia-estar-preocupado-porque-phishing-se-esta-refinando-ia",
-          "source": "Xataka",
-          "published_at": "2026-07-09T07:01:19Z",
-          "summary": "La IA está cambiándolo todo, también la ciberseguridad. El lanzamiento de Claude Mythos hace un par de meses hizo saltar las alarmas : la IA ya es capaz de encontrar decenas de vulnerabilidades que llevaban años ocultas.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-09-daniel-pua-jefe-de-seguridad-en-magnific-el"
-        },
-        {
-          "title": "OpenAI acaba de lanzar GPT-Live: el modo de voz de ChatGPT ha aprendido a escuchar, callarse y responder mejor",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-acaba-lanzar-gpt-live-modo-voz-chatgpt-ha-aprendido-a-escuchar-callarse-responder-mejor",
-          "source": "Xataka",
-          "published_at": "2026-07-08T17:42:00Z",
-          "summary": "Greg Brockman empezó el directo de OpenAI haciendo algo muy sencillo: hablar con ChatGPT y cortarle mientras respondía. Lo que importaba no eran las preguntas, sino la reacción del sistema. En lugar de detenerse con un c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-08-openai-acaba-de-lanzar-gpt-live-el-modo-de"
-        },
-        {
-          "title": "Una pareja gana 365.000 dólares al año entre los dos en San Francisco. No les llega para un piso de una habitación",
-          "url": "https://www.xataka.com/empresas-y-economia/ganar-180-000-dolares-al-ano-no-da-para-vivir-san-francisco-boom-ia-se-ha-comido-a-clase-media-tecnologica",
-          "source": "Xataka",
-          "published_at": "2026-07-08T12:00:00Z",
-          "summary": "En San Francisco puedes ganar 180.000 dólares al año y no llegar tranquilo a fin de mes. El boom de la IA está haciendo que, lo que en cualquier otro lugar sería un sueldazo, sea simple calderilla, impidiendo la entrada …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-08-una-pareja-gana-365-000-dolares-al-ano"
-        },
-        {
-          "title": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-tiene-su-rival-para-nanob-banana-2-su-problema-siempre-invadir-piedad-nuestra-privacidad",
-          "source": "Xataka",
-          "published_at": "2026-07-08T11:45:00Z",
-          "summary": "Meta ha lanzado Muse Image y Muse Video , los primeros modelos de IA generativa de imágenes y vídeos de su división Meta Superintelligence Labs. Con el de imágenes quiere desde luego plantar cara a GPT Image 2.0 de OpenA…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-08-cualquiera-puede-etiquetarte-en-instagram-para-generar-deepfakes"
         }
       ]
     }
@@ -540,6 +553,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "source": "OpenAI",
+          "published_at": "2026-07-10T07:00:00Z",
+          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
+        },
+        {
           "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
           "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
           "source": "OpenAI",
@@ -551,6 +577,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
+        },
+        {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "url": "https://openai.com/index/gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-gpt-5-6-frontier-intelligence-that-scales-with-your"
         },
         {
           "title": "ChatGPT is now a partner for your most ambitious work",
@@ -577,19 +616,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
-        },
-        {
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "url": "https://openai.com/index/gpt-5-6",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-gpt-5-6-frontier-intelligence-that-scales-with-your"
         },
         {
           "title": "Our approach to government and national security partnerships",
