@@ -1,72 +1,72 @@
 {
-  "date": "2026-07-11",
-  "generated_at": "2026-07-11T07:13:09.729765Z",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T07:18:31.557634Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Are you filthy enough for a $700 portable shower?",
-      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-      "source": "The Verge",
-      "published_at": "2026-07-11T07:00:00Z",
-      "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the gre…",
+      "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
+      "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
+      "source": "Xataka",
+      "published_at": "2026-07-12T06:40:00Z",
+      "summary": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de …",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "regulación"
       ],
-      "category": "general",
-      "id": "theverge-2026-07-11-are-you-filthy-enough-for-a-700-portable"
+      "category": "regulación",
+      "id": "xataka-2026-07-12-apple-demanda-a-openai-por-robar-secretos-comerciales"
     },
     {
-      "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-      "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
       "source": "The Verge",
-      "published_at": "2026-07-11T00:10:38Z",
-      "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received signi…",
+      "published_at": "2026-07-11T20:57:42Z",
+      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the Mu…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-11-no-flock-isn-8217-t-threatening-people-for"
+      "id": "theverge-2026-07-11-after-years-of-teasing-the-viral-nopia-synth"
     },
     {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
       "source": "The Verge",
-      "published_at": "2026-07-10T23:49:50Z",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally se…",
+      "published_at": "2026-07-11T18:44:12Z",
+      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 day…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-10-meta-turns-off-the-instagram-feature-that-let"
+      "id": "theverge-2026-07-11-oregon-s-attorney-general-withdraws-effort-to-delay"
     },
     {
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
       "source": "The Verge",
-      "published_at": "2026-07-10T22:35:18Z",
-      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of s…",
+      "published_at": "2026-07-11T15:00:00Z",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shep…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-10-the-fcc-is-cracking-down-on-dji-tech"
+      "id": "theverge-2026-07-11-fl-studio-head-constantin-koehncke-turns-to-reddit"
     },
     {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-10T21:36:51Z",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees wh…",
+      "published_at": "2026-07-11T15:00:00Z",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a ch…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-10-apple-sues-openai-for-allegedly-stealing-hardware-secrets"
+      "id": "theverge-2026-07-11-nintendo-s-talking-flower-got-a-small-price"
     }
   ],
   "sections": [
@@ -297,56 +297,85 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Large Tabular Models Excel Where LLMs Fail",
-          "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-09T12:00:01Z",
-          "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, iro…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-09-large-tabular-models-excel-where-llms-fail"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-          "url": "https://huggingface.co/blog/torch-attention-profile",
-          "source": "Hugging Face",
-          "published_at": "2026-07-10T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-10-profiling-in-pytorch-part-3-attention-is-all"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "A decade later, Pokémon Go finally made good on its original promise",
-          "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+          "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+          "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
           "source": "The Verge",
-          "published_at": "2026-07-10T19:51:10Z",
-          "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in N…",
+          "published_at": "2026-07-11T14:18:33Z",
+          "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-10-a-decade-later-pokemon-go-finally-made-good"
+          "id": "theverge-2026-07-11-white-house-taps-the-guy-who-keeps-crying"
+        },
+        {
+          "title": "ICE are heavily armed killers. They’re also huge losers",
+          "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+          "source": "The Verge",
+          "published_at": "2026-07-11T13:00:00Z",
+          "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-11-ice-are-heavily-armed-killers-they-re-also"
+        },
+        {
+          "title": "A tasty RPG that will make you very hungry",
+          "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+          "source": "The Verge",
+          "published_at": "2026-07-11T12:00:00Z",
+          "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forget…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-11-a-tasty-rpg-that-will-make-you-very"
+        },
+        {
+          "title": "The perfect kit for all your tiny repairs",
+          "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+          "source": "The Verge",
+          "published_at": "2026-07-11T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-11-the-perfect-kit-for-all-your-tiny-repairs"
+        },
+        {
+          "title": "Are you filthy enough for a $700 portable shower?",
+          "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+          "source": "The Verge",
+          "published_at": "2026-07-11T07:00:00Z",
+          "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the gre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-11-are-you-filthy-enough-for-a-700-portable"
+        },
+        {
+          "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+          "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+          "source": "The Verge",
+          "published_at": "2026-07-11T00:10:38Z",
+          "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received signi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-11-no-flock-isn-8217-t-threatening-people-for"
         },
         {
           "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
@@ -362,19 +391,6 @@
           "id": "xataka-2026-07-10-openai-queria-simplificar-sus-productos-de-ia-ha"
         },
         {
-          "title": "ICE is threatening to deport witnesses of its latest shooting",
-          "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-          "source": "The Verge",
-          "published_at": "2026-07-10T19:20:00Z",
-          "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic sto…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-10-ice-is-threatening-to-deport-witnesses-of-its"
-        },
-        {
           "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
           "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
           "source": "Xataka",
@@ -386,45 +402,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-10-no-es-que-un-centro-de-datos-de"
-        },
-        {
-          "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-          "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-          "source": "The Verge",
-          "published_at": "2026-07-10T17:31:35Z",
-          "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpas…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-10-nvidia-8217-s-biggest-ram-supplier-just-had"
-        },
-        {
-          "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-          "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-          "source": "The Verge",
-          "published_at": "2026-07-10T17:02:13Z",
-          "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on art…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-10-spotify-will-let-you-fine-tune-your-weekly-release"
-        },
-        {
-          "title": "Netflix is turning into YouTube",
-          "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-07-10T16:29:50Z",
-          "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-10-netflix-is-turning-into-youtube"
         },
         {
           "title": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
@@ -490,32 +467,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-10-meta-acaba-de-convertir-tus-fotos-de-instagram"
-        },
-        {
-          "title": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
-          "url": "https://www.xataka.com/empresas-y-economia/big-tech-chinas-tienen-plan-mayor-apuesta-su-historia-a-fabricantes-chips-nacionales",
-          "source": "Xataka",
-          "published_at": "2026-07-09T16:31:20Z",
-          "summary": "China ha definido una serie de pasos para convertirse en la primera potencia mundial . Dentro de esa hoja de ruta entra la soberanía tecnológica y, para lograr el objetivo, es necesaria una inversión mayor en tecnología …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-09-las-big-tech-chinas-tienen-un-plan-la"
-        },
-        {
-          "title": "Un profesor sospechaba que sus alumnos habían hecho trampas con IA. Hizo el examen en persona y las notas bajaron a la mitad",
-          "url": "https://www.xataka.com/robotica-e-ia/profesor-sospechaba-que-sus-alumnos-habian-hecho-trampas-ia-hizo-examen-persona-notas-bajaron-a-mitad",
-          "source": "Xataka",
-          "published_at": "2026-07-09T09:15:19Z",
-          "summary": "En diciembre de 2025, un tiroteo en el campus de la Universidad de Brown causó la muerte de dos personas. Una de ellas acababa de presentarse a uno de los profesores de esa universidad, el español Roberto Serrano . La tr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-09-un-profesor-sospechaba-que-sus-alumnos-habian-hecho"
         }
       ]
     }
