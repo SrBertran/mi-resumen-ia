@@ -1,72 +1,72 @@
 {
-  "date": "2026-07-12",
-  "generated_at": "2026-07-12T07:18:31.557634Z",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T07:36:41.555490Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-      "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-      "source": "Xataka",
-      "published_at": "2026-07-12T06:40:00Z",
-      "summary": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de …",
-      "why_it_matters": "",
-      "tags": [
-        "regulación"
-      ],
-      "category": "regulación",
-      "id": "xataka-2026-07-12-apple-demanda-a-openai-por-robar-secretos-comerciales"
-    },
-    {
-      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "source": "The Verge",
-      "published_at": "2026-07-11T20:57:42Z",
-      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the Mu…",
+      "published_at": "2026-07-12T20:10:19Z",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-11-after-years-of-teasing-the-viral-nopia-synth"
+      "id": "theverge-2026-07-12-lorde-says-ray-ban-meta-ai-glasses-are-not"
     },
     {
-      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+      "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
       "source": "The Verge",
-      "published_at": "2026-07-11T18:44:12Z",
-      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 day…",
+      "published_at": "2026-07-12T19:40:00Z",
+      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-11-oregon-s-attorney-general-withdraws-effort-to-delay"
+      "id": "theverge-2026-07-12-shall-we-go-on-sinning-so-that-grace"
     },
     {
-      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
       "source": "The Verge",
-      "published_at": "2026-07-11T15:00:00Z",
-      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shep…",
+      "published_at": "2026-07-12T16:27:06Z",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple reali…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-11-fl-studio-head-constantin-koehncke-turns-to-reddit"
+      "id": "theverge-2026-07-12-apple-s-failed-self-driving-car-program-left-a"
     },
     {
-      "title": "Nintendo’s Talking Flower got a small price cut",
-      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+      "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-11T15:00:00Z",
-      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a ch…",
+      "published_at": "2026-07-12T15:00:00Z",
+      "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, an…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-11-nintendo-s-talking-flower-got-a-small-price"
+      "id": "theverge-2026-07-12-one-of-steelseries-8217-best-gaming-headsets-is"
+    },
+    {
+      "title": "How Philips Hue got the smart home right",
+      "url": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+      "source": "The Verge",
+      "published_at": "2026-07-12T14:38:01Z",
+      "summary": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you'…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-12-how-philips-hue-got-the-smart-home-right"
     }
   ],
   "sections": [
@@ -280,19 +280,24 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-07-australian-payments-plus-moves-faster-with-chatgpt-and"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-          "source": "Anthropic",
-          "published_at": "2026-07-06T00:00:00Z",
-          "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+          "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
+          "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
+          "source": "Xataka",
+          "published_at": "2026-07-12T06:40:00Z",
+          "summary": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-06-government-of-alberta-uses-claude-to-find-and"
+          "category": "regulación",
+          "id": "xataka-2026-07-12-apple-demanda-a-openai-por-robar-secretos-comerciales"
         }
       ]
     },
@@ -300,173 +305,82 @@
       "name": "General",
       "items": [
         {
-          "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-          "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+          "title": "Less is more with the Oura Ring 5",
+          "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
           "source": "The Verge",
-          "published_at": "2026-07-11T14:18:33Z",
-          "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The…",
+          "published_at": "2026-07-12T14:00:00Z",
+          "summary": "If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-11-white-house-taps-the-guy-who-keeps-crying"
+          "id": "theverge-2026-07-12-less-is-more-with-the-oura-ring-5"
         },
         {
-          "title": "ICE are heavily armed killers. They’re also huge losers",
-          "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+          "title": "Blue Prince became a bonding — and learning — experience for my family",
+          "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
           "source": "The Verge",
-          "published_at": "2026-07-11T13:00:00Z",
-          "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under t…",
+          "published_at": "2026-07-12T13:00:00Z",
+          "summary": "I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thie…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-11-ice-are-heavily-armed-killers-they-re-also"
+          "id": "theverge-2026-07-12-blue-prince-became-a-bonding----and-learning"
         },
         {
-          "title": "A tasty RPG that will make you very hungry",
-          "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+          "title": "The fight against AI data centers is just beginning",
+          "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
           "source": "The Verge",
-          "published_at": "2026-07-11T12:00:00Z",
-          "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forget…",
+          "published_at": "2026-07-12T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM E…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-11-a-tasty-rpg-that-will-make-you-very"
+          "id": "theverge-2026-07-12-the-fight-against-ai-data-centers-is-just"
         },
         {
-          "title": "The perfect kit for all your tiny repairs",
-          "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+          "title": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
+          "source": "Xataka",
+          "published_at": "2026-07-12T09:01:57Z",
+          "summary": "Asha Sharma, flamante CEO de Xbox, anunció esta semana el despido de 1.600 personas de su división . Es el primer tramo de un plan que prevé más recortes, hasta 3.200, este año. Tres días después, la Reserva Federal esta…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-12-la-ia-se-ha-convertido-en-la-coartada"
+        },
+        {
+          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+          "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
           "source": "The Verge",
-          "published_at": "2026-07-11T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This…",
+          "published_at": "2026-07-11T20:57:42Z",
+          "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the Mu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-11-the-perfect-kit-for-all-your-tiny-repairs"
+          "id": "theverge-2026-07-11-after-years-of-teasing-the-viral-nopia-synth"
         },
         {
-          "title": "Are you filthy enough for a $700 portable shower?",
-          "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+          "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
           "source": "The Verge",
-          "published_at": "2026-07-11T07:00:00Z",
-          "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the gre…",
+          "published_at": "2026-07-11T18:44:12Z",
+          "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 day…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-11-are-you-filthy-enough-for-a-700-portable"
-        },
-        {
-          "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-          "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-          "source": "The Verge",
-          "published_at": "2026-07-11T00:10:38Z",
-          "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received signi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-11-no-flock-isn-8217-t-threatening-people-for"
-        },
-        {
-          "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
-          "source": "Xataka",
-          "published_at": "2026-07-10T19:31:57Z",
-          "summary": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-openai-queria-simplificar-sus-productos-de-ia-ha"
-        },
-        {
-          "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
-          "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
-          "source": "Xataka",
-          "published_at": "2026-07-10T19:01:58Z",
-          "summary": "La IA es bastante &nbsp;impopular entre los ciudadanos estadounidenses . Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-no-es-que-un-centro-de-datos-de"
-        },
-        {
-          "title": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
-          "url": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
-          "source": "Xataka",
-          "published_at": "2026-07-10T15:31:57Z",
-          "summary": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-los-nuevos-grok-4-5-y-muse-spark"
-        },
-        {
-          "title": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
-          "url": "https://www.xataka.com/basics/meta-ai-crea-imagenes-tu-cara-permiso-usando-tus-fotos-instagram-como-funciona-dos-modos-evitarlo",
-          "source": "Xataka",
-          "published_at": "2026-07-10T11:07:00Z",
-          "summary": "Meta AI ha estrenado una nueva función con la que cualquier usuario puede crear imágenes con las caras de otras personas sin permiso. Esto abre la puerta a todo tipo de abusos y usos poco éticos, ya que la función permit…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-meta-ai-puede-crear-imagenes-con-tu-cara"
-        },
-        {
-          "title": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
-          "url": "https://www.xataka.com/basics/gpt-5-6-novedades-todo-que-cambia-chatgpt-nueva-version-su-modelo-inteligencia-artificial",
-          "source": "Xataka",
-          "published_at": "2026-07-10T10:32:12Z",
-          "summary": "Vamos a decirte&nbsp; cuáles son las novedades de &nbsp; GPT-5.6 , la nueva versión del modelo de&nbsp; inteligencia artificial &nbsp;de&nbsp; ChatGPT . Vamos a hacerlo de una manera sencilla, sintetizando en una lista c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-gpt-5-6-novedades-y-todo-lo-que-cambia"
-        },
-        {
-          "title": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
-          "url": "https://www.xataka.com/robotica-e-ia/gpt-5-6-probablemente-sea-mejor-modelo-ia-mundo-precisamente-eso-mayoria-no-necesita",
-          "source": "Xataka",
-          "published_at": "2026-07-10T08:15:58Z",
-          "summary": "Ayer OpenAI lanzaba públicamente GPT-5.6 , su nueva familia de modelos de IA con tres variantes: Sol, la más potente, Terra, más equilibrada, y Luna, la más eficiente en costes. Una idea sobresalía en ese lanzamiento: la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-gpt-5-6-probablemente-sea-el-mejor-modelo-de"
-        },
-        {
-          "title": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
-          "url": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
-          "source": "Xataka",
-          "published_at": "2026-07-10T07:31:58Z",
-          "summary": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario . Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-10-meta-acaba-de-convertir-tus-fotos-de-instagram"
+          "id": "theverge-2026-07-11-oregon-s-attorney-general-withdraws-effort-to-delay"
         }
       ]
     }
@@ -703,19 +617,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-09-inviting-hard-questions"
-        },
-        {
-          "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-          "source": "Anthropic",
-          "published_at": "2026-07-06T00:00:00Z",
-          "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-06-government-of-alberta-uses-claude-to-find-and"
         }
       ]
     },
