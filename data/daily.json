@@ -1,78 +1,91 @@
 {
-  "date": "2026-07-13",
-  "generated_at": "2026-07-13T07:36:41.555490Z",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T07:12:56.993784Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
       "source": "The Verge",
-      "published_at": "2026-07-12T20:10:19Z",
-      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot…",
+      "published_at": "2026-07-13T21:53:20Z",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Window…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-12-lorde-says-ray-ban-meta-ai-glasses-are-not"
+      "id": "theverge-2026-07-13-microsoft-tests-windows-search-without-all-the-ads"
     },
     {
-      "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-      "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+      "title": "OnePlus is reportedly bailing on the US",
+      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
       "source": "The Verge",
-      "published_at": "2026-07-12T19:40:00Z",
-      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos,…",
+      "published_at": "2026-07-13T21:48:43Z",
+      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-12-shall-we-go-on-sinning-so-that-grace"
+      "id": "theverge-2026-07-13-oneplus-is-reportedly-bailing-on-the-us"
     },
     {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
+      "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-12T16:27:06Z",
-      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple reali…",
+      "published_at": "2026-07-13T21:03:14Z",
+      "summary": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio qu…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-12-apple-s-failed-self-driving-car-program-left-a"
+      "id": "theverge-2026-07-13-a-two-pack-of-dji-8217-s-most-capable"
     },
     {
-      "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
-      "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+      "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-12T15:00:00Z",
-      "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, an…",
+      "published_at": "2026-07-13T20:57:44Z",
+      "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-12-one-of-steelseries-8217-best-gaming-headsets-is"
+      "id": "theverge-2026-07-13-the-shokz-openrun-pro-are-the-cheapest-they"
     },
     {
-      "title": "How Philips Hue got the smart home right",
-      "url": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+      "title": "The Pixel colors might rule this year",
+      "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
       "source": "The Verge",
-      "published_at": "2026-07-12T14:38:01Z",
-      "summary": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you'…",
+      "published_at": "2026-07-13T20:52:27Z",
+      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchs…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-12-how-philips-hue-got-the-smart-home-right"
+      "id": "theverge-2026-07-13-the-pixel-colors-might-rule-this-year"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+          "source": "DeepMind",
+          "published_at": "2026-07-13T12:37:28Z",
+          "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-13-empowering-india-s-next-generation-of-innovators-with"
+        },
         {
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
           "url": "https://openai.com/index/deutsche-telekom",
@@ -87,6 +100,19 @@
           "id": "openai-2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
         },
         {
+          "title": "Getting started with ChatGPT",
+          "url": "https://openai.com/academy/getting-started",
+          "source": "OpenAI",
+          "published_at": "2026-07-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-10-getting-started-with-chatgpt"
+        },
+        {
           "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
           "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
           "source": "OpenAI",
@@ -98,6 +124,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
+        },
+        {
+          "title": "GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "Details about the OpenAI Bio Bounty program",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
         },
         {
           "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -124,19 +163,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
-        },
-        {
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "url": "https://openai.com/index/bio-bug-bounty",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "Details about the OpenAI Bio Bounty program",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
         },
         {
           "title": "Introducing a way to reflect on how you use Claude",
@@ -254,50 +280,37 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-07-07-expanding-managed-agents-in-gemini-api-background-tasks"
-        },
-        {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "url": "https://openai.com/index/mufg",
-          "source": "OpenAI",
-          "published_at": "2026-07-07T00:00:00Z",
-          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-07-mufg-aims-to-become-ai-native-with-openai"
-        },
-        {
-          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-          "url": "https://openai.com/index/australian-payments-plus",
-          "source": "OpenAI",
-          "published_at": "2026-07-07T00:00:00Z",
-          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-07-australian-payments-plus-moves-faster-with-chatgpt-and"
         }
       ]
     },
     {
-      "name": "Regulación",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-          "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-          "source": "Xataka",
-          "published_at": "2026-07-12T06:40:00Z",
-          "summary": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de …",
+          "title": "The AI Arms Race in Technical Interviews Is Escalating",
+          "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-13T15:15:03Z",
+          "summary": "Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. M…",
           "why_it_matters": "",
           "tags": [
-            "regulación"
+            "investigación"
           ],
-          "category": "regulación",
-          "id": "xataka-2026-07-12-apple-demanda-a-openai-por-robar-secretos-comerciales"
+          "category": "investigación",
+          "id": "ieee-2026-07-13-the-ai-arms-race-in-technical-interviews-is"
+        },
+        {
+          "title": "Building a Foundation Stack for General-Purpose Robots",
+          "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-13T10:19:51Z",
+          "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. R…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-13-building-a-foundation-stack-for-general-purpose-robots"
         }
       ]
     },
@@ -305,43 +318,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Less is more with the Oura Ring 5",
-          "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+          "title": "Apple’s public betas for iOS 27 and more are out now",
+          "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
           "source": "The Verge",
-          "published_at": "2026-07-12T14:00:00Z",
-          "summary": "If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great …",
+          "published_at": "2026-07-13T20:45:40Z",
+          "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - w…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-12-less-is-more-with-the-oura-ring-5"
+          "id": "theverge-2026-07-13-apple-s-public-betas-for-ios-27-and"
         },
         {
-          "title": "Blue Prince became a bonding — and learning — experience for my family",
-          "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+          "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+          "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
           "source": "The Verge",
-          "published_at": "2026-07-12T13:00:00Z",
-          "summary": "I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thie…",
+          "published_at": "2026-07-13T20:44:20Z",
+          "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-12-blue-prince-became-a-bonding----and-learning"
+          "id": "theverge-2026-07-13-siri-ai-makes-the-apple-watch-finally-feel"
         },
         {
-          "title": "The fight against AI data centers is just beginning",
-          "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+          "title": "Siri AI is already changing how I use my iPhone",
+          "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
           "source": "The Verge",
-          "published_at": "2026-07-12T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM E…",
+          "published_at": "2026-07-13T20:43:20Z",
+          "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-12-the-fight-against-ai-data-centers-is-just"
+          "id": "theverge-2026-07-13-siri-ai-is-already-changing-how-i-use"
+        },
+        {
+          "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+          "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+          "source": "The Verge",
+          "published_at": "2026-07-13T20:43:15Z",
+          "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at le…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-13-the-macos-27-public-beta-is-worth-it"
+        },
+        {
+          "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
+          "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+          "source": "The Verge",
+          "published_at": "2026-07-13T18:35:48Z",
+          "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Col…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-13-states-make-last-ditch-effort-to-stop-the-paramount"
+        },
+        {
+          "title": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
+          "url": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
+          "source": "Xataka",
+          "published_at": "2026-07-13T14:59:01Z",
+          "summary": "Vamos a explicarte&nbsp; cómo usar ChatGPT en WhatsApp , usando la&nbsp; inteligencia artificial &nbsp;creada por OpenAI. Se trata del&nbsp; ChatGPT &nbsp;oficial, el real, y no ningún otro bot que usa su tecnología. Tra…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-13-como-usar-chatgpt-en-whatsapp-ahora-que-vuelve"
+        },
+        {
+          "title": "A Meta le pareció buena idea que su IA generara imágenes a partir de tus fotos de Instagram. Días después ya ha dado marcha atrás",
+          "url": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
+          "source": "Xataka",
+          "published_at": "2026-07-13T09:16:06Z",
+          "summary": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA&nbsp; integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-13-a-meta-le-parecio-buena-idea-que-su"
         },
         {
           "title": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
@@ -355,32 +420,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-12-la-ia-se-ha-convertido-en-la-coartada"
-        },
-        {
-          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-          "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-          "source": "The Verge",
-          "published_at": "2026-07-11T20:57:42Z",
-          "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are almost ready to bring it to market. The duo brought it to the Mu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-11-after-years-of-teasing-the-viral-nopia-synth"
-        },
-        {
-          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-          "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-          "source": "The Verge",
-          "published_at": "2026-07-11T18:44:12Z",
-          "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 day…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-11-oregon-s-attorney-general-withdraws-effort-to-delay"
         }
       ]
     }
@@ -431,6 +470,19 @@
           "id": "openai-2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
         },
         {
+          "title": "Getting started with ChatGPT",
+          "url": "https://openai.com/academy/getting-started",
+          "source": "OpenAI",
+          "published_at": "2026-07-10T00:00:00Z",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-10-getting-started-with-chatgpt"
+        },
+        {
           "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
           "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
           "source": "OpenAI",
@@ -442,6 +494,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
+        },
+        {
+          "title": "GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "Details about the OpenAI Bio Bounty program",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
         },
         {
           "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -468,19 +533,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
-        },
-        {
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "url": "https://openai.com/index/bio-bug-bounty",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "Details about the OpenAI Bio Bounty program",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
         },
         {
           "title": "Our approach to government and national security partnerships",
@@ -533,32 +585,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-08-introducing-gpt-live"
-        },
-        {
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "url": "https://openai.com/index/mufg",
-          "source": "OpenAI",
-          "published_at": "2026-07-07T00:00:00Z",
-          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-07-mufg-aims-to-become-ai-native-with-openai"
-        },
-        {
-          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-          "url": "https://openai.com/index/australian-payments-plus",
-          "source": "OpenAI",
-          "published_at": "2026-07-07T00:00:00Z",
-          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-07-australian-payments-plus-moves-faster-with-chatgpt-and"
         }
       ]
     },
@@ -644,17 +670,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
           "source": "DeepMind",
-          "published_at": "2026-07-03T14:25:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "published_at": "2026-07-13T12:37:28Z",
+          "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-07-03-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+          "id": "deepmind-2026-07-13-empowering-india-s-next-generation-of-innovators-with"
         }
       ]
     }
