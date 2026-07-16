@@ -1,78 +1,104 @@
 {
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T07:14:04.676927Z",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T07:15:50.098738Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "El argumento de la creación de empleo ha sido la gran baza para levantar centros de datos. Estaría bien si fuera cierto",
-      "url": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
-      "source": "Xataka",
-      "published_at": "2026-07-15T07:01:55Z",
-      "summary": "Los centros de datos consumen mucha electricidad , haciendo que suba la factura de la luz , contaminan el aire y a veces también el agua . Argumentos en contra hay cada vez más, mientras que los argumentos a favor para q…",
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "source": "The Verge",
+      "published_at": "2026-07-16T00:00:00Z",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differen…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-15-el-argumento-de-la-creacion-de-empleo-ha"
+      "id": "theverge-2026-07-16-skullcandy-s-bass-boosting-crusher-headphones-now-come-with"
     },
     {
-      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-15T03:28:53Z",
-      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival a…",
+      "published_at": "2026-07-15T22:47:11Z",
+      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usu…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-15-google-and-epic-give-up-fighting----third-party"
+      "id": "theverge-2026-07-15-hp-8217-s-oled-equipped-2-in-1-laptop-is-a"
     },
     {
-      "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
-      "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
       "source": "The Verge",
-      "published_at": "2026-07-14T22:24:26Z",
-      "summary": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amaz…",
+      "published_at": "2026-07-15T22:39:40Z",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Ma…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-14-nothing-s-good-looking-watch-3-pro-smartwatch-is"
+      "id": "theverge-2026-07-15-apple-s-reportedly-raising-the-price-for-applecare"
     },
     {
-      "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
-      "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
-      "source": "The Verge",
-      "published_at": "2026-07-14T21:32:04Z",
-      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, accor…",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "source": "VentureBeat",
+      "published_at": "2026-07-15T22:24:17Z",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step ex…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-14-microsoft-s-biggest-ever-patch-tuesday-lets-you"
+      "id": "venturebeat-2026-07-15-agentic-orchestration-enterprise-ai-organizations-have-a-deployment"
     },
     {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
       "source": "The Verge",
-      "published_at": "2026-07-14T21:26:32Z",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"unders…",
+      "published_at": "2026-07-15T22:16:46Z",
+      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-14-openai-may-announce-a-chatgpt-smart-speaker-this"
+      "id": "theverge-2026-07-15-valve-says-ifixit-will-keep-selling-steam-deck"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "The US is advancing AI safety through state and federal action",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI",
+          "published_at": "2026-07-15T12:00:00Z",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-15-the-us-is-advancing-ai-safety-through-state"
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI",
+          "published_at": "2026-07-15T10:00:00Z",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
+        },
         {
           "title": "Celebrating 25 years of visual search innovation",
           "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
@@ -100,19 +126,6 @@
           "id": "openai-2026-07-14-how-to-manage-ai-investments-in-the-agentic"
         },
         {
-          "title": "How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-07-14T00:00:00Z",
-          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-14-how-data-science-teams-use-chatgpt-work"
-        },
-        {
           "title": "How sales teams use ChatGPT Work",
           "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "source": "OpenAI",
@@ -124,6 +137,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-14-how-sales-teams-use-chatgpt-work"
+        },
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-07-14T00:00:00Z",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-14-how-data-science-teams-use-chatgpt-work"
         },
         {
           "title": "Anthropic commits $10 million to Canadian AI research",
@@ -204,6 +230,19 @@
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
         },
         {
+          "title": "ChatGPT is now a partner for your most ambitious work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
+        },
+        {
           "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
           "url": "https://openai.com/index/gpt-5-6",
           "source": "OpenAI",
@@ -228,116 +267,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
-        },
-        {
-          "title": "ChatGPT is now a partner for your most ambitious work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
-        },
-        {
-          "title": "Introducing a way to reflect on how you use Claude",
-          "url": "https://www.anthropic.com/news/reflect-with-claude",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Introducing a way to reflect on how you use Claude",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-introducing-a-way-to-reflect-on-how-you"
-        },
-        {
-          "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-          "url": "https://www.anthropic.com/news/ben-bernanke",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-ben-bernanke-appointed-to-anthropic-s-long-term-benefit"
-        },
-        {
-          "title": "UST is bringing Claude to physical AI",
-          "url": "https://www.anthropic.com/news/ust-claude",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "UST is bringing Claude to physical AI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-ust-is-bringing-claude-to-physical-ai"
-        },
-        {
-          "title": "Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Inviting hard questions",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-inviting-hard-questions"
-        },
-        {
-          "title": "Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T13:30:00Z",
-          "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-our-approach-to-government-and-national-security-partnerships"
-        },
-        {
-          "title": "Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T13:00:00Z",
-          "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-separating-signal-from-noise-in-coding-evaluations"
-        },
-        {
-          "title": "Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T10:00:00Z",
-          "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-helping-k-12-educators-build-practical-ai-skills"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "The First Chatbot’s Multiple Personalities",
+          "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-15T15:35:53Z",
+          "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-15-the-first-chatbot-s-multiple-personalities"
+        },
+        {
+          "title": "This AI Folds DNA Into Mini Masterpieces",
+          "url": "https://spectrum.ieee.org/ai-dna-origami",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-15T13:00:01Z",
+          "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-15-this-ai-folds-dna-into-mini-masterpieces"
+        },
         {
           "title": "How I Turned AI to the Dark Side",
           "url": "https://spectrum.ieee.org/jailbreaking-llms",
@@ -350,32 +311,63 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-07-14-how-i-turned-ai-to-the-dark-side"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "The AI Arms Race in Technical Interviews Is Escalating",
-          "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-13T15:15:03Z",
-          "summary": "Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. M…",
+          "title": "What building Shippy taught us about building agents",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face",
+          "published_at": "2026-07-15T17:29:41Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-07-13-the-ai-arms-race-in-technical-interviews-is"
+          "category": "herramientas",
+          "id": "huggingface-2026-07-15-what-building-shippy-taught-us-about-building-agents"
         },
         {
-          "title": "Building a Foundation Stack for General-Purpose Robots",
-          "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-13T10:19:51Z",
-          "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. R…",
+          "title": "Model Routing Is Simple. Until It Isn’t.",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "source": "Hugging Face",
+          "published_at": "2026-07-15T17:27:01Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "herramientas"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-07-13-building-a-foundation-stack-for-general-purpose-robots"
+          "category": "herramientas",
+          "id": "huggingface-2026-07-15-model-routing-is-simple-until-it-isn-t"
+        },
+        {
+          "title": "Welcome Inkling by Thinking Machines",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "source": "Hugging Face",
+          "published_at": "2026-07-15T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-15-welcome-inkling-by-thinking-machines"
+        },
+        {
+          "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face",
+          "published_at": "2026-07-15T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-15-introducing-real-world-voiceeq-measuring-the-human-quality"
         }
       ]
     },
@@ -383,82 +375,108 @@
       "name": "General",
       "items": [
         {
-          "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+          "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
           "source": "The Verge",
-          "published_at": "2026-07-14T19:25:00Z",
-          "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday sh…",
+          "published_at": "2026-07-15T21:33:20Z",
+          "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harw…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-spacexai-8217-s-grok-programming-tool-was-uploading"
+          "id": "theverge-2026-07-15-xai-sues-a-man-for-using-grok-to"
         },
         {
-          "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-          "url": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
+          "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+          "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
           "source": "The Verge",
-          "published_at": "2026-07-14T17:36:05Z",
-          "summary": "Although most of Prime Day&#8217;s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a …",
+          "published_at": "2026-07-15T21:30:17Z",
+          "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair B…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-philips-hue-8217-s-budget-friendly-essential-starter-kit"
+          "id": "theverge-2026-07-15-brendan-carr-plans-to-let-broadcast-giants-dominate"
         },
         {
-          "title": "Plex problems prevented users from streaming movies and shows",
-          "url": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
+          "title": "Roblox is shutting down its video chat service",
+          "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
           "source": "The Verge",
-          "published_at": "2026-07-14T17:23:25Z",
-          "summary": "Plex services experienced some major issues on Tuesday, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are ups…",
+          "published_at": "2026-07-15T20:02:26Z",
+          "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-plex-problems-prevented-users-from-streaming-movies-and"
+          "id": "theverge-2026-07-15-roblox-is-shutting-down-its-video-chat-service"
         },
         {
-          "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
-          "url": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
+          "title": "AI slop movies are the new direct-to-video cash grabs",
+          "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
           "source": "The Verge",
-          "published_at": "2026-07-14T17:20:34Z",
-          "summary": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananz…",
+          "published_at": "2026-07-15T20:00:00Z",
+          "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-nintendo-s-switch-2-bundle-that-includes-a"
+          "id": "theverge-2026-07-15-ai-slop-movies-are-the-new-direct-to-video-cash"
         },
         {
-          "title": "Meta accused of using biased AI targeting for mass layoffs",
-          "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-          "source": "The Verge",
-          "published_at": "2026-07-14T17:18:11Z",
-          "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta deter…",
+          "title": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
+          "url": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
+          "source": "Xataka",
+          "published_at": "2026-07-15T19:01:55Z",
+          "summary": "China ha puesto en marcha en Zhengzhou el Dawning 8000, un superclúster de inteligencia artificial que, según Sugon, puede integrar 100.000 tarjetas de cálculo desarrolladas en el país. La compañía lo presenta como el pr…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-meta-accused-of-using-biased-ai-targeting-for"
+          "id": "xataka-2026-07-15-china-acaba-de-reunir-100-000-aceleradores-nacionales"
         },
         {
-          "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
-          "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+          "title": "Enshittification",
+          "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
           "source": "The Verge",
-          "published_at": "2026-07-14T16:52:47Z",
-          "summary": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that a…",
+          "published_at": "2026-07-15T18:40:00Z",
+          "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no j…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-14-boston-dynamics-tries-using-8216-robot-dogs-8217"
+          "id": "theverge-2026-07-15-enshittification"
+        },
+        {
+          "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
+          "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+          "source": "The Verge",
+          "published_at": "2026-07-15T18:24:22Z",
+          "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-15-something-8217-s-glowing-on-the-pixel-11"
+        },
+        {
+          "title": "Los centros de datos necesitan mucha agua, luz y dinero. Lo que no necesitan son trabajadores",
+          "url": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
+          "source": "Xataka",
+          "published_at": "2026-07-15T07:00:00Z",
+          "summary": "Los centros de datos consumen mucha electricidad , haciendo que suba la factura de la luz , contaminan el aire y a veces también el agua . Argumentos en contra hay cada vez más, mientras que los argumentos a favor para q…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-15-los-centros-de-datos-necesitan-mucha-agua-luz"
         },
         {
           "title": "Madrid va a abrir un túnel que vigila el tráfico con IA en tiempo real: así funcionará el nuevo subterráneo de la Castellana",
@@ -474,69 +492,43 @@
           "id": "xataka-2026-07-14-madrid-va-a-abrir-un-tunel-que-vigila"
         },
         {
-          "title": "Anthropic asegura haber encontrado la \"consciencia\" de Claude, aunque los datos cuentan otra historia",
+          "title": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
           "url": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
           "source": "Xataka",
-          "published_at": "2026-07-14T13:16:06Z",
+          "published_at": "2026-07-14T13:15:00Z",
           "summary": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp; (IA), como os explicamos la semana pasada. Esta compañía asegura…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-14-anthropic-asegura-haber-encontrado-la-consciencia-de-claude"
+          "id": "xataka-2026-07-14-claude-tiene-un-espacio-en-el-que-manipula"
         },
         {
-          "title": "Nadie apostaría hoy por Meta en la carrera de la superinteligencia, pero juega con más ventaja de la que pensamos para ganarla",
+          "title": "Meta es la última gran tecnológica en la carrera por la IA. Y sin embargo tiene un arma que las demás no",
           "url": "https://www.xataka.com/robotica-e-ia/nadie-apostaria-hoy-meta-carrera-superinteligencia-juega-ventaja-que-pensamos-para-ganarla",
           "source": "Xataka",
-          "published_at": "2026-07-14T13:00:08Z",
+          "published_at": "2026-07-14T13:00:00Z",
           "summary": "Hace un año, Zuckerberg estaba contratando talento IA como si se fuera a acabar el mundo, ofreciendo sueldos millonarios y hasta comprando empresas enteras para poder fichar a Alexandr Wang . Un año después, han despedid…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-14-nadie-apostaria-hoy-por-meta-en-la-carrera"
+          "id": "xataka-2026-07-14-meta-es-la-ultima-gran-tecnologica-en-la"
         },
         {
-          "title": "La información es poder y Microsoft ha llegado a una conclusión: se ha cansado de regalarla a las Big Tech de la IA",
+          "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
           "url": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
           "source": "Xataka",
-          "published_at": "2026-07-14T10:30:07Z",
+          "published_at": "2026-07-14T10:30:00Z",
           "summary": "Satya Nadella, el CEO de Microsoft, se ha puesto creativo en Twitter. A través de un mensaje casi tan largo como el que su colega Asha Sharma, CEO de Xbox, aprovechó para comunicar el despido de 3.200 personas hace apena…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-14-la-informacion-es-poder-y-microsoft-ha-llegado"
-        },
-        {
-          "title": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
-          "url": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
-          "source": "Xataka",
-          "published_at": "2026-07-13T14:59:01Z",
-          "summary": "Vamos a explicarte&nbsp; cómo usar ChatGPT en WhatsApp , usando la&nbsp; inteligencia artificial &nbsp;creada por OpenAI. Se trata del&nbsp; ChatGPT &nbsp;oficial, el real, y no ningún otro bot que usa su tecnología. Tra…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-13-como-usar-chatgpt-en-whatsapp-ahora-que-vuelve"
-        },
-        {
-          "title": "Instagram intentó generar imágenes con IA a partir de las fotos de sus usuarios: ahora Meta ha tenido que retractarse",
-          "url": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
-          "source": "Xataka",
-          "published_at": "2026-07-13T09:15:00Z",
-          "summary": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA&nbsp; integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-13-instagram-intento-generar-imagenes-con-ia-a-partir"
+          "id": "xataka-2026-07-14-satya-nadella-ceo-de-microsoft-cuando-consumes-inteligencia"
         }
       ]
     }
@@ -574,6 +566,32 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "The US is advancing AI safety through state and federal action",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI",
+          "published_at": "2026-07-15T12:00:00Z",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-15-the-us-is-advancing-ai-safety-through-state"
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI",
+          "published_at": "2026-07-15T10:00:00Z",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
+        },
+        {
           "title": "How to manage AI investments in the agentic era",
           "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
           "source": "OpenAI",
@@ -587,19 +605,6 @@
           "id": "openai-2026-07-14-how-to-manage-ai-investments-in-the-agentic"
         },
         {
-          "title": "How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI",
-          "published_at": "2026-07-14T00:00:00Z",
-          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-14-how-data-science-teams-use-chatgpt-work"
-        },
-        {
           "title": "How sales teams use ChatGPT Work",
           "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
           "source": "OpenAI",
@@ -611,6 +616,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-14-how-sales-teams-use-chatgpt-work"
+        },
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI",
+          "published_at": "2026-07-14T00:00:00Z",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-14-how-data-science-teams-use-chatgpt-work"
         },
         {
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -652,6 +670,19 @@
           "id": "openai-2026-07-09-gpt-5-6-is-now-the-preferred-model-in"
         },
         {
+          "title": "ChatGPT is now a partner for your most ambitious work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "OpenAI",
+          "published_at": "2026-07-09T10:00:00Z",
+          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
+        },
+        {
           "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
           "url": "https://openai.com/index/gpt-5-6",
           "source": "OpenAI",
@@ -676,58 +707,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-09-gpt-5-5-bio-bug-bounty"
-        },
-        {
-          "title": "ChatGPT is now a partner for your most ambitious work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "OpenAI",
-          "published_at": "2026-07-09T10:00:00Z",
-          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-09-chatgpt-is-now-a-partner-for-your-most"
-        },
-        {
-          "title": "Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T13:30:00Z",
-          "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-our-approach-to-government-and-national-security-partnerships"
-        },
-        {
-          "title": "Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T13:00:00Z",
-          "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-separating-signal-from-noise-in-coding-evaluations"
-        },
-        {
-          "title": "Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI",
-          "published_at": "2026-07-08T10:00:00Z",
-          "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-08-helping-k-12-educators-build-practical-ai-skills"
         }
       ]
     },
@@ -760,58 +739,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-14-introducing-claude-for-teachers"
-        },
-        {
-          "title": "Introducing a way to reflect on how you use Claude",
-          "url": "https://www.anthropic.com/news/reflect-with-claude",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Introducing a way to reflect on how you use Claude",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-introducing-a-way-to-reflect-on-how-you"
-        },
-        {
-          "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-          "url": "https://www.anthropic.com/news/ben-bernanke",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-ben-bernanke-appointed-to-anthropic-s-long-term-benefit"
-        },
-        {
-          "title": "UST is bringing Claude to physical AI",
-          "url": "https://www.anthropic.com/news/ust-claude",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "UST is bringing Claude to physical AI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-ust-is-bringing-claude-to-physical-ai"
-        },
-        {
-          "title": "Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic",
-          "published_at": "2026-07-09T00:00:00Z",
-          "summary": "Inviting hard questions",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-09-inviting-hard-questions"
         }
       ]
     },
