@@ -1,72 +1,72 @@
 {
-  "date": "2026-07-18",
-  "generated_at": "2026-07-18T07:07:04.408725Z",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T07:17:01.622717Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Fine, electric mountain bikes don’t suck",
-      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "source": "The Verge",
-      "published_at": "2026-07-18T07:00:00Z",
-      "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fu…",
+      "published_at": "2026-07-18T20:54:42Z",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools an…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-18-fine-electric-mountain-bikes-don-t-suck"
+      "id": "theverge-2026-07-18-dave-eggers-told-openai-staff-that-chatgpt-was"
     },
     {
-      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
       "source": "The Verge",
-      "published_at": "2026-07-17T22:09:47Z",
-      "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, acc…",
+      "published_at": "2026-07-18T18:25:08Z",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generat…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-17-taylor-farms-pulls-iceberg-lettuce-from-the-us"
+      "id": "theverge-2026-07-18-google-might-not-kneecap-the-pixel-11a-with"
     },
     {
-      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
-      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-07-17T20:15:54Z",
-      "summary": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill…",
+      "title": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
+      "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
+      "source": "Xataka",
+      "published_at": "2026-07-18T18:00:08Z",
+      "summary": "China es uno de esos destinos que tengo marcados en mi lista de deseos de vacaciones: ojalá ver los osos panda rojos, los Guerreros de Xi’an y la Gran Muralla. Sí, he estado dos veces ya allí, pero fueron viajes de traba…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-17-shark-8217-s-versatile-chillpill-cooling-system-is"
+      "id": "xataka-2026-07-18-china-ha-encontrado-un-nuevo-filon-turistico-lejos"
     },
     {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "title": "Google is open-sourcing its 3D emoji",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
       "source": "The Verge",
-      "published_at": "2026-07-17T19:34:30Z",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US c…",
+      "published_at": "2026-07-18T16:40:55Z",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-17-tiktok-is-testing-an-ai-likeness-detection-tool"
+      "id": "theverge-2026-07-18-google-is-open-sourcing-its-3d-emoji"
     },
     {
-      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-17T19:14:42Z",
-      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the m…",
+      "published_at": "2026-07-18T15:00:00Z",
+      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is di…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-17-pebble-founder-eric-migicovsky-says-his-30-day-warranty"
+      "id": "theverge-2026-07-18-gopro-8217-s-discounted-max-2-bundle-includes"
     }
   ],
   "sections": [
@@ -98,32 +98,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-16-why-teens-deserve-access-to-safe-ai"
-        },
-        {
-          "title": "Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-          "source": "Google AI",
-          "published_at": "2026-07-16T16:00:00Z",
-          "summary": "Connected apps rendering",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-16-connect-more-of-your-apps-to-search"
-        },
-        {
-          "title": "Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-          "source": "Google AI",
-          "published_at": "2026-07-16T16:00:00Z",
-          "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-16-create-edit-and-star-in-videos-with-two"
         },
         {
           "title": "Our approach to bioresilience",
@@ -176,19 +150,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
-        },
-        {
-          "title": "Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "source": "Google AI",
-          "published_at": "2026-07-14T16:00:00Z",
-          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
         },
         {
           "title": "How to manage AI investments in the agentic era",
@@ -271,37 +232,6 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "How to Make an Invisible Drone",
-          "url": "https://spectrum.ieee.org/invisible-spinning-drone",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-16T16:09:21Z",
-          "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-16-how-to-make-an-invisible-drone"
-        },
-        {
-          "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-          "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-16T12:00:01Z",
-          "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unus…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-16-digital-surveillance-reshapes-fishery-enforcement-in-indonesia"
-        }
-      ]
-    },
-    {
       "name": "Herramientas",
       "items": [
         {
@@ -316,19 +246,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-07-17-fine-tune-video-and-image-models-at-scale-with"
-        },
-        {
-          "title": "Newer Models, Same Advantage",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "source": "Hugging Face",
-          "published_at": "2026-07-16T11:49:48Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-16-newer-models-same-advantage"
         }
       ]
     },
@@ -336,7 +253,85 @@
       "name": "General",
       "items": [
         {
-          "title": "El nuevo modelo chino Kimi K3 ya es número uno en Frontend Code Arena. Y está desatando una locura en Internet",
+          "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+          "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+          "source": "The Verge",
+          "published_at": "2026-07-18T14:30:00Z",
+          "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magaz…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-the-guardian-s-carter-sherman-fondly-remembers-being"
+        },
+        {
+          "title": "Surprise! Facial recognition smart locks are actually good",
+          "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+          "source": "The Verge",
+          "published_at": "2026-07-18T14:00:00Z",
+          "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-surprise-facial-recognition-smart-locks-are-actually-good"
+        },
+        {
+          "title": "Sony’s flagship RGB LED TV is incredible",
+          "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+          "source": "The Verge",
+          "published_at": "2026-07-18T12:30:00Z",
+          "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying gam…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-sony-s-flagship-rgb-led-tv-is-incredible"
+        },
+        {
+          "title": "More games should be on rails (literally)",
+          "url": "https://www.theverge.com/games/961152/denshattack-review",
+          "source": "The Verge",
+          "published_at": "2026-07-18T12:00:00Z",
+          "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years lat…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-more-games-should-be-on-rails-literally"
+        },
+        {
+          "title": "The apps, gadgets, and tools every reader needs",
+          "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+          "source": "The Verge",
+          "published_at": "2026-07-18T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-the-apps-gadgets-and-tools-every-reader-needs"
+        },
+        {
+          "title": "Fine, electric mountain bikes don’t suck",
+          "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+          "source": "The Verge",
+          "published_at": "2026-07-18T07:00:00Z",
+          "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-18-fine-electric-mountain-bikes-don-t-suck"
+        },
+        {
+          "title": "“Así es como se pierde la carrera de la IA”: el modelo chino Kimi K3 alcanza el número 1 de Frontend Code Arena y David Sacks lanza un aviso",
           "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
           "source": "Xataka",
           "published_at": "2026-07-17T18:58:00Z",
@@ -346,72 +341,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-17-el-nuevo-modelo-chino-kimi-k3-ya-es"
-        },
-        {
-          "title": "Apple Music is getting a price hike",
-          "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-          "source": "The Verge",
-          "published_at": "2026-07-17T18:14:26Z",
-          "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-17-apple-music-is-getting-a-price-hike"
-        },
-        {
-          "title": "Apple’s plot to crush OpenAI",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-07-17T17:41:32Z",
-          "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-17-apple-s-plot-to-crush-openai"
-        },
-        {
-          "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
-          "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-17T16:47:13Z",
-          "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-17-asus-top-end-4k-qd-oled-gaming-monitor-is-400"
-        },
-        {
-          "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
-          "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-          "source": "The Verge",
-          "published_at": "2026-07-17T15:52:50Z",
-          "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider fold…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-17-samsung-8217-s-redesigned-z-fold-8-with"
-        },
-        {
-          "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
-          "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
-          "source": "The Verge",
-          "published_at": "2026-07-17T15:48:39Z",
-          "summary": "Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-17-is-america-ready-for-this-quirky-jeep-looking-ev"
+          "id": "xataka-2026-07-17-asi-es-como-se-pierde-la-carrera-de"
         },
         {
           "title": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
@@ -425,84 +355,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-17-la-ia-cambia-el-modo-de-trabajar-y"
-        },
-        {
-          "title": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
-          "source": "Xataka",
-          "published_at": "2026-07-16T21:48:47Z",
-          "summary": "Pensemos por un momento en cómo se movía el mercado tecnológico antes de noviembre de 2022 . La inteligencia artificial ya estaba presente en buscadores, cámaras, recomendaciones y servicios digitales, pero todavía no er…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-16-nadie-sabe-con-certeza-que-va-a-ocurrir"
-        },
-        {
-          "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-          "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-          "source": "VentureBeat",
-          "published_at": "2026-07-16T19:16:48Z",
-          "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-07-16-the-ai-compute-gap-enterprises-are-buying-infrastructure"
-        },
-        {
-          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat",
-          "published_at": "2026-07-16T19:02:38Z",
-          "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-07-16-the-agent-security-gap-54-of-enterprises-have"
-        },
-        {
-          "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-          "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-          "source": "VentureBeat",
-          "published_at": "2026-07-16T17:06:08Z",
-          "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-nati…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-07-16-the-ai-context-gap-enterprise-ai-organizations-have"
-        },
-        {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "source": "VentureBeat",
-          "published_at": "2026-07-16T16:40:48Z",
-          "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and th…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-07-16-the-agent-evaluation-gap-enterprise-ai-organizations-have"
-        },
-        {
-          "title": "DDR4 y DDR5 escasean, Apple sube precios y solo dos fabricantes chinos pueden devolver la cordura al mercado",
-          "url": "https://www.xataka.com/empresas-y-economia/china-te-necesitamos-solo-fabricantes-chinos-memorias-pueden-devolver-cordura-al-mercado-hardware",
-          "source": "Xataka",
-          "published_at": "2026-07-16T11:45:00Z",
-          "summary": "El precio de la memoria se ha transformado en una broma de mal gusto. Los módulos DDR4 y DDR5 escasean, los fabricantes de PC empaquetan equipos sin memoria suficiente y hasta Apple ha subido un 20% el precio de sus MacB…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-16-ddr4-y-ddr5-escasean-apple-sube-precios-y"
         }
       ]
     }
@@ -674,51 +526,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-14-introducing-claude-for-teachers"
-        }
-      ]
-    },
-    {
-      "id": "googleai",
-      "name": "Google AI",
-      "items": [
-        {
-          "title": "Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-          "source": "Google AI",
-          "published_at": "2026-07-16T16:00:00Z",
-          "summary": "Connected apps rendering",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-16-connect-more-of-your-apps-to-search"
-        },
-        {
-          "title": "Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-          "source": "Google AI",
-          "published_at": "2026-07-16T16:00:00Z",
-          "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-16-create-edit-and-star-in-videos-with-two"
-        },
-        {
-          "title": "Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "source": "Google AI",
-          "published_at": "2026-07-14T16:00:00Z",
-          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
         }
       ]
     },
