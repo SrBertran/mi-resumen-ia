@@ -1,72 +1,72 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T07:17:01.622717Z",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T07:33:43.980853Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
       "source": "The Verge",
-      "published_at": "2026-07-18T20:54:42Z",
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools an…",
+      "published_at": "2026-07-19T21:02:45Z",
+      "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#7…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-18-dave-eggers-told-openai-staff-that-chatgpt-was"
+      "id": "theverge-2026-07-19-this-unpronounceable-series-of-glyphs-is-an-incredible"
     },
     {
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
       "source": "The Verge",
-      "published_at": "2026-07-18T18:25:08Z",
-      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generat…",
+      "published_at": "2026-07-19T19:26:06Z",
+      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a f…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-18-google-might-not-kneecap-the-pixel-11a-with"
+      "id": "theverge-2026-07-19-kodak-ec35-is-a-dirt-cheap-point-and-shoot-film-camera"
     },
     {
-      "title": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
-      "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "source": "The Verge",
+      "published_at": "2026-07-19T17:35:54Z",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-19-i-hate-that-i-don-t-hate-this"
+    },
+    {
+      "title": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
+      "url": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
       "source": "Xataka",
-      "published_at": "2026-07-18T18:00:08Z",
-      "summary": "China es uno de esos destinos que tengo marcados en mi lista de deseos de vacaciones: ojalá ver los osos panda rojos, los Guerreros de Xi’an y la Gran Muralla. Sí, he estado dos veces ya allí, pero fueron viajes de traba…",
+      "published_at": "2026-07-19T17:00:32Z",
+      "summary": "Hace varias semanas, EEUU ordenó a Anthropic suspender el acceso a Fable 5. Poco después el modelo volvió a estar disponible&nbsp; (aunque con cambios), pero este evento sirvió para algo más: hacer tangible una amenaza d…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-18-china-ha-encontrado-un-nuevo-filon-turistico-lejos"
+      "id": "xataka-2026-07-19-andreas-prins-experto-en-soberania-digital-el-sentimiento"
     },
     {
-      "title": "Google is open-sourcing its 3D emoji",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
       "source": "The Verge",
-      "published_at": "2026-07-18T16:40:55Z",
-      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you …",
+      "published_at": "2026-07-19T16:42:10Z",
+      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported chan…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-18-google-is-open-sourcing-its-3d-emoji"
-    },
-    {
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-07-18T15:00:00Z",
-      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is di…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-18-gopro-8217-s-discounted-max-2-bundle-includes"
+      "id": "theverge-2026-07-19-the-fbi-reportedly-won-t-investigate-ice-anymore"
     }
   ],
   "sections": [
@@ -98,6 +98,32 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-16-why-teens-deserve-access-to-safe-ai"
+        },
+        {
+          "title": "Connect more of your apps to Search",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+          "source": "Google AI",
+          "published_at": "2026-07-16T16:00:00Z",
+          "summary": "Connected apps rendering",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-16-connect-more-of-your-apps-to-search"
+        },
+        {
+          "title": "Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "source": "Google AI",
+          "published_at": "2026-07-16T16:00:00Z",
+          "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-16-create-edit-and-star-in-videos-with-two"
         },
         {
           "title": "Our approach to bioresilience",
@@ -150,6 +176,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
+        },
+        {
+          "title": "Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "source": "Google AI",
+          "published_at": "2026-07-14T16:00:00Z",
+          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
         },
         {
           "title": "How to manage AI investments in the agentic era",
@@ -232,20 +271,20 @@
       ]
     },
     {
-      "name": "Herramientas",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face",
-          "published_at": "2026-07-17T15:57:54Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
+          "url": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
+          "source": "Xataka",
+          "published_at": "2026-07-19T09:00:07Z",
+          "summary": "Llevamos un par de años viendo titulares sobre el destrozo que la IA está haciendo en el empleo junior . Y la réplica habitual: que no, que es excusa, que las empresas recortan cuando suben los tipos y la IA solo es una …",
           "why_it_matters": "",
           "tags": [
-            "herramientas"
+            "investigación"
           ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-17-fine-tune-video-and-image-models-at-scale-with"
+          "category": "investigación",
+          "id": "xataka-2026-07-19-el-salario-de-los-junior-lleva-anos-en"
         }
       ]
     },
@@ -253,108 +292,108 @@
       "name": "General",
       "items": [
         {
-          "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-          "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+          "title": "Orchid is a delightfully retro and approachable hipster synth",
+          "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
           "source": "The Verge",
-          "published_at": "2026-07-18T14:30:00Z",
-          "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magaz…",
+          "published_at": "2026-07-19T15:15:00Z",
+          "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-the-guardian-s-carter-sherman-fondly-remembers-being"
+          "id": "theverge-2026-07-19-orchid-is-a-delightfully-retro-and-approachable-hipster"
         },
         {
-          "title": "Surprise! Facial recognition smart locks are actually good",
-          "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+          "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+          "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-07-18T14:00:00Z",
-          "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a…",
+          "published_at": "2026-07-19T15:00:00Z",
+          "summary": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-surprise-facial-recognition-smart-locks-are-actually-good"
+          "id": "theverge-2026-07-19-birdfy-8217-s-solar-powered-smart-feeder-is-down"
         },
         {
-          "title": "Sony’s flagship RGB LED TV is incredible",
-          "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+          "title": "US Marshals arrest the Tate brothers in Miami",
+          "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
           "source": "The Verge",
-          "published_at": "2026-07-18T12:30:00Z",
-          "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying gam…",
+          "published_at": "2026-07-19T14:20:48Z",
+          "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-sony-s-flagship-rgb-led-tv-is-incredible"
+          "id": "theverge-2026-07-19-us-marshals-arrest-the-tate-brothers-in-miami"
         },
         {
-          "title": "More games should be on rails (literally)",
-          "url": "https://www.theverge.com/games/961152/denshattack-review",
+          "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+          "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
           "source": "The Verge",
-          "published_at": "2026-07-18T12:00:00Z",
-          "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years lat…",
+          "published_at": "2026-07-19T13:28:26Z",
+          "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more time…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-more-games-should-be-on-rails-literally"
+          "id": "theverge-2026-07-19-the-clapper-was-a-bad-smart-home-gadget"
         },
         {
-          "title": "The apps, gadgets, and tools every reader needs",
-          "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+          "title": "The future of physical games is not looking great",
+          "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
           "source": "The Verge",
-          "published_at": "2026-07-18T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions…",
+          "published_at": "2026-07-19T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-the-apps-gadgets-and-tools-every-reader-needs"
+          "id": "theverge-2026-07-19-the-future-of-physical-games-is-not-looking"
         },
         {
-          "title": "Fine, electric mountain bikes don’t suck",
-          "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+          "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+          "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
           "source": "The Verge",
-          "published_at": "2026-07-18T07:00:00Z",
-          "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fu…",
+          "published_at": "2026-07-19T11:00:00Z",
+          "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars them…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-18-fine-electric-mountain-bikes-don-t-suck"
+          "id": "theverge-2026-07-19-the-grueling-630-mile-road-race-where-the-only"
         },
         {
-          "title": "“Así es como se pierde la carrera de la IA”: el modelo chino Kimi K3 alcanza el número 1 de Frontend Code Arena y David Sacks lanza un aviso",
-          "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
+          "title": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
+          "url": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
           "source": "Xataka",
-          "published_at": "2026-07-17T18:58:00Z",
-          "summary": "Parece que fue ayer cuando DeepSeek R1 puso en cuestión una idea que muchos daban por sentada: que la carrera por la inteligencia artificial avanzada seguía teniendo un dueño claro en Silicon Valley. La irrupción del mod…",
+          "published_at": "2026-07-19T10:16:06Z",
+          "summary": "Las empresas han abrazado el boom de la IA agéntica, hasta el punto de que algunas se están ahogando en tantos agentes de IA . Los empleados están creando agentes sin control, disparando el consumo de tokens y provocando…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-17-asi-es-como-se-pierde-la-carrera-de"
+          "id": "xataka-2026-07-19-meta-avisa-llevamos-20-anos-construyendo-infraestructura-para"
         },
         {
-          "title": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-cambia-modo-trabajar-como-se-sienten-personas-30-trabajadores-se-sienten-utiles",
+          "title": "El sorprendente nuevo filón turístico de China: viajar a las  fábricas para ver en directo robots, coches eléctricos e IA",
+          "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
           "source": "Xataka",
-          "published_at": "2026-07-17T11:46:06Z",
-          "summary": "Según el último estudio de Ionos, el 41% de las pymes en España ya usa alguna herramienta de IA en sus procesos diarios. Eso, sobre el papel debería implicar un incremento de la productividad en esas tareas. Sin embargo,…",
+          "published_at": "2026-07-18T18:00:00Z",
+          "summary": "China es uno de esos destinos que tengo marcados en mi lista de deseos de vacaciones: ojalá ver los osos panda rojos, los Guerreros de Xi’an y la Gran Muralla. Sí, he estado dos veces ya allí, pero fueron viajes de traba…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-17-la-ia-cambia-el-modo-de-trabajar-y"
+          "id": "xataka-2026-07-18-el-sorprendente-nuevo-filon-turistico-de-china-viajar"
         }
       ]
     }
@@ -526,6 +565,51 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-14-introducing-claude-for-teachers"
+        }
+      ]
+    },
+    {
+      "id": "googleai",
+      "name": "Google AI",
+      "items": [
+        {
+          "title": "Connect more of your apps to Search",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+          "source": "Google AI",
+          "published_at": "2026-07-16T16:00:00Z",
+          "summary": "Connected apps rendering",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-16-connect-more-of-your-apps-to-search"
+        },
+        {
+          "title": "Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "source": "Google AI",
+          "published_at": "2026-07-16T16:00:00Z",
+          "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-16-create-edit-and-star-in-videos-with-two"
+        },
+        {
+          "title": "Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "source": "Google AI",
+          "published_at": "2026-07-14T16:00:00Z",
+          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
         }
       ]
     },
