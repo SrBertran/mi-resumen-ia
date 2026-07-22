@@ -1,78 +1,130 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T07:21:09.407991Z",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T07:21:30.843927Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
-      "url": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
-      "source": "Xataka",
-      "published_at": "2026-07-21T06:01:15Z",
-      "summary": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens…",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "xataka-2026-07-21-cuando-la-ia-se-equivoca-nosotros-seguimos-confiando"
-    },
-    {
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "title": "Samsung Galaxy Unpacked July 2026: How to watch",
+      "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
       "source": "The Verge",
-      "published_at": "2026-07-20T22:19:12Z",
-      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say …",
+      "published_at": "2026-07-22T01:00:00Z",
+      "summary": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of fold…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-20-here-are-the-30-000-songs-sony-is"
+      "id": "theverge-2026-07-22-samsung-galaxy-unpacked-july-2026-how-to-watch"
     },
     {
-      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "source": "The Verge",
-      "published_at": "2026-07-20T22:16:14Z",
-      "summary": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield th…",
+      "published_at": "2026-07-21T22:06:43Z",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blom…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-20-the-fcc-is-planning-to-retroactively-ban-disguised"
+      "id": "theverge-2026-07-21-neill-blomkamp-s-new-zombie-ai-film-is"
     },
     {
-      "title": "The Odyssey turned me into an IMAX believer",
-      "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
       "source": "The Verge",
-      "published_at": "2026-07-20T21:47:37Z",
-      "summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully cra…",
+      "published_at": "2026-07-21T21:48:54Z",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovere…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-20-the-odyssey-turned-me-into-an-imax-believer"
+      "id": "theverge-2026-07-21-openai-says-it-accidentally-hacked-hugging-face-with"
     },
     {
-      "title": "SpaceX in your index fund, explained",
-      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face",
+      "published_at": "2026-07-21T20:00:27Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-07-21-the-state-of-simulation-for-physical-ai-an"
+    },
+    {
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "source": "The Verge",
-      "published_at": "2026-07-20T21:00:00Z",
-      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gambl…",
+      "published_at": "2026-07-21T19:22:28Z",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text coul…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-20-spacex-in-your-index-fund-explained"
+      "id": "theverge-2026-07-21-substack-adds-an-ai-detector-to-help-spot"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T17:00:00Z",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-introducing-the-chatgpt-for-small-business-program"
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "source": "DeepMind",
+          "published_at": "2026-07-21T15:16:30Z",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
+        },
+        {
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T07:00:00Z",
+          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-openai-and-hugging-face-partner-to-address-security"
+        },
+        {
+          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T00:00:00Z",
+          "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-david-velez-and-robin-vince-join-the-boards"
+        },
         {
           "title": "Safety and alignment in an era of long-horizon models",
           "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -98,6 +150,19 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-20-apply-for-anthropic-s-ai-for-science-rare"
+        },
+        {
+          "title": "Introducing Gemini 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+          "source": "DeepMind",
+          "published_at": "2026-07-17T15:00:11Z",
+          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-17-introducing-gemini-3-5-flash-cyber"
         },
         {
           "title": "A scorecard for the AI age",
@@ -202,32 +267,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
-        },
-        {
-          "title": "Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "source": "Google AI",
-          "published_at": "2026-07-14T16:00:00Z",
-          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
-        },
-        {
-          "title": "How to manage AI investments in the agentic era",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "source": "OpenAI",
-          "published_at": "2026-07-14T10:00:00Z",
-          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-14-how-to-manage-ai-investments-in-the-agentic"
         }
       ]
     },
@@ -235,17 +274,43 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
-          "url": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
-          "source": "Xataka",
-          "published_at": "2026-07-19T09:00:07Z",
-          "summary": "Llevamos un par de años viendo titulares sobre el destrozo que la IA está haciendo en el empleo junior . Y la réplica habitual: que no, que es excusa, que las empresas recortan cuando suben los tipos y la IA solo es una …",
+          "title": "Why AI Needs a “Genie Coefficient”",
+          "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-21T17:41:11Z",
+          "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric:…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "xataka-2026-07-19-el-salario-de-los-junior-lleva-anos-en"
+          "id": "ieee-2026-07-21-why-ai-needs-a-genie-coefficient"
+        },
+        {
+          "title": "Chinese AI Model Uses Less Muscle for Coding Tasks",
+          "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-21T12:00:01Z",
+          "summary": "Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-21-chinese-ai-model-uses-less-muscle-for-coding"
+        },
+        {
+          "title": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
+          "url": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
+          "source": "Xataka",
+          "published_at": "2026-07-21T06:01:15Z",
+          "summary": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "xataka-2026-07-21-cuando-la-ia-se-equivoca-nosotros-seguimos-confiando"
         }
       ]
     },
@@ -253,17 +318,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Introducing Cosmos 3 Edge",
-          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "title": "Grabette: an open system to record robot-manipulation data",
+          "url": "https://huggingface.co/blog/grabette",
           "source": "Hugging Face",
-          "published_at": "2026-07-20T15:58:51Z",
+          "published_at": "2026-07-21T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-07-20-introducing-cosmos-3-edge"
+          "id": "huggingface-2026-07-21-grabette-an-open-system-to-record-robot-manipulation-data"
         }
       ]
     },
@@ -271,30 +336,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-          "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+          "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+          "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
           "source": "The Verge",
-          "published_at": "2026-07-20T20:08:51Z",
-          "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and X…",
+          "published_at": "2026-07-21T18:12:02Z",
+          "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-20-get-borderlands-3-risk-of-rain-2-and"
+          "id": "theverge-2026-07-21-peak-design-s-modular-field-bracket-has-a"
         },
         {
-          "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-          "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-          "source": "The Verge",
-          "published_at": "2026-07-20T20:06:40Z",
-          "summary": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You on…",
+          "title": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
+          "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
+          "source": "Xataka",
+          "published_at": "2026-07-21T17:31:14Z",
+          "summary": "ChatGPT llevaba menos de un mes en marcha y en Google ya se hablaba de un \"código rojo\" . La tecnología que muchos daban por hecho que acabaría con el negocio central de Google —sustituir el buscador por un chatbot cualq…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-20-the-playstation-replica-ornament-is-an-homage-to"
+          "id": "xataka-2026-07-21-esta-diezmando-el-trafico-de-busqueda-asi-es"
+        },
+        {
+          "title": "Nearly every Kindle is steeply discounted at Best Buy",
+          "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-07-21T17:13:23Z",
+          "summary": "If you&#8217;ve been thinking about picking up a Kindle before school starts, or for your next vacation, now&#8217;s a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwh…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-21-nearly-every-kindle-is-steeply-discounted-at-best"
+        },
+        {
+          "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+          "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+          "source": "The Verge",
+          "published_at": "2026-07-21T17:12:06Z",
+          "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with option…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-21-apple-s-rumored-upgrade-program-brings-lease-to-own-pricing"
+        },
+        {
+          "title": "Twitch will let parents stop their teens going live",
+          "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
+          "source": "The Verge",
+          "published_at": "2026-07-21T17:00:00Z",
+          "summary": "Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-21-twitch-will-let-parents-stop-their-teens-going"
+        },
+        {
+          "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+          "source": "The Verge",
+          "published_at": "2026-07-21T16:53:37Z",
+          "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monda…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-21-anthropic-s-1-5-billion-book-piracy-settlement"
+        },
+        {
+          "title": "ASML vende las máquinas más importantes de la industria del chip. Ahora todo apunta a que serán más caras",
+          "url": "https://www.xataka.com/empresas-y-economia/asml-vende-maquinas-importantes-industria-chip-ahora-todo-apunta-a-que-seran-caras",
+          "source": "Xataka",
+          "published_at": "2026-07-21T16:31:15Z",
+          "summary": "ASML, la única empresa del mundo capaz de fabricar los equipos de litografía ultravioleta extrema (EUV) necesarios para producir los chips más avanzados, se prepara para una subida de costes en su maquinaria. Y el primer…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-21-asml-vende-las-maquinas-mas-importantes-de-la"
+        },
+        {
+          "title": "Instagram will let users endlessly swap the audio on old posts",
+          "url": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
+          "source": "The Verge",
+          "published_at": "2026-07-21T16:15:00Z",
+          "summary": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers on their apps; the creat…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-21-instagram-will-let-users-endlessly-swap-the-audio"
+        },
+        {
+          "title": "Anthropic fue acusada de robar libros para entrenar sus modelos de IA. Su solución ha sido sencilla: pagar",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-fue-acusada-robar-libros-para-entrenar-sus-modelos-ia-su-solucion-ha-sido-sencilla-pagar",
+          "source": "Xataka",
+          "published_at": "2026-07-21T15:45:15Z",
+          "summary": "Una jueza federal de San Francisco ha dado luz verde definitiva al acuerdo de 1.500 millones de dólares entre Anthropic y un grupo de autores y editoriales que la denunciaron por usar sus libros sin permiso para entrenar…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-21-anthropic-fue-acusada-de-robar-libros-para-entrenar"
+        },
+        {
+          "title": "\"¿De verdad necesitamos tantos matemáticos?\": Fable 5 ayuda a refutar una conjetura de casi un siglo",
+          "url": "https://www.xataka.com/robotica-e-ia/verdad-necesitamos-matematicos-fable-5-ayuda-a-refutar-conjetura-casi-siglo",
+          "source": "Xataka",
+          "published_at": "2026-07-21T14:31:15Z",
+          "summary": "Mientras España hacía historia el domingo logrando su segunda Copa del Mundo de fútbol, un matemático de Harvard de 34 años llamado Levent Alpöge le pidió a Fable 5 algo interesante. No que tratara de demostrar la conjet…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-21-de-verdad-necesitamos-tantos-matematicos-fable-5-ayuda"
+        },
+        {
+          "title": "\"Podría debilitar la competitividad de EEUU\": Kimi K3 obliga a Trump a retomar su plan para frenar la IA china",
+          "url": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
+          "source": "Xataka",
+          "published_at": "2026-07-21T10:31:15Z",
+          "summary": "Al Gobierno de Trump le gusta vetar cosas. Ahora parecen querer hacerlo con los modelos de IA de empresas chinas, que se están volviendo cada vez más competitivos. El lanzamiento de Kimi K3 parece haber sido el detonante…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-21-podria-debilitar-la-competitividad-de-eeuu-kimi-k3"
         },
         {
           "title": "NVIDIA ha encontrado una forma de contener el consumo de los centros de datos de IA: líquido más caliente que un jacuzzi",
@@ -310,58 +492,6 @@
           "id": "xataka-2026-07-20-nvidia-ha-encontrado-una-forma-de-contener-el"
         },
         {
-          "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-          "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
-          "source": "The Verge",
-          "published_at": "2026-07-20T19:18:45Z",
-          "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-20-ford-8217-s-30-000-electric-truck-all"
-        },
-        {
-          "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
-          "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
-          "source": "The Verge",
-          "published_at": "2026-07-20T17:37:53Z",
-          "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Jud…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-20-judge-pauses-paramount-s-attempt-to-buy-warner"
-        },
-        {
-          "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
-          "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-20T16:34:24Z",
-          "summary": "If you&#8217;ve been thinking about upgrading your gaming monitor, LG&#8217;s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-20-lg-8217-s-glossy-oled-gaming-monitor-is"
-        },
-        {
-          "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
-          "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
-          "source": "The Verge",
-          "published_at": "2026-07-20T16:14:58Z",
-          "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-20-lg-s-monitors-come-with-an-unwanted-addition"
-        },
-        {
           "title": "Los ordenadores tardaron 15 años en mejorar la productividad de las empresas. La IA puede tardar más por un motivo: el sabotaje",
           "url": "https://www.xataka.com/robotica-e-ia/ordenadores-tardaron-15-anos-mejorar-productividad-empresas-ia-puede-tardar-motivo-sabotaje",
           "source": "Xataka",
@@ -375,17 +505,17 @@
           "id": "xataka-2026-07-20-los-ordenadores-tardaron-15-anos-en-mejorar-la"
         },
         {
-          "title": "\"Impresionante\": hasta Elon Musk se rinde ante el modelo abierto de IA chino Kimi K3. No es para menos",
+          "title": "Elon Musk ha echado un vistazo a Kimi K3 y lo ha definido con una palabra bastante elocuente: \"Impresionante\"",
           "url": "https://www.xataka.com/robotica-e-ia/impresionante-elon-musk-se-rinde-modelo-abierto-ia-chino-kimi-k3-no-para",
           "source": "Xataka",
-          "published_at": "2026-07-20T13:31:42Z",
+          "published_at": "2026-07-20T13:30:00Z",
           "summary": "Es bueno, es bonito y es (bastante) barato. Lo conocimos hace unos días, pero es que Kimi K3 , el nuevo modelo abierto de IA de la startup china Moonshot AI, está causando sensación . Tanta, tanta, que han tenido que pau…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-20-impresionante-hasta-elon-musk-se-rinde-ante-el"
+          "id": "xataka-2026-07-20-elon-musk-ha-echado-un-vistazo-a-kimi"
         },
         {
           "title": "Playwright: qué es y para qué sirve esta herramienta para controlar tu navegador automáticamente",
@@ -399,58 +529,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-20-playwright-que-es-y-para-que-sirve-esta"
-        },
-        {
-          "title": "Intuíamos que los centros de datos subían la factura de la luz de sus vecinos. Los datos son mucho más preocupantes",
-          "url": "https://www.xataka.com/energia/factura-luz-eeuu-habia-subido-culpa-centros-datos-que-se-viene-6-300-millones-tres-anos",
-          "source": "Xataka",
-          "published_at": "2026-07-20T11:00:00Z",
-          "summary": "Lo de EEUU con los centros de datos se ha convertido en un asunto de primer orden y motivo de rechazo de gran parte de la población . Además de la cuestión de la contaminación , estas enormes infraestructuras suponen una…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-intuiamos-que-los-centros-de-datos-subian-la"
-        },
-        {
-          "title": "Pocos días después del \"shock\" de Kimi K3, Alibaba ha lanzado Qwen 3.8: es la señal de que EEUU tiene un problema",
-          "url": "https://www.xataka.com/robotica-e-ia/gigantesco-qwen-3-8-otra-senal-inquietante-para-eeuu-su-ventaja-ia-esta-evaporandose",
-          "source": "Xataka",
-          "published_at": "2026-07-20T08:30:00Z",
-          "summary": "Las empresas chinas de IA están que lo tiran. Tras el lanzamiento del prometedor Kimi K3, ahora Alibaba acaba de presentar Qwen 3.8 , un modelo gigantesco que según sus responsables es tan potente que solo Fable 5 logra …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-pocos-dias-despues-del-shock-de-kimi-k3"
-        },
-        {
-          "title": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
-          "url": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
-          "source": "Xataka",
-          "published_at": "2026-07-19T17:00:32Z",
-          "summary": "Hace varias semanas, EEUU ordenó a Anthropic suspender el acceso a Fable 5. Poco después el modelo volvió a estar disponible&nbsp; (aunque con cambios), pero este evento sirvió para algo más: hacer tangible una amenaza d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-19-andreas-prins-experto-en-soberania-digital-el-sentimiento"
-        },
-        {
-          "title": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
-          "source": "Xataka",
-          "published_at": "2026-07-19T10:16:06Z",
-          "summary": "Las empresas han abrazado el boom de la IA agéntica, hasta el punto de que algunas se están ahogando en tantos agentes de IA . Los empleados están creando agentes sin control, disparando el consumo de tokens y provocando…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-19-meta-avisa-llevamos-20-anos-construyendo-infraestructura-para"
         }
       ]
     }
@@ -487,6 +565,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T17:00:00Z",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-introducing-the-chatgpt-for-small-business-program"
+        },
+        {
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T07:00:00Z",
+          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-openai-and-hugging-face-partner-to-address-security"
+        },
+        {
+          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "source": "OpenAI",
+          "published_at": "2026-07-21T00:00:00Z",
+          "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-21-david-velez-and-robin-vince-join-the-boards"
+        },
         {
           "title": "Safety and alignment in an era of long-horizon models",
           "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -564,19 +681,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
-        },
-        {
-          "title": "How to manage AI investments in the agentic era",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "source": "OpenAI",
-          "published_at": "2026-07-14T10:00:00Z",
-          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-14-how-to-manage-ai-investments-in-the-agentic"
         }
       ]
     },
@@ -628,19 +732,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-07-16-create-edit-and-star-in-videos-with-two"
-        },
-        {
-          "title": "Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "source": "Google AI",
-          "published_at": "2026-07-14T16:00:00Z",
-          "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-07-14-celebrating-25-years-of-visual-search-innovation"
         }
       ]
     },
@@ -648,6 +739,32 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "source": "DeepMind",
+          "published_at": "2026-07-21T15:16:30Z",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
+        },
+        {
+          "title": "Introducing Gemini 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+          "source": "DeepMind",
+          "published_at": "2026-07-17T15:00:11Z",
+          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-17-introducing-gemini-3-5-flash-cyber"
+        },
         {
           "title": "Our approach to bioresilience",
           "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
