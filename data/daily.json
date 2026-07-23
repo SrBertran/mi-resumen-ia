@@ -1,78 +1,195 @@
 {
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T07:21:30.843927Z",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T07:20:35.122939Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Samsung Galaxy Unpacked July 2026: How to watch",
-      "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+      "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
       "source": "The Verge",
-      "published_at": "2026-07-22T01:00:00Z",
-      "summary": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of fold…",
+      "published_at": "2026-07-23T00:30:00Z",
+      "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Ba…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-22-samsung-galaxy-unpacked-july-2026-how-to-watch"
+      "id": "theverge-2026-07-23-lego-s-donkey-kong-arcade-machine-lets-mario"
     },
     {
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "title": "Meta won’t have to face the next planned social media addiction trial",
+      "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
       "source": "The Verge",
-      "published_at": "2026-07-21T22:06:43Z",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blom…",
+      "published_at": "2026-07-22T22:03:53Z",
+      "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-21-neill-blomkamp-s-new-zombie-ai-film-is"
+      "id": "theverge-2026-07-22-meta-won-t-have-to-face-the-next"
     },
     {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "title": "Tesla’s revenues are bouncing back, but profits are still weak",
+      "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
       "source": "The Verge",
-      "published_at": "2026-07-21T21:48:54Z",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovere…",
+      "published_at": "2026-07-22T20:17:46Z",
+      "summary": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the compa…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-21-openai-says-it-accidentally-hacked-hugging-face-with"
+      "id": "theverge-2026-07-22-tesla-s-revenues-are-bouncing-back-but-profits"
     },
     {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face",
-      "published_at": "2026-07-21T20:00:27Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-07-21-the-state-of-simulation-for-physical-ai-an"
-    },
-    {
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "title": "Price-hiked iPads are a little cheaper right now",
+      "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-21T19:22:28Z",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text coul…",
+      "published_at": "2026-07-22T19:14:31Z",
+      "summary": "A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-21-substack-adds-an-ai-detector-to-help-spot"
+      "id": "theverge-2026-07-22-price-hiked-ipads-are-a-little-cheaper-right-now"
+    },
+    {
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+      "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+      "source": "The Verge",
+      "published_at": "2026-07-22T19:13:21Z",
+      "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-22-ios-code-could-reportedly-let-apple-cut-off"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "source": "DeepMind",
+          "published_at": "2026-07-22T13:38:54Z",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-22-accelerating-the-frontiers-of-scientific-discovery-google-s"
+        },
+        {
+          "title": "Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-building-ai-infrastructure-with-the-effingham-county-community"
+        },
+        {
+          "title": "How news organizations are using AI to advance their vital missions",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-how-news-organizations-are-using-ai-to-advance"
+        },
+        {
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "source": "Google AI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-22-3-google-updates-from-galaxy-unpacked-2026"
+        },
+        {
+          "title": "Advancing the next era of national science",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T12:00:00Z",
+          "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-advancing-the-next-era-of-national-science"
+        },
+        {
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T05:30:00Z",
+          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-introducing-openai-presence"
+        },
+        {
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "url": "https://openai.com/index/ntt-data",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-ntt-data-group-cuts-incident-analysis-to-30"
+        },
+        {
+          "title": "Ask Claude about the Anthropic Economic Index",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "source": "Anthropic",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "Ask Claude about the Anthropic Economic Index",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-22-ask-claude-about-the-anthropic-economic-index"
+        },
+        {
+          "title": "A research agenda for the Economic Futures Research Fund",
+          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "source": "Anthropic",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "A research agenda for the Economic Futures Research Fund",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-22-a-research-agenda-for-the-economic-futures-research"
+        },
         {
           "title": "Introducing the ChatGPT for small business program",
           "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -124,6 +241,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-21-david-velez-and-robin-vince-join-the-boards"
+        },
+        {
+          "title": "Anthropic is donating another $20 million to Public First Action",
+          "url": "https://www.anthropic.com/news/donation-public-first-action",
+          "source": "Anthropic",
+          "published_at": "2026-07-21T00:00:00Z",
+          "summary": "Anthropic is donating another $20 million to Public First Action",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-21-anthropic-is-donating-another-20-million-to-public"
         },
         {
           "title": "Safety and alignment in an era of long-horizon models",
@@ -228,45 +358,24 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-16-our-approach-to-bioresilience"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "How Cars24 scales conversations and builds faster with OpenAI",
-          "url": "https://openai.com/index/cars24",
-          "source": "OpenAI",
-          "published_at": "2026-07-16T00:00:00Z",
-          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+          "title": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
+          "url": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
+          "source": "Xataka",
+          "published_at": "2026-07-22T17:15:15Z",
+          "summary": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2 . Conocida antes como Zhipu, ahora la empresa acaba de terminar de constru…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-16-how-cars24-scales-conversations-and-builds-faster-with"
-        },
-        {
-          "title": "The US is advancing AI safety through state and federal action",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI",
-          "published_at": "2026-07-15T12:00:00Z",
-          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-15-the-us-is-advancing-ai-safety-through-state"
-        },
-        {
-          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI",
-          "published_at": "2026-07-15T10:00:00Z",
-          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
+          "category": "negocio",
+          "id": "xataka-2026-07-22-la-startup-china-de-ia-que-lanzo-el"
         }
       ]
     },
@@ -298,19 +407,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-07-21-chinese-ai-model-uses-less-muscle-for-coding"
-        },
-        {
-          "title": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
-          "url": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
-          "source": "Xataka",
-          "published_at": "2026-07-21T06:01:15Z",
-          "summary": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "xataka-2026-07-21-cuando-la-ia-se-equivoca-nosotros-seguimos-confiando"
         }
       ]
     },
@@ -318,17 +414,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Grabette: an open system to record robot-manipulation data",
-          "url": "https://huggingface.co/blog/grabette",
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
           "source": "Hugging Face",
-          "published_at": "2026-07-21T00:00:00Z",
+          "published_at": "2026-07-21T20:00:27Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-07-21-grabette-an-open-system-to-record-robot-manipulation-data"
+          "id": "huggingface-2026-07-21-the-state-of-simulation-for-physical-ai-an"
         }
       ]
     },
@@ -336,127 +432,127 @@
       "name": "General",
       "items": [
         {
-          "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
-          "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+          "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+          "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
           "source": "The Verge",
-          "published_at": "2026-07-21T18:12:02Z",
-          "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my …",
+          "published_at": "2026-07-22T16:35:58Z",
+          "summary": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Fo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-21-peak-design-s-modular-field-bracket-has-a"
+          "id": "theverge-2026-07-22-apple-is-reportedly-testing-a-macbook-neo-with"
         },
         {
-          "title": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
+          "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+          "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+          "source": "The Verge",
+          "published_at": "2026-07-22T16:35:34Z",
+          "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed i…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-22-here-8217-s-what-samsung-8217-s-smart"
+        },
+        {
+          "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
+          "url": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
+          "source": "The Verge",
+          "published_at": "2026-07-22T15:47:10Z",
+          "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and are set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem gear…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-22-how-the-galaxy-z-fold-8-and-z"
+        },
+        {
+          "title": "Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards",
+          "url": "https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date",
+          "source": "The Verge",
+          "published_at": "2026-07-22T15:42:22Z",
+          "summary": "Samsung's newest foldables are here. At Galaxy Unpacked, the company announced the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three devices will be available on August 7th, but you can preorder them…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-22-preorders-for-samsung-s-new-z-fold-and"
+        },
+        {
+          "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+          "url": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+          "source": "The Verge",
+          "published_at": "2026-07-22T15:09:44Z",
+          "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-22-philips-new-smart-toothbrush-shows-you-where-you"
+        },
+        {
+          "title": "Un modelo de IA no tenía acceso a internet. Así que consideró que era mejor tenerlo y decidió hackear algo por el camino",
+          "url": "https://www.xataka.com/robotica-e-ia/modelo-ia-no-tenia-acceso-a-internet-asi-que-considero-que-era-mejor-tenerlo-decidio-hackear-algo-camino",
+          "source": "Xataka",
+          "published_at": "2026-07-22T11:15:15Z",
+          "summary": "La semana pasada, OpenAI estaba evaluando las capacidades ofensivas de dos de sus modelos más avanzados. Por un lado, GPT-5.6 Sol, disponible públicamente. Por el otro, un segundo modelo aún no presentado y que de hecho …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-22-un-modelo-de-ia-no-tenia-acceso-a"
+        },
+        {
+          "title": "Cuando Google miró al abismo de la IA, el abismo le devolvió la mirada: hoy su buscador es más adictivo que nunca",
           "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
           "source": "Xataka",
-          "published_at": "2026-07-21T17:31:14Z",
+          "published_at": "2026-07-21T17:30:00Z",
           "summary": "ChatGPT llevaba menos de un mes en marcha y en Google ya se hablaba de un \"código rojo\" . La tecnología que muchos daban por hecho que acabaría con el negocio central de Google —sustituir el buscador por un chatbot cualq…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-21-esta-diezmando-el-trafico-de-busqueda-asi-es"
+          "id": "xataka-2026-07-21-cuando-google-miro-al-abismo-de-la-ia"
         },
         {
-          "title": "Nearly every Kindle is steeply discounted at Best Buy",
-          "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-21T17:13:23Z",
-          "summary": "If you&#8217;ve been thinking about picking up a Kindle before school starts, or for your next vacation, now&#8217;s a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwh…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-21-nearly-every-kindle-is-steeply-discounted-at-best"
-        },
-        {
-          "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
-          "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
-          "source": "The Verge",
-          "published_at": "2026-07-21T17:12:06Z",
-          "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with option…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-21-apple-s-rumored-upgrade-program-brings-lease-to-own-pricing"
-        },
-        {
-          "title": "Twitch will let parents stop their teens going live",
-          "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
-          "source": "The Verge",
-          "published_at": "2026-07-21T17:00:00Z",
-          "summary": "Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-21-twitch-will-let-parents-stop-their-teens-going"
-        },
-        {
-          "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-          "source": "The Verge",
-          "published_at": "2026-07-21T16:53:37Z",
-          "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monda…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-21-anthropic-s-1-5-billion-book-piracy-settlement"
-        },
-        {
-          "title": "ASML vende las máquinas más importantes de la industria del chip. Ahora todo apunta a que serán más caras",
+          "title": "Si creías que los precios de tus componentes no podían subir más, ASML tiene malas noticias para ti",
           "url": "https://www.xataka.com/empresas-y-economia/asml-vende-maquinas-importantes-industria-chip-ahora-todo-apunta-a-que-seran-caras",
           "source": "Xataka",
-          "published_at": "2026-07-21T16:31:15Z",
+          "published_at": "2026-07-21T16:30:00Z",
           "summary": "ASML, la única empresa del mundo capaz de fabricar los equipos de litografía ultravioleta extrema (EUV) necesarios para producir los chips más avanzados, se prepara para una subida de costes en su maquinaria. Y el primer…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-21-asml-vende-las-maquinas-mas-importantes-de-la"
+          "id": "xataka-2026-07-21-si-creias-que-los-precios-de-tus-componentes"
         },
         {
-          "title": "Instagram will let users endlessly swap the audio on old posts",
-          "url": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
-          "source": "The Verge",
-          "published_at": "2026-07-21T16:15:00Z",
-          "summary": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers on their apps; the creat…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-21-instagram-will-let-users-endlessly-swap-the-audio"
-        },
-        {
-          "title": "Anthropic fue acusada de robar libros para entrenar sus modelos de IA. Su solución ha sido sencilla: pagar",
+          "title": "Anthropic construyó su IA saqueando el contenido de millones de libros: tras ser denunciada, ha terminado pagando",
           "url": "https://www.xataka.com/robotica-e-ia/anthropic-fue-acusada-robar-libros-para-entrenar-sus-modelos-ia-su-solucion-ha-sido-sencilla-pagar",
           "source": "Xataka",
-          "published_at": "2026-07-21T15:45:15Z",
+          "published_at": "2026-07-21T15:45:00Z",
           "summary": "Una jueza federal de San Francisco ha dado luz verde definitiva al acuerdo de 1.500 millones de dólares entre Anthropic y un grupo de autores y editoriales que la denunciaron por usar sus libros sin permiso para entrenar…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-21-anthropic-fue-acusada-de-robar-libros-para-entrenar"
+          "id": "xataka-2026-07-21-anthropic-construyo-su-ia-saqueando-el-contenido-de"
         },
         {
           "title": "\"¿De verdad necesitamos tantos matemáticos?\": Fable 5 ayuda a refutar una conjetura de casi un siglo",
           "url": "https://www.xataka.com/robotica-e-ia/verdad-necesitamos-matematicos-fable-5-ayuda-a-refutar-conjetura-casi-siglo",
           "source": "Xataka",
-          "published_at": "2026-07-21T14:31:15Z",
+          "published_at": "2026-07-21T14:30:00Z",
           "summary": "Mientras España hacía historia el domingo logrando su segunda Copa del Mundo de fútbol, un matemático de Harvard de 34 años llamado Levent Alpöge le pidió a Fable 5 algo interesante. No que tratara de demostrar la conjet…",
           "why_it_matters": "",
           "tags": [
@@ -466,69 +562,17 @@
           "id": "xataka-2026-07-21-de-verdad-necesitamos-tantos-matematicos-fable-5-ayuda"
         },
         {
-          "title": "\"Podría debilitar la competitividad de EEUU\": Kimi K3 obliga a Trump a retomar su plan para frenar la IA china",
+          "title": "Cada vez más empresas estadounidenses utilizan modelos IA como Kimi K3. Estados Unidos no está nada contenta",
           "url": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
           "source": "Xataka",
-          "published_at": "2026-07-21T10:31:15Z",
+          "published_at": "2026-07-21T10:30:00Z",
           "summary": "Al Gobierno de Trump le gusta vetar cosas. Ahora parecen querer hacerlo con los modelos de IA de empresas chinas, que se están volviendo cada vez más competitivos. El lanzamiento de Kimi K3 parece haber sido el detonante…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-07-21-podria-debilitar-la-competitividad-de-eeuu-kimi-k3"
-        },
-        {
-          "title": "NVIDIA ha encontrado una forma de contener el consumo de los centros de datos de IA: líquido más caliente que un jacuzzi",
-          "url": "https://www.xataka.com/robotica-e-ia/nvidia-ha-encontrado-forma-contener-consumo-centros-datos-ia-liquido-caliente-que-jacuzzi",
-          "source": "Xataka",
-          "published_at": "2026-07-20T19:30:00Z",
-          "summary": "Durante años, hemos asociado los centros de datos eficientes con salas frías, pasillos de aire helado y máquinas rugiendo para mantener los servidores bajo control. La expansión de la inteligencia artificial está obligan…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-nvidia-ha-encontrado-una-forma-de-contener-el"
-        },
-        {
-          "title": "Los ordenadores tardaron 15 años en mejorar la productividad de las empresas. La IA puede tardar más por un motivo: el sabotaje",
-          "url": "https://www.xataka.com/robotica-e-ia/ordenadores-tardaron-15-anos-mejorar-productividad-empresas-ia-puede-tardar-motivo-sabotaje",
-          "source": "Xataka",
-          "published_at": "2026-07-20T15:45:15Z",
-          "summary": "No paramos de escuchar que la IA va a sustituir a los empleados en sus puestos de trabajo y que eso supondrá un apocalipsis en el mercado laboral. Si bien es cierto que se avecina un cambio de paradigma, incluso las voce…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-los-ordenadores-tardaron-15-anos-en-mejorar-la"
-        },
-        {
-          "title": "Elon Musk ha echado un vistazo a Kimi K3 y lo ha definido con una palabra bastante elocuente: \"Impresionante\"",
-          "url": "https://www.xataka.com/robotica-e-ia/impresionante-elon-musk-se-rinde-modelo-abierto-ia-chino-kimi-k3-no-para",
-          "source": "Xataka",
-          "published_at": "2026-07-20T13:30:00Z",
-          "summary": "Es bueno, es bonito y es (bastante) barato. Lo conocimos hace unos días, pero es que Kimi K3 , el nuevo modelo abierto de IA de la startup china Moonshot AI, está causando sensación . Tanta, tanta, que han tenido que pau…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-elon-musk-ha-echado-un-vistazo-a-kimi"
-        },
-        {
-          "title": "Playwright: qué es y para qué sirve esta herramienta para controlar tu navegador automáticamente",
-          "url": "https://www.xataka.com/basics/playwright-que-sirve-esta-herramienta-para-controlar-tu-navegador-automaticamente",
-          "source": "Xataka",
-          "published_at": "2026-07-20T12:36:00Z",
-          "summary": "Vamos a explicarte qué es Playwright y para qué sirve esta herramienta gratuita de código abierto. Con ella puedes hacer que un navegador web funcione solo sin que nadie lo toque, y es algo de lo que seguro has oído habl…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-20-playwright-que-es-y-para-que-sirve-esta"
+          "id": "xataka-2026-07-21-cada-vez-mas-empresas-estadounidenses-utilizan-modelos-ia"
         }
       ]
     }
@@ -565,6 +609,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-building-ai-infrastructure-with-the-effingham-county-community"
+        },
+        {
+          "title": "How news organizations are using AI to advance their vital missions",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-how-news-organizations-are-using-ai-to-advance"
+        },
+        {
+          "title": "Advancing the next era of national science",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T12:00:00Z",
+          "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-advancing-the-next-era-of-national-science"
+        },
+        {
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T05:30:00Z",
+          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-introducing-openai-presence"
+        },
+        {
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "url": "https://openai.com/index/ntt-data",
+          "source": "OpenAI",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-22-ntt-data-group-cuts-incident-analysis-to-30"
+        },
         {
           "title": "Introducing the ChatGPT for small business program",
           "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -642,45 +751,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-16-why-teens-deserve-access-to-safe-ai"
-        },
-        {
-          "title": "How Cars24 scales conversations and builds faster with OpenAI",
-          "url": "https://openai.com/index/cars24",
-          "source": "OpenAI",
-          "published_at": "2026-07-16T00:00:00Z",
-          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-16-how-cars24-scales-conversations-and-builds-faster-with"
-        },
-        {
-          "title": "The US is advancing AI safety through state and federal action",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "source": "OpenAI",
-          "published_at": "2026-07-15T12:00:00Z",
-          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-15-the-us-is-advancing-ai-safety-through-state"
-        },
-        {
-          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI",
-          "published_at": "2026-07-15T10:00:00Z",
-          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-15-gpt-red-unlocking-self-improvement-for-robustness"
         }
       ]
     },
@@ -688,6 +758,45 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Ask Claude about the Anthropic Economic Index",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "source": "Anthropic",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "Ask Claude about the Anthropic Economic Index",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-22-ask-claude-about-the-anthropic-economic-index"
+        },
+        {
+          "title": "A research agenda for the Economic Futures Research Fund",
+          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "source": "Anthropic",
+          "published_at": "2026-07-22T00:00:00Z",
+          "summary": "A research agenda for the Economic Futures Research Fund",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-22-a-research-agenda-for-the-economic-futures-research"
+        },
+        {
+          "title": "Anthropic is donating another $20 million to Public First Action",
+          "url": "https://www.anthropic.com/news/donation-public-first-action",
+          "source": "Anthropic",
+          "published_at": "2026-07-21T00:00:00Z",
+          "summary": "Anthropic is donating another $20 million to Public First Action",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-21-anthropic-is-donating-another-20-million-to-public"
+        },
         {
           "title": "Apply for Anthropic’s AI for Science rare disease research grants",
           "url": "https://www.anthropic.com/news/rare-disease-research-grants",
@@ -707,6 +816,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "source": "Google AI",
+          "published_at": "2026-07-22T13:00:00Z",
+          "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-22-3-google-updates-from-galaxy-unpacked-2026"
+        },
         {
           "title": "Connect more of your apps to Search",
           "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -739,6 +861,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "source": "DeepMind",
+          "published_at": "2026-07-22T13:38:54Z",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-22-accelerating-the-frontiers-of-scientific-discovery-google-s"
+        },
         {
           "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
           "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
