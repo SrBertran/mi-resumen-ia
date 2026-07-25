@@ -1,78 +1,91 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T07:20:14.650014Z",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T07:14:10.633747Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
-      "url": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
-      "source": "Xataka",
-      "published_at": "2026-07-24T07:00:39Z",
-      "summary": "La generación Z está revolucionando las dinámicas laborales actuales a un ritmo que supera a cualquier otra generación. Su llegada al mercado laboral no ha sido fácil: sus primeros empleos llegaron marcados por la pandem…",
+      "title": "Forget expensive sleepbuds. Buy this pillow instead",
+      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+      "source": "The Verge",
+      "published_at": "2026-07-25T07:00:00Z",
+      "summary": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-24-la-generacion-z-no-aguanta-mas-de-un"
+      "id": "theverge-2026-07-25-forget-expensive-sleepbuds-buy-this-pillow-instead"
     },
     {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
       "source": "The Verge",
-      "published_at": "2026-07-23T21:15:06Z",
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delt…",
+      "published_at": "2026-07-24T22:27:46Z",
+      "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't req…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-23-alexa-plus-is-getting-an-ai-update-to"
+      "id": "theverge-2026-07-24-after-backlash-meta-pauses-plan-to-rate-limit"
     },
     {
-      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
-      "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "title": "Meta just created a moderation nightmare for its smart glasses",
+      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
       "source": "The Verge",
-      "published_at": "2026-07-23T20:36:40Z",
-      "summary": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, gl…",
+      "published_at": "2026-07-24T19:23:44Z",
+      "summary": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are us…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-23-the-echo-show-21-is-a-great-smart"
+      "id": "theverge-2026-07-24-meta-just-created-a-moderation-nightmare-for-its"
     },
     {
-      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
-      "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+      "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
+      "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
       "source": "The Verge",
-      "published_at": "2026-07-23T19:46:11Z",
-      "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threat…",
+      "published_at": "2026-07-24T19:14:23Z",
+      "summary": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after Se…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-23-fcc-chairman-brendan-carr-s-war-on-the"
+      "id": "theverge-2026-07-24-qualcomm-is-about-to-raise-prices-and-that"
     },
     {
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "source": "The Verge",
-      "published_at": "2026-07-23T19:00:00Z",
-      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps l…",
+      "published_at": "2026-07-24T19:06:58Z",
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-23-claude-s-voice-mode-is-now-available-for"
+      "id": "theverge-2026-07-24-midjourney-bought-the-astrology-app-co-star"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic",
+          "published_at": "2026-07-24T00:00:00Z",
+          "summary": "Introducing Claude Opus 5",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-24-introducing-claude-opus-5"
+        },
         {
           "title": "Launching Health in ChatGPT",
           "url": "https://openai.com/index/health-in-chatgpt",
@@ -293,69 +306,12 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-20-apply-for-anthropic-s-ai-for-science-rare"
-        },
-        {
-          "title": "Introducing Gemini 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-          "source": "DeepMind",
-          "published_at": "2026-07-17T15:00:11Z",
-          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-17-introducing-gemini-3-5-flash-cyber"
-        },
-        {
-          "title": "A scorecard for the AI age",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "source": "OpenAI",
-          "published_at": "2026-07-17T10:00:00Z",
-          "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-17-a-scorecard-for-the-ai-age"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
-          "url": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
-          "source": "Xataka",
-          "published_at": "2026-07-22T17:15:15Z",
-          "summary": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2 . Conocida antes como Zhipu, ahora la empresa acaba de terminar de constru…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-07-22-la-startup-china-de-ia-que-lanzo-el"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
-        {
-          "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-          "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-          "source": "The Verge",
-          "published_at": "2026-07-23T17:00:00Z",
-          "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "theverge-2026-07-23-geekbench-7-will-push-your-computer-or-phone"
-        },
         {
           "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
           "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
@@ -372,90 +328,124 @@
       ]
     },
     {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face",
-          "published_at": "2026-07-23T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-23-bringing-nunchaku-4-bit-diffusion-inference-to-diffusers"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "Patreon is laying off 20 percent of workers",
-          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+          "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
           "source": "The Verge",
-          "published_at": "2026-07-23T18:20:30Z",
-          "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we bel…",
+          "published_at": "2026-07-24T18:27:00Z",
+          "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-23-patreon-is-laying-off-20-percent-of-workers"
+          "id": "theverge-2026-07-24-dji-camera-clone-company-xtra-is-halting-and"
         },
         {
-          "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-          "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
+          "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+          "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
           "source": "The Verge",
-          "published_at": "2026-07-23T17:20:00Z",
-          "summary": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case suppo…",
+          "published_at": "2026-07-24T18:10:22Z",
+          "summary": "In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the rep…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-23-corsair-s-pc-case-with-a-panoramic-glass"
+          "id": "theverge-2026-07-24-nothing-confirms-layoffs-but-calls-market-exit-rumors"
         },
         {
-          "title": "Tesla’s robotaxi promises are clashing with reality",
-          "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+          "title": "Roku raises streaming hardware prices by up to $50",
+          "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
           "source": "The Verge",
-          "published_at": "2026-07-23T17:09:31Z",
-          "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Te…",
+          "published_at": "2026-07-24T18:07:19Z",
+          "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as w…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-23-tesla-s-robotaxi-promises-are-clashing-with-reality"
+          "id": "theverge-2026-07-24-roku-raises-streaming-hardware-prices-by-up-to"
         },
         {
-          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
+          "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
           "source": "The Verge",
-          "published_at": "2026-07-23T17:00:00Z",
-          "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's …",
+          "published_at": "2026-07-24T17:40:00Z",
+          "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-23-openai-is-making-big-claims-as-it-rolls"
+          "id": "theverge-2026-07-24-blade-runner-2099-s-moody-dystopia-streams-on"
         },
         {
-          "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
-          "url": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+          "title": "You can’t ignore Google Zero anymore",
+          "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
           "source": "The Verge",
-          "published_at": "2026-07-23T16:39:32Z",
-          "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and …",
+          "published_at": "2026-07-24T17:29:48Z",
+          "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, b…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-23-amazon-puts-luna-cloud-streamed-games-like-fallout-4"
+          "id": "theverge-2026-07-24-you-can-t-ignore-google-zero-anymore"
+        },
+        {
+          "title": "Mientras el sector tecnológico se desangra por los despidos, ASML camina en la dirección opuesta: 20.000 euros por quedarse",
+          "url": "https://www.xataka.com/empresas-y-economia/sector-tecnologico-se-desangra-despidos-asml-camina-direccion-opuesta-20-000-euros-quedarse",
+          "source": "Xataka",
+          "published_at": "2026-07-24T16:00:40Z",
+          "summary": "2026 está siendo una escabechina de despidos en las empresas tecnológicas. Se estima que en los primeros cuatro meses, al menos 92.000 empleados del sector tecnológico han perdido su trabajo con la excusa de que hay que …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-24-mientras-el-sector-tecnologico-se-desangra-por-los"
+        },
+        {
+          "title": "EEUU está acusando a China de plagiar los modelos de Anthropic. Tenemos tres problemas con esa acusación",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-esta-acusando-a-china-plagiar-modelos-anthropic-tenemos-tres-problemas-esa-acusacion",
+          "source": "Xataka",
+          "published_at": "2026-07-24T13:16:38Z",
+          "summary": "Michael Kratsios, asistente del presidente de EEUU, no se mordía la lengua esta semana cuando afirmaba que \"Tenemos información que indica que Moonshoot AI destiló Fable de Anthropic para el desarrollo de su modelo K3\". …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-24-eeuu-esta-acusando-a-china-de-plagiar-los"
+        },
+        {
+          "title": "Mistral está muy lejos en la carrera de la IA. A Samsung eso le importa bien poco y planea invertir una fortuna en ella",
+          "url": "https://www.xataka.com/robotica-e-ia/mistral-esta-muy-lejos-carrera-ia-a-samsung-eso-le-importa-bien-poco-planea-invertir-fortuna-ella",
+          "source": "Xataka",
+          "published_at": "2026-07-24T12:30:38Z",
+          "summary": "Mistral está de moda. No importa que sus modelos de IA no estén entre los mejores , porque a la startup francesa le basta con defender el discurso de la IA europea y soberana que tan relevante se ha vuelto en los últimos…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-24-mistral-esta-muy-lejos-en-la-carrera-de"
+        },
+        {
+          "title": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
+          "url": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
+          "source": "Xataka",
+          "published_at": "2026-07-24T07:00:39Z",
+          "summary": "La generación Z está revolucionando las dinámicas laborales actuales a un ritmo que supera a cualquier otra generación. Su llegada al mercado laboral no ha sido fácil: sus primeros empleos llegaron marcados por la pandem…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-24-la-generacion-z-no-aguanta-mas-de-un"
         },
         {
           "title": "Google tiene chips de sobra para vender. Prefiere quedárselos para no quedarse atrás en la carrera de la AGI",
@@ -482,19 +472,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-23-los-genios-chinos-de-la-ia-podrian-ser"
-        },
-        {
-          "title": "Un modelo de IA no tenía acceso a internet. Así que consideró que era mejor tenerlo y decidió hackear algo por el camino",
-          "url": "https://www.xataka.com/robotica-e-ia/modelo-ia-no-tenia-acceso-a-internet-asi-que-considero-que-era-mejor-tenerlo-decidio-hackear-algo-camino",
-          "source": "Xataka",
-          "published_at": "2026-07-22T11:15:15Z",
-          "summary": "La semana pasada, OpenAI estaba evaluando las capacidades ofensivas de dos de sus modelos más avanzados. Por un lado, GPT-5.6 Sol, disponible públicamente. Por el otro, un segundo modelo aún no presentado y que de hecho …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-22-un-modelo-de-ia-no-tenia-acceso-a"
         }
       ]
     }
@@ -660,19 +637,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-20-safety-and-alignment-in-an-era-of-long-horizon"
-        },
-        {
-          "title": "A scorecard for the AI age",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "source": "OpenAI",
-          "published_at": "2026-07-17T10:00:00Z",
-          "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-17-a-scorecard-for-the-ai-age"
         }
       ]
     },
@@ -680,6 +644,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic",
+          "published_at": "2026-07-24T00:00:00Z",
+          "summary": "Introducing Claude Opus 5",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-24-introducing-claude-opus-5"
+        },
         {
           "title": "Ask Claude about the Anthropic Economic Index",
           "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
@@ -782,19 +759,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
-        },
-        {
-          "title": "Introducing Gemini 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-          "source": "DeepMind",
-          "published_at": "2026-07-17T15:00:11Z",
-          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-17-introducing-gemini-3-5-flash-cyber"
         }
       ]
     }
