@@ -1,78 +1,117 @@
 {
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T07:41:47.931715Z",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T07:22:44.471885Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-      "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+      "title": "X Money is launching in the US starting today",
+      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
       "source": "The Verge",
-      "published_at": "2026-07-26T21:24:07Z",
-      "summary": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, …",
+      "published_at": "2026-07-27T22:10:18Z",
+      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, alo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-26-champagne-and-bullets-belongs-on-the-mount-rushmore"
+      "id": "theverge-2026-07-27-x-money-is-launching-in-the-us-starting"
     },
     {
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "source": "The Verge",
-      "published_at": "2026-07-26T19:36:38Z",
-      "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-26-apple-is-banking-on-privacy-to-set-its"
-    },
-    {
-      "title": "The US is charging an American citizen for wiping his phone at the border",
-      "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-      "source": "The Verge",
-      "published_at": "2026-07-26T18:45:50Z",
-      "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-26-the-us-is-charging-an-american-citizen-for"
-    },
-    {
-      "title": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
-      "url": "https://www.xataka.com/robotica-e-ia/mit-ha-disenado-robot-que-vuela-bucea-como-ave-marina-patas-truco-esta-angulo-despegue",
+      "title": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
+      "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
       "source": "Xataka",
-      "published_at": "2026-07-26T16:30:27Z",
-      "summary": "Cuando hablamos de drones pensamos automáticamente en vehículos voladores, pero también existen drones submarinos . Lo que no es tan habitual es que un mismo dron sea capaz de hacer las dos cosas. Es justo lo que acaba d…",
+      "published_at": "2026-07-27T21:57:00Z",
+      "summary": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuel…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-26-el-mit-ha-disenado-un-robot-que-vuela"
+      "id": "xataka-2026-07-27-es-como-tener-una-aspiradora-encendida-en-el"
     },
     {
-      "title": "Carrie is just trying to make a friend in the new trailer",
-      "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-26T15:33:27Z",
-      "summary": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. …",
+      "published_at": "2026-07-27T21:29:22Z",
+      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-26-carrie-is-just-trying-to-make-a-friend"
+      "id": "theverge-2026-07-27-razer-s-analog-huntsman-v3-pro-is-over"
+    },
+    {
+      "title": "Xbox’s huge outage even blocked games on disc",
+      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "source": "The Verge",
+      "published_at": "2026-07-27T19:53:50Z",
+      "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the o…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-27-xbox-s-huge-outage-even-blocked-games-on"
+    },
+    {
+      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-27T19:24:55Z",
+      "summary": "Nanoleaf&#8217;s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard,…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-27-nanoleaf-8217-s-colorful-pegboard-and-shelf-kit"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI",
+          "published_at": "2026-07-27T03:30:00Z",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-27-how-ai-is-expanding-what-people-do-at"
+        },
+        {
+          "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+          "url": "https://www.anthropic.com/news/cognizant-anthropic",
+          "source": "Anthropic",
+          "published_at": "2026-07-27T00:00:00Z",
+          "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-27-cognizant-and-anthropic-expand-their-partnership-to-bring"
+        },
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic",
+          "published_at": "2026-07-27T00:00:00Z",
+          "summary": "Our position on open-weights models",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-27-our-position-on-open-weights-models"
+        },
         {
           "title": "Introducing Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
@@ -231,7 +270,7 @@
         },
         {
           "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
           "source": "DeepMind",
           "published_at": "2026-07-21T15:16:30Z",
           "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
@@ -241,64 +280,25 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
-        },
-        {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T07:00:00Z",
-          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-openai-and-hugging-face-partner-to-address-security"
-        },
-        {
-          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T00:00:00Z",
-          "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-david-velez-and-robin-vince-join-the-boards"
-        },
-        {
-          "title": "Anthropic is donating another $20 million to Public First Action",
-          "url": "https://www.anthropic.com/news/donation-public-first-action",
-          "source": "Anthropic",
-          "published_at": "2026-07-21T00:00:00Z",
-          "summary": "Anthropic is donating another $20 million to Public First Action",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-21-anthropic-is-donating-another-20-million-to-public"
-        },
-        {
-          "title": "Safety and alignment in an era of long-horizon models",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "source": "OpenAI",
-          "published_at": "2026-07-20T10:00:00Z",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-20-safety-and-alignment-in-an-era-of-long-horizon"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+          "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-27T17:54:07Z",
+          "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render s…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-27-why-ai-driven-cognitive-systems-are-redefining-radar-and"
+        },
         {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
           "url": "https://spectrum.ieee.org/ai-in-robotics",
@@ -315,46 +315,142 @@
       ]
     },
     {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face",
+          "published_at": "2026-07-27T09:32:20Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-27-nvidia-cosmos-h-dreams-bringing-real-time-generative-simulation-to-surgical"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-          "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+          "title": "Why China is giving away its best AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
           "source": "The Verge",
-          "published_at": "2026-07-26T15:00:00Z",
-          "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscrip…",
+          "published_at": "2026-07-27T16:51:50Z",
+          "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-26-you-can-get-three-months-of-xbox-game"
+          "id": "theverge-2026-07-27-why-china-is-giving-away-its-best-ai"
         },
         {
-          "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-          "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+          "title": "YouTube Premium will include Peacock starting next year",
+          "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
           "source": "The Verge",
-          "published_at": "2026-07-26T14:51:33Z",
-          "summary": "While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining the MCU as Ghost Rider…",
+          "published_at": "2026-07-27T16:18:52Z",
+          "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-26-marvel-announces-ryan-gosling-as-ghost-rider-a"
+          "id": "theverge-2026-07-27-youtube-premium-will-include-peacock-starting-next-year"
         },
         {
-          "title": "The vertical video takeover is here",
-          "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+          "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+          "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
           "source": "The Verge",
-          "published_at": "2026-07-26T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8…",
+          "published_at": "2026-07-27T15:40:38Z",
+          "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-26-the-vertical-video-takeover-is-here"
+          "id": "theverge-2026-07-27-amazon-8217-s-trying-to-launch-a-global"
+        },
+        {
+          "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
+          "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+          "source": "The Verge",
+          "published_at": "2026-07-27T15:00:00Z",
+          "summary": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-27-this-is-my-new-favorite-laptop-but-thanks"
+        },
+        {
+          "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+          "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+          "source": "The Verge",
+          "published_at": "2026-07-27T15:00:00Z",
+          "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-27-tariffs-didn-t-bring-manufacturing-jobs-back-to"
+        },
+        {
+          "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+          "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-07-27T14:56:38Z",
+          "summary": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much tha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-27-samsung-s-27-inch-qd-oled-gaming-monitor-is-priced"
+        },
+        {
+          "title": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
+          "url": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
+          "source": "Xataka",
+          "published_at": "2026-07-27T14:31:36Z",
+          "summary": "Una de las muchas batallas que China y Estados Unidos están librando es la tecnológica, concretamente una relacionada con la inteligencia artificial. El gasto de las empresas estadounidenses en la IA es astronómico , per…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-27-cuatro-chips-de-huawei-por-uno-de-nvidia"
+        },
+        {
+          "title": "Nvidia está dispuesta a avalar 250.000 millones de dólares para que OpenAI tenga su propio centro de datos, según WSJ",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-esta-dispuesta-a-avalar-250-000-millones-dolares-openai-tenga-su-propio-centro-datos-wsj",
+          "source": "Xataka",
+          "published_at": "2026-07-27T12:01:36Z",
+          "summary": "Nvidia estudia convertirse en el principal motor financiero de uno de los proyectos de infraestructura de IA más grandes hasta el momento. Y es que según ha adelantado The Wall Street Journal, la compañía de Jensen Huang…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-27-nvidia-esta-dispuesta-a-avalar-250-000-millones"
+        },
+        {
+          "title": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
+          "url": "https://www.xataka.com/robotica-e-ia/mit-ha-disenado-robot-que-vuela-bucea-como-ave-marina-patas-truco-esta-angulo-despegue",
+          "source": "Xataka",
+          "published_at": "2026-07-26T16:30:27Z",
+          "summary": "Cuando hablamos de drones pensamos automáticamente en vehículos voladores, pero también existen drones submarinos . Lo que no es tan habitual es que un mismo dron sea capaz de hacer las dos cosas. Es justo lo que acaba d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-26-el-mit-ha-disenado-un-robot-que-vuela"
         },
         {
           "title": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
@@ -381,58 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-26-la-revolucion-de-la-ia-va-por-barrios"
-        },
-        {
-          "title": "Google basically confirms the Pixel 11 is getting a price hike",
-          "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-          "source": "The Verge",
-          "published_at": "2026-07-25T18:13:36Z",
-          "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues du…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-25-google-basically-confirms-the-pixel-11-is-getting"
-        },
-        {
-          "title": "Synth historian Oli Freke will spend big on a good bicycle",
-          "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-          "source": "The Verge",
-          "published_at": "2026-07-25T15:15:00Z",
-          "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on ef…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-25-synth-historian-oli-freke-will-spend-big-on"
-        },
-        {
-          "title": "Teenage Engineering’s unique music machines are 30 percent off",
-          "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-07-25T15:00:00Z",
-          "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-07-25-teenage-engineering-s-unique-music-machines-are-30"
-        },
-        {
-          "title": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
-          "url": "https://www.xataka.com/empresas-y-economia/espana-quiere-tener-su-propia-ia-soberana-primer-paso-se-llama-sherpa-ai-estado-accionista",
-          "source": "Xataka",
-          "published_at": "2026-07-25T08:30:27Z",
-          "summary": "La compañía vasca Sherpa.ai, especializada en IA y en privacidad de datos, cerró a principios de julio una ronda de financiación de 18 millones de dólares . Esto tiene cierta relevancia, ya que la ronda participó el prop…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-25-espana-quiere-tener-su-propia-ia-soberana-el"
         }
       ]
     }
@@ -470,6 +514,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI",
+          "published_at": "2026-07-27T03:30:00Z",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-27-how-ai-is-expanding-what-people-do-at"
+        },
+        {
           "title": "Launching Health in ChatGPT",
           "url": "https://openai.com/index/health-in-chatgpt",
           "source": "OpenAI",
@@ -559,45 +616,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-21-introducing-the-chatgpt-for-small-business-program"
-        },
-        {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T07:00:00Z",
-          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-openai-and-hugging-face-partner-to-address-security"
-        },
-        {
-          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T00:00:00Z",
-          "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-david-velez-and-robin-vince-join-the-boards"
-        },
-        {
-          "title": "Safety and alignment in an era of long-horizon models",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "source": "OpenAI",
-          "published_at": "2026-07-20T10:00:00Z",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-20-safety-and-alignment-in-an-era-of-long-horizon"
         }
       ]
     },
@@ -605,6 +623,32 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+          "url": "https://www.anthropic.com/news/cognizant-anthropic",
+          "source": "Anthropic",
+          "published_at": "2026-07-27T00:00:00Z",
+          "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-27-cognizant-and-anthropic-expand-their-partnership-to-bring"
+        },
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic",
+          "published_at": "2026-07-27T00:00:00Z",
+          "summary": "Our position on open-weights models",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-27-our-position-on-open-weights-models"
+        },
         {
           "title": "Introducing Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
@@ -643,19 +687,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-22-a-research-agenda-for-the-economic-futures-research"
-        },
-        {
-          "title": "Anthropic is donating another $20 million to Public First Action",
-          "url": "https://www.anthropic.com/news/donation-public-first-action",
-          "source": "Anthropic",
-          "published_at": "2026-07-21T00:00:00Z",
-          "summary": "Anthropic is donating another $20 million to Public First Action",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-21-anthropic-is-donating-another-20-million-to-public"
         }
       ]
     },
@@ -697,7 +728,7 @@
         },
         {
           "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
           "source": "DeepMind",
           "published_at": "2026-07-21T15:16:30Z",
           "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
