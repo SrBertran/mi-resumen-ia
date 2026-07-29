@@ -1,78 +1,130 @@
 {
-  "date": "2026-07-28",
-  "generated_at": "2026-07-28T07:22:44.471885Z",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T07:25:01.249233Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "X Money is launching in the US starting today",
-      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-      "source": "The Verge",
-      "published_at": "2026-07-27T22:10:18Z",
-      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, alo…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-07-27-x-money-is-launching-in-the-us-starting"
-    },
-    {
-      "title": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
-      "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+      "title": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
+      "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
       "source": "Xataka",
-      "published_at": "2026-07-27T21:57:00Z",
-      "summary": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuel…",
+      "published_at": "2026-07-29T07:01:36Z",
+      "summary": "¿Estamos en una burbuja de IA? La pregunta lleva meses sobrevolando toda la industria, y hay argumentos de peso para pensar que la respuesta es sí. Sin embargo, también hay quien defiende lo contrario y hay argumentos po…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-07-27-es-como-tener-una-aspiradora-encendida-en-el"
+      "id": "xataka-2026-07-29-a-menos-que-veamos-ese-amplio-crecimiento-economico"
     },
     {
-      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
-      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+      "title": "The US is banning foreign robots",
+      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
       "source": "The Verge",
-      "published_at": "2026-07-27T21:29:22Z",
-      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing …",
+      "published_at": "2026-07-28T22:37:53Z",
+      "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communica…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-27-razer-s-analog-huntsman-v3-pro-is-over"
+      "id": "theverge-2026-07-28-the-us-is-banning-foreign-robots"
     },
     {
-      "title": "Xbox’s huge outage even blocked games on disc",
-      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+      "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
       "source": "The Verge",
-      "published_at": "2026-07-27T19:53:50Z",
-      "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the o…",
+      "published_at": "2026-07-28T21:48:50Z",
+      "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these curr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-27-xbox-s-huge-outage-even-blocked-games-on"
+      "id": "theverge-2026-07-28-ariana-grande-is-suing-the-hackers-who-8217"
     },
     {
-      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
-      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "title": "The union drive at the Wikimedia Foundation is expanding",
+      "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
       "source": "The Verge",
-      "published_at": "2026-07-27T19:24:55Z",
-      "summary": "Nanoleaf&#8217;s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard,…",
+      "published_at": "2026-07-28T21:11:11Z",
+      "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-27-nanoleaf-8217-s-colorful-pegboard-and-shelf-kit"
+      "id": "theverge-2026-07-28-the-union-drive-at-the-wikimedia-foundation-is"
+    },
+    {
+      "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "source": "The Verge",
+      "published_at": "2026-07-28T21:11:11Z",
+      "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settleme…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-07-28-ebay-8217-s-bizarre-cyberstalking-saga-ends-with"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI",
+          "published_at": "2026-07-28T17:00:00Z",
+          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-28-scientific-computing-in-the-age-of-agentic-ai"
+        },
+        {
+          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T16:00:00Z",
+          "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-gemini-api-managed-agents-3-6-flash-hooks"
+        },
+        {
+          "title": "5 ways AI Mode in Search helps you enjoy the real world",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T13:00:00Z",
+          "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-5-ways-ai-mode-in-search-helps-you"
+        },
+        {
+          "title": "5 ways to host the ultimate dinner party with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T13:00:00Z",
+          "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-5-ways-to-host-the-ultimate-dinner-party"
+        },
         {
           "title": "How AI is expanding what people do at work",
           "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -202,84 +254,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-22-advancing-the-next-era-of-national-science"
-        },
-        {
-          "title": "Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI",
-          "published_at": "2026-07-22T05:30:00Z",
-          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-22-introducing-openai-presence"
-        },
-        {
-          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-          "url": "https://openai.com/index/ntt-data",
-          "source": "OpenAI",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-22-ntt-data-group-cuts-incident-analysis-to-30"
-        },
-        {
-          "title": "Ask Claude about the Anthropic Economic Index",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "Ask Claude about the Anthropic Economic Index",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-22-ask-claude-about-the-anthropic-economic-index"
-        },
-        {
-          "title": "A research agenda for the Economic Futures Research Fund",
-          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-          "source": "Anthropic",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "A research agenda for the Economic Futures Research Fund",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-22-a-research-agenda-for-the-economic-futures-research"
-        },
-        {
-          "title": "Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T17:00:00Z",
-          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-introducing-the-chatgpt-for-small-business-program"
-        },
-        {
-          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-          "source": "DeepMind",
-          "published_at": "2026-07-21T15:16:30Z",
-          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
         }
       ]
     },
@@ -298,25 +272,38 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-07-27-why-ai-driven-cognitive-systems-are-redefining-radar-and"
-        },
-        {
-          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
-          "url": "https://spectrum.ieee.org/ai-in-robotics",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-07-26T13:00:01Z",
-          "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-07-26-optical-tech-would-update-a-robot-s-ai"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "source": "Hugging Face",
+          "published_at": "2026-07-28T16:27:42Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-28-the-olmoearth-platform-geospatial-inference-at-planetary-scale"
+        },
+        {
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "source": "Hugging Face",
+          "published_at": "2026-07-28T15:01:45Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-07-28-lfm2-5-encoders-for-fast-long-context-inference-on-cpu"
+        },
         {
           "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
           "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -336,82 +323,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Why China is giving away its best AI models",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "title": "AI leaders sign a statement asking the government to do something about automated AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
           "source": "The Verge",
-          "published_at": "2026-07-27T16:51:50Z",
-          "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the …",
+          "published_at": "2026-07-28T19:46:43Z",
+          "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for fro…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-why-china-is-giving-away-its-best-ai"
+          "id": "theverge-2026-07-28-ai-leaders-sign-a-statement-asking-the-government"
         },
         {
-          "title": "YouTube Premium will include Peacock starting next year",
-          "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+          "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+          "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
           "source": "The Verge",
-          "published_at": "2026-07-27T16:18:52Z",
-          "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported …",
+          "published_at": "2026-07-28T19:35:00Z",
+          "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at air…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-youtube-premium-will-include-peacock-starting-next-year"
+          "id": "theverge-2026-07-28-is-it-illegal-to-trick-the-us-government"
         },
         {
-          "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-          "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+          "title": "AI’s finally expensive enough to make Wall Street nervous",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
           "source": "The Verge",
-          "published_at": "2026-07-27T15:40:38Z",
-          "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will …",
+          "published_at": "2026-07-28T19:33:03Z",
+          "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-amazon-8217-s-trying-to-launch-a-global"
+          "id": "theverge-2026-07-28-ai-s-finally-expensive-enough-to-make-wall"
         },
         {
-          "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
-          "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+          "title": "This comfy gaming headset that can play audio from two sources is $25",
+          "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-07-27T15:00:00Z",
-          "summary": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports…",
+          "published_at": "2026-07-28T19:18:15Z",
+          "summary": "While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-this-is-my-new-favorite-laptop-but-thanks"
+          "id": "theverge-2026-07-28-this-comfy-gaming-headset-that-can-play-audio"
         },
         {
-          "title": "Tariffs didn’t bring manufacturing jobs back to the US",
-          "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+          "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
+          "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
           "source": "The Verge",
-          "published_at": "2026-07-27T15:00:00Z",
-          "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about …",
+          "published_at": "2026-07-28T19:12:48Z",
+          "summary": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-tariffs-didn-t-bring-manufacturing-jobs-back-to"
+          "id": "theverge-2026-07-28-logitech-will-pull-a-nintendo----only-european"
         },
         {
-          "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-          "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+          "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+          "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
           "source": "The Verge",
-          "published_at": "2026-07-27T14:56:38Z",
-          "summary": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much tha…",
+          "published_at": "2026-07-28T18:43:57Z",
+          "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricte…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-27-samsung-s-27-inch-qd-oled-gaming-monitor-is-priced"
+          "id": "theverge-2026-07-28-apple-won-t-turn-on-any-restricted-mode"
+        },
+        {
+          "title": "Satya Nadella sobre el futuro del empleo:\"La falacia de la cantidad fija de trabajo y la falta de imaginación nos impiden avanzar\"",
+          "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
+          "source": "Xataka",
+          "published_at": "2026-07-28T17:45:00Z",
+          "summary": "Además del coste y los efectos derivados de su desarrollo, la mayor inquietud que presenta el futuro de la IA es conocer el impacto que esta tecnología tendrá en el mercado laboral de todo el mundo. De hecho, ya comenzam…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-28-satya-nadella-sobre-el-futuro-del-empleo-la"
+        },
+        {
+          "title": "Studio by Spotify Labs: qué es, qué puedes hacer con este agente de IA y quién puede acceder a ella",
+          "url": "https://www.xataka.com/basics/studio-by-spotify-labs-que-que-puedes-hacer-este-agente-ia-quien-puede-acceder-a-ella",
+          "source": "Xataka",
+          "published_at": "2026-07-28T10:05:52Z",
+          "summary": "Vamos a explicarte qué es y qué puedes hacer con Studio de Spotify , una aplicación de inteligencia artificial a la que pedir que te genere varios tipos de contenido. Se trata de una herramienta que se está abriendo poco…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-28-studio-by-spotify-labs-que-es-que-puedes"
+        },
+        {
+          "title": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
+          "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+          "source": "Xataka",
+          "published_at": "2026-07-27T21:57:00Z",
+          "summary": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuel…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-27-es-como-tener-una-aspiradora-encendida-en-el"
         },
         {
           "title": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
@@ -438,45 +464,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-27-nvidia-esta-dispuesta-a-avalar-250-000-millones"
-        },
-        {
-          "title": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
-          "url": "https://www.xataka.com/robotica-e-ia/mit-ha-disenado-robot-que-vuela-bucea-como-ave-marina-patas-truco-esta-angulo-despegue",
-          "source": "Xataka",
-          "published_at": "2026-07-26T16:30:27Z",
-          "summary": "Cuando hablamos de drones pensamos automáticamente en vehículos voladores, pero también existen drones submarinos . Lo que no es tan habitual es que un mismo dron sea capaz de hacer las dos cosas. Es justo lo que acaba d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-26-el-mit-ha-disenado-un-robot-que-vuela"
-        },
-        {
-          "title": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
-          "url": "https://www.xataka.com/robotica-e-ia/prompt-injection-tiene-su-propio-contraataque-inyectar-falsas-instrucciones-tambien-a-hackers",
-          "source": "Xataka",
-          "published_at": "2026-07-26T11:30:27Z",
-          "summary": "Durante los últimos dos años,&nbsp; el&nbsp; prompt injection &nbsp;ha sido el arma favorita de los&nbsp;ciberatacantes&nbsp;contra sistemas de inteligencia artificial.&nbsp;Este método pasa por esconder&nbsp;una instruc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-26-el-prompt-injection-ya-tiene-su-propio-contraataque"
-        },
-        {
-          "title": "La \"revolución\" de la IA va por barrios: el mapa que muestra quién manda y quién se ha quedado fuera",
-          "url": "https://www.xataka.com/servicios/revolucion-ia-va-barrios-mapa-que-muestra-quien-manda-quien-se-ha-quedado-fuera",
-          "source": "Xataka",
-          "published_at": "2026-07-26T08:00:27Z",
-          "summary": "Cuando la IA llegó y vimos todo lo que podía hacer, la primera impresión de muchos fue que les iba a quitar el trabajo (y la verdad, algunas declaraciones tampoco ayudaron ), aunque la realidad de momento es otra: trabaj…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-26-la-revolucion-de-la-ia-va-por-barrios"
         }
       ]
     }
@@ -514,6 +501,19 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI",
+          "published_at": "2026-07-28T17:00:00Z",
+          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-28-scientific-computing-in-the-age-of-agentic-ai"
+        },
+        {
           "title": "How AI is expanding what people do at work",
           "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
           "source": "OpenAI",
@@ -577,45 +577,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-22-advancing-the-next-era-of-national-science"
-        },
-        {
-          "title": "Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI",
-          "published_at": "2026-07-22T05:30:00Z",
-          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-22-introducing-openai-presence"
-        },
-        {
-          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-          "url": "https://openai.com/index/ntt-data",
-          "source": "OpenAI",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-22-ntt-data-group-cuts-incident-analysis-to-30"
-        },
-        {
-          "title": "Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI",
-          "published_at": "2026-07-21T17:00:00Z",
-          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-21-introducing-the-chatgpt-for-small-business-program"
         }
       ]
     },
@@ -661,32 +622,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-24-introducing-claude-opus-5"
-        },
-        {
-          "title": "Ask Claude about the Anthropic Economic Index",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "Ask Claude about the Anthropic Economic Index",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-22-ask-claude-about-the-anthropic-economic-index"
-        },
-        {
-          "title": "A research agenda for the Economic Futures Research Fund",
-          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-          "source": "Anthropic",
-          "published_at": "2026-07-22T00:00:00Z",
-          "summary": "A research agenda for the Economic Futures Research Fund",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-22-a-research-agenda-for-the-economic-futures-research"
         }
       ]
     },
@@ -694,6 +629,45 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T16:00:00Z",
+          "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-gemini-api-managed-agents-3-6-flash-hooks"
+        },
+        {
+          "title": "5 ways AI Mode in Search helps you enjoy the real world",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T13:00:00Z",
+          "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-5-ways-ai-mode-in-search-helps-you"
+        },
+        {
+          "title": "5 ways to host the ultimate dinner party with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+          "source": "Google AI",
+          "published_at": "2026-07-28T13:00:00Z",
+          "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-07-28-5-ways-to-host-the-ultimate-dinner-party"
+        },
         {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -725,19 +699,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-22-accelerating-the-frontiers-of-scientific-discovery-google-s"
-        },
-        {
-          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-          "source": "DeepMind",
-          "published_at": "2026-07-21T15:16:30Z",
-          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-21-introducing-gemini-3-6-flash-3-5-flash-lite"
         }
       ]
     }
