@@ -1,78 +1,130 @@
 {
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T07:20:40.298984Z",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T07:25:46.018659Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "source": "The Verge",
-      "published_at": "2026-07-29T22:17:38Z",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commer…",
+      "published_at": "2026-07-30T22:29:45Z",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-29-microsoft-confirms-copilot-super-app-coming-this-year"
+      "id": "theverge-2026-07-30-tim-cook-hints-at-icloud-plus-tier-for"
     },
     {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
       "source": "The Verge",
-      "published_at": "2026-07-29T21:48:07Z",
-      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level…",
+      "published_at": "2026-07-30T22:10:13Z",
+      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-29-mark-zuckerberg-is-planning-a-big-push-into"
+      "id": "theverge-2026-07-30-xbox-ceo-lays-out-priorities-in-memo-after"
     },
     {
-      "title": "Qualcomm is raising phone chip prices starting September 1st",
-      "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
       "source": "The Verge",
-      "published_at": "2026-07-29T21:41:56Z",
-      "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the com…",
+      "published_at": "2026-07-30T20:49:32Z",
+      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.2…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-29-qualcomm-is-raising-phone-chip-prices-starting-september"
+      "id": "theverge-2026-07-30-apple-8217-s-iphone-and-mac-sales-keep"
     },
     {
-      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
       "source": "The Verge",
-      "published_at": "2026-07-29T21:06:52Z",
-      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice bu…",
+      "published_at": "2026-07-30T20:46:25Z",
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Ma…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-29-xai-s-last-minute-scramble-to-stop-minnesota-s"
+      "id": "theverge-2026-07-30-the-loss-of-situational-awareness"
     },
     {
-      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-      "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+      "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+      "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-07-29T21:02:50Z",
-      "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source …",
+      "published_at": "2026-07-30T19:00:00Z",
+      "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-07-29-cyberpunk-2077-packs-a-lot-of-fun-into"
+      "id": "theverge-2026-07-30-samsung-s-galaxy-watch-9-is-40-off"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "source": "DeepMind",
+          "published_at": "2026-07-30T15:00:59Z",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-30-gemini-robotics-er-2-powering-robotics-with-video"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-07-30T10:00:00Z",
+          "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-30-advancing-the-price-performance-frontier-with-gpt-5-6"
+        },
+        {
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "url": "https://openai.com/index/avatarin",
+          "source": "OpenAI",
+          "published_at": "2026-07-30T00:00:00Z",
+          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-30-how-avatarin-built-a-24-7-retail-agent"
+        },
+        {
+          "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic",
+          "published_at": "2026-07-30T00:00:00Z",
+          "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-30-investigating-three-real-world-incidents-in-our-cybersecurity-evaluations"
+        },
         {
           "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
           "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -152,6 +204,19 @@
           "id": "googleai-2026-07-28-gemini-api-managed-agents-3-6-flash-hooks"
         },
         {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "source": "DeepMind",
+          "published_at": "2026-07-28T13:21:37Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-28-gemini-robotics-2-brings-whole-body-intelligence-to"
+        },
+        {
           "title": "5 ways AI Mode in Search helps you enjoy the real world",
           "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
           "source": "Google AI",
@@ -215,25 +280,25 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-27-our-position-on-open-weights-models"
-        },
-        {
-          "title": "Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic",
-          "published_at": "2026-07-24T00:00:00Z",
-          "summary": "Introducing Claude Opus 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-24-introducing-claude-opus-5"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Are AI Models Working Harder Than They Need to?",
+          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-07-30T13:35:32Z",
+          "summary": "Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-07-30-are-ai-models-working-harder-than-they-need"
+        },
         {
           "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
           "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
@@ -266,30 +331,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
           "source": "Hugging Face",
-          "published_at": "2026-07-28T16:27:42Z",
+          "published_at": "2026-07-30T15:09:09Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-07-28-the-olmoearth-platform-geospatial-inference-at-planetary-scale"
-        },
-        {
-          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "source": "Hugging Face",
-          "published_at": "2026-07-28T15:01:45Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-07-28-lfm2-5-encoders-for-fast-long-context-inference-on-cpu"
+          "id": "huggingface-2026-07-30-gpu-management-why-idle-gpus-are-the-new"
         }
       ]
     },
@@ -297,69 +349,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
-          "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+          "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
           "source": "The Verge",
-          "published_at": "2026-07-29T20:26:48Z",
-          "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, accord…",
+          "published_at": "2026-07-30T18:43:26Z",
+          "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual butto…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-29-xbox-revenue-drops-10-percent-as-microsoft-8217"
+          "id": "theverge-2026-07-30-linkedin-actually-adds-a-seems-like-ai-slop"
         },
         {
-          "title": "What’s the catch with the Apple Upgrade program?",
-          "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+          "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+          "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-07-29T18:40:06Z",
-          "summary": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the devi…",
+          "published_at": "2026-07-30T18:01:26Z",
+          "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-29-what-s-the-catch-with-the-apple-upgrade"
+          "id": "theverge-2026-07-30-govee-8217-s-portable-smart-lamp-is-down"
         },
         {
-          "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-          "source": "The Verge",
-          "published_at": "2026-07-29T18:15:02Z",
-          "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confir…",
+          "title": "Sam Altman: \"no vemos que la promesa de la semana laboral de cuatro horas llegue a la sociedad. No espero que la IA lo cambie\"",
+          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-vemos-que-promesa-semana-laboral-cuatro-horas-llegue-a-sociedad-no-espero-que-ia-cambie",
+          "source": "Xataka",
+          "published_at": "2026-07-30T17:31:43Z",
+          "summary": "Cada avance tecnológico trae la misma promesa: menos horas de trabajo, más tiempo de ocio y una vida menos estresada para los empleados. Pasó con la máquina de vapor, con el ordenador y con la llegada de internet. Ahora …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-29-openai-president-says-it-8217-s-8216-building"
+          "id": "xataka-2026-07-30-sam-altman-no-vemos-que-la-promesa-de"
         },
         {
-          "title": "The US government just banned Roombas",
-          "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+          "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+          "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
           "source": "The Verge",
-          "published_at": "2026-07-29T18:13:09Z",
-          "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does…",
+          "published_at": "2026-07-30T17:20:06Z",
+          "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain textu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-29-the-us-government-just-banned-roombas"
+          "id": "theverge-2026-07-30-nasa-s-curiosity-rover-found-a-sea-of"
         },
         {
-          "title": "Full school day cellphone bans are more popular than ever",
-          "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
+          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
           "source": "The Verge",
-          "published_at": "2026-07-29T16:42:44Z",
-          "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high s…",
+          "published_at": "2026-07-30T17:18:45Z",
+          "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-07-29-full-school-day-cellphone-bans-are-more-popular"
+          "id": "theverge-2026-07-30-google-deepmind-s-new-ai-model-can-control"
+        },
+        {
+          "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+          "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+          "source": "The Verge",
+          "published_at": "2026-07-30T17:08:14Z",
+          "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters acro…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-07-30-abc-demands-fcc-drop-its-punitive-early-license"
+        },
+        {
+          "title": "Conseguir un electricista o un carpintero en EEUU es casi imposible. Están todos construyendo centros de datos de IA",
+          "url": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
+          "source": "Xataka",
+          "published_at": "2026-07-30T16:01:43Z",
+          "summary": "Estados Unidos concentra un tercio de todos los centros de datos del mundo y la construcción de nueva infraestructura avanza a un ritmo vertiginoso. Además de inversiones millonarias y mucha electricidad , estos centros …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-30-conseguir-un-electricista-o-un-carpintero-en-eeuu"
+        },
+        {
+          "title": "Mi teclado de 30 euros puede hacer lo mismo que el nuevo teclado IA de OpenAI de 230 dólares",
+          "url": "https://www.xataka.com/teclados/mi-teclado-30-euros-puede-hacer-tu-teclado-para-ia-openai-230-dolares",
+          "source": "Xataka",
+          "published_at": "2026-07-30T15:01:43Z",
+          "summary": "OpenAI anunció hace unos días su primer producto físico (con perdón de su ropa y merchandising). Se llama Codex Micro , cuesta unos 230 dólares y se vende como el mando a distancia perfecto para gestionar agentes de IA m…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-30-mi-teclado-de-30-euros-puede-hacer-lo"
+        },
+        {
+          "title": "Si eres cliente de Revolut, puedes conseguir hasta un año gratis de ChatGPT Go: estas son las condiciones",
+          "url": "https://www.xataka.com/empresas-y-economia/eres-cliente-revolut-puedes-conseguir-ano-gratis-chatgpt-go-estas-condiciones",
+          "source": "Xataka",
+          "published_at": "2026-07-30T09:31:51Z",
+          "summary": "Revolut es el neobanco más usado en España&nbsp; y uno de los que más crece en todo el mundo . La compañía acaba de anunciar que suma una nueva suscripción a su lista de beneficios, y no es una suscripción cualquiera, si…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-07-30-si-eres-cliente-de-revolut-puedes-conseguir-hasta"
         },
         {
           "title": "La paradoja de Apple: la empresa más valiosa del mundo no tiene interés en invertir en la fiebre de los centros de datos",
@@ -373,45 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-07-29-la-paradoja-de-apple-la-empresa-mas-valiosa"
-        },
-        {
-          "title": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
-          "source": "Xataka",
-          "published_at": "2026-07-29T07:01:36Z",
-          "summary": "¿Estamos en una burbuja de IA? La pregunta lleva meses sobrevolando toda la industria, y hay argumentos de peso para pensar que la respuesta es sí. Sin embargo, también hay quien defiende lo contrario y hay argumentos po…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-29-a-menos-que-veamos-ese-amplio-crecimiento-economico"
-        },
-        {
-          "title": "Llevamos años preguntándonos cuántos empleos destruirá la IA. Satya Nadella tiene otra teoría: estamos haciendo mal la pregunta",
-          "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
-          "source": "Xataka",
-          "published_at": "2026-07-28T17:45:00Z",
-          "summary": "Además del coste y los efectos derivados de su desarrollo, la mayor inquietud que presenta el futuro de la IA es conocer el impacto que esta tecnología tendrá en el mercado laboral de todo el mundo. De hecho, ya comenzam…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-28-llevamos-anos-preguntandonos-cuantos-empleos-destruira-la-ia"
-        },
-        {
-          "title": "Studio by Spotify Labs: qué es, qué puedes hacer con este agente de IA y quién puede acceder a ella",
-          "url": "https://www.xataka.com/basics/studio-by-spotify-labs-que-que-puedes-hacer-este-agente-ia-quien-puede-acceder-a-ella",
-          "source": "Xataka",
-          "published_at": "2026-07-28T10:05:52Z",
-          "summary": "Vamos a explicarte qué es y qué puedes hacer con Studio de Spotify , una aplicación de inteligencia artificial a la que pedir que te genere varios tipos de contenido. Se trata de una herramienta que se está abriendo poco…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-07-28-studio-by-spotify-labs-que-es-que-puedes"
         }
       ]
     }
@@ -449,6 +514,32 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-07-30T10:00:00Z",
+          "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-30-advancing-the-price-performance-frontier-with-gpt-5-6"
+        },
+        {
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "url": "https://openai.com/index/avatarin",
+          "source": "OpenAI",
+          "published_at": "2026-07-30T00:00:00Z",
+          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-07-30-how-avatarin-built-a-24-7-retail-agent"
+        },
+        {
           "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
           "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "source": "OpenAI",
@@ -520,6 +611,19 @@
       "name": "Anthropic",
       "items": [
         {
+          "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic",
+          "published_at": "2026-07-30T00:00:00Z",
+          "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-07-30-investigating-three-real-world-incidents-in-our-cybersecurity-evaluations"
+        },
+        {
           "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
           "url": "https://www.anthropic.com/news/cognizant-anthropic",
           "source": "Anthropic",
@@ -544,19 +648,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-07-27-our-position-on-open-weights-models"
-        },
-        {
-          "title": "Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic",
-          "published_at": "2026-07-24T00:00:00Z",
-          "summary": "Introducing Claude Opus 5",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-24-introducing-claude-opus-5"
         }
       ]
     },
@@ -610,6 +701,19 @@
       "name": "DeepMind",
       "items": [
         {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "source": "DeepMind",
+          "published_at": "2026-07-30T15:00:59Z",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-30-gemini-robotics-er-2-powering-robotics-with-video"
+        },
+        {
           "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
           "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
           "source": "DeepMind",
@@ -621,6 +725,19 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-29-we-re-launching-lyria-3-5-in-google"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "source": "DeepMind",
+          "published_at": "2026-07-28T13:21:37Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-07-28-gemini-robotics-2-brings-whole-body-intelligence-to"
         }
       ]
     }
