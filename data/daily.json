@@ -1,78 +1,104 @@
 {
-  "date": "2026-08-03",
-  "generated_at": "2026-08-03T07:39:07.178218Z",
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T07:22:14.414442Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "OpenAI ya tiene listo Astra, un prometedor modelo de IA que apunta a algo inquietante: el momento Deep Blue de las matemáticas",
-      "url": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-astra-prometedor-modelo-ia-que-apunta-a-algo-inquietante-momento-deep-blue-matematicas",
+      "title": "La IA ha resuelto uno de los grandes problemas de la ciberseguridad: encontrar fallos. Ahora tenemos otro mucho mayor",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-ha-resuelto-uno-grandes-problemas-ciberseguridad-encontrar-fallos-ahora-tenemos-otro-mucho-mayor",
       "source": "Xataka",
-      "published_at": "2026-08-03T06:01:40Z",
-      "summary": "Era mayo de 1997 y Gari Kaspárov sufría la derrota definitiva frente a Deep Blue. El considerado hasta entonces como mejor ajedrecista de la historia no solo estaba triste y avergonzado: también estaba picado. En la rued…",
+      "published_at": "2026-08-04T06:01:43Z",
+      "summary": "En junio de 2026 el célebre \"martes de parches\" de Microsoft marcó un récord con 206 vulnerabilidades, de las cuales tres eran \"zero day\" . En julio ese récord se quedó en ridículo, porque se triplicó esa cifra. No es el…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-08-03-openai-ya-tiene-listo-astra-un-prometedor-modelo"
+      "id": "xataka-2026-08-04-la-ia-ha-resuelto-uno-de-los-grandes"
     },
     {
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
       "source": "The Verge",
-      "published_at": "2026-08-02T21:53:15Z",
-      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off g…",
+      "published_at": "2026-08-04T00:00:00Z",
+      "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pok&#233;mon adventures with a machinelike precision. But every so often it launches a curious experiment, whether …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-02-rachika-nayar-s-heaven-come-crashing-is-an"
+      "id": "theverge-2026-08-04-the-studio-behind-pokemon-struggles-to-find-its"
     },
     {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI",
+      "published_at": "2026-08-03T22:00:00Z",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "openai-2026-08-03-apple-is-getting-this-wrong"
+    },
+    {
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
       "source": "The Verge",
-      "published_at": "2026-08-02T19:36:08Z",
-      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recen…",
+      "published_at": "2026-08-03T21:24:23Z",
+      "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now ta…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-02-fender-s-ceo-seems-to-think-your-bandmates"
+      "id": "theverge-2026-08-03-your-fitbit-data-can-now-connect-directly-to"
     },
     {
-      "title": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
-      "url": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
-      "source": "Xataka",
-      "published_at": "2026-08-02T17:01:43Z",
-      "summary": "Los libros infantiles son uno de los regalos más habituales para los pequeños de la casa, pero últimamente hay un tipo de libro que se está volviendo más popular: los libros personalizados . Haciendo una búsqueda nos enc…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-02-hay-una-guerra-entre-padres-millennials-y-abuelos"
-    },
-    {
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-08-02T16:14:20Z",
-      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasin…",
+      "published_at": "2026-08-03T21:13:38Z",
+      "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of scr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-02-xbox-prices-are-increasing-by-up-to-eur200"
+      "id": "theverge-2026-08-03-samsung-s-discounted-smart-monitor-is-349-99"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI",
+          "published_at": "2026-08-03T07:00:00Z",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-03-how-we-built-a-realtime-system-for-responsive"
+        },
+        {
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "url": "https://openai.com/index/circles",
+          "source": "OpenAI",
+          "published_at": "2026-08-03T00:00:00Z",
+          "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-03-circles-powers-telco-personalization-with-openai-technology"
+        },
         {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
@@ -310,77 +336,163 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Fridays With Bob",
-          "url": "https://spectrum.ieee.org/risk",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-01T12:00:01Z",
-          "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one rig…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-01-fridays-with-bob"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-          "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
           "source": "The Verge",
-          "published_at": "2026-08-02T15:00:00Z",
-          "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the …",
+          "published_at": "2026-08-03T17:38:45Z",
+          "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effe…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-02-skylight-8217-s-smart-calendars-are-up-to"
+          "id": "theverge-2026-08-03-europe-s-ai-labeling-and-transparency-rules-are"
         },
         {
-          "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-          "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+          "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+          "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-08-02T14:00:00Z",
-          "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming…",
+          "published_at": "2026-08-03T17:17:54Z",
+          "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the fir…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-02-hp-s-hyperx-omen-15-isn-t-quite"
+          "id": "theverge-2026-08-03-the-first-gen-kindle-scribe-is-a-big-e-reader"
         },
         {
-          "title": "Is paying artists enough to convince them to embrace AI?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "title": "Microsoft is bringing Xbox 360 games to PC",
+          "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
           "source": "The Verge",
-          "published_at": "2026-08-02T13:00:00Z",
-          "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, a…",
+          "published_at": "2026-08-03T16:31:35Z",
+          "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-02-is-paying-artists-enough-to-convince-them-to"
+          "id": "theverge-2026-08-03-microsoft-is-bringing-xbox-360-games-to-pc"
         },
         {
-          "title": "Foldables are sort of boring now — and that’s great news for Apple",
-          "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+          "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+          "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
           "source": "The Verge",
-          "published_at": "2026-08-02T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at …",
+          "published_at": "2026-08-03T15:00:00Z",
+          "summary": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-02-foldables-are-sort-of-boring-now----and"
+          "id": "theverge-2026-08-03-bluesky-s-new-ceo-wants-a-big-tent"
+        },
+        {
+          "title": "Palworld’s expanding to mobile with a new MMORPG",
+          "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+          "source": "The Verge",
+          "published_at": "2026-08-03T14:50:29Z",
+          "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Pal…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-03-palworld-s-expanding-to-mobile-with-a-new"
+        },
+        {
+          "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+          "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+          "source": "The Verge",
+          "published_at": "2026-08-03T14:26:47Z",
+          "summary": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-03-spider-man-and-the-odyssey-are-splitting-up-imax"
+        },
+        {
+          "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+          "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-03T14:16:13Z",
+          "summary": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has so…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-03-samsung-s-2tb-9100-pro-ssd-is-actually"
+        },
+        {
+          "title": "Cuando EEUU restringió la venta de chips IA a China sabía que era una medida desesperada. Alibaba acaba de confirmarlo",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-restringio-chips-para-frenar-ia-china-alibaba-acaba-ensenar-poco-que-ha-funcionado",
+          "source": "Xataka",
+          "published_at": "2026-08-03T10:45:00Z",
+          "summary": "El gigante chino Alibaba ha presentado Qwen3.8-Max , su modelo de IA más ambicioso hasta la fecha. Es multimodal, tiene una ventana de contexto de un millón de tokens y destaca además por otras dos cosas: la primera, vol…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-03-cuando-eeuu-restringio-la-venta-de-chips-ia"
+        },
+        {
+          "title": "La UE acaba de aprobar el etiquetado obligatorio para todo el contenido IA: cuestión distinta es que la industria obedezca",
+          "url": "https://www.xataka.com/legislacion-y-derechos/arranca-era-etiquetado-obligatorio-ia-europa-industria-avisa-que-nadie-va-a-hacerle-caso",
+          "source": "Xataka",
+          "published_at": "2026-08-03T08:30:00Z",
+          "summary": "En 2023 ya hablábamos del problema de los deepfakes y la solución que planteaba la Unión Europea era que todo este contenido artificial estuviera marcado con una etiqueta de forma obligatoria. Ese día ha llegado y desde …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-03-la-ue-acaba-de-aprobar-el-etiquetado-obligatorio"
+        },
+        {
+          "title": "Las gafas inteligentes tienen una luz que avisa de que están grabando. Para la Agencia de Protección de Datos eso no basta",
+          "url": "https://www.xataka.com/wearables/gafas-inteligentes-tienen-luz-que-avisa-que-estan-grabando-para-agencia-proteccion-datos-eso-no-basta",
+          "source": "Xataka",
+          "published_at": "2026-08-03T08:01:43Z",
+          "summary": "Si un cacharro tiene una cámara seguro que tarde o temprano se usa. Es probable que no de la mejor manera, tampoco sin que se garantice por completo la privacidad. Es lo que ocurre con las gafas inteligentes , un disposi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-03-las-gafas-inteligentes-tienen-una-luz-que-avisa"
+        },
+        {
+          "title": "En 1997, un ordenador redefinió para siempre el ajedrez. OpenAI cree estar en condiciones de hacer lo mismo con las matemáticas",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-astra-prometedor-modelo-ia-que-apunta-a-algo-inquietante-momento-deep-blue-matematicas",
+          "source": "Xataka",
+          "published_at": "2026-08-03T06:01:00Z",
+          "summary": "Era mayo de 1997 y Gari Kaspárov sufría la derrota definitiva frente a Deep Blue. El considerado hasta entonces como mejor ajedrecista de la historia no solo estaba triste y avergonzado: también estaba picado. En la rued…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-03-en-1997-un-ordenador-redefinio-para-siempre-el"
+        },
+        {
+          "title": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
+          "url": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
+          "source": "Xataka",
+          "published_at": "2026-08-02T17:01:43Z",
+          "summary": "Los libros infantiles son uno de los regalos más habituales para los pequeños de la casa, pero últimamente hay un tipo de libro que se está volviendo más popular: los libros personalizados . Haciendo una búsqueda nos enc…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-02-hay-una-guerra-entre-padres-millennials-y-abuelos"
         },
         {
           "title": "La impresionante escala del megacentro de datos de Meta en una imagen satelital sobre París",
@@ -420,58 +532,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-02-el-mayor-temor-era-que-la-ia-nos"
-        },
-        {
-          "title": "Pixel 11 specs and price leak with no surprises",
-          "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-          "source": "The Verge",
-          "published_at": "2026-08-01T21:31:24Z",
-          "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-01-pixel-11-specs-and-price-leak-with-no"
-        },
-        {
-          "title": "Angela Nissel faces down grief with a laugh",
-          "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-          "source": "The Verge",
-          "published_at": "2026-08-01T20:15:00Z",
-          "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-01-angela-nissel-faces-down-grief-with-a-laugh"
-        },
-        {
-          "title": "Is this Billboard Hot 100 hit AI slop?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-          "source": "The Verge",
-          "published_at": "2026-08-01T18:20:00Z",
-          "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immedi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-01-is-this-billboard-hot-100-hit-ai-slop"
-        },
-        {
-          "title": "Mark Zuckerberg: \"Es literalmente imposible tener una única superinteligencia benevolente que esté alineada con todos a la vez\"",
-          "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-literalmente-imposible-tener-unica-superinteligencia-benevolente-que-este-alineada-todos-a-vez",
-          "source": "Xataka",
-          "published_at": "2026-08-01T09:31:43Z",
-          "summary": "Mark Zuckerberg no es muy amigo de las entrevistas, pero esta semana ha hecho triplete y ha hablado con el New York Times , el Wall Street Journal&nbsp; y Financial Times . El tema de conversación principal ha sido, cómo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-01-mark-zuckerberg-es-literalmente-imposible-tener-una-unica"
         }
       ]
     }
@@ -508,6 +568,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI",
+          "published_at": "2026-08-03T22:00:00Z",
+          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-03-apple-is-getting-this-wrong"
+        },
+        {
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI",
+          "published_at": "2026-08-03T07:00:00Z",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-03-how-we-built-a-realtime-system-for-responsive"
+        },
+        {
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "url": "https://openai.com/index/circles",
+          "source": "OpenAI",
+          "published_at": "2026-08-03T00:00:00Z",
+          "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-03-circles-powers-telco-personalization-with-openai-technology"
+        },
         {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
