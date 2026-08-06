@@ -1,72 +1,72 @@
 {
-  "date": "2026-08-05",
-  "generated_at": "2026-08-05T07:22:42.825929Z",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T09:18:15.434962Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Ted Lasso returns at an important time for Apple TV",
-      "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
       "source": "The Verge",
-      "published_at": "2026-08-05T07:00:00Z",
-      "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedie…",
+      "published_at": "2026-08-06T00:25:10Z",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report fro…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-05-ted-lasso-returns-at-an-important-time-for"
+      "id": "theverge-2026-08-06-elon-musk-8217-s-attempt-at-an-ai"
     },
     {
-      "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
-      "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
       "source": "The Verge",
-      "published_at": "2026-08-05T06:50:19Z",
-      "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&#38;T, and Verizon. The message to compete head-to-head with the US carriers was delivere…",
+      "published_at": "2026-08-05T22:19:55Z",
+      "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-05-spacex-is-coming-for-t-mobile-at-038-t"
+      "id": "theverge-2026-08-05-x-product-chief-nikita-bier-is-leaving-after"
     },
     {
-      "title": "Don’t screw this up, Marvel",
-      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-      "source": "The Verge",
-      "published_at": "2026-08-04T23:20:56Z",
-      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to giv…",
+      "title": "En la era de la IA, las grandes empresas están nadando en dinero de los inversores. Y las pequeñas están quedándose sin él",
+      "url": "https://www.xataka.com/empresas-y-economia/era-ia-grandes-empresas-estan-nadando-dinero-inversores-pequenas-estan-quedandose",
+      "source": "Xataka",
+      "published_at": "2026-08-05T19:30:51Z",
+      "summary": "Durante años, Silicon Valley nos acostumbró a una imagen muy concreta: una pequeña startup, un equipo brillante, una ronda de inversión y la promesa de cambiar el mundo desde una oficina improvisada. Es una idea poderosa…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-04-don-t-screw-this-up-marvel"
+      "id": "xataka-2026-08-05-en-la-era-de-la-ia-las-grandes"
     },
     {
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-      "source": "The Verge",
-      "published_at": "2026-08-04T22:02:46Z",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can ch…",
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-08-05T18:00:03Z",
+      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity us…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "theverge-2026-08-04-now-you-can-securely-link-multiple-phones-to"
+      "category": "investigación",
+      "id": "ieee-2026-08-05-ieee-course-teaches-how-to-use-ai-to"
     },
     {
-      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
+      "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-08-04T20:57:49Z",
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 …",
+      "published_at": "2026-08-05T17:53:43Z",
+      "summary": "Ring&#8217;s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand&#8217;s most well-rounded video doorbells, whether you&#8217;re looking for a hardwired model or one that runs on a battery. Right now, its W…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-04-amd-8217-s-data-center-business-is-booming"
+      "id": "theverge-2026-08-05-two-of-ring-8217-s-latest-video-doorbells"
     }
   ],
   "sections": [
@@ -267,77 +267,25 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-30-advancing-the-price-performance-frontier-with-gpt-5-6"
-        },
-        {
-          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-          "url": "https://openai.com/index/avatarin",
-          "source": "OpenAI",
-          "published_at": "2026-07-30T00:00:00Z",
-          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-30-how-avatarin-built-a-24-7-retail-agent"
-        },
-        {
-          "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic",
-          "published_at": "2026-07-30T00:00:00Z",
-          "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-30-investigating-three-real-world-incidents-in-our-cybersecurity-evaluations"
-        },
-        {
-          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-          "source": "DeepMind",
-          "published_at": "2026-07-29T16:02:10Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-29-we-re-launching-lyria-3-5-in-google"
-        },
-        {
-          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI",
-          "published_at": "2026-07-29T15:00:00Z",
-          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-29-how-enabling-two-settings-tripled-our-scores-on"
-        },
-        {
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI",
-          "published_at": "2026-07-29T10:00:00Z",
-          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-29-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Should Researchers Write Papers for AI Instead of People?",
+          "url": "https://spectrum.ieee.org/ai-scientist-research-paper-format",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-08-05T12:00:03Z",
+          "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different f…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-08-05-should-researchers-write-papers-for-ai-instead-of"
+        },
         {
           "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
           "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
@@ -375,160 +323,173 @@
       "name": "General",
       "items": [
         {
-          "title": "SpaceX made more revenue as an AI company than a space company",
-          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "title": "Uber CEO brushes off reports of a Waymo break-up",
+          "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
           "source": "The Verge",
-          "published_at": "2026-08-04T20:47:55Z",
-          "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The A…",
+          "published_at": "2026-08-05T17:34:48Z",
+          "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-04-spacex-made-more-revenue-as-an-ai-company"
+          "id": "theverge-2026-08-05-uber-ceo-brushes-off-reports-of-a-waymo"
         },
         {
-          "title": "EA is now a private company",
-          "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+          "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+          "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-08-04T20:18:14Z",
-          "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the comp…",
+          "published_at": "2026-08-05T16:59:23Z",
+          "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model list…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-04-ea-is-now-a-private-company"
+          "id": "theverge-2026-08-05-apple-s-selling-refurbished-macbook-neos-with-a"
         },
         {
-          "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-          "url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
+          "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
           "source": "The Verge",
-          "published_at": "2026-08-04T19:11:05Z",
-          "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the…",
+          "published_at": "2026-08-05T16:57:25Z",
+          "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-04-telegram-ceo-says-an-extortionist-planted-csam-in"
+          "id": "theverge-2026-08-05-sure-seems-like-fenix-flexin-used-ai-music"
         },
         {
-          "title": "Una universidad de México usó IA para evitar trampas. Lo que pasó fue justamente lo contrario",
+          "title": "Google just announced a major shakeup of its top AI leadership",
+          "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+          "source": "The Verge",
+          "published_at": "2026-08-05T16:47:23Z",
+          "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sunda…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-05-google-just-announced-a-major-shakeup-of-its"
+        },
+        {
+          "title": "SpaceX is barely Space and mostly X",
+          "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+          "source": "The Verge",
+          "published_at": "2026-08-05T16:35:56Z",
+          "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-05-spacex-is-barely-space-and-mostly-x"
+        },
+        {
+          "title": "Reddit is introducing a new moderator: AI",
+          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+          "source": "The Verge",
+          "published_at": "2026-08-05T16:00:00Z",
+          "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-05-reddit-is-introducing-a-new-moderator-ai"
+        },
+        {
+          "title": "Rogue AI agents created fake online identities in another hacking attempt",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+          "source": "The Verge",
+          "published_at": "2026-08-05T15:14:57Z",
+          "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI sa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-05-rogue-ai-agents-created-fake-online-identities-in"
+        },
+        {
+          "title": "Bern Bornich, CEO de 1X: \"Estoy seguro de que estamos a menos de una década del despegue definitivo de los humanoides\"",
+          "url": "https://www.xataka.com/robotica-e-ia/estoy-absolutamente-seguro-que-estamos-a-decada-despegue-definitivo-humanoides-bern-bornich-ceo-1x",
+          "source": "Xataka",
+          "published_at": "2026-08-05T12:30:00Z",
+          "summary": "Hay unas cuantas empresas empeñadas en convencernos de que vamos a necesitar un robot humanoide en casa . Una de esas empresas es 1X Technologies, cuyo robot Neo Home Robot ya se vende al público a un precio de 20.000 dó…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-05-bern-bornich-ceo-de-1x-estoy-seguro-de"
+        },
+        {
+          "title": "Las grandes tecnológicas chinas reclutan investigadores antes de que se gradúen: la carrera de la IA empieza en las aulas",
+          "url": "https://www.xataka.com/robotica-e-ia/grandes-tecnologicas-chinas-reclutan-investigadores-se-graduen-carrera-ia-empieza-aulas",
+          "source": "Xataka",
+          "published_at": "2026-08-05T12:00:51Z",
+          "summary": "En China, la carrera de la IA es algo más que cómputo y nuevos modelos, también va de talento. China es la mayor cantera de ingenieros e investigadores de IA y esto también ha provocado una guerra entre las tecnológicas …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-05-las-grandes-tecnologicas-chinas-reclutan-investigadores-antes-de"
+        },
+        {
+          "title": "Mythos y GPT-5.6 actuaron como peligrosos hackers. El problema es que los expertos les dejaron la puerta abierta",
+          "url": "https://www.xataka.com/robotica-e-ia/mythos-gpt-5-6-actuaron-como-peligrosos-hackers-problema-que-expertos-les-dejaron-puerta-abierta",
+          "source": "Xataka",
+          "published_at": "2026-08-05T11:16:51Z",
+          "summary": "El AI Security Institute (AISI) se propuso evaluar las capacidades de ciberseguridad de Claude Mythos 5 y de GPT-5.6 Sol y descubrió algo: los agentes de IA desplegados por estos modelos cruzaron líneas que a priori no d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-05-mythos-y-gpt-5-6-actuaron-como-peligrosos-hackers"
+        },
+        {
+          "title": "La mayor universidad de México acaba de descubrir la cruda realidad de la IA en los exámenes: no hay forma de escapar",
           "url": "https://www.xataka.com/robotica-e-ia/universidad-mexico-uso-ia-para-evitar-trampas-que-paso-fue-justamente-contrario",
           "source": "Xataka",
-          "published_at": "2026-08-04T19:01:43Z",
+          "published_at": "2026-08-04T19:00:00Z",
           "summary": "La Universidad Nacional Autónoma de México (UNAM), que es básicamente la institución pública más prestigiosa del país, decidió este año celebrar por primera vez su examen de admisión de forma online. Para evitar que los …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-04-una-universidad-de-mexico-uso-ia-para-evitar"
+          "id": "xataka-2026-08-04-la-mayor-universidad-de-mexico-acaba-de-descubrir"
         },
         {
-          "title": "How an OpenAI influencer trip backfired",
-          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "source": "The Verge",
-          "published_at": "2026-08-04T17:46:41Z",
-          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-04-how-an-openai-influencer-trip-backfired"
-        },
-        {
-          "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-          "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-08-04T17:35:04Z",
-          "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-04-lenovo-8217-s-legion-go-s-with-steamos"
-        },
-        {
-          "title": "DeepSeek ha lanzado un modelo de IA 100 veces más barato que Fable 5. El truco está en lo que no cuenta",
+          "title": "En silencio, DeepSeek sigue sacudiendo el mercado de modelos IA: V-4 Flash es el más barato posible ahora mismo",
           "url": "https://www.xataka.com/robotica-e-ia/deepseek-ha-lanzado-modelo-ia-100-veces-barato-que-fable-5-truco-esta-que-no-cuenta",
           "source": "Xataka",
-          "published_at": "2026-08-04T14:31:43Z",
+          "published_at": "2026-08-04T14:30:00Z",
           "summary": "DeepSeek ha vuelto a sacudir la industria tecnológica con su nuevo modelo de IA , pero esta vez no por sorpresa, sino por precio. Y es que tal y como exponen en Artificial Analysis, la última versión de su modelo insigni…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-04-deepseek-ha-lanzado-un-modelo-de-ia-100"
+          "id": "xataka-2026-08-04-en-silencio-deepseek-sigue-sacudiendo-el-mercado-de"
         },
         {
-          "title": "Dario Amodei construyó Anthropic alrededor de una misión. Ahora teme que sus empleados lleguen por el dinero",
+          "title": "El CEO de Anthropic ha descubierto una realidad: sus trabajadores trabajan por dinero, no por una \"misión\"",
           "url": "https://www.xataka.com/robotica-e-ia/dario-amodei-construyo-anthropic-alrededor-mision-ahora-teme-que-sus-empleados-lleguen-dinero",
           "source": "Xataka",
-          "published_at": "2026-08-04T11:15:43Z",
+          "published_at": "2026-08-04T11:15:00Z",
           "summary": "Anthropic nació con la idea de desarrollar modelos de IA avanzados y alineados, sin sacrificar la seguridad. Esa misión ayudó a diferenciarla de OpenAI y también sirvió para atraer a investigadores con talento. Ahora su …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-04-dario-amodei-construyo-anthropic-alrededor-de-una-mision"
-        },
-        {
-          "title": "La IA ha resuelto uno de los grandes problemas de la ciberseguridad: encontrar fallos. Ahora tenemos otro mucho mayor",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-ha-resuelto-uno-grandes-problemas-ciberseguridad-encontrar-fallos-ahora-tenemos-otro-mucho-mayor",
-          "source": "Xataka",
-          "published_at": "2026-08-04T06:01:43Z",
-          "summary": "En junio de 2026 el célebre \"martes de parches\" de Microsoft marcó un récord con 206 vulnerabilidades, de las cuales tres eran \"zero day\" . En julio ese récord se quedó en ridículo, porque se triplicó esa cifra. No es el…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-04-la-ia-ha-resuelto-uno-de-los-grandes"
-        },
-        {
-          "title": "Cuando EEUU restringió la venta de chips IA a China sabía que era una medida desesperada. Alibaba acaba de confirmarlo",
-          "url": "https://www.xataka.com/robotica-e-ia/eeuu-restringio-chips-para-frenar-ia-china-alibaba-acaba-ensenar-poco-que-ha-funcionado",
-          "source": "Xataka",
-          "published_at": "2026-08-03T10:45:00Z",
-          "summary": "El gigante chino Alibaba ha presentado Qwen3.8-Max , su modelo de IA más ambicioso hasta la fecha. Es multimodal, tiene una ventana de contexto de un millón de tokens y destaca además por otras dos cosas: la primera, vol…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-03-cuando-eeuu-restringio-la-venta-de-chips-ia"
-        },
-        {
-          "title": "La UE acaba de aprobar el etiquetado obligatorio para todo el contenido IA: cuestión distinta es que la industria obedezca",
-          "url": "https://www.xataka.com/legislacion-y-derechos/arranca-era-etiquetado-obligatorio-ia-europa-industria-avisa-que-nadie-va-a-hacerle-caso",
-          "source": "Xataka",
-          "published_at": "2026-08-03T08:30:00Z",
-          "summary": "En 2023 ya hablábamos del problema de los deepfakes y la solución que planteaba la Unión Europea era que todo este contenido artificial estuviera marcado con una etiqueta de forma obligatoria. Ese día ha llegado y desde …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-03-la-ue-acaba-de-aprobar-el-etiquetado-obligatorio"
-        },
-        {
-          "title": "Las gafas inteligentes tienen una luz que avisa de que están grabando. Para la Agencia de Protección de Datos eso no basta",
-          "url": "https://www.xataka.com/wearables/gafas-inteligentes-tienen-luz-que-avisa-que-estan-grabando-para-agencia-proteccion-datos-eso-no-basta",
-          "source": "Xataka",
-          "published_at": "2026-08-03T08:01:43Z",
-          "summary": "Si un cacharro tiene una cámara seguro que tarde o temprano se usa. Es probable que no de la mejor manera, tampoco sin que se garantice por completo la privacidad. Es lo que ocurre con las gafas inteligentes , un disposi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-03-las-gafas-inteligentes-tienen-una-luz-que-avisa"
+          "id": "xataka-2026-08-04-el-ceo-de-anthropic-ha-descubierto-una-realidad"
         }
       ]
     }
@@ -707,45 +668,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-07-30-advancing-the-price-performance-frontier-with-gpt-5-6"
-        },
-        {
-          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-          "url": "https://openai.com/index/avatarin",
-          "source": "OpenAI",
-          "published_at": "2026-07-30T00:00:00Z",
-          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-30-how-avatarin-built-a-24-7-retail-agent"
-        },
-        {
-          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI",
-          "published_at": "2026-07-29T15:00:00Z",
-          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-29-how-enabling-two-settings-tripled-our-scores-on"
-        },
-        {
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI",
-          "published_at": "2026-07-29T10:00:00Z",
-          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-29-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers"
         }
       ]
     },
@@ -765,19 +687,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-08-04-mariano-florentino-tino-cuellar-to-join-anthropic-as-chief"
-        },
-        {
-          "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic",
-          "published_at": "2026-07-30T00:00:00Z",
-          "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-07-30-investigating-three-real-world-incidents-in-our-cybersecurity-evaluations"
         }
       ]
     },
@@ -829,19 +738,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-07-30-gemini-robotics-er-2-powering-robotics-with-video"
-        },
-        {
-          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-          "source": "DeepMind",
-          "published_at": "2026-07-29T16:02:10Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-07-29-we-re-launching-lyria-3-5-in-google"
         }
       ]
     }
