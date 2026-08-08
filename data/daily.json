@@ -1,78 +1,117 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T07:49:08.601433Z",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T07:26:04.385400Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Empezó como un experimento para su abuelo y hoy se trata de uno de los dispositivos de IA más curiosos para personas mayores: así es Ato",
-      "url": "https://www.xataka.com/robotica-e-ia/empezo-como-experimento-para-su-abuelo-hoy-se-trata-uno-dispositivos-ia-curiosos-para-personas-mayores-asi-ato",
-      "source": "Xataka",
-      "published_at": "2026-08-07T07:00:51Z",
-      "summary": "La idea de Ato nació con el fin de acercar la inteligencia artificial a personas mayores que nunca han llegado a adaptarse al móvil, las apps, o al vertiginoso mundo de Internet. Empezó como un proyecto personal de su fu…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-07-empezo-como-un-experimento-para-su-abuelo-y"
-    },
-    {
-      "title": "Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "Anthropic",
-      "published_at": "2026-08-07T00:00:00Z",
-      "summary": "Improving Fable 5's biology safeguards",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "anthropic-2026-08-07-improving-fable-5-s-biology-safeguards"
-    },
-    {
-      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-      "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
       "source": "The Verge",
-      "published_at": "2026-08-06T21:15:47Z",
-      "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will fea…",
+      "published_at": "2026-08-08T07:00:00Z",
+      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail run…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-06-trevor-noah-is-hosting-google-s-pixel-11"
+      "id": "theverge-2026-08-08-nitecore-s-latest-power-bank-is-the-lightest"
     },
     {
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
       "source": "The Verge",
-      "published_at": "2026-08-06T20:55:39Z",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomb…",
+      "published_at": "2026-08-07T22:05:08Z",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other st…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-06-jony-ive-8217-s-first-openai-gadget-is"
+      "id": "theverge-2026-08-07-the-gaming-site-sponsored-by-walmart-lays-off"
     },
     {
-      "title": "The AirPods Pro are $60 off, their best price since late June",
-      "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "source": "The Verge",
-      "published_at": "2026-08-06T20:00:00Z",
-      "summary": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.9…",
+      "published_at": "2026-08-07T20:01:51Z",
+      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-06-the-airpods-pro-are-60-off-their-best"
+      "id": "theverge-2026-08-07-fenix-flexin-isn-t-even-denying-using-ai"
+    },
+    {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "published_at": "2026-08-07T18:59:46Z",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do wit…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-07-watching-roku-s-ai-channel-is-like-eating"
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge",
+      "published_at": "2026-08-07T18:40:34Z",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-07-openai-puts-the-brakes-on-a-new-model"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI",
+          "published_at": "2026-08-07T15:20:00Z",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-07-responding-to-the-next-frontier-of-critical-cyber"
+        },
+        {
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI",
+          "published_at": "2026-08-07T09:00:00Z",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
+        },
+        {
+          "title": "Improving Fable 5's biology safeguards",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic",
+          "published_at": "2026-08-07T00:00:00Z",
+          "summary": "Improving Fable 5's biology safeguards",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-07-improving-fable-5-s-biology-safeguards"
+        },
         {
           "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
           "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -228,45 +267,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-03-circles-powers-telco-personalization-with-openai-technology"
-        },
-        {
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI",
-          "published_at": "2026-08-01T00:00:00Z",
-          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-01-ten-advances-in-mathematics-and-theoretical-computer-science"
-        },
-        {
-          "title": "Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI",
-          "published_at": "2026-07-31T15:00:00Z",
-          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-31-advancing-responsible-ai-across-europe"
-        },
-        {
-          "title": "Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI",
-          "published_at": "2026-07-31T15:00:00Z",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-31-building-abundant-intelligence"
         }
       ]
     },
@@ -285,32 +285,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-08-06-ai-safety-regulations-in-the-u-s-could"
-        },
-        {
-          "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-          "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-05T18:00:03Z",
-          "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity us…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-05-ieee-course-teaches-how-to-use-ai-to"
-        },
-        {
-          "title": "Should Researchers Write Papers for AI Instead of People?",
-          "url": "https://spectrum.ieee.org/ai-scientist-research-paper-format",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-05T12:00:03Z",
-          "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different f…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-05-should-researchers-write-papers-for-ai-instead-of"
         }
       ]
     },
@@ -318,30 +292,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-          "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-          "source": "The Verge",
-          "published_at": "2026-08-06T14:30:00Z",
-          "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese compa…",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "theverge-2026-08-06-softbank-donated-50-million-to-trump-s-library"
-        },
-        {
-          "title": "Baseten on Hugging Face Inference Providers 🔥",
-          "url": "https://huggingface.co/blog/baseten",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
           "source": "Hugging Face",
-          "published_at": "2026-08-06T00:00:00Z",
+          "published_at": "2026-08-07T17:53:32Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-08-06-baseten-on-hugging-face-inference-providers"
+          "id": "huggingface-2026-08-07-tutormoments-do-ai-tutors-know-when-to-help"
         }
       ]
     },
@@ -349,69 +310,160 @@
       "name": "General",
       "items": [
         {
-          "title": "The Zelda movie’s Ganondorf casting hints at more movies",
-          "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+          "title": "The only instant cameras worth your money",
+          "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
           "source": "The Verge",
-          "published_at": "2026-08-06T18:31:57Z",
-          "summary": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\" Ni…",
+          "published_at": "2026-08-07T18:04:08Z",
+          "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imp…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-06-the-zelda-movie-s-ganondorf-casting-hints-at"
+          "id": "theverge-2026-08-07-the-only-instant-cameras-worth-your-money"
         },
         {
-          "title": "Suno shares plans to combat spammy AI music",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+          "title": "Disney Plus tries a new AI-powered search",
+          "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
           "source": "The Verge",
-          "published_at": "2026-08-06T17:39:43Z",
-          "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the…",
+          "published_at": "2026-08-07T17:53:44Z",
+          "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other stre…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-06-suno-shares-plans-to-combat-spammy-ai-music"
+          "id": "theverge-2026-08-07-disney-plus-tries-a-new-ai-powered-search"
         },
         {
-          "title": "Brendan Carr officially unleashes broadcast consolidation",
-          "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
+          "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+          "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
           "source": "The Verge",
-          "published_at": "2026-08-06T17:35:38Z",
-          "summary": "The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule. The agency's two Republicans, Chair Brendan Carr and …",
+          "published_at": "2026-08-07T17:43:34Z",
+          "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there ar…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-06-brendan-carr-officially-unleashes-broadcast-consolidation"
+          "id": "theverge-2026-08-07-microsoft-edge-is-about-to-lock-out-older"
         },
         {
-          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
+          "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-08-06T17:00:00Z",
-          "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run i…",
+          "published_at": "2026-08-07T16:58:18Z",
+          "summary": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-06-openai-is-giving-chatgpt-free-users-unlimited-text"
+          "id": "theverge-2026-08-07-grab-the-entire-lord-of-the-rings-trilogy"
         },
         {
-          "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-          "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
+          "title": "What&#8217;s behind the Google AI shake-up",
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
           "source": "The Verge",
-          "published_at": "2026-08-06T16:41:25Z",
-          "summary": "TikTok says a \"moderator error\" delayed the removal of a livestream that appeared to show blogger Perez Hilton harming himself, as reported earlier by Wired. Jamie Favazza, a spokesperson for TikTok US, tells The Verge t…",
+          "published_at": "2026-08-07T16:45:14Z",
+          "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-06-tiktok-blames-8216-moderator-error-8217-on-slow"
+          "id": "theverge-2026-08-07-what-8217-s-behind-the-google-ai-shake-up"
+        },
+        {
+          "title": "La IA ha creado un virus que la naturaleza no había creado antes. Son (sobre todo) buenas noticias",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-ha-creado-virus-que-naturaleza-no-habia-creado-antes-todo-buenas-noticias",
+          "source": "Xataka",
+          "published_at": "2026-08-07T15:45:15Z",
+          "summary": "Un equipo de investigadores de Stanford y el Arc Institute ha utilizado los modelos genómicos Evo 1 y Evo 2 para diseñar genomas completos de bacteriófagos, es decir, virus que infectan vacterias. Los responsables del ex…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-la-ia-ha-creado-un-virus-que-la"
+        },
+        {
+          "title": "Tener chips propios de IA es la última gran obsesión de las grandes tecnológicas. Anthropic no va a ser menos",
+          "url": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
+          "source": "Xataka",
+          "published_at": "2026-08-07T13:31:16Z",
+          "summary": "Anthropic ha confirmado que está montando un equipo interno para diseñar sus propios chips de inteligencia artificial. La compañía lo ha comunicado a varios medios tras varios meses de especulación en torno al tema. Bajo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-tener-chips-propios-de-ia-es-la-ultima"
+        },
+        {
+          "title": "ChatGPT da más razones para no pagar: OpenAI lo hace ilimitado en el plan gratuito, la trampa está en el asterisco",
+          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-da-razones-para-no-pagar-openai-hace-ilimitado-plan-gratuito-trampa-esta-asterisco",
+          "source": "Xataka",
+          "published_at": "2026-08-07T13:15:16Z",
+          "summary": "La moda en los modelos de IA está en corromper a otras empresas con modelos que se saltan los guardarraíles . Este “marketing” le viene perfecto a empresas como Anthropic y OpenAI, ya que les permite colocar los LLMs más…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-chatgpt-da-mas-razones-para-no-pagar-openai"
+        },
+        {
+          "title": "El \"iPhone de la IA\" de OpenAI no será un iPhone: será un dispositivo sin pantalla y con forma de donut, según Bloomberg",
+          "url": "https://www.xataka.com/robotica-e-ia/iphone-ia-openai-no-sera-iphone-sera-dispositivo-pantalla-forma-donut-bloomberg",
+          "source": "Xataka",
+          "published_at": "2026-08-07T12:45:16Z",
+          "summary": "OpenAI lleva más de un año hablando de su nueva ambición: la de crear el primer gran dispositivo hardware de la era de la IA. En Bloomberg tienen ahora más datos sobre ese producto. Hablan de un diseño sin pantalla, con …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-el-iphone-de-la-ia-de-openai-no"
+        },
+        {
+          "title": "“DeepMind ya no es un laboratorio frontera”: los expertos de SemiAnalysis creen que Google ganará la IA aunque Gemini pierda",
+          "url": "https://www.xataka.com/robotica-e-ia/deepmind-no-laboratorio-frontera-expertos-semianalysis-creen-que-google-ganara-ia-gemini-pierda",
+          "source": "Xataka",
+          "published_at": "2026-08-07T11:15:15Z",
+          "summary": "Los expertos de SemiAnalysis no se han mordido la lengua a la hora de hablar de Google. Para ellos DeepMind ha dejado de ser en la práctica un laboratorio frontera. Citan la salida de figuras como Jeff Dean, Sanjay Ghema…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-deepmind-ya-no-es-un-laboratorio-frontera-los"
+        },
+        {
+          "title": "Daniel Púa, jefe de seguridad en Magnific: \"ninguna persona a primera vista podría estar 100% segura de si es IA o no es IA\"",
+          "url": "https://www.xataka.com/robotica-e-ia/daniel-pua-jefe-seguridad-magnific-ninguna-persona-a-primera-vista-podria-estar-100-segura-ia-no-ia",
+          "source": "Xataka",
+          "published_at": "2026-08-07T11:00:52Z",
+          "summary": "A estas alturas, todos nos hemos visto en la situación de creernos una imagen, sólo para descubrir después que estaba hecha con IA. Esto ha creado una desconfianza colectiva, hasta el punto de hacernos dudar de todas las…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-daniel-pua-jefe-de-seguridad-en-magnific-ninguna"
+        },
+        {
+          "title": "Empezó como un experimento para su abuelo y hoy se trata de uno de los dispositivos de IA más curiosos para personas mayores: así es Ato",
+          "url": "https://www.xataka.com/robotica-e-ia/empezo-como-experimento-para-su-abuelo-hoy-se-trata-uno-dispositivos-ia-curiosos-para-personas-mayores-asi-ato",
+          "source": "Xataka",
+          "published_at": "2026-08-07T07:00:51Z",
+          "summary": "La idea de Ato nació con el fin de acercar la inteligencia artificial a personas mayores que nunca han llegado a adaptarse al móvil, las apps, o al vertiginoso mundo de Internet. Empezó como un proyecto personal de su fu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-07-empezo-como-un-experimento-para-su-abuelo-y"
         },
         {
           "title": "\"Estamos cerca que la IA resuelva un problema y los humanos no puedan explicarlo\": los matemáticos opinan sobre la IA",
@@ -427,33 +479,20 @@
           "id": "xataka-2026-08-06-estamos-cerca-que-la-ia-resuelva-un-problema"
         },
         {
-          "title": "Apple increases trade-in offers and adds new Android devices",
-          "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
-          "source": "The Verge",
-          "published_at": "2026-08-06T15:47:15Z",
-          "summary": "Apple bumped up its trade-in offers for iPhones, iPads, Macs, Apple Watches, and certain Android phones, with some devices now worth over $100 more, 9to5Mac reports. The Mac Studio's trade-in value increased the most, go…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-06-apple-increases-trade-in-offers-and-adds-new-android"
-        },
-        {
-          "title": "Un país de Europa está descubriendo lo que significa llenarlo todo de centros de datos: entregarles el 23% de tu energía",
+          "title": "Irlanda se ha llenado de centros de datos. Y ahora está descubriendo que el 23% de toda su energía va para ellos",
           "url": "https://www.xataka.com/energia/pais-europa-esta-descubriendo-que-significa-llenarlo-todo-centros-datos-entregarles-23-tu-energia",
           "source": "Xataka",
-          "published_at": "2026-08-06T15:30:51Z",
+          "published_at": "2026-08-06T15:30:00Z",
           "summary": "La actualidad tecnológica pasa por dos velocidades. Por un lado, las Big Tech y startups de IA están apostando por la construcción masiva de g igantescos centros de datos . Realizan inversiones milmillonarias para ello y…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-06-un-pais-de-europa-esta-descubriendo-lo-que"
+          "id": "xataka-2026-08-06-irlanda-se-ha-llenado-de-centros-de-datos"
         },
         {
-          "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
+          "title": "¿Te va a quitar la IA el trabajo? Nosotros no lo sabemos, pero hay millones de empleados en China que sí lo saben",
           "url": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
           "source": "Xataka",
           "published_at": "2026-08-06T11:30:00Z",
@@ -463,85 +502,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-06-si-la-pregunta-es-si-la-ia-te"
-        },
-        {
-          "title": "Google fue la única tecnológica que apostó realmente por una IA basada en la ciencia. Ahora sabe que va perdiendo",
-          "url": "https://www.xataka.com/robotica-e-ia/google-fue-unica-tecnologica-que-aposto-realmente-ia-basada-ciencia-ahora-sabe-que-va-perdiendo",
-          "source": "Xataka",
-          "published_at": "2026-08-06T11:16:51Z",
-          "summary": "En 2014, Google compró DeepMind con la idea de perseguir un camino distinto para la inteligencia artificial. No había que crear productos, sino \"resolver la inteligencia\" para luego usarla en diversos campos científicos.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-06-google-fue-la-unica-tecnologica-que-aposto-realmente"
-        },
-        {
-          "title": "Nvidia gastó 4.000 millones para cambiar el paradigma de la IA. Acaba de activar su plan para seguir liderando el sector",
-          "url": "https://www.xataka.com/componentes/nvidia-gasto-4-000-millones-para-cambiar-paradigma-ia-acaba-activar-su-plan-para-seguir-liderando-sector",
-          "source": "Xataka",
-          "published_at": "2026-08-06T10:30:51Z",
-          "summary": "Nvidia tiene varias cosas en el horno en estos momentos relacionadas, evidentemente, con la inteligencia artificial. Por un lado, Vera Rubin, su nueva plataforma de IA que está compuesta por una CPU y GPU de nueva genera…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-06-nvidia-gasto-4-000-millones-para-cambiar-el"
-        },
-        {
-          "title": "Ya es oficial: Google Assistant ya tiene fecha de caducidad y será sustituido por Gemini en tu móvil",
-          "url": "https://www.xataka.com/moviles/oficial-google-assistant-tiene-fecha-caducidad-sera-sustituido-gemini-tu-movil",
-          "source": "Xataka",
-          "published_at": "2026-08-06T09:16:51Z",
-          "summary": "Google ya ha puesto fecha de caducidad a su antiguo asistente. La compañía ha confirmado que empezará a retirar el Asistente de Google de los móviles Android el próximo 4 de septiembre, obligando a todos los usuarios que…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-06-ya-es-oficial-google-assistant-ya-tiene-fecha"
-        },
-        {
-          "title": "En la era de la IA, las grandes empresas están nadando en dinero de los inversores. Y las pequeñas están quedándose sin él",
-          "url": "https://www.xataka.com/empresas-y-economia/era-ia-grandes-empresas-estan-nadando-dinero-inversores-pequenas-estan-quedandose",
-          "source": "Xataka",
-          "published_at": "2026-08-05T19:30:51Z",
-          "summary": "Durante años, Silicon Valley nos acostumbró a una imagen muy concreta: una pequeña startup, un equipo brillante, una ronda de inversión y la promesa de cambiar el mundo desde una oficina improvisada. Es una idea poderosa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-05-en-la-era-de-la-ia-las-grandes"
-        },
-        {
-          "title": "Bernt Bornich, CEO de 1X: \"Estoy seguro de que estamos a menos de una década del despegue definitivo de los humanoides\"",
-          "url": "https://www.xataka.com/robotica-e-ia/estoy-absolutamente-seguro-que-estamos-a-decada-despegue-definitivo-humanoides-bern-bornich-ceo-1x",
-          "source": "Xataka",
-          "published_at": "2026-08-05T12:30:00Z",
-          "summary": "Hay unas cuantas empresas empeñadas en convencernos de que vamos a necesitar un robot humanoide en casa . Una de esas empresas es 1X Technologies, cuyo robot Neo Home Robot ya se vende al público a un precio de 20.000 dó…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-05-bernt-bornich-ceo-de-1x-estoy-seguro-de"
-        },
-        {
-          "title": "Las grandes tecnológicas chinas reclutan investigadores antes de que se gradúen: la carrera de la IA empieza en las aulas",
-          "url": "https://www.xataka.com/robotica-e-ia/grandes-tecnologicas-chinas-reclutan-investigadores-se-graduen-carrera-ia-empieza-aulas",
-          "source": "Xataka",
-          "published_at": "2026-08-05T12:00:51Z",
-          "summary": "En China, la carrera de la IA es algo más que cómputo y nuevos modelos, también va de talento. China es la mayor cantera de ingenieros e investigadores de IA y esto también ha provocado una guerra entre las tecnológicas …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-05-las-grandes-tecnologicas-chinas-reclutan-investigadores-antes-de"
+          "id": "xataka-2026-08-06-te-va-a-quitar-la-ia-el-trabajo"
         }
       ]
     }
@@ -578,6 +539,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI",
+          "published_at": "2026-08-07T15:20:00Z",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-07-responding-to-the-next-frontier-of-critical-cyber"
+        },
+        {
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI",
+          "published_at": "2026-08-07T09:00:00Z",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
+        },
         {
           "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
           "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -681,45 +668,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-03-circles-powers-telco-personalization-with-openai-technology"
-        },
-        {
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI",
-          "published_at": "2026-08-01T00:00:00Z",
-          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-01-ten-advances-in-mathematics-and-theoretical-computer-science"
-        },
-        {
-          "title": "Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI",
-          "published_at": "2026-07-31T15:00:00Z",
-          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-31-advancing-responsible-ai-across-europe"
-        },
-        {
-          "title": "Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI",
-          "published_at": "2026-07-31T15:00:00Z",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-07-31-building-abundant-intelligence"
         }
       ]
     },
