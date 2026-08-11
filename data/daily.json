@@ -1,78 +1,195 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T08:10:57.253384Z",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T07:43:30.621829Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "No Dogs in Space is a music history podcast for true obsessives",
-      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-      "source": "The Verge",
-      "published_at": "2026-08-09T20:28:31Z",
-      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I lo…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-09-no-dogs-in-space-is-a-music-history"
-    },
-    {
-      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "source": "The Verge",
-      "published_at": "2026-08-09T17:20:30Z",
-      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-09-zuckerberg-8217-s-yacht-was-closer-but-someone"
-    },
-    {
-      "title": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
-      "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+      "title": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
+      "url": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
       "source": "Xataka",
-      "published_at": "2026-08-09T16:30:00Z",
-      "summary": "La guerra de la IA se juega en varios frentes, que van desde la calidad de los modelos a las infraestructuras para ejecutarlos y por supuesto, disponer de la energía suficiente para alimentar a los datacenters. Pero hay …",
-      "why_it_matters": "",
-      "tags": [
-        "regulación"
-      ],
-      "category": "regulación",
-      "id": "xataka-2026-08-09-el-nuevo-silicon-valley-del-hardware-no-esta"
-    },
-    {
-      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-      "source": "The Verge",
-      "published_at": "2026-08-09T15:56:49Z",
-      "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared …",
+      "published_at": "2026-08-11T06:01:15Z",
+      "summary": "Elon Musk suele plantear objetivos imposibles , pero este se sale incluso de sus estándares. SpaceX (o más bien, SpaceXAI ) aspira a añadir entre 6 y 8 GW de capacidad de cómputo para IA solo durante 2027, lo que la perm…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-09-49ers-coach-says-his-tesla-was-on-autopilot"
+      "id": "xataka-2026-08-11-spacex-quiere-desplegar-10-gw-de-ia-en"
     },
     {
-      "title": "Dropbox is a PC builder’s best friend",
-      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
       "source": "The Verge",
-      "published_at": "2026-08-09T13:00:00Z",
-      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored loca…",
+      "published_at": "2026-08-10T22:00:00Z",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-09-dropbox-is-a-pc-builder-s-best-friend"
+      "id": "theverge-2026-08-10-mark-zuckerberg-doesn-t-understand-how-to-live"
+    },
+    {
+      "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
+      "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-10T21:18:15Z",
+      "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best ga…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-10-anker-8217-s-travel-charger-works-in-almost"
+    },
+    {
+      "title": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
+      "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+      "source": "Xataka",
+      "published_at": "2026-08-10T19:31:18Z",
+      "summary": "Nos hemos acostumbrado a utilizar modelos de inteligencia artificial sin pensar demasiado en dónde están funcionando. Escribimos una pregunta desde el móvil o el ordenador, pero buena parte del cálculo ocurre en centros …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-08-10-meta-quiere-plantar-cara-a-openai-y-google"
+    },
+    {
+      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+      "source": "The Verge",
+      "published_at": "2026-08-10T19:26:50Z",
+      "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of th…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-10-bluesky-now-lets-you-hide-reposts-from-that"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T17:00:00Z",
+          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-what-building-an-ai-native-finance-function-taught-me"
+        },
+        {
+          "title": "Evolve your marketing with new AI tools",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "source": "Google AI",
+          "published_at": "2026-08-10T14:30:00Z",
+          "summary": "Advisor UI in Google Ads and Google Analytics",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-10-evolve-your-marketing-with-new-ai-tools"
+        },
+        {
+          "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T14:00:00Z",
+          "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-openai-s-letter-to-governor-abbott-on-responsible"
+        },
+        {
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T12:00:00Z",
+          "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-model-ml-completes-finance-work-more-efficiently-with"
+        },
+        {
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T10:00:00Z",
+          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-expanding-daybreak-as-the-cyber-defense-window-narrows"
+        },
+        {
+          "title": "Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T10:00:00Z",
+          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-putting-frontier-cyber-models-in-more-trusted-hands"
+        },
+        {
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
+        },
+        {
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "url": "https://openai.com/index/zapier",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
+        },
+        {
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-virgin-atlantic-sharpens-customer-journeys-with-chatgpt-work"
+        },
         {
           "title": "Responding to the next frontier of critical cyber capabilities",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -189,58 +306,68 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-04-the-latest-ai-news-we-announced-in-july"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "New ways to learn and teach with ChatGPT Work and Codex",
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-          "source": "OpenAI",
-          "published_at": "2026-08-04T00:00:00Z",
-          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "title": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
+          "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+          "source": "Xataka",
+          "published_at": "2026-08-09T16:30:00Z",
+          "summary": "La guerra de la IA se juega en varios frentes, que van desde la calidad de los modelos a las infraestructuras para ejecutarlos y por supuesto, disponer de la energía suficiente para alimentar a los datacenters. Pero hay …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-04-new-ways-to-learn-and-teach-with-chatgpt"
-        },
+          "category": "regulación",
+          "id": "xataka-2026-08-09-el-nuevo-silicon-valley-del-hardware-no-esta"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-          "url": "https://www.anthropic.com/news/tino-cuellar",
-          "source": "Anthropic",
-          "published_at": "2026-08-04T00:00:00Z",
-          "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face",
+          "published_at": "2026-08-10T16:25:36Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-04-mariano-florentino-tino-cuellar-to-join-anthropic-as-chief"
+          "category": "herramientas",
+          "id": "huggingface-2026-08-10-build-low-latency-multilingual-voice-agents-open-weights-full"
         },
         {
-          "title": "Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI",
-          "published_at": "2026-08-03T22:00:00Z",
-          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "source": "Hugging Face",
+          "published_at": "2026-08-10T10:05:36Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-03-apple-is-getting-this-wrong"
+          "category": "herramientas",
+          "id": "huggingface-2026-08-10-making-knowledge-distillation-cheap-enough-to-run-at"
         },
         {
-          "title": "Inside our 353,000-person vibe coding course",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-          "source": "Google AI",
-          "published_at": "2026-08-03T15:00:00Z",
-          "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
+          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-03-inside-our-353-000-person-vibe-coding-course"
+          "category": "herramientas",
+          "id": "huggingface-2026-08-10-meta-is-back-with-muse-glimmer-local-agentic"
         }
       ]
     },
@@ -248,17 +375,121 @@
       "name": "General",
       "items": [
         {
-          "title": "AI detectors are creating a new era of distrust",
-          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
+          "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-08-09T12:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes …",
+          "published_at": "2026-08-10T19:14:27Z",
+          "summary": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-09-ai-detectors-are-creating-a-new-era-of"
+          "id": "theverge-2026-08-10-costco-8217-s-great-switch-2-console-bundle"
+        },
+        {
+          "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+          "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+          "source": "The Verge",
+          "published_at": "2026-08-10T17:30:00Z",
+          "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks als…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-what-to-expect-from-google-s-2026-pixel"
+        },
+        {
+          "title": "YouTube is making it harder to earn money on YouTube",
+          "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+          "source": "The Verge",
+          "published_at": "2026-08-10T17:26:46Z",
+          "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 milli…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-youtube-is-making-it-harder-to-earn-money"
+        },
+        {
+          "title": "EEUU sigue siendo superior en modelos de IA para generar texto o código. Si hablamos de vídeo, hay un rey absoluto: China",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-sigue-siendo-superior-modelos-ia-para-generar-texto-codigo-hablamos-video-hay-rey-absoluto-china",
+          "source": "Xataka",
+          "published_at": "2026-08-10T17:01:16Z",
+          "summary": "Se llama Minimax H3 y es el modelo de IA generativa de vídeo que se ha puesto de moda en los últimos días. Tiene buenas razones para hacerlo porque los resultados son espectaculares —podéis ver algunos en el enlace anter…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-10-eeuu-sigue-siendo-superior-en-modelos-de-ia"
+        },
+        {
+          "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "published_at": "2026-08-10T15:19:05Z",
+          "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manife…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-four-takeaways-from-mark-zuckerberg-8217-s-massive"
+        },
+        {
+          "title": "Apple will stream Friday Night Baseball live in Vision Pro",
+          "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
+          "source": "The Verge",
+          "published_at": "2026-08-10T15:00:00Z",
+          "summary": "Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and live graphics will be …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-apple-will-stream-friday-night-baseball-live-in"
+        },
+        {
+          "title": "Cuatro Big Tech gastarán 760.000 millones de dólares este año en IA: tres veces lo que la misión Apolo que nos llevó a la Luna",
+          "url": "https://www.xataka.com/empresas-y-economia/gasto-ia-se-ha-salido-escala-nivel-este-ano-tres-empresas-gastaran-equivalente-a-tres-misiones-apolo-a-luna",
+          "source": "Xataka",
+          "published_at": "2026-08-10T14:30:00Z",
+          "summary": "760.000 millones de dólares es una cifra difícil de contextualizar. Como no lo podemos medir en Bernabéus, diremos que la Estación Espacial Internacional con su mantenimiento constante supera los 150.000 millones de dóla…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-10-cuatro-big-tech-gastaran-760-000-millones-de"
+        },
+        {
+          "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
+          "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-10T14:27:23Z",
+          "summary": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-keychron-s-wireless-hall-effect-keyboard-is-back"
+        },
+        {
+          "title": "What happens to Bose when headphones become AI?",
+          "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "source": "The Verge",
+          "published_at": "2026-08-10T14:00:00Z",
+          "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its f…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-10-what-happens-to-bose-when-headphones-become-ai"
         },
         {
           "title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
@@ -272,84 +503,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-09-reward-hacking-el-termino-que-explica-por-que"
-        },
-        {
-          "title": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
-          "url": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
-          "source": "Xataka",
-          "published_at": "2026-08-09T07:31:15Z",
-          "summary": "La inteligencia artificial está modelando el presente a un ritmo tan frenético que apenas podemos darnos cuenta de que aquello que hasta hace solo unos años era imprescindible, en un futuro muy cercano será totalmente ac…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-09-el-fundador-de-anthropic-no-quiere-titulos-para"
-        },
-        {
-          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-          "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-          "source": "The Verge",
-          "published_at": "2026-08-08T21:15:12Z",
-          "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-08-x-replaces-its-revenue-sharing-program-with-original-content"
-        },
-        {
-          "title": "An Amazon data center could have the worst polluting power plant in the country",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-          "source": "The Verge",
-          "published_at": "2026-08-08T17:53:34Z",
-          "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-08-an-amazon-data-center-could-have-the-worst"
-        },
-        {
-          "title": "Buc-ee’s dodges John Oliver to sue another small business",
-          "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-          "source": "The Verge",
-          "published_at": "2026-08-08T15:47:30Z",
-          "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begg…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-08-buc-ee-s-dodges-john-oliver-to-sue-another"
-        },
-        {
-          "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-          "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-          "source": "The Verge",
-          "published_at": "2026-08-08T15:00:00Z",
-          "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-08-musician-and-entrepreneur-tom-vek-is-building-a"
-        },
-        {
-          "title": "Is this $450 laptop from an unknown brand too good to be true?",
-          "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-          "source": "The Verge",
-          "published_at": "2026-08-08T12:00:00Z",
-          "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build qua…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-08-is-this-450-laptop-from-an-unknown-brand"
         }
       ]
     }
@@ -386,6 +539,110 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T17:00:00Z",
+          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-what-building-an-ai-native-finance-function-taught-me"
+        },
+        {
+          "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T14:00:00Z",
+          "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-openai-s-letter-to-governor-abbott-on-responsible"
+        },
+        {
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T12:00:00Z",
+          "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-model-ml-completes-finance-work-more-efficiently-with"
+        },
+        {
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T10:00:00Z",
+          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-expanding-daybreak-as-the-cyber-defense-window-narrows"
+        },
+        {
+          "title": "Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T10:00:00Z",
+          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-putting-frontier-cyber-models-in-more-trusted-hands"
+        },
+        {
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
+        },
+        {
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "url": "https://openai.com/index/zapier",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
+        },
+        {
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-virgin-atlantic-sharpens-customer-journeys-with-chatgpt-work"
+        },
         {
           "title": "Responding to the next frontier of critical cyber capabilities",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -463,32 +720,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-04-third-party-cyber-evaluations-involving-openai-models"
-        },
-        {
-          "title": "New ways to learn and teach with ChatGPT Work and Codex",
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-          "source": "OpenAI",
-          "published_at": "2026-08-04T00:00:00Z",
-          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-04-new-ways-to-learn-and-teach-with-chatgpt"
-        },
-        {
-          "title": "Apple is getting this wrong",
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI",
-          "published_at": "2026-08-03T22:00:00Z",
-          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-03-apple-is-getting-this-wrong"
         }
       ]
     },
@@ -508,19 +739,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-08-07-improving-fable-5-s-biology-safeguards"
-        },
-        {
-          "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-          "url": "https://www.anthropic.com/news/tino-cuellar",
-          "source": "Anthropic",
-          "published_at": "2026-08-04T00:00:00Z",
-          "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-04-mariano-florentino-tino-cuellar-to-join-anthropic-as-chief"
         }
       ]
     },
@@ -528,6 +746,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Evolve your marketing with new AI tools",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "source": "Google AI",
+          "published_at": "2026-08-10T14:30:00Z",
+          "summary": "Advisor UI in Google Ads and Google Analytics",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-10-evolve-your-marketing-with-new-ai-tools"
+        },
         {
           "title": "The latest AI news we announced in July 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -540,19 +771,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-04-the-latest-ai-news-we-announced-in-july"
-        },
-        {
-          "title": "Inside our 353,000-person vibe coding course",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-          "source": "Google AI",
-          "published_at": "2026-08-03T15:00:00Z",
-          "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-03-inside-our-353-000-person-vibe-coding-course"
         }
       ]
     },
