@@ -1,78 +1,143 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T07:58:58.902667Z",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T07:55:22.286348Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
       "source": "The Verge",
-      "published_at": "2026-08-12T21:30:00Z",
-      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting inste…",
+      "published_at": "2026-08-14T01:06:15Z",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-12-pixel-11-event-live-blog-let-8217-s"
+      "id": "theverge-2026-08-14-trump-declares-100-percent-tariffs-on-many-drones"
     },
     {
-      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-      "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
       "source": "The Verge",
-      "published_at": "2026-08-12T21:21:09Z",
-      "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen fo…",
+      "published_at": "2026-08-13T23:13:24Z",
+      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purch…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-12-this-8bitdo-mechanical-keyboard-has-an-extra-keypad"
+      "id": "theverge-2026-08-13-apple-and-epic-argue-over-how-much-apple"
     },
     {
-      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
       "source": "The Verge",
-      "published_at": "2026-08-12T21:07:17Z",
-      "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, lit…",
+      "published_at": "2026-08-13T21:53:04Z",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it ea…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-12-cats-and-dogs-are-missing-meals-after-a"
+      "id": "theverge-2026-08-13-that-is-not-acceptable-judge-orders-google-to"
     },
     {
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "title": "The fight over Flock and other ALPRs",
+      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
       "source": "The Verge",
-      "published_at": "2026-08-12T19:30:00Z",
-      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 20…",
+      "published_at": "2026-08-13T21:46:21Z",
+      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-12-the-next-big-indie-game-publisher-is-taking"
+      "id": "theverge-2026-08-13-the-fight-over-flock-and-other-alprs"
     },
     {
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "source": "The Verge",
-      "published_at": "2026-08-12T19:27:47Z",
-      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18…",
+      "published_at": "2026-08-13T21:42:38Z",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-12-it-looks-like-apple-8217-s-iphone-18"
+      "id": "theverge-2026-08-13-microsoft-s-clippy-like-mico-character-is-no-longer"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "source": "DeepMind",
+          "published_at": "2026-08-13T17:04:18Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-08-13-introducing-gemini-3-7-flash"
+        },
+        {
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "source": "Google AI",
+          "published_at": "2026-08-13T16:45:00Z",
+          "summary": "The video shows Sheets canvas in action.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-13-bring-your-spreadsheet-data-to-life-with-sheets"
+        },
+        {
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T11:00:00Z",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-the-builder-s-guide-to-gpt-5-6"
+        },
+        {
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T10:00:00Z",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-previewing-ultrafast-mode-gpt-5-6-sol-at-up"
+        },
+        {
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T09:00:00Z",
+          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-openai-appoints-dali-rajic-as-chief-revenue-officer"
+        },
         {
           "title": "Putting sign language AI into users’ hands",
           "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -230,6 +295,19 @@
           "id": "openai-2026-08-10-expanding-daybreak-as-the-cyber-defense-window-narrows"
         },
         {
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
+        },
+        {
           "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
           "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
           "source": "OpenAI",
@@ -256,19 +334,6 @@
           "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
         },
         {
-          "title": "Premium seats are coming to ChatGPT Business",
-          "url": "https://openai.com/index/premium-seats-chatgpt-business",
-          "source": "OpenAI",
-          "published_at": "2026-08-10T00:00:00Z",
-          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
-        },
-        {
           "title": "Responding to the next frontier of critical cyber capabilities",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
           "source": "OpenAI",
@@ -293,51 +358,25 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
-        },
-        {
-          "title": "Improving Fable 5's biology safeguards",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "source": "Anthropic",
-          "published_at": "2026-08-07T00:00:00Z",
-          "summary": "Improving Fable 5's biology safeguards",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-07-improving-fable-5-s-biology-safeguards"
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "source": "DeepMind",
-          "published_at": "2026-08-06T15:06:15Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-06-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
-        },
-        {
-          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-08-06T10:00:00Z",
-          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-06-improving-gpt-5-6-sol-in-chatgpt--and-expanding-access"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face",
+          "published_at": "2026-08-13T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-08-13-what-we-learned-by-reproducing-2-200-papers"
+        },
         {
           "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
           "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
@@ -370,6 +409,19 @@
       "name": "Herramientas",
       "items": [
         {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face",
+          "published_at": "2026-08-13T17:16:04Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-13-record-train-and-deploy-from-one-place-with"
+        },
+        {
           "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
           "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
           "source": "Hugging Face",
@@ -394,19 +446,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-08-12-lfm2-5-vl-3b-for-better-and-faster-vision-capabilities"
-        },
-        {
-          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face",
-          "published_at": "2026-08-11T13:37:10Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-11-thinking-of-ace-we-can-do-it-with"
         }
       ]
     },
@@ -414,17 +453,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Claude no ha resuelto la hipótesis de Riemann. Lo inquietante es lo que consiguió mientras lo intentaba",
+          "title": "Netflix is closing two game studios",
+          "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+          "source": "The Verge",
+          "published_at": "2026-08-13T20:52:58Z",
+          "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Stu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-13-netflix-is-closing-two-game-studios"
+        },
+        {
+          "title": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+          "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
+          "source": "Xataka",
+          "published_at": "2026-08-13T20:31:15Z",
+          "summary": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-13-mistral-quiere-ser-el-campeon-europeo-de-la"
+        },
+        {
+          "title": "This school-friendly laptop from HP is $300 off",
+          "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-13T20:07:53Z",
+          "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, b…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-13-this-school-friendly-laptop-from-hp-is-300-off"
+        },
+        {
+          "title": "OpenAI is losing its second executive this week",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "source": "The Verge",
+          "published_at": "2026-08-13T19:28:39Z",
+          "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-13-openai-is-losing-its-second-executive-this-week"
+        },
+        {
+          "title": "The Trump admin will start letting private firms launch international cyberattacks",
+          "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "source": "The Verge",
+          "published_at": "2026-08-13T18:56:13Z",
+          "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control an…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-13-the-trump-admin-will-start-letting-private-firms"
+        },
+        {
+          "title": "I finally found a robot lawnmower I’d trust with my yard",
+          "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+          "source": "The Verge",
+          "published_at": "2026-08-13T18:30:00Z",
+          "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or g…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-13-i-finally-found-a-robot-lawnmower-i-d"
+        },
+        {
+          "title": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
+          "url": "https://www.xataka.com/robotica-e-ia/gemini-tiene-1-000-millones-usuarios-al-mes-pregunta-cuantos-saben-que-estan-usando",
+          "source": "Xataka",
+          "published_at": "2026-08-13T18:01:15Z",
+          "summary": "Google ha anunciado que Gemini ha superado los 1.000 millones de usuarios activos mensuales, convirtiéndose en el producto de la empresa que más rápido ha crecido en la historia. Estos datos son reales, pero la letra peq…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-13-gemini-ya-tiene-1-000-millones-de-usuarios"
+        },
+        {
+          "title": "Hasta ahora, toda la industria IA se ha financiado a sí misma de forma circular. Nvidia acaba de romper con esa dinámica",
+          "url": "https://www.xataka.com/empresas-y-economia/ahora-toda-industria-ia-se-ha-financiado-a-forma-circular-nvidia-acaba-romper-esa-dinamica",
+          "source": "Xataka",
+          "published_at": "2026-08-13T15:15:15Z",
+          "summary": "En los últimos dos años, Nvidia se ha dedicado tanto a vender los picos y las palas del boom de la IA como, cada vez más, a prestar el dinero para comprarlos. Esta semana ha intentado algo diferente. Y es que en lugar de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-13-hasta-ahora-toda-la-industria-ia-se-ha"
+        },
+        {
+          "title": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+          "url": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
+          "source": "Xataka",
+          "published_at": "2026-08-13T13:31:15Z",
+          "summary": "Linus Torvalds creó el kernel Linux en 1991, pero 35 años después ya no se define como un programador que escribe código. Durante el Open Source Summit India 2026 explicó que apenas lee código del proyecto de código abie…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-13-linus-torvalds-desarrollador-y-fundador-de-linux-sobre"
+        },
+        {
+          "title": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en precio",
+          "url": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
+          "source": "Xataka",
+          "published_at": "2026-08-13T11:15:15Z",
+          "summary": "Grok ya no está un escalón por debajo de OpenAI y Anthropic. Su nueva versión, Grok 4.6 , acaba de alcanzar 61 puntos en el Intelligence Index de Artificial Analysis, la misma puntuación que GPT-5.6 Sol, y a apenas uno y…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-13-grok-4-6-acaba-de-entrar-en-el"
+        },
+        {
+          "title": "La hipótesis de Riemann llevaba sin resolverse desde 1859. Claude tampoco lo consiguió, pero hizo algo más inquietante",
           "url": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
           "source": "Xataka",
-          "published_at": "2026-08-12T18:31:15Z",
+          "published_at": "2026-08-12T18:30:00Z",
           "summary": "La hipótesis de Riemann lleva sin resolverse desde 1859, y de momento ni las mejores IAs del planeta pueden con ella. Anthropic acaba de intentarlo con un modelo experimental, y aunque el proyecto ha tenido una parte pos…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-12-claude-no-ha-resuelto-la-hipotesis-de-riemann"
+          "id": "xataka-2026-08-12-la-hipotesis-de-riemann-llevaba-sin-resolverse-desde"
         },
         {
           "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -440,98 +609,33 @@
           "id": "techcrunch-2026-08-12-as-ai-safety-concerns-mount-three-pioneers-make"
         },
         {
-          "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-          "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-          "source": "The Verge",
-          "published_at": "2026-08-12T17:47:54Z",
-          "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro X…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-12-google-s-pixel-11-phone-preorders-come-with"
-        },
-        {
-          "title": "Twitch streamers can now opt out from training Amazon’s AI",
-          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-          "source": "The Verge",
-          "published_at": "2026-08-12T17:29:10Z",
-          "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be us…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-12-twitch-streamers-can-now-opt-out-from-training"
-        },
-        {
-          "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-          "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-          "source": "The Verge",
-          "published_at": "2026-08-12T17:00:00Z",
-          "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-12-how-google-s-new-pixel-11-phones-compare"
-        },
-        {
-          "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-          "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-          "source": "The Verge",
-          "published_at": "2026-08-12T16:58:29Z",
-          "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice publishe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-12-ice-wants-to-give-agents-electrified-gloves-that"
-        },
-        {
-          "title": "Amazon gets out of the MMO game",
-          "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
-          "source": "The Verge",
-          "published_at": "2026-08-12T16:46:05Z",
-          "summary": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operation…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-12-amazon-gets-out-of-the-mmo-game"
-        },
-        {
-          "title": "La inferencia de IA ya gasta más que el entrenamiento. Es un cambio de paradigma del sector (y malo para ti)",
+          "title": "La IA era absurdamente cara por el \"entrenamiento\". A partir de ahora lo será por algo distinto: la infraestructura",
           "url": "https://www.xataka.com/empresas-y-economia/inferencia-ia-gasta-que-entrenamiento-cambio-paradigma-sector-malo-para-ti",
           "source": "Xataka",
-          "published_at": "2026-08-12T15:01:15Z",
+          "published_at": "2026-08-12T15:00:00Z",
           "summary": "Desde que ChatGPT empezó a ser lo que es y la IA comenzó a llegar a todo el mundo, ya que antes era algo reservado a la investigación en diferentes ámbitos, una palabra nos ha acompañado: entrenamiento . De ese entrenami…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-12-la-inferencia-de-ia-ya-gasta-mas-que"
+          "id": "xataka-2026-08-12-la-ia-era-absurdamente-cara-por-el-entrenamiento"
         },
         {
-          "title": "Yo creaba los cupones de una tienda online. Ahora le pido a la IA que encuentre los que otras esconden",
+          "title": "Google se llenó con cupones de descuento fantasma. Mi solución ha sido dejar de buscarlos y mandar a la IA de caza",
           "url": "https://www.xataka.com/robotica-e-ia/yo-creaba-cupones-tienda-online-ahora-le-pido-a-ia-que-encuentre-que-otras-esconden",
           "source": "Xataka",
-          "published_at": "2026-08-12T13:01:16Z",
+          "published_at": "2026-08-12T13:00:00Z",
           "summary": "Como aficionado a los descuentos que soy, nunca compro nada importante por internet sin antes haber mirado si la tienda ofrecía algún tipo de cupón. El 10 % de nuevo usuario, la suscripción a la newsletter, el código de …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-12-yo-creaba-los-cupones-de-una-tienda-online"
+          "id": "xataka-2026-08-12-google-se-lleno-con-cupones-de-descuento-fantasma"
         },
         {
-          "title": "La \"carrera hacia abajo” va viento en popa: el coste de usar IA se ha desplomado un 43% en poco más de dos meses",
+          "title": "La industria IA necesitaba urgentemente abaratar costes para empezar a ser rentable. Y eso es lo que está sucediendo",
           "url": "https://www.xataka.com/robotica-e-ia/carrera-abajo-va-viento-popa-coste-usar-ia-se-ha-desplomado-43-poco-dos-meses",
           "source": "Xataka",
           "published_at": "2026-08-12T11:30:00Z",
@@ -541,85 +645,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-12-la-carrera-hacia-abajo-va-viento-en-popa"
-        },
-        {
-          "title": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista",
-          "url": "https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista",
-          "source": "Xataka",
-          "published_at": "2026-08-11T21:56:00Z",
-          "summary": "Durante los últimos años nos hemos acostumbrado a pedirle cosas a una inteligencia artificial: que resuma un documento, busque información o nos ayude a tomar una decisión. Los agentes introducen un cambio bastante más p…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-un-usuario-le-pidio-a-su-agente-de"
-        },
-        {
-          "title": "El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido",
-          "url": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
-          "source": "Xataka",
-          "published_at": "2026-08-11T19:31:15Z",
-          "summary": "Cuando hablamos de la expansión de la inteligencia artificial solemos pensar en GPU, servidores y centros de datos. Pero detrás de toda esa infraestructura hay otro componente que desde hace tiempo está condicionando cad…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-el-2027-ni-siquiera-ha-comenzado-y-la"
-        },
-        {
-          "title": "Nvidia acaba de lanzar su propio modelo de IA gratuito. Que lo haga justo ahora tiene todo el sentido",
-          "url": "https://www.xataka.com/robotica-e-ia/nvidia-acaba-lanzar-su-propio-modelo-ia-gratuito-que-haga-justo-ahora-tiene-todo-sentido",
-          "source": "Xataka",
-          "published_at": "2026-08-11T15:21:15Z",
-          "summary": "Nvidia ha entrado en la carrera de la IA de código abierto con su propia arma. Y es que el gigante tecnológico ha anunciado recientemente el lanzamiento de Nemotron 3.5 Lightning, un modelo gratuito de pesos abiertos (op…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-nvidia-acaba-de-lanzar-su-propio-modelo-de"
-        },
-        {
-          "title": "\"La superinteligencia debe estar al alcance de todos”: Zuckerberg dice querer democratizar la IA. Otra cosa es que le creamos",
-          "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
-          "source": "Xataka",
-          "published_at": "2026-08-11T13:45:00Z",
-          "summary": "De las 6.578 palabras del manifiesto que ayer publicó Mark Zuckerberg , hay unas cuantas que se repiten de manera sospechosa. \"People\" lo hace 69 veces, \" superintelligence \" lo hace 54, \"power\" lo hace 37, y \"everyone\" …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-la-superinteligencia-debe-estar-al-alcance-de-todos"
-        },
-        {
-          "title": "Los modelos abiertos de IA de China siempre han presumido de ser un absoluto chollo. Había gato encerrado",
-          "url": "https://www.xataka.com/robotica-e-ia/modelos-abiertos-ia-china-siempre-han-presumido-ser-absoluto-chollo-habia-gato-encerrado",
-          "source": "Xataka",
-          "published_at": "2026-08-11T13:01:16Z",
-          "summary": "Alibaba quiere dar un giro en la estrategia que ha estado siguiendo hasta la fecha sobre sus modelos de IA. Y es que tal y como ha adelantado Reuters, el gigante chino pretende pedir a los grandes usuarios comerciales de…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-los-modelos-abiertos-de-ia-de-china-siempre"
-        },
-        {
-          "title": "“Claude puede no ser el autor original”: la nueva marca invisible de Anthropic es una idea estupendamente imperfecta",
-          "url": "https://www.xataka.com/robotica-e-ia/claude-va-a-dejar-marca-invisible-todo-que-escriba-problema-que-siquiera-demuestra-que-haya-escrito-claude",
-          "source": "Xataka",
-          "published_at": "2026-08-11T11:15:00Z",
-          "summary": "Anthropic ha indicado que los modelos lanzados en la Unión Europea desde el 2 de agosto incorporarán una marca invisible en los textos que generen desde el primer día, y la compañía aplicará el sistema globalmente en Cla…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-11-claude-puede-no-ser-el-autor-original-la"
+          "id": "xataka-2026-08-12-la-industria-ia-necesitaba-urgentemente-abaratar-costes-para"
         }
       ]
     }
@@ -657,6 +683,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T11:00:00Z",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-the-builder-s-guide-to-gpt-5-6"
+        },
+        {
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T10:00:00Z",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-previewing-ultrafast-mode-gpt-5-6-sol-at-up"
+        },
+        {
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI",
+          "published_at": "2026-08-13T09:00:00Z",
+          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-13-openai-appoints-dali-rajic-as-chief-revenue-officer"
+        },
+        {
           "title": "From assistance to execution: How enterprises put AI to work",
           "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
           "source": "OpenAI",
@@ -774,6 +839,19 @@
           "id": "openai-2026-08-10-expanding-daybreak-as-the-cyber-defense-window-narrows"
         },
         {
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI",
+          "published_at": "2026-08-10T00:00:00Z",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
+        },
+        {
           "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
           "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
           "source": "OpenAI",
@@ -800,19 +878,6 @@
           "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
         },
         {
-          "title": "Premium seats are coming to ChatGPT Business",
-          "url": "https://openai.com/index/premium-seats-chatgpt-business",
-          "source": "OpenAI",
-          "published_at": "2026-08-10T00:00:00Z",
-          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-10-premium-seats-are-coming-to-chatgpt-business"
-        },
-        {
           "title": "Responding to the next frontier of critical cyber capabilities",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
           "source": "OpenAI",
@@ -837,19 +902,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
-        },
-        {
-          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI",
-          "published_at": "2026-08-06T10:00:00Z",
-          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-06-improving-gpt-5-6-sol-in-chatgpt--and-expanding-access"
         }
       ]
     },
@@ -876,6 +928,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "source": "Google AI",
+          "published_at": "2026-08-13T16:45:00Z",
+          "summary": "The video shows Sheets canvas in action.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-13-bring-your-spreadsheet-data-to-life-with-sheets"
+        },
         {
           "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
@@ -909,6 +974,19 @@
       "name": "DeepMind",
       "items": [
         {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "source": "DeepMind",
+          "published_at": "2026-08-13T17:04:18Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-08-13-introducing-gemini-3-7-flash"
+        },
+        {
           "title": "Putting sign language AI into users’ hands",
           "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
           "source": "DeepMind",
@@ -920,19 +998,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-08-12-putting-sign-language-ai-into-users-hands"
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "source": "DeepMind",
-          "published_at": "2026-08-06T15:06:15Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-06-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
         }
       ]
     }
