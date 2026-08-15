@@ -1,78 +1,91 @@
 {
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14T07:55:22.286348Z",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T07:03:52.800941Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-      "source": "The Verge",
-      "published_at": "2026-08-14T01:06:15Z",
-      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing…",
+      "title": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+      "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
+      "source": "Xataka",
+      "published_at": "2026-08-14T21:43:49Z",
+      "summary": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-14-trump-declares-100-percent-tariffs-on-many-drones"
+      "id": "xataka-2026-08-14-z-ai-entreno-glm-5-3-para-programar-mejor"
     },
     {
-      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
       "source": "The Verge",
-      "published_at": "2026-08-13T23:13:24Z",
-      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purch…",
+      "published_at": "2026-08-14T19:18:45Z",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-13-apple-and-epic-argue-over-how-much-apple"
+      "id": "theverge-2026-08-14-samsung-has-new-galaxy-headphones-in-the-works"
     },
     {
-      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
       "source": "The Verge",
-      "published_at": "2026-08-13T21:53:04Z",
-      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it ea…",
+      "published_at": "2026-08-14T18:32:47Z",
+      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-13-that-is-not-acceptable-judge-orders-google-to"
+      "id": "theverge-2026-08-14-a-ramageddon-guide-to-back-to-school-laptop-shopping"
     },
     {
-      "title": "The fight over Flock and other ALPRs",
-      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
       "source": "The Verge",
-      "published_at": "2026-08-13T21:46:21Z",
-      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number,…",
+      "published_at": "2026-08-14T18:00:00Z",
+      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to b…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-13-the-fight-over-flock-and-other-alprs"
+      "id": "theverge-2026-08-14-lamborghini-s-flagship-revuelto-levels-up-with-sv"
     },
     {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
       "source": "The Verge",
-      "published_at": "2026-08-13T21:42:38Z",
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have…",
+      "published_at": "2026-08-14T18:00:00Z",
+      "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen wi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-13-microsoft-s-clippy-like-mico-character-is-no-longer"
+      "id": "theverge-2026-08-14-the-x-files-creator-chris-carter-wanted-to-make"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How Claude’s text watermark works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic",
+          "published_at": "2026-08-14T00:00:00Z",
+          "summary": "How Claude’s text watermark works",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-14-how-claude-s-text-watermark-works"
+        },
         {
           "title": "Introducing Gemini 3.7 Flash",
           "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -332,82 +345,25 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
-        },
-        {
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI",
-          "published_at": "2026-08-07T15:20:00Z",
-          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-07-responding-to-the-next-frontier-of-critical-cyber"
-        },
-        {
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI",
-          "published_at": "2026-08-07T09:00:00Z",
-          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "What We Learned by Reproducing 2,200 papers from ICML",
-          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-          "source": "Hugging Face",
-          "published_at": "2026-08-13T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-08-13-what-we-learned-by-reproducing-2-200-papers"
-        },
-        {
-          "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
-          "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-12T14:18:05Z",
-          "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production. Download this free whitepaper now!",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-12-inside-the-data-bottleneck-slowing-visual-and-physical"
-        },
-        {
-          "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
-          "url": "https://spectrum.ieee.org/judgegpt-experiment",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-12T11:00:01Z",
-          "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology—together with appropriate …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-12-pakistani-judges-give-their-verdict-on-judgegpt"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face",
+          "published_at": "2026-08-14T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-14-state-of-open-models-summer-2026-observations"
+        },
         {
           "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
           "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
@@ -420,32 +376,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-08-13-record-train-and-deploy-from-one-place-with"
-        },
-        {
-          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face",
-          "published_at": "2026-08-12T16:14:36Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-12-introducing-olmoearth-embeddings-custom-embedding-exports-from-olmoearth"
-        },
-        {
-          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face",
-          "published_at": "2026-08-12T14:00:51Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-12-lfm2-5-vl-3b-for-better-and-faster-vision-capabilities"
         }
       ]
     },
@@ -453,82 +383,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Netflix is closing two game studios",
-          "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+          "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+          "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
           "source": "The Verge",
-          "published_at": "2026-08-13T20:52:58Z",
-          "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Stu…",
+          "published_at": "2026-08-14T17:34:14Z",
+          "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-13-netflix-is-closing-two-game-studios"
+          "id": "theverge-2026-08-14-google-8217-s-best-new-camera-feature-is"
         },
         {
-          "title": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+          "title": "Mark Zuckerberg has an Instagzam",
+          "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+          "source": "The Verge",
+          "published_at": "2026-08-14T16:54:16Z",
+          "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-14-mark-zuckerberg-has-an-instagzam"
+        },
+        {
+          "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "published_at": "2026-08-14T16:39:32Z",
+          "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-14-you-can-now-turn-off-google-gemini-8217"
+        },
+        {
+          "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+          "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-14T14:50:25Z",
+          "summary": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-14-2025-goty-clair-obscur-expedition-33-is-down"
+        },
+        {
+          "title": "La contrahistoria de lo malos que son los centros de datos la tienen en un pueblecito de EEUU que ha revivido gracias a uno de ellos",
+          "url": "https://www.xataka.com/robotica-e-ia/contrahistoria-malos-que-centros-datos-tienen-pueblecito-eeuu-que-ha-revivido-gracias-a-uno-ellos",
+          "source": "Xataka",
+          "published_at": "2026-08-14T12:31:14Z",
+          "summary": "Los centros de datos se han convertido en la cara visible de las críticas contra la IA. Consumen mucha energía y agua y una vez construidos no generan apenas empleo. Las protestas contra la construcción de nuevos centros…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-14-la-contrahistoria-de-lo-malos-que-son-los"
+        },
+        {
+          "title": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
+          "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+          "source": "The Verge",
+          "published_at": "2026-08-14T12:00:00Z",
+          "summary": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambien…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-14-cmf-8217-s-clip-earbuds-hit-the-balance"
+        },
+        {
+          "title": "Apple lleva años haciendo excepciones para vender iPhone en China. La última es enorme: una IA exclusiva para el país",
+          "url": "https://www.xataka.com/robotica-e-ia/apple-lleva-anos-haciendo-excepciones-para-vender-iphone-china-ultima-enorme-ia-exclusiva-para-pais",
+          "source": "Xataka",
+          "published_at": "2026-08-14T11:45:14Z",
+          "summary": "Apple lleva años teniendo más claro que nadie que China es un mercado donde quien manda es precisamente China . La IA se acaba de convertir en la última prueba de ello. Según Reuters , la compañía con sede en Cupertino h…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-14-apple-lleva-anos-haciendo-excepciones-para-vender-iphone"
+        },
+        {
+          "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
+          "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+          "source": "The Verge",
+          "published_at": "2026-08-14T11:00:00Z",
+          "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI desig…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-14-the-msi-claw-ex-is-the-most-important"
+        },
+        {
+          "title": "La IA china se ha vuelto imposible de ignorar. Tanto que hasta la apuesta de Mistral por la soberanía europea ya aloja uno de sus modelos",
           "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
           "source": "Xataka",
-          "published_at": "2026-08-13T20:31:15Z",
+          "published_at": "2026-08-13T20:30:00Z",
           "summary": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-13-mistral-quiere-ser-el-campeon-europeo-de-la"
-        },
-        {
-          "title": "This school-friendly laptop from HP is $300 off",
-          "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-08-13T20:07:53Z",
-          "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, b…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-13-this-school-friendly-laptop-from-hp-is-300-off"
-        },
-        {
-          "title": "OpenAI is losing its second executive this week",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-          "source": "The Verge",
-          "published_at": "2026-08-13T19:28:39Z",
-          "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-13-openai-is-losing-its-second-executive-this-week"
-        },
-        {
-          "title": "The Trump admin will start letting private firms launch international cyberattacks",
-          "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
-          "source": "The Verge",
-          "published_at": "2026-08-13T18:56:13Z",
-          "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control an…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-13-the-trump-admin-will-start-letting-private-firms"
-        },
-        {
-          "title": "I finally found a robot lawnmower I’d trust with my yard",
-          "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-          "source": "The Verge",
-          "published_at": "2026-08-13T18:30:00Z",
-          "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or g…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-13-i-finally-found-a-robot-lawnmower-i-d"
+          "id": "xataka-2026-08-13-la-ia-china-se-ha-vuelto-imposible-de"
         },
         {
           "title": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
@@ -557,95 +526,30 @@
           "id": "xataka-2026-08-13-hasta-ahora-toda-la-industria-ia-se-ha"
         },
         {
-          "title": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+          "title": "“Ya no soy programador”: Linus Torvalds dice que su trabajo ya no consiste en entender código, sino a las personas",
           "url": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
           "source": "Xataka",
-          "published_at": "2026-08-13T13:31:15Z",
+          "published_at": "2026-08-13T13:30:00Z",
           "summary": "Linus Torvalds creó el kernel Linux en 1991, pero 35 años después ya no se define como un programador que escribe código. Durante el Open Source Summit India 2026 explicó que apenas lee código del proyecto de código abie…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-13-linus-torvalds-desarrollador-y-fundador-de-linux-sobre"
+          "id": "xataka-2026-08-13-ya-no-soy-programador-linus-torvalds-dice-que"
         },
         {
-          "title": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en precio",
+          "title": "OpenAI y Anthropic tenían una cómoda ventaja en modelos frontera. Grok acaba de convertirla en una carrera de tres",
           "url": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
           "source": "Xataka",
-          "published_at": "2026-08-13T11:15:15Z",
+          "published_at": "2026-08-13T11:15:00Z",
           "summary": "Grok ya no está un escalón por debajo de OpenAI y Anthropic. Su nueva versión, Grok 4.6 , acaba de alcanzar 61 puntos en el Intelligence Index de Artificial Analysis, la misma puntuación que GPT-5.6 Sol, y a apenas uno y…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-13-grok-4-6-acaba-de-entrar-en-el"
-        },
-        {
-          "title": "La hipótesis de Riemann llevaba sin resolverse desde 1859. Claude tampoco lo consiguió, pero hizo algo más inquietante",
-          "url": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
-          "source": "Xataka",
-          "published_at": "2026-08-12T18:30:00Z",
-          "summary": "La hipótesis de Riemann lleva sin resolverse desde 1859, y de momento ni las mejores IAs del planeta pueden con ella. Anthropic acaba de intentarlo con un modelo experimental, y aunque el proyecto ha tenido una parte pos…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-12-la-hipotesis-de-riemann-llevaba-sin-resolverse-desde"
-        },
-        {
-          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-          "source": "TechCrunch",
-          "published_at": "2026-08-12T17:51:00Z",
-          "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "techcrunch-2026-08-12-as-ai-safety-concerns-mount-three-pioneers-make"
-        },
-        {
-          "title": "La IA era absurdamente cara por el \"entrenamiento\". A partir de ahora lo será por algo distinto: la infraestructura",
-          "url": "https://www.xataka.com/empresas-y-economia/inferencia-ia-gasta-que-entrenamiento-cambio-paradigma-sector-malo-para-ti",
-          "source": "Xataka",
-          "published_at": "2026-08-12T15:00:00Z",
-          "summary": "Desde que ChatGPT empezó a ser lo que es y la IA comenzó a llegar a todo el mundo, ya que antes era algo reservado a la investigación en diferentes ámbitos, una palabra nos ha acompañado: entrenamiento . De ese entrenami…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-12-la-ia-era-absurdamente-cara-por-el-entrenamiento"
-        },
-        {
-          "title": "Google se llenó con cupones de descuento fantasma. Mi solución ha sido dejar de buscarlos y mandar a la IA de caza",
-          "url": "https://www.xataka.com/robotica-e-ia/yo-creaba-cupones-tienda-online-ahora-le-pido-a-ia-que-encuentre-que-otras-esconden",
-          "source": "Xataka",
-          "published_at": "2026-08-12T13:00:00Z",
-          "summary": "Como aficionado a los descuentos que soy, nunca compro nada importante por internet sin antes haber mirado si la tienda ofrecía algún tipo de cupón. El 10 % de nuevo usuario, la suscripción a la newsletter, el código de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-12-google-se-lleno-con-cupones-de-descuento-fantasma"
-        },
-        {
-          "title": "La industria IA necesitaba urgentemente abaratar costes para empezar a ser rentable. Y eso es lo que está sucediendo",
-          "url": "https://www.xataka.com/robotica-e-ia/carrera-abajo-va-viento-popa-coste-usar-ia-se-ha-desplomado-43-poco-dos-meses",
-          "source": "Xataka",
-          "published_at": "2026-08-12T11:30:00Z",
-          "summary": "Casi todo sube de precio en nuestras vidas, pero no ocurre lo mismo con la IA: no solo no para de ser más capaz, sino que además usarla cada vez cuesta menos. Según datos de Silicon Data citados por Jefferies , el coste …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-12-la-industria-ia-necesitaba-urgentemente-abaratar-costes-para"
+          "id": "xataka-2026-08-13-openai-y-anthropic-tenian-una-comoda-ventaja-en"
         }
       ]
     }
@@ -876,32 +780,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-10-how-zapier-transformed-core-marketing-processes-with-chatgpt"
-        },
-        {
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI",
-          "published_at": "2026-08-07T15:20:00Z",
-          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-07-responding-to-the-next-frontier-of-critical-cyber"
-        },
-        {
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI",
-          "published_at": "2026-08-07T09:00:00Z",
-          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-07-how-hsp-gruppe-builds-ai-capabilities-for-tax"
         }
       ]
     },
@@ -910,17 +788,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "Improving Fable 5's biology safeguards",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "title": "How Claude’s text watermark works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
           "source": "Anthropic",
-          "published_at": "2026-08-07T00:00:00Z",
-          "summary": "Improving Fable 5's biology safeguards",
+          "published_at": "2026-08-14T00:00:00Z",
+          "summary": "How Claude’s text watermark works",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-08-07-improving-fable-5-s-biology-safeguards"
+          "id": "anthropic-2026-08-14-how-claude-s-text-watermark-works"
         }
       ]
     },
