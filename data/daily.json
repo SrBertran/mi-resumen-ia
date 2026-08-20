@@ -1,78 +1,117 @@
 {
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19T07:12:30.723908Z",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T07:13:31.140331Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "source": "The Verge",
+      "published_at": "2026-08-19T22:35:20Z",
+      "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it'…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-19-does-giving-a-camera-wings-dodge-the-fcc"
+    },
+    {
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "source": "The Verge",
+      "published_at": "2026-08-19T19:53:09Z",
+      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen annou…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-19-nielsen-is-leaning-more-on-wearables-to-hear"
+    },
+    {
+      "title": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
+      "url": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
+      "source": "Xataka",
+      "published_at": "2026-08-19T19:01:33Z",
+      "summary": "En los alrededores de Silicon Valley, el mercado inmobiliario de lujo lleva tiempo jugando en una liga donde una vivienda puede ocupar varias hectáreas y ofrecer un nivel de privacidad difícil de encontrar incluso entre …",
+      "why_it_matters": "",
+      "tags": [
+        "regulación"
+      ],
+      "category": "regulación",
+      "id": "xataka-2026-08-19-una-mansion-record-de-silicon-valley-tiene-nuevo"
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge",
+      "published_at": "2026-08-19T19:00:00Z",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-19-google-gemini-is-getting-a-dedicated-student-hub"
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
-      "published_at": "2026-08-18T22:00:00Z",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "published_at": "2026-08-19T19:00:00Z",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "why_it_matters": "",
       "tags": [
         "producto"
       ],
       "category": "lanzamientos",
-      "id": "openai-2026-08-18-chatgpt-ads-expands-across-europe"
-    },
-    {
-      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-08-18T20:01:01Z",
-      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The St…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-18-steelseries-comfy-wireless-gaming-headset-is-nearly-half"
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "source": "The Verge",
-      "published_at": "2026-08-18T19:48:26Z",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Willi…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-18-robin-williams-instagram-account-brought-back-to-fight"
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge",
-      "published_at": "2026-08-18T19:28:30Z",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and al…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-18-openai-lays-out-new-security-changes-after-its"
-    },
-    {
-      "title": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
-      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
-      "source": "Xataka",
-      "published_at": "2026-08-18T19:00:22Z",
-      "summary": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini , Claude , DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, d…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-18-china-ha-levantado-el-mayor-edificio-del-mundo"
+      "id": "openai-2026-08-19-offering-zero-data-retention-for-frontier-models"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "source": "Google AI",
+          "published_at": "2026-08-19T19:00:00Z",
+          "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-19-5-new-ways-to-level-up-your-learning"
+        },
+        {
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI",
+          "published_at": "2026-08-19T07:00:00Z",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-19-replit-expands-access-to-software-creation-with-gpt-5"
+        },
+        {
+          "title": "ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "source": "OpenAI",
+          "published_at": "2026-08-18T22:00:00Z",
+          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-18-chatgpt-ads-expands-across-europe"
+        },
         {
           "title": "Strengthening democratic oversight in national security",
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -280,37 +319,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-13-openai-appoints-dali-rajic-as-chief-revenue-officer"
-        },
-        {
-          "title": "Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "source": "DeepMind",
-          "published_at": "2026-08-12T14:01:59Z",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-12-putting-sign-language-ai-into-users-hands"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "HappyRobot es la startup de Guadalajara que ya es un unicornio. Su promesa entusiasma a las empresas e inquieta a los trabajadores",
-          "url": "https://www.xataka.com/robotica-e-ia/happyrobot-startup-guadalajara-que-unicornio-su-promesa-entusiasma-a-empresas-e-inquieta-a-trabajadores",
-          "source": "Xataka",
-          "published_at": "2026-08-18T11:30:22Z",
-          "summary": "Los hermanos Pablo y Javier Palafox, originarios de Guadalajara, y Luis Paarup fundaron HappyRobot en 2023 y ese mismo año pasaron por la conocida incubadora Y Combinator. Apenas tres años después, la compañía acaba de c…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-08-18-happyrobot-es-la-startup-de-guadalajara-que-ya"
         }
       ]
     },
@@ -318,36 +326,36 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "From AI Copilots to Agent Swarms",
-          "url": "https://spectrum.ieee.org/amd-agent-swarms",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-17T14:00:01Z",
-          "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software develo…",
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "source": "VentureBeat",
+          "published_at": "2026-08-19T14:18:12Z",
+          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-08-17-from-ai-copilots-to-agent-swarms"
-        },
-        {
-          "title": "AI Used to Verify Toughest Mathematics Proof Yet",
-          "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-17T13:00:02Z",
-          "summary": "Representing a significant milestone in AI-assisted mathematical research, a team at Axiom Math has automatically verified the proof of a theorem relating to prime numbers—colloquially referred to as the “246 theorem”—fo…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-17-ai-used-to-verify-toughest-mathematics-proof-yet"
+          "id": "venturebeat-2026-08-19-venturebeat-names-rob-strechay-as-its-first-lead"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face",
+          "published_at": "2026-08-19T13:48:49Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-19-lfm2-5-q4-0-checkpoints-from-quantization-aware-distillation"
+        },
         {
           "title": "How Much Memory Does Your Agent Actually Need?",
           "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -360,32 +368,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-08-18-how-much-memory-does-your-agent-actually-need"
-        },
-        {
-          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face",
-          "published_at": "2026-08-18T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-18-multi-vector-late-interaction-embedding-models-with-sentence-transformers"
-        },
-        {
-          "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face",
-          "published_at": "2026-08-17T19:46:21Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-17-same-cluster-33-points-more-utilization-what-changed"
         }
       ]
     },
@@ -393,95 +375,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-          "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+          "title": "Watch Valve set up the Steam Frame in its own leaked videos",
+          "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
           "source": "The Verge",
-          "published_at": "2026-08-18T17:47:04Z",
-          "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from…",
+          "published_at": "2026-08-19T18:16:27Z",
+          "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-samsung-s-galaxy-buds-3-pro-are-almost"
+          "id": "theverge-2026-08-19-watch-valve-set-up-the-steam-frame-in"
         },
         {
-          "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-          "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+          "title": "The wearable future is stuck in weird, experimental, existential limbo",
+          "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
           "source": "The Verge",
-          "published_at": "2026-08-18T17:18:57Z",
-          "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Porta…",
+          "published_at": "2026-08-19T18:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-playstation-8217-s-wireless-gaming-speakers-launch-in"
+          "id": "theverge-2026-08-19-the-wearable-future-is-stuck-in-weird-experimental"
         },
         {
-          "title": "Apple squashes EU beef with new App Store rules",
-          "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+          "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+          "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-08-18T16:48:26Z",
-          "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes,…",
+          "published_at": "2026-08-19T17:56:15Z",
+          "summary": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale f…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-apple-squashes-eu-beef-with-new-app-store"
+          "id": "theverge-2026-08-19-grab-an-ipad-air-m4-for-its-lowest"
         },
         {
-          "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-          "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
           "source": "The Verge",
-          "published_at": "2026-08-18T16:26:29Z",
-          "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public …",
+          "published_at": "2026-08-19T17:10:09Z",
+          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-tesla-is-finally-launching-the-cybercab----let"
+          "id": "theverge-2026-08-19-openai-hit-the-brakes-now-what"
         },
         {
-          "title": "Peacock is raising prices by up to $3",
-          "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+          "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
           "source": "The Verge",
-          "published_at": "2026-08-18T14:11:39Z",
-          "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increa…",
+          "published_at": "2026-08-19T17:03:11Z",
+          "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-peacock-is-raising-prices-by-up-to-3"
+          "id": "theverge-2026-08-19-gta-vi-keeps-leaking-ahead-of-its-gameplay"
         },
         {
-          "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-          "url": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+          "title": "Meta AI is getting a Mac app",
+          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
           "source": "The Verge",
-          "published_at": "2026-08-18T13:35:35Z",
-          "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew att…",
+          "published_at": "2026-08-19T17:00:00Z",
+          "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content ba…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-coyote-vs-acme-is-even-funnier-because-warner"
+          "id": "theverge-2026-08-19-meta-ai-is-getting-a-mac-app"
         },
         {
-          "title": "Comcast is turning millions of its routers into motion detectors",
-          "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+          "title": "We reviewed the new Pixel lineup, ask us anything",
+          "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
           "source": "The Verge",
-          "published_at": "2026-08-18T13:30:00Z",
-          "summary": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, ena…",
+          "published_at": "2026-08-19T16:15:00Z",
+          "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your l…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-18-comcast-is-turning-millions-of-its-routers-into"
+          "id": "theverge-2026-08-19-we-reviewed-the-new-pixel-lineup-ask-us"
+        },
+        {
+          "title": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron contra 14",
+          "url": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
+          "source": "Xataka",
+          "published_at": "2026-08-19T15:31:33Z",
+          "summary": "La IA ya nos ha asombrado en el ámbito de las matemáticas, y ahora quiere hacerlo en el de la química.&nbsp;Es desde luego lo que ha logrado Anthropic, que puso a trabajar a Claude de forma autónoma durante unas 48 horas…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-19-claude-diseno-proteinas-contra-15-objetivos-cuando-las"
+        },
+        {
+          "title": "Es oficial: ChatGPT con anuncios llegará a España el próximo lunes 24 de agosto",
+          "url": "https://www.xataka.com/robotica-e-ia/oficial-chatgpt-anuncios-llegara-a-espana-proximo-lunes-24-agosto",
+          "source": "Xataka",
+          "published_at": "2026-08-19T10:51:00Z",
+          "summary": "Los anuncios de ChatGPT ya tienen fecha de llegada a España. OpenAI ha confirmado que el próximo lunes 25 de agosto ampliará su sistema publicitario a 31 países europeos, entre ellos España, Alemania, Francia, Italia, Su…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-19-es-oficial-chatgpt-con-anuncios-llegara-a-espana"
+        },
+        {
+          "title": "Los hiperescaladores tienen miles de chips de IA sin sacar de la caja por una sencilla razón: los centros de datos no se levantan en un día",
+          "url": "https://www.xataka.com/empresas-y-economia/hiperescaladores-tienen-miles-chips-ia-sacar-sus-cajas-sencilla-razon-centros-datos-no-se-levantan-dia",
+          "source": "Xataka",
+          "published_at": "2026-08-19T10:30:21Z",
+          "summary": "Este 2026, cuatro Big Tech se fundirán 760.000 millones de dólares en la IA . Dentro de esa inversión se encuadran los chips, pero también la energía y las infraestructuras: todo lo necesario para seguir escalando la tec…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-19-los-hiperescaladores-tienen-miles-de-chips-de-ia"
+        },
+        {
+          "title": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
+          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
+          "source": "Xataka",
+          "published_at": "2026-08-18T19:00:22Z",
+          "summary": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini , Claude , DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-18-china-ha-levantado-el-mayor-edificio-del-mundo"
         },
         {
           "title": "Un vídeo filtrado muestra en acción los nuevos AirPods con cámara de Apple",
@@ -497,30 +531,43 @@
           "id": "xataka-2026-08-18-un-video-filtrado-muestra-en-accion-los-nuevos"
         },
         {
-          "title": "“La IA tiende a concentrar el poder”: el CEO de Anthropic cree que la solución es regular a empresas como la suya",
+          "title": "Dario Amodei es el CEO de Anthropic y tiene claro qué deben hacer los Gobiernos: evitar que empresas como la suya concentren poder",
           "url": "https://www.xataka.com/empresas-y-economia/ia-tiende-a-concentrar-poder-ceo-anthropic-cree-que-solucion-regular-a-empresas-como-suya",
           "source": "Xataka",
-          "published_at": "2026-08-18T13:00:24Z",
+          "published_at": "2026-08-18T13:00:00Z",
           "summary": "Este fin de semana, algunas de las personas más influyentes del sector IA han tenido un debate bastante interesante en la red social X. El desencadenante fue Gavin Baker, conocido inversor de Silicon Valley, quien en el …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-18-la-ia-tiende-a-concentrar-el-poder-el"
+          "id": "xataka-2026-08-18-dario-amodei-es-el-ceo-de-anthropic-y"
         },
         {
-          "title": "China está obligando a cortar a parejas. Eso sí: sólo si uno de los dos es una IA",
+          "title": "El Gobierno chino se ha dado cuenta de que cada vez más chinos tienen una relación romántica con la IA. Y está actuando",
           "url": "https://www.xataka.com/robotica-e-ia/china-esta-obligando-a-cortar-a-parejas-eso-solo-uno-dos-ia",
           "source": "Xataka",
-          "published_at": "2026-08-18T12:00:23Z",
+          "published_at": "2026-08-18T12:00:00Z",
           "summary": "'Her', la cinta de 2013 dirigida por Spike Jonze, nos permitió asomarnos a un futuro en el que sería posible llevar una inteligencia artificial en el bolsillo. En el móvil, concretamente. Una con la que poder hablar, pre…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-18-china-esta-obligando-a-cortar-a-parejas-eso"
+          "id": "xataka-2026-08-18-el-gobierno-chino-se-ha-dado-cuenta-de"
+        },
+        {
+          "title": "Se llama Happy Robot, ha nacido en Guadalajara y es el nuevo unicornio de España gracias a algo: agentes IA que llaman",
+          "url": "https://www.xataka.com/robotica-e-ia/happyrobot-startup-guadalajara-que-unicornio-su-promesa-entusiasma-a-empresas-e-inquieta-a-trabajadores",
+          "source": "Xataka",
+          "published_at": "2026-08-18T11:30:00Z",
+          "summary": "Los hermanos Pablo y Javier Palafox, originarios de Guadalajara, y Luis Paarup fundaron HappyRobot en 2023 y ese mismo año pasaron por la conocida incubadora Y Combinator. Apenas tres años después, la compañía acaba de c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-18-se-llama-happy-robot-ha-nacido-en-guadalajara"
         },
         {
           "title": "Computer History de ChatGPT: qué es y cómo esta función para que la IA sepa todo lo que haces en el ordenador",
@@ -534,45 +581,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-18-computer-history-de-chatgpt-que-es-y-como"
-        },
-        {
-          "title": "Anthropic dice que tiene un nuevo modelo de IA teóricamente superior en todo a Mythos 5",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
-          "source": "Xataka",
-          "published_at": "2026-08-17T17:30:00Z",
-          "summary": "Anthropic tiene disponible un modelo de IA que no podemos probar. Se llama simplemente \"Model 2\", es aún más potente que Mythos 5 y, según la propia compañía , ofrece una \"mejora apreciable\" en muchas de las tareas que r…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-17-anthropic-dice-que-tiene-un-nuevo-modelo-de"
-        },
-        {
-          "title": "Cataluña identifica a miles de conductores utilizando el móvil o sin cinturón gracias a sus cámaras IA",
-          "url": "https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon",
-          "source": "Xataka",
-          "published_at": "2026-08-17T16:30:00Z",
-          "summary": "A lo largo de estas últimas semanas, Cataluña ha estado probando un nuevo sistema de vigilancia impulsado por IA en dos de sus carreteras más transitadas. La idea detrás de esta prueba piloto es conocer si el sistema es …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-17-cataluna-identifica-a-miles-de-conductores-utilizando-el"
-        },
-        {
-          "title": "Stripe acaba de hacer la apuesta más arriesgada de su historia: 7.000 millones a que nadie ganará la carrera de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
-          "source": "Xataka",
-          "published_at": "2026-08-17T12:45:00Z",
-          "summary": "Stripe ha llegado a un acuerdo para adquirir OpenRouter Inc. por 7.000 millones de dólares, según indican fuentes cercanas a las negociaciones que citan en Bloomberg . La cifra es especialmente llamativa porque la startu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-17-stripe-acaba-de-hacer-la-apuesta-mas-arriesgada"
         }
       ]
     }
@@ -609,6 +617,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI",
+          "published_at": "2026-08-19T19:00:00Z",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-19-offering-zero-data-retention-for-frontier-models"
+        },
+        {
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI",
+          "published_at": "2026-08-19T07:00:00Z",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-19-replit-expands-access-to-software-creation-with-gpt-5"
+        },
         {
           "title": "ChatGPT Ads expands across Europe",
           "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -804,6 +838,19 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "source": "Google AI",
+          "published_at": "2026-08-19T19:00:00Z",
+          "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-19-5-new-ways-to-level-up-your-learning"
+        },
+        {
           "title": "Get closer to the game with Gemini and Pixel",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "source": "Google AI",
@@ -847,19 +894,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-08-13-introducing-gemini-3-7-flash"
-        },
-        {
-          "title": "Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "source": "DeepMind",
-          "published_at": "2026-08-12T14:01:59Z",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-12-putting-sign-language-ai-into-users-hands"
         }
       ]
     }
