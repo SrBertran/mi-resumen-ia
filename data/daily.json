@@ -1,78 +1,117 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T07:13:31.140331Z",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T07:14:48.291911Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-      "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
       "source": "The Verge",
-      "published_at": "2026-08-19T22:35:20Z",
-      "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it'…",
+      "published_at": "2026-08-21T02:00:00Z",
+      "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-19-does-giving-a-camera-wings-dodge-the-fcc"
+      "id": "theverge-2026-08-21-genki-s-new-customizable-controller-has-a-big"
     },
     {
-      "title": "Nielsen is leaning more on wearables to hear what people are watching",
-      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "source": "The Verge",
-      "published_at": "2026-08-19T19:53:09Z",
-      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen annou…",
+      "published_at": "2026-08-20T21:50:22Z",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"rememb…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-19-nielsen-is-leaning-more-on-wearables-to-hear"
+      "id": "theverge-2026-08-20-google-discover-is-getting-an-ai-chatbot-tuned-feed"
     },
     {
-      "title": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
-      "url": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
-      "source": "Xataka",
-      "published_at": "2026-08-19T19:01:33Z",
-      "summary": "En los alrededores de Silicon Valley, el mercado inmobiliario de lujo lleva tiempo jugando en una liga donde una vivienda puede ocupar varias hectáreas y ofrecer un nivel de privacidad difícil de encontrar incluso entre …",
-      "why_it_matters": "",
-      "tags": [
-        "regulación"
-      ],
-      "category": "regulación",
-      "id": "xataka-2026-08-19-una-mansion-record-de-silicon-valley-tiene-nuevo"
-    },
-    {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "title": "Riot is ending development on its League of Legends fighting game",
+      "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
       "source": "The Verge",
-      "published_at": "2026-08-19T19:00:00Z",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui…",
+      "published_at": "2026-08-20T19:59:09Z",
+      "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the co…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-19-google-gemini-is-getting-a-dedicated-student-hub"
+      "id": "theverge-2026-08-20-riot-is-ending-development-on-its-league-of"
     },
     {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI",
-      "published_at": "2026-08-19T19:00:00Z",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+      "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+      "source": "The Verge",
+      "published_at": "2026-08-20T19:52:57Z",
+      "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "openai-2026-08-19-offering-zero-data-retention-for-frontier-models"
+      "category": "general",
+      "id": "theverge-2026-08-20-the-genesis-gv90-blows-the-bloody-doors-off"
+    },
+    {
+      "title": "Mark Zuckerberg bought an Irish castle",
+      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "source": "The Verge",
+      "published_at": "2026-08-20T18:50:14Z",
+      "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact pr…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-20-mark-zuckerberg-bought-an-irish-castle"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "source": "OpenAI",
+          "published_at": "2026-08-20T07:00:00Z",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-20-introducing-ai-futures"
+        },
+        {
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI",
+          "published_at": "2026-08-20T00:00:00Z",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-20-stampli-cuts-launch-hours-by-68-using-chatgpt"
+        },
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI",
+          "published_at": "2026-08-19T19:00:00Z",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-19-offering-zero-data-retention-for-frontier-models"
+        },
         {
           "title": "5 new ways to level up your learning with Search",
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -241,84 +280,37 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-17-new-policy-ideas-for-the-intelligence-age"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "How Claude’s text watermark works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic",
-          "published_at": "2026-08-14T00:00:00Z",
-          "summary": "How Claude’s text watermark works",
+          "title": "Silicon Valley ha copiado de China la jornada 996 para trabajar más. DeepSeek está logrando lo mismo haciendo justo lo contrario",
+          "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-copiado-china-jornada-996-para-trabajar-deepseek-esta-logrando-haciendo-justo-contrario",
+          "source": "Xataka",
+          "published_at": "2026-08-20T16:31:34Z",
+          "summary": "DeepSeek se ha convertido en una de las historias de éxito más rápidas de la IA. Y es que en tres años ha pasado a convertirse en una empresa valorada en unos 60.000 millones de dólares (según una de sus últimas rondas d…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-14-how-claude-s-text-watermark-works"
+          "category": "regulación",
+          "id": "xataka-2026-08-20-silicon-valley-ha-copiado-de-china-la-jornada"
         },
         {
-          "title": "Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-          "source": "DeepMind",
-          "published_at": "2026-08-13T17:04:18Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
+          "url": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
+          "source": "Xataka",
+          "published_at": "2026-08-19T19:01:33Z",
+          "summary": "En los alrededores de Silicon Valley, el mercado inmobiliario de lujo lleva tiempo jugando en una liga donde una vivienda puede ocupar varias hectáreas y ofrecer un nivel de privacidad difícil de encontrar incluso entre …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-13-introducing-gemini-3-7-flash"
-        },
-        {
-          "title": "Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-          "source": "Google AI",
-          "published_at": "2026-08-13T16:45:00Z",
-          "summary": "The video shows Sheets canvas in action.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-13-bring-your-spreadsheet-data-to-life-with-sheets"
-        },
-        {
-          "title": "The builder’s guide to GPT‑5.6",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T11:00:00Z",
-          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-the-builder-s-guide-to-gpt-5-6"
-        },
-        {
-          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T10:00:00Z",
-          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-previewing-ultrafast-mode-gpt-5-6-sol-at-up"
-        },
-        {
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T09:00:00Z",
-          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-openai-appoints-dali-rajic-as-chief-revenue-officer"
+          "category": "regulación",
+          "id": "xataka-2026-08-19-una-mansion-record-de-silicon-valley-tiene-nuevo"
         }
       ]
     },
@@ -344,30 +336,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "source": "Hugging Face",
-          "published_at": "2026-08-19T13:48:49Z",
+          "published_at": "2026-08-20T16:52:57Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-08-19-lfm2-5-q4-0-checkpoints-from-quantization-aware-distillation"
-        },
-        {
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face",
-          "published_at": "2026-08-18T18:09:38Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-18-how-much-memory-does-your-agent-actually-need"
+          "id": "huggingface-2026-08-20-up-to-3-2x-faster-inference-with-lfm2"
         }
       ]
     },
@@ -375,108 +354,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-          "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+          "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+          "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
           "source": "The Verge",
-          "published_at": "2026-08-19T18:16:27Z",
-          "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled a…",
+          "published_at": "2026-08-20T17:42:34Z",
+          "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Au…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-watch-valve-set-up-the-steam-frame-in"
+          "id": "theverge-2026-08-20-australia-says-roblox-hasn-8217-t-fixed-its"
         },
         {
-          "title": "The wearable future is stuck in weird, experimental, existential limbo",
-          "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
+          "title": "FCC officially decides gigabit speeds are too good for you",
+          "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
           "source": "The Verge",
-          "published_at": "2026-08-19T18:00:00Z",
-          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For …",
+          "published_at": "2026-08-20T17:38:30Z",
+          "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-the-wearable-future-is-stuck-in-weird-experimental"
+          "id": "theverge-2026-08-20-fcc-officially-decides-gigabit-speeds-are-too-good"
         },
         {
-          "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-          "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
+          "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+          "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
           "source": "The Verge",
-          "published_at": "2026-08-19T17:56:15Z",
-          "summary": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale f…",
+          "published_at": "2026-08-20T17:16:02Z",
+          "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-serie…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-grab-an-ipad-air-m4-for-its-lowest"
+          "id": "theverge-2026-08-20-framework-says-it-8217-s-addressing-a-bios"
         },
         {
-          "title": "OpenAI hit the brakes. Now what?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "title": "It’s Greg Brockman’s OpenAI now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
           "source": "The Verge",
-          "published_at": "2026-08-19T17:10:09Z",
-          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had …",
+          "published_at": "2026-08-20T15:45:55Z",
+          "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-openai-hit-the-brakes-now-what"
+          "id": "theverge-2026-08-20-it-s-greg-brockman-s-openai-now"
         },
         {
-          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-          "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+          "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+          "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
           "source": "The Verge",
-          "published_at": "2026-08-19T17:03:11Z",
-          "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've …",
+          "published_at": "2026-08-20T15:30:34Z",
+          "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-gta-vi-keeps-leaking-ahead-of-its-gameplay"
+          "id": "theverge-2026-08-20-this-app-makes-the-pixel-11-8217-s"
         },
         {
-          "title": "Meta AI is getting a Mac app",
-          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-          "source": "The Verge",
-          "published_at": "2026-08-19T17:00:00Z",
-          "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content ba…",
+          "title": "Qué significa que las empresas de IA estén teniendo problemas de alineación y dediquen ya el 20% de sus recursos a esto",
+          "url": "https://www.xataka.com/robotica-e-ia/que-significa-que-empresas-ia-esten-teniendo-problemas-alineacion-dediquen-20-sus-recursos-a-esto",
+          "source": "Xataka",
+          "published_at": "2026-08-20T12:01:33Z",
+          "summary": "OpenAI está algo preocupada con el desarrollo de sus nuevos modelos, que considera demasiado peligrosos. Para solucionarlo calculan que tendrán que implementar una capa de monitorización que añade un 20% de cómputo extra…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-19-meta-ai-is-getting-a-mac-app"
+          "id": "xataka-2026-08-20-que-significa-que-las-empresas-de-ia-esten"
         },
         {
-          "title": "We reviewed the new Pixel lineup, ask us anything",
-          "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-          "source": "The Verge",
-          "published_at": "2026-08-19T16:15:00Z",
-          "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-19-we-reviewed-the-new-pixel-lineup-ask-us"
-        },
-        {
-          "title": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron contra 14",
+          "title": "Anthropic puso a su IA a generar proteínas durante 48 horas. Obtuvo una tasa de acierto del 35% frente al 15% de la industria",
           "url": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
           "source": "Xataka",
-          "published_at": "2026-08-19T15:31:33Z",
+          "published_at": "2026-08-19T15:30:00Z",
           "summary": "La IA ya nos ha asombrado en el ámbito de las matemáticas, y ahora quiere hacerlo en el de la química.&nbsp;Es desde luego lo que ha logrado Anthropic, que puso a trabajar a Claude de forma autónoma durante unas 48 horas…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-19-claude-diseno-proteinas-contra-15-objetivos-cuando-las"
+          "id": "xataka-2026-08-19-anthropic-puso-a-su-ia-a-generar-proteinas"
         },
         {
           "title": "Es oficial: ChatGPT con anuncios llegará a España el próximo lunes 24 de agosto",
@@ -492,95 +458,17 @@
           "id": "xataka-2026-08-19-es-oficial-chatgpt-con-anuncios-llegara-a-espana"
         },
         {
-          "title": "Los hiperescaladores tienen miles de chips de IA sin sacar de la caja por una sencilla razón: los centros de datos no se levantan en un día",
+          "title": "Alguien ha echado un vistazo a las cuentas de Microsoft con los chips para IA y ha descubierto algo preocupante: no cuadran",
           "url": "https://www.xataka.com/empresas-y-economia/hiperescaladores-tienen-miles-chips-ia-sacar-sus-cajas-sencilla-razon-centros-datos-no-se-levantan-dia",
           "source": "Xataka",
-          "published_at": "2026-08-19T10:30:21Z",
+          "published_at": "2026-08-19T10:30:00Z",
           "summary": "Este 2026, cuatro Big Tech se fundirán 760.000 millones de dólares en la IA . Dentro de esa inversión se encuadran los chips, pero también la energía y las infraestructuras: todo lo necesario para seguir escalando la tec…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-19-los-hiperescaladores-tienen-miles-de-chips-de-ia"
-        },
-        {
-          "title": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
-          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
-          "source": "Xataka",
-          "published_at": "2026-08-18T19:00:22Z",
-          "summary": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini , Claude , DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, d…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-china-ha-levantado-el-mayor-edificio-del-mundo"
-        },
-        {
-          "title": "Un vídeo filtrado muestra en acción los nuevos AirPods con cámara de Apple",
-          "url": "https://www.xataka.com/auriculares/video-filtrado-muestra-accion-nuevos-airpods-camara-apple",
-          "source": "Xataka",
-          "published_at": "2026-08-18T13:00:24Z",
-          "summary": "La filtración de una demo acaba de ofrecer al mundo el primer vistazo a los AirPods de próxima generación, unos auriculares que vendrían con cámaras incorporadas, tal y como el conocido analista Ming-Chi Kuo contaba hace…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-un-video-filtrado-muestra-en-accion-los-nuevos"
-        },
-        {
-          "title": "Dario Amodei es el CEO de Anthropic y tiene claro qué deben hacer los Gobiernos: evitar que empresas como la suya concentren poder",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-tiende-a-concentrar-poder-ceo-anthropic-cree-que-solucion-regular-a-empresas-como-suya",
-          "source": "Xataka",
-          "published_at": "2026-08-18T13:00:00Z",
-          "summary": "Este fin de semana, algunas de las personas más influyentes del sector IA han tenido un debate bastante interesante en la red social X. El desencadenante fue Gavin Baker, conocido inversor de Silicon Valley, quien en el …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-dario-amodei-es-el-ceo-de-anthropic-y"
-        },
-        {
-          "title": "El Gobierno chino se ha dado cuenta de que cada vez más chinos tienen una relación romántica con la IA. Y está actuando",
-          "url": "https://www.xataka.com/robotica-e-ia/china-esta-obligando-a-cortar-a-parejas-eso-solo-uno-dos-ia",
-          "source": "Xataka",
-          "published_at": "2026-08-18T12:00:00Z",
-          "summary": "'Her', la cinta de 2013 dirigida por Spike Jonze, nos permitió asomarnos a un futuro en el que sería posible llevar una inteligencia artificial en el bolsillo. En el móvil, concretamente. Una con la que poder hablar, pre…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-el-gobierno-chino-se-ha-dado-cuenta-de"
-        },
-        {
-          "title": "Se llama Happy Robot, ha nacido en Guadalajara y es el nuevo unicornio de España gracias a algo: agentes IA que llaman",
-          "url": "https://www.xataka.com/robotica-e-ia/happyrobot-startup-guadalajara-que-unicornio-su-promesa-entusiasma-a-empresas-e-inquieta-a-trabajadores",
-          "source": "Xataka",
-          "published_at": "2026-08-18T11:30:00Z",
-          "summary": "Los hermanos Pablo y Javier Palafox, originarios de Guadalajara, y Luis Paarup fundaron HappyRobot en 2023 y ese mismo año pasaron por la conocida incubadora Y Combinator. Apenas tres años después, la compañía acaba de c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-se-llama-happy-robot-ha-nacido-en-guadalajara"
-        },
-        {
-          "title": "Computer History de ChatGPT: qué es y cómo esta función para que la IA sepa todo lo que haces en el ordenador",
-          "url": "https://www.xataka.com/basics/computer-history-chatgpt-que-como-esta-funcion-ia-sepa-todo-que-haces-ordenador",
-          "source": "Xataka",
-          "published_at": "2026-08-18T10:30:22Z",
-          "summary": "Vamos a explicarte qué es la nueva función Computer History de ChatGPT , con la que la inteligencia artificial podrá conocerte mejor mientras trabajas. Este historial permitirá que la IA vaya observando y registrando tod…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-18-computer-history-de-chatgpt-que-es-y-como"
+          "id": "xataka-2026-08-19-alguien-ha-echado-un-vistazo-a-las-cuentas"
         }
       ]
     }
@@ -617,6 +505,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "source": "OpenAI",
+          "published_at": "2026-08-20T07:00:00Z",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-20-introducing-ai-futures"
+        },
+        {
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI",
+          "published_at": "2026-08-20T00:00:00Z",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-20-stampli-cuts-launch-hours-by-68-using-chatgpt"
+        },
         {
           "title": "Offering Zero Data Retention for frontier models",
           "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -772,45 +686,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-17-new-policy-ideas-for-the-intelligence-age"
-        },
-        {
-          "title": "The builder’s guide to GPT‑5.6",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T11:00:00Z",
-          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-the-builder-s-guide-to-gpt-5-6"
-        },
-        {
-          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T10:00:00Z",
-          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-previewing-ultrafast-mode-gpt-5-6-sol-at-up"
-        },
-        {
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI",
-          "published_at": "2026-08-13T09:00:00Z",
-          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-13-openai-appoints-dali-rajic-as-chief-revenue-officer"
         }
       ]
     },
@@ -862,19 +737,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-17-get-closer-to-the-game-with-gemini-and"
-        },
-        {
-          "title": "Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-          "source": "Google AI",
-          "published_at": "2026-08-13T16:45:00Z",
-          "summary": "The video shows Sheets canvas in action.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-13-bring-your-spreadsheet-data-to-life-with-sheets"
         }
       ]
     },
