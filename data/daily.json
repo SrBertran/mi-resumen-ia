@@ -1,72 +1,72 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T07:06:27.052471Z",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T07:08:08.804025Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
       "source": "The Verge",
-      "published_at": "2026-08-21T22:14:11Z",
-      "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or…",
+      "published_at": "2026-08-22T17:00:00Z",
+      "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-21-hoverair-s-transforming-modular-drone-has-already-been"
+      "id": "theverge-2026-08-22-doodle-generative-compositions-in-your-browser-with-musical"
     },
     {
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+      "title": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
+      "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+      "source": "Xataka",
+      "published_at": "2026-08-22T15:31:33Z",
+      "summary": "La escena parece sacada de Ally McBeal: un abogado presenta un recurso de apelación ante la Sala de lo Penal del Tribunal Superior de Justicia de Canarias contra un fallo de la Audiencia Provincial de Santa Cruz de Tener…",
+      "why_it_matters": "",
+      "tags": [
+        "regulación"
+      ],
+      "category": "regulación",
+      "id": "xataka-2026-08-22-el-tribunal-superior-de-justicia-de-canarias-multa"
+    },
+    {
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
       "source": "The Verge",
-      "published_at": "2026-08-21T22:13:34Z",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ …",
+      "published_at": "2026-08-22T15:00:00Z",
+      "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentar…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-21-tiktok-will-pay-400-million-to-settle-doj"
+      "id": "theverge-2026-08-22-w-kamau-bell-has-the-most-practical-most"
     },
     {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
       "source": "The Verge",
-      "published_at": "2026-08-21T21:25:50Z",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil…",
+      "published_at": "2026-08-22T13:41:01Z",
+      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's l…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-21-over-1-million-people-have-clicked-linkedin-s"
+      "id": "theverge-2026-08-22-amazon-just-hiked-the-prices-for-echo-fire"
     },
     {
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
       "source": "The Verge",
-      "published_at": "2026-08-21T19:44:55Z",
-      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersiv…",
+      "published_at": "2026-08-22T13:00:00Z",
+      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-21-apple-is-laying-off-staffers-working-on-the"
-    },
-    {
-      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-08-21T18:00:01Z",
-      "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch s…",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "ieee-2026-08-21-this-ieee-senior-member-develops-ai-tools-for"
+      "id": "theverge-2026-08-22-an-okay-laptop-with-16gb-of-ram-is"
     }
   ],
   "sections": [
@@ -297,26 +297,21 @@
       ]
     },
     {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "Silicon Valley ha copiado de China la jornada 996 para trabajar más. DeepSeek está logrando lo mismo haciendo justo lo contrario",
-          "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-copiado-china-jornada-996-para-trabajar-deepseek-esta-logrando-haciendo-justo-contrario",
-          "source": "Xataka",
-          "published_at": "2026-08-20T16:31:34Z",
-          "summary": "DeepSeek se ha convertido en una de las historias de éxito más rápidas de la IA. Y es que en tres años ha pasado a convertirse en una empresa valorada en unos 60.000 millones de dólares (según una de sus últimas rondas d…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-08-20-silicon-valley-ha-copiado-de-china-la-jornada"
-        }
-      ]
-    },
-    {
       "name": "Investigación",
       "items": [
+        {
+          "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+          "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-08-21T18:00:01Z",
+          "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch s…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-08-21-this-ieee-senior-member-develops-ai-tools-for"
+        },
         {
           "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
           "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553",
@@ -329,43 +324,90 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-08-21-stop-hunting-start-solving-accelerating-root-cause-analysis"
-        },
-        {
-          "title": "Measuring benchmark optimization in speech recognition",
-          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face",
-          "published_at": "2026-08-21T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-08-21-measuring-benchmark-optimization-in-speech-recognition"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face",
-          "published_at": "2026-08-20T16:52:57Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-20-up-to-3-2x-faster-inference-with-lfm2"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Two great new repairable gadgets",
+          "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+          "source": "The Verge",
+          "published_at": "2026-08-22T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-22-two-great-new-repairable-gadgets"
+        },
+        {
+          "title": "LG y Nvidia llegan a un acuerdo para fabricar robots humanoides. Empiezan por unos con ruedas en una fábrica de lavadoras",
+          "url": "https://www.xataka.com/robotica-e-ia/lg-nvidia-llegan-a-acuerdo-para-fabricar-robots-humanoides-empiezan-unos-ruedas-fabrica-lavadoras",
+          "source": "Xataka",
+          "published_at": "2026-08-22T10:01:33Z",
+          "summary": "LG ha llegado a un acuerdo con Nvidia para desarrollar robots humanoides, y también para establecer una infraestructura de fábricas basadas en la inteligencia artificial y crear sistemas de vehículos autónomos de última …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-22-lg-y-nvidia-llegan-a-un-acuerdo-para"
+        },
+        {
+          "title": "HoverAir’s transforming modular drone has already been halted in the US",
+          "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "source": "The Verge",
+          "published_at": "2026-08-21T22:14:11Z",
+          "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-21-hoverair-s-transforming-modular-drone-has-already-been"
+        },
+        {
+          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "source": "The Verge",
+          "published_at": "2026-08-21T22:13:34Z",
+          "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-21-tiktok-will-pay-400-million-to-settle-doj"
+        },
+        {
+          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "published_at": "2026-08-21T21:25:50Z",
+          "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-21-over-1-million-people-have-clicked-linkedin-s"
+        },
+        {
+          "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+          "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+          "source": "The Verge",
+          "published_at": "2026-08-21T19:44:55Z",
+          "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersiv…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-21-apple-is-laying-off-staffers-working-on-the"
+        },
         {
           "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
           "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
@@ -380,32 +422,6 @@
           "id": "theverge-2026-08-21-100-best-buy-gift-cards-will-be-60"
         },
         {
-          "title": "Walmart is finally adding Apple Pay and Google Pay",
-          "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-          "source": "The Verge",
-          "published_at": "2026-08-21T17:01:59Z",
-          "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-walmart-is-finally-adding-apple-pay-and-google"
-        },
-        {
-          "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-          "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-          "source": "The Verge",
-          "published_at": "2026-08-21T16:52:56Z",
-          "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-microsoft-and-discord-subpoenaed-over-gta-vi-gameplay"
-        },
-        {
           "title": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
           "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
           "source": "Xataka",
@@ -417,45 +433,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-21-hasta-ahora-habia-que-entrenar-a-un-robot"
-        },
-        {
-          "title": "Pixel 11 gets in on the digicam trend",
-          "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-          "source": "The Verge",
-          "published_at": "2026-08-21T16:27:05Z",
-          "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-pixel-11-gets-in-on-the-digicam-trend"
-        },
-        {
-          "title": "Why does it seem like food recalls are out of control this year?",
-          "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-          "source": "The Verge",
-          "published_at": "2026-08-21T14:45:00Z",
-          "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-why-does-it-seem-like-food-recalls-are"
-        },
-        {
-          "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-          "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-08-21T14:35:22Z",
-          "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pix…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-google-s-pixel-10a-is-a-great-deal"
         },
         {
           "title": "Todos los modelos de IA hacen trampas si les das ocasión. Decirles “no hagas trampas” no basta",
@@ -482,19 +459,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-21-alexa-costaba-20-dolares-al-mes-amazon-acaba"
-        },
-        {
-          "title": "Qué significa que las empresas de IA estén teniendo problemas de alineación y dediquen ya el 20% de sus recursos a esto",
-          "url": "https://www.xataka.com/robotica-e-ia/que-significa-que-empresas-ia-esten-teniendo-problemas-alineacion-dediquen-20-sus-recursos-a-esto",
-          "source": "Xataka",
-          "published_at": "2026-08-20T12:01:33Z",
-          "summary": "OpenAI está algo preocupada con el desarrollo de sus nuevos modelos, que considera demasiado peligrosos. Para solucionarlo calculan que tendrán que implementar una capa de monitorización que añade un 20% de cómputo extra…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-20-que-significa-que-las-empresas-de-ia-esten"
         }
       ]
     }
