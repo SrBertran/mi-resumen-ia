@@ -1,72 +1,72 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T07:08:08.804025Z",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T07:33:44.097402Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Doodle generative compositions in your browser with Musical Spirograph",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
       "source": "The Verge",
-      "published_at": "2026-08-22T17:00:00Z",
-      "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm …",
+      "published_at": "2026-08-23T19:14:37Z",
+      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-22-doodle-generative-compositions-in-your-browser-with-musical"
+      "id": "theverge-2026-08-23-gta-vi-all-the-news-on-rockstar-s"
     },
     {
-      "title": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
-      "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "source": "The Verge",
+      "published_at": "2026-08-23T15:00:00Z",
+      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-23-we-re-all-going-to-the-world-s"
+    },
+    {
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "source": "The Verge",
+      "published_at": "2026-08-23T12:00:00Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-23-grand-theft-auto-vi-exists-in-its-own"
+    },
+    {
+      "title": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
+      "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
       "source": "Xataka",
-      "published_at": "2026-08-22T15:31:33Z",
-      "summary": "La escena parece sacada de Ally McBeal: un abogado presenta un recurso de apelación ante la Sala de lo Penal del Tribunal Superior de Justicia de Canarias contra un fallo de la Audiencia Provincial de Santa Cruz de Tener…",
-      "why_it_matters": "",
-      "tags": [
-        "regulación"
-      ],
-      "category": "regulación",
-      "id": "xataka-2026-08-22-el-tribunal-superior-de-justicia-de-canarias-multa"
-    },
-    {
-      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-      "source": "The Verge",
-      "published_at": "2026-08-22T15:00:00Z",
-      "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentar…",
+      "published_at": "2026-08-23T10:31:33Z",
+      "summary": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-22-w-kamau-bell-has-the-most-practical-most"
+      "id": "xataka-2026-08-23-los-becarios-en-la-banca-ya-vienen-con"
     },
     {
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "source": "The Verge",
-      "published_at": "2026-08-22T13:41:01Z",
-      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's l…",
+      "title": "La marca de agua de Anthropic era la gran esperanza del profesorado ante las trampas con IA. El entusiasmo solo duró 24 horas",
+      "url": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
+      "source": "Xataka",
+      "published_at": "2026-08-23T08:00:00Z",
+      "summary": "La semana pasada, Anthropic anunciaba la llegada de su marca de agua para los textos generados con Claude, con el fin de cumplir así con la legislación europea . Tras el revuelo causado y las amenazas de bajas en la susc…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-22-amazon-just-hiked-the-prices-for-echo-fire"
-    },
-    {
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "source": "The Verge",
-      "published_at": "2026-08-22T13:00:00Z",
-      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-22-an-okay-laptop-with-16gb-of-ram-is"
+      "id": "xataka-2026-08-23-la-marca-de-agua-de-anthropic-era-la"
     }
   ],
   "sections": [
@@ -254,82 +254,82 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-17-get-closer-to-the-game-with-gemini-and"
-        },
-        {
-          "title": "The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T05:30:00Z",
-          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-the-defender-s-window"
-        },
-        {
-          "title": "OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T05:00:00Z",
-          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-openai-joins-ports-pike-project"
-        },
-        {
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T03:15:00Z",
-          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-new-policy-ideas-for-the-intelligence-age"
         }
       ]
     },
     {
-      "name": "Investigación",
+      "name": "Regulación",
       "items": [
         {
-          "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-          "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-21T18:00:01Z",
-          "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch s…",
+          "title": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
+          "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+          "source": "Xataka",
+          "published_at": "2026-08-22T15:31:33Z",
+          "summary": "La escena parece sacada de Ally McBeal: un abogado presenta un recurso de apelación ante la Sala de lo Penal del Tribunal Superior de Justicia de Canarias contra un fallo de la Audiencia Provincial de Santa Cruz de Tener…",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "regulación"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-08-21-this-ieee-senior-member-develops-ai-tools-for"
-        },
-        {
-          "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-          "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-08-21T14:32:37Z",
-          "summary": "About this Webinar Turn Yield Excursions into Faster, More Confident Root Cause Analysis When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool trace…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-08-21-stop-hunting-start-solving-accelerating-root-cause-analysis"
+          "category": "regulación",
+          "id": "xataka-2026-08-22-el-tribunal-superior-de-justicia-de-canarias-multa"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Doodle generative compositions in your browser with Musical Spirograph",
+          "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+          "source": "The Verge",
+          "published_at": "2026-08-22T17:00:00Z",
+          "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-22-doodle-generative-compositions-in-your-browser-with-musical"
+        },
+        {
+          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+          "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+          "source": "The Verge",
+          "published_at": "2026-08-22T15:00:00Z",
+          "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentar…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-22-w-kamau-bell-has-the-most-practical-most"
+        },
+        {
+          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+          "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+          "source": "The Verge",
+          "published_at": "2026-08-22T13:41:01Z",
+          "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's l…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-22-amazon-just-hiked-the-prices-for-echo-fire"
+        },
+        {
+          "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+          "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+          "source": "The Verge",
+          "published_at": "2026-08-22T13:00:00Z",
+          "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-22-an-okay-laptop-with-16gb-of-ram-is"
+        },
         {
           "title": "Two great new repairable gadgets",
           "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
@@ -355,110 +355,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-22-lg-y-nvidia-llegan-a-un-acuerdo-para"
-        },
-        {
-          "title": "HoverAir’s transforming modular drone has already been halted in the US",
-          "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-          "source": "The Verge",
-          "published_at": "2026-08-21T22:14:11Z",
-          "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-hoverair-s-transforming-modular-drone-has-already-been"
-        },
-        {
-          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-          "source": "The Verge",
-          "published_at": "2026-08-21T22:13:34Z",
-          "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-tiktok-will-pay-400-million-to-settle-doj"
-        },
-        {
-          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-          "source": "The Verge",
-          "published_at": "2026-08-21T21:25:50Z",
-          "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-over-1-million-people-have-clicked-linkedin-s"
-        },
-        {
-          "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-          "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-          "source": "The Verge",
-          "published_at": "2026-08-21T19:44:55Z",
-          "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersiv…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-apple-is-laying-off-staffers-working-on-the"
-        },
-        {
-          "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-          "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-          "source": "The Verge",
-          "published_at": "2026-08-21T18:00:00Z",
-          "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-21-100-best-buy-gift-cards-will-be-60"
-        },
-        {
-          "title": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
-          "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
-          "source": "Xataka",
-          "published_at": "2026-08-21T16:31:33Z",
-          "summary": "La firma de robótica e inteligencia artificial Generalist AI ha presentado un modelo llamado GEN-1.5 capaz de intentar una nueva tarea tras observar una única demostración de entre tres y 12 segundos. Lo llaman \" physica…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-21-hasta-ahora-habia-que-entrenar-a-un-robot"
-        },
-        {
-          "title": "Todos los modelos de IA hacen trampas si les das ocasión. Decirles “no hagas trampas” no basta",
-          "url": "https://www.xataka.com/robotica-e-ia/todos-modelos-ia-hacen-trampas-les-das-ocasion-decirles-no-hagas-trampas-no-basta",
-          "source": "Xataka",
-          "published_at": "2026-08-21T12:31:33Z",
-          "summary": "FelonyBench no es un benchmark de verdad. Es un sitio web irónico que se burla de una sola cosa: lo peligrosos que son los modelos de IA en materia de ciberseguridad. Ha surgido como respuesta a lo que ha pasado en las ú…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-21-todos-los-modelos-de-ia-hacen-trampas-si"
-        },
-        {
-          "title": "Alexa+ costaba 20 dólares al mes. Amazon acaba de encontrar algo más valioso que la suscripción: meterla gratis en tu TV",
-          "url": "https://www.xataka.com/robotica-e-ia/alexa-costaba-20-dolares-al-mes-amazon-acaba-encontrar-algo-valioso-que-suscripcion-meterla-gratis-tu-tv",
-          "source": "Xataka",
-          "published_at": "2026-08-21T10:01:33Z",
-          "summary": "Amazon llevaba meses intentando convertir Alexa+ en un producto premium. Ahora acaba de hacer algo llamativo: regalar esa tecnología. La compañía ha empezado a incluir Alexa+ sin coste adicional en todos los Fire TV comp…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-21-alexa-costaba-20-dolares-al-mes-amazon-acaba"
         }
       ]
     }
@@ -637,45 +533,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-18-how-nvidia-scales-expertise-with-chatgpt-work"
-        },
-        {
-          "title": "The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T05:30:00Z",
-          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-the-defender-s-window"
-        },
-        {
-          "title": "OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T05:00:00Z",
-          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-openai-joins-ports-pike-project"
-        },
-        {
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI",
-          "published_at": "2026-08-17T03:15:00Z",
-          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-17-new-policy-ideas-for-the-intelligence-age"
         }
       ]
     },
