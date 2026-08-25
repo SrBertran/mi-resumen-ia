@@ -1,78 +1,91 @@
 {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T07:33:44.097402Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T07:22:10.236884Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face",
+      "published_at": "2026-08-25T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-08-25-wire-it-run-it-deploy-it-ai-workflows"
+    },
+    {
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
       "source": "The Verge",
-      "published_at": "2026-08-23T19:14:37Z",
-      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat…",
+      "published_at": "2026-08-24T23:38:10Z",
+      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-23-gta-vi-all-the-news-on-rockstar-s"
+      "id": "theverge-2026-08-24-lenovo-confirms-legion-go-issues-after-gamers-report"
     },
     {
-      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "title": "The cat-and-mouse game over 3D-printed guns has begun",
+      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
       "source": "The Verge",
-      "published_at": "2026-08-23T15:00:00Z",
-      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in…",
+      "published_at": "2026-08-24T19:50:00Z",
+      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-23-we-re-all-going-to-the-world-s"
+      "id": "theverge-2026-08-24-the-cat-and-mouse-game-over-3d-printed-guns-has-begun"
     },
     {
-      "title": "Grand Theft Auto VI exists in its own universe",
-      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
       "source": "The Verge",
-      "published_at": "2026-08-23T12:00:00Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers…",
+      "published_at": "2026-08-24T17:01:05Z",
+      "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its lis…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-23-grand-theft-auto-vi-exists-in-its-own"
+      "id": "theverge-2026-08-24-zillow-and-redfin-settle-ftc-antitrust-case-over"
     },
     {
-      "title": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
-      "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
-      "source": "Xataka",
-      "published_at": "2026-08-23T10:31:33Z",
-      "summary": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde…",
+      "title": "Robotaxis are real now — so is the pushback",
+      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "source": "The Verge",
+      "published_at": "2026-08-24T16:42:37Z",
+      "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-08-23-los-becarios-en-la-banca-ya-vienen-con"
-    },
-    {
-      "title": "La marca de agua de Anthropic era la gran esperanza del profesorado ante las trampas con IA. El entusiasmo solo duró 24 horas",
-      "url": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
-      "source": "Xataka",
-      "published_at": "2026-08-23T08:00:00Z",
-      "summary": "La semana pasada, Anthropic anunciaba la llegada de su marca de agua para los textos generados con Claude, con el fin de cumplir así con la legislación europea . Tras el revuelo causado y las amenazas de bajas en la susc…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-23-la-marca-de-agua-de-anthropic-era-la"
+      "id": "theverge-2026-08-24-robotaxis-are-real-now----so-is-the"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "source": "OpenAI",
+          "published_at": "2026-08-24T12:00:00Z",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-24-advancing-price-performance-for-developers-with-gpt-5-6-in"
+        },
         {
           "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
           "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -215,63 +228,37 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-18-introducing-chatgpt-for-teens-built-for-learning-backed"
-        },
-        {
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T07:00:00Z",
-          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-asana-cleared-5-years-of-engineering-work-in"
-        },
-        {
-          "title": "How NVIDIA scales expertise with ChatGPT Work",
-          "url": "https://openai.com/index/nvidia/chatgpt-work",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T00:00:00Z",
-          "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-how-nvidia-scales-expertise-with-chatgpt-work"
-        },
-        {
-          "title": "Get closer to the game with Gemini and Pixel",
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-          "source": "Google AI",
-          "published_at": "2026-08-17T08:00:00Z",
-          "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-17-get-closer-to-the-game-with-gemini-and"
         }
       ]
     },
     {
-      "name": "Regulación",
+      "name": "Investigación",
       "items": [
         {
-          "title": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
-          "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
-          "source": "Xataka",
-          "published_at": "2026-08-22T15:31:33Z",
-          "summary": "La escena parece sacada de Ally McBeal: un abogado presenta un recurso de apelación ante la Sala de lo Penal del Tribunal Superior de Justicia de Canarias contra un fallo de la Audiencia Provincial de Santa Cruz de Tener…",
+          "title": "Self-Driving Cars Could Someday Take Requests",
+          "url": "https://spectrum.ieee.org/autonomous-vehicles-motion-planner-llm",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-08-24T15:51:45Z",
+          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. The idea of letting a machine do the driving for you may put a lot of people off autonomous vehicles . But research could m…",
           "why_it_matters": "",
           "tags": [
-            "regulación"
+            "investigación"
           ],
-          "category": "regulación",
-          "id": "xataka-2026-08-22-el-tribunal-superior-de-justicia-de-canarias-multa"
+          "category": "investigación",
+          "id": "ieee-2026-08-24-self-driving-cars-could-someday-take-requests"
+        },
+        {
+          "title": "What It Takes to Be an Adaptable Engineer",
+          "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-08-24T14:00:01Z",
+          "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficul…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-08-24-what-it-takes-to-be-an-adaptable-engineer"
         }
       ]
     },
@@ -279,82 +266,186 @@
       "name": "General",
       "items": [
         {
-          "title": "Doodle generative compositions in your browser with Musical Spirograph",
-          "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-          "source": "The Verge",
-          "published_at": "2026-08-22T17:00:00Z",
-          "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-22-doodle-generative-compositions-in-your-browser-with-musical"
-        },
-        {
-          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-          "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-          "source": "The Verge",
-          "published_at": "2026-08-22T15:00:00Z",
-          "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentar…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-22-w-kamau-bell-has-the-most-practical-most"
-        },
-        {
-          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-          "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-          "source": "The Verge",
-          "published_at": "2026-08-22T13:41:01Z",
-          "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-22-amazon-just-hiked-the-prices-for-echo-fire"
-        },
-        {
-          "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-          "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-          "source": "The Verge",
-          "published_at": "2026-08-22T13:00:00Z",
-          "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-22-an-okay-laptop-with-16gb-of-ram-is"
-        },
-        {
-          "title": "Two great new repairable gadgets",
-          "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-          "source": "The Verge",
-          "published_at": "2026-08-22T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-22-two-great-new-repairable-gadgets"
-        },
-        {
-          "title": "LG y Nvidia llegan a un acuerdo para fabricar robots humanoides. Empiezan por unos con ruedas en una fábrica de lavadoras",
-          "url": "https://www.xataka.com/robotica-e-ia/lg-nvidia-llegan-a-acuerdo-para-fabricar-robots-humanoides-empiezan-unos-ruedas-fabrica-lavadoras",
+          "title": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
+          "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
           "source": "Xataka",
-          "published_at": "2026-08-22T10:01:33Z",
-          "summary": "LG ha llegado a un acuerdo con Nvidia para desarrollar robots humanoides, y también para establecer una infraestructura de fábricas basadas en la inteligencia artificial y crear sistemas de vehículos autónomos de última …",
+          "published_at": "2026-08-24T16:31:34Z",
+          "summary": "Delta Air Lines quiere que la inteligencia artificial haga mucho más que recomendar una tarifa cuando alguien proceda a comprar un billete de avión. Su CEO, Ed Bastian, ha confirmado que la aerolínea planea apostar aún m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-22-lg-y-nvidia-llegan-a-un-acuerdo-para"
+          "id": "xataka-2026-08-24-las-aerolineas-estan-a-un-paso-de-empezar"
+        },
+        {
+          "title": "The Witcher 4 developers target a 2028 release",
+          "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+          "source": "The Verge",
+          "published_at": "2026-08-24T15:48:53Z",
+          "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha&#322; Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos o…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-the-witcher-4-developers-target-a-2028-release"
+        },
+        {
+          "title": "Cómo conseguir Gemini Plus gratis durante un año si eres estudiante: qué incluye, requisitos y cómo solicitarlo",
+          "url": "https://www.xataka.com/basics/como-conseguir-gemini-plus-gratis-durante-ano-eres-estudiante-que-incluye-requisitos-como-solicitarlo",
+          "source": "Xataka",
+          "published_at": "2026-08-24T15:28:51Z",
+          "summary": "Vamos a decirte cómo conseguir Gemini Plus gratis durante un año con una promoción que ha lanzado Google para estudiantes. Se trata de un método con el que puedes obtener gratis la suscripción Google AI Plus, valorada en…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-24-como-conseguir-gemini-plus-gratis-durante-un-ano"
+        },
+        {
+          "title": "ESPN streaming plans are getting more expensive",
+          "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+          "source": "The Verge",
+          "published_at": "2026-08-24T15:06:24Z",
+          "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select memb…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-espn-streaming-plans-are-getting-more-expensive"
+        },
+        {
+          "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+          "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+          "source": "The Verge",
+          "published_at": "2026-08-24T14:49:44Z",
+          "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-raspberry-pi-shares-its-official-tutorial-for-making"
+        },
+        {
+          "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+          "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-24T14:04:04Z",
+          "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-apple-s-four-pack-of-second-gen-airtags-is-20"
+        },
+        {
+          "title": "How GoFundMe became America’s backup plan",
+          "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+          "source": "The Verge",
+          "published_at": "2026-08-24T14:00:00Z",
+          "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League unifor…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-how-gofundme-became-america-s-backup-plan"
+        },
+        {
+          "title": "Hacer unos deberes excelentes ya no significa ser un buen estudiante. La culpa es de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/alumnos-que-usan-ia-hacen-mejor-deberes-problema-llega-examenes",
+          "source": "Xataka",
+          "published_at": "2026-08-24T14:00:00Z",
+          "summary": "Que los estudiantes están usando la IA como ayuda para hacer los deberes y trabajos que les encargan es un secreto a voces . La cuestión ya no es si la usan o no (esto se presupone), sino si la IA está teniendo un efecto…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-24-hacer-unos-deberes-excelentes-ya-no-significa-ser"
+        },
+        {
+          "title": "Netflix reportedly considers opening its app to other streamers",
+          "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+          "source": "The Verge",
+          "published_at": "2026-08-24T13:47:14Z",
+          "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-24-netflix-reportedly-considers-opening-its-app-to-other"
+        },
+        {
+          "title": "Ya hay gente nostálgica de la IA del pasado: el pequeño lamento por todo lo que DALL-E 2 nos dio y se perdió por el camino",
+          "url": "https://www.xataka.com/robotica-e-ia/hay-gente-nostalgica-ia-pasado-pequeno-lamento-todo-que-dall-e-2-nos-dio-se-perdio-camino",
+          "source": "Xataka",
+          "published_at": "2026-08-24T12:01:33Z",
+          "summary": "En las últimas semanas se ha extendido por X una comparación entre la misma imagen generada con DALL-E 2 y con modelos posteriores : un bodegón de una galleta mojada en leche, con idéntico prompt en ambos casos. La respu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-24-ya-hay-gente-nostalgica-de-la-ia-del"
+        },
+        {
+          "title": "\"Me equivoqué en muchas cosas, pero sobre todo en una: la economía tiene mucha inercia\": Sam Altman reconoce que las empresas no han adoptado IA tanto como imaginaba",
+          "url": "https://www.xataka.com/robotica-e-ia/me-equivoque-muchas-cosas-todo-economia-tiene-mucha-inercia-sam-altman-reconoce-que-empresas-no-han-adoptado-ia-como-imaginaba",
+          "source": "Xataka",
+          "published_at": "2026-08-24T11:30:00Z",
+          "summary": "Qué ha pasado . Sam Altman pensaba que tras el lanzamiento de GPT-4 muchas cosas iban a cambiar mucho más deprisa. En una conversación reciente con David Senra , el CEO de OpenAI reconoció que \"me equivoqué en unas cuant…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-24-me-equivoque-en-muchas-cosas-pero-sobre-todo"
+        },
+        {
+          "title": "Ox Alpha es el nuevo y misterioso modelo de IA del que todos hablan. Nadie sabe quién está detrás",
+          "url": "https://www.xataka.com/robotica-e-ia/ox-alpha-nuevo-misterioso-modelo-ia-que-todos-hablan-nadie-sabe-quien-esta-detras",
+          "source": "Xataka",
+          "published_at": "2026-08-24T09:31:33Z",
+          "summary": "Se llama Ox Alpha y está disponible (entre otras plataformas) en Open Router como un modelo de IA \"stealth\". No está lanzado oficialmente, y no hay un paper ni una empresa que lo haya hecho &nbsp;suyo. Su capacidad es re…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-24-ox-alpha-es-el-nuevo-y-misterioso-modelo"
+        },
+        {
+          "title": "\"¿Esto cómo se hace?\": en la gran banca internacional, los junior están enseñando a sus jefes a utilizar la IA",
+          "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
+          "source": "Xataka",
+          "published_at": "2026-08-23T10:30:00Z",
+          "summary": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-23-esto-como-se-hace-en-la-gran-banca"
+        },
+        {
+          "title": "Anthropic lanzó una \"marca de agua\" para los textos de Claude. A las 24 horas ya había un manual para borrarla",
+          "url": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
+          "source": "Xataka",
+          "published_at": "2026-08-23T08:00:00Z",
+          "summary": "La semana pasada, Anthropic anunciaba la llegada de su marca de agua para los textos generados con Claude, con el fin de cumplir así con la legislación europea . Tras el revuelo causado y las amenazas de bajas en la susc…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-23-anthropic-lanzo-una-marca-de-agua-para-los"
         }
       ]
     }
@@ -391,6 +482,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "source": "OpenAI",
+          "published_at": "2026-08-24T12:00:00Z",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-24-advancing-price-performance-for-developers-with-gpt-5-6-in"
+        },
         {
           "title": "Introducing AI Futures",
           "url": "https://openai.com/index/introducing-ai-futures",
@@ -507,32 +611,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-18-introducing-chatgpt-for-teens-built-for-learning-backed"
-        },
-        {
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T07:00:00Z",
-          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-asana-cleared-5-years-of-engineering-work-in"
-        },
-        {
-          "title": "How NVIDIA scales expertise with ChatGPT Work",
-          "url": "https://openai.com/index/nvidia/chatgpt-work",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T00:00:00Z",
-          "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-how-nvidia-scales-expertise-with-chatgpt-work"
         }
       ]
     },
@@ -571,19 +649,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-19-5-new-ways-to-level-up-your-learning"
-        },
-        {
-          "title": "Get closer to the game with Gemini and Pixel",
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-          "source": "Google AI",
-          "published_at": "2026-08-17T08:00:00Z",
-          "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-17-get-closer-to-the-game-with-gemini-and"
         }
       ]
     },
