@@ -1,78 +1,156 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T07:22:10.236884Z",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T07:21:53.892460Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face",
-      "published_at": "2026-08-25T00:00:00Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-08-25-wire-it-run-it-deploy-it-ai-workflows"
-    },
-    {
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
       "source": "The Verge",
-      "published_at": "2026-08-24T23:38:10Z",
-      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that …",
+      "published_at": "2026-08-25T22:20:17Z",
+      "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-24-lenovo-confirms-legion-go-issues-after-gamers-report"
+      "id": "theverge-2026-08-25-garmin-s-new-fenix-9-adds-brighter-screens"
     },
     {
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "title": "Trump is upping the price of Big Tech’s favorite visa",
+      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
       "source": "The Verge",
-      "published_at": "2026-08-24T19:50:00Z",
-      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evo…",
+      "published_at": "2026-08-25T21:45:00Z",
+      "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-24-the-cat-and-mouse-game-over-3d-printed-guns-has-begun"
+      "id": "theverge-2026-08-25-trump-is-upping-the-price-of-big-tech"
     },
     {
-      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-08-24T17:01:05Z",
-      "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its lis…",
+      "published_at": "2026-08-25T20:38:37Z",
+      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-24-zillow-and-redfin-settle-ftc-antitrust-case-over"
+      "id": "theverge-2026-08-25-at-just-8-you-owe-it-to-yourself"
     },
     {
-      "title": "Robotaxis are real now — so is the pushback",
-      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "title": "The Witcher 3 is getting a remaster",
+      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
       "source": "The Verge",
-      "published_at": "2026-08-24T16:42:37Z",
-      "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City a…",
+      "published_at": "2026-08-25T20:24:24Z",
+      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvemen…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-24-robotaxis-are-real-now----so-is-the"
+      "id": "theverge-2026-08-25-the-witcher-3-is-getting-a-remaster"
+    },
+    {
+      "title": "Dreame’s dream of a rocket-powered car is dead",
+      "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+      "source": "The Verge",
+      "published_at": "2026-08-25T18:52:53Z",
+      "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's aut…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-25-dreame-s-dream-of-a-rocket-powered-car-is"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "source": "Google AI",
+          "published_at": "2026-08-25T16:00:00Z",
+          "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-25-5-ways-to-upgrade-your-home-decor-with"
+        },
+        {
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T07:05:00Z",
+          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T07:00:00Z",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-jalapeno-s-first-results-show-industry-leading-speed-and"
+        },
+        {
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-disrupting-a-new-covert-influence-campaign-from-russia"
+        },
+        {
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "url": "https://openai.com/index/introducing-admin-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-introducing-the-admin-plugin-for-chatgpt-work-and"
+        },
+        {
+          "title": "Funding better evaluations of AI’s impact on wellbeing",
+          "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+          "source": "Anthropic",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "Funding better evaluations of AI’s impact on wellbeing",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-25-funding-better-evaluations-of-ai-s-impact-on"
+        },
         {
           "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
           "url": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -150,90 +228,43 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-08-19-5-new-ways-to-level-up-your-learning"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI",
-          "published_at": "2026-08-19T07:00:00Z",
-          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "title": "\"Es como una droga\": los agentes de IA nunca duermen, así que los fundadores de las startups tampoco",
+          "url": "https://www.xataka.com/robotica-e-ia/como-droga-agentes-ia-nunca-duermen-asi-que-fundadores-startups-tampoco",
+          "source": "Xataka",
+          "published_at": "2026-08-25T15:01:03Z",
+          "summary": "2026 ha sido el año de los agentes. Todo empezó con el éxito viral de OpenClaw y pocos meses después las empresas se llenaron de agentes de IA (tantos, que ha llegado a ser un problema ). Los agentes no duermen, pueden e…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-19-replit-expands-access-to-software-creation-with-gpt-5"
-        },
-        {
-          "title": "ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T22:00:00Z",
-          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-chatgpt-ads-expands-across-europe"
-        },
-        {
-          "title": "Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T19:00:00Z",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-strengthening-democratic-oversight-in-national-security"
-        },
-        {
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-partnering-with-codeai-to-prepare-the-first-ai"
-        },
-        {
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-pacing-model-development-in-an-era-of-cyber-critical"
-        },
-        {
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-introducing-chatgpt-for-teens-built-for-learning-backed"
+          "category": "negocio",
+          "id": "xataka-2026-08-25-es-como-una-droga-los-agentes-de-ia"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+          "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-08-25T10:00:03Z",
+          "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke t…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-08-25-ai-companion-robots-are-closing-the-human-connection"
+        },
         {
           "title": "Self-Driving Cars Could Someday Take Requests",
           "url": "https://spectrum.ieee.org/autonomous-vehicles-motion-planner-llm",
@@ -263,33 +294,155 @@
       ]
     },
     {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "source": "Hugging Face",
+          "published_at": "2026-08-25T15:14:14Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-25-granite-4-2-llms-how-they-re-built"
+        },
+        {
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "source": "Hugging Face",
+          "published_at": "2026-08-25T11:39:24Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-25-quantization-aware-healing-a-compressed-4-bit-model-that-outperforms"
+        },
+        {
+          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "source": "Hugging Face",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-08-25-wire-it-run-it-deploy-it-ai-workflows"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
+          "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
+          "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+          "source": "The Verge",
+          "published_at": "2026-08-25T18:16:29Z",
+          "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-25-take-a-look-at-microsoft-8217-s-new"
+        },
+        {
+          "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+          "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-25T17:39:20Z",
+          "summary": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact B…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-25-bose-s-smallest-bluetooth-speaker-is-a-great"
+        },
+        {
+          "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+          "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+          "source": "The Verge",
+          "published_at": "2026-08-25T17:20:00Z",
+          "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in S…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-25-gamescom-opening-night-live-2026-the-biggest-announcements"
+        },
+        {
+          "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+          "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+          "source": "The Verge",
+          "published_at": "2026-08-25T17:12:31Z",
+          "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-25-instagram-s-first-draft-trims-your-reels-clips"
+        },
+        {
+          "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+          "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+          "source": "The Verge",
+          "published_at": "2026-08-25T16:58:53Z",
+          "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-25-nothing-os-5-0-brings-a-new-glyph"
+        },
+        {
+          "title": "En las entrevistas de Anthropic preguntan qué harías si la acción se va a cero por no construir IA peligrosa. No hay contraoferta",
+          "url": "https://www.xataka.com/robotica-e-ia/entrevistas-anthropic-preguntan-que-harias-accion-se-va-a-cero-no-construir-ia-peligrosa-no-hay-contraoferta",
+          "source": "Xataka",
+          "published_at": "2026-08-25T15:31:04Z",
+          "summary": "Anthropic ha colado en sus entrevistas de trabajo una pregunta de dinero, no de código : cómo te sentirías si la empresa decidiera, por seguridad, frenar su ambición con la IA y la acción se fuera a cero. Según Axios, Da…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-25-en-las-entrevistas-de-anthropic-preguntan-que-harias"
+        },
+        {
+          "title": "Un hombre quería tener el control total sobre una tableta Amazon, algo que parecía imposible. Hasta que apareció la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/mi-dispositivo-asi-como-tres-modelos-ia-liberaron-tablet-amazon-que-parecia-imposible-rootear",
+          "source": "Xataka",
+          "published_at": "2026-08-25T09:30:00Z",
+          "summary": "Eric Pardee se compró una Fire HD 10 en 2021 por 114 dólares y la utilizaba sobre todo como panel táctil permanente para control de la domótica de su hogar a través de la plataforma Home Assistant.&nbsp; Con el tiempo de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-25-un-hombre-queria-tener-el-control-total-sobre"
+        },
+        {
+          "title": "EEUU está experimentando ya con el futuro que nos espera a todos: precios personalizados en los billetes de avión",
           "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
           "source": "Xataka",
-          "published_at": "2026-08-24T16:31:34Z",
+          "published_at": "2026-08-24T16:30:00Z",
           "summary": "Delta Air Lines quiere que la inteligencia artificial haga mucho más que recomendar una tarifa cuando alguien proceda a comprar un billete de avión. Su CEO, Ed Bastian, ha confirmado que la aerolínea planea apostar aún m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-24-las-aerolineas-estan-a-un-paso-de-empezar"
-        },
-        {
-          "title": "The Witcher 4 developers target a 2028 release",
-          "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-          "source": "The Verge",
-          "published_at": "2026-08-24T15:48:53Z",
-          "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha&#322; Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-the-witcher-4-developers-target-a-2028-release"
+          "id": "xataka-2026-08-24-eeuu-esta-experimentando-ya-con-el-futuro-que"
         },
         {
           "title": "Cómo conseguir Gemini Plus gratis durante un año si eres estudiante: qué incluye, requisitos y cómo solicitarlo",
@@ -305,59 +458,7 @@
           "id": "xataka-2026-08-24-como-conseguir-gemini-plus-gratis-durante-un-ano"
         },
         {
-          "title": "ESPN streaming plans are getting more expensive",
-          "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-          "source": "The Verge",
-          "published_at": "2026-08-24T15:06:24Z",
-          "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select memb…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-espn-streaming-plans-are-getting-more-expensive"
-        },
-        {
-          "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-          "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-          "source": "The Verge",
-          "published_at": "2026-08-24T14:49:44Z",
-          "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-raspberry-pi-shares-its-official-tutorial-for-making"
-        },
-        {
-          "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-          "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-08-24T14:04:04Z",
-          "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-apple-s-four-pack-of-second-gen-airtags-is-20"
-        },
-        {
-          "title": "How GoFundMe became America’s backup plan",
-          "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-          "source": "The Verge",
-          "published_at": "2026-08-24T14:00:00Z",
-          "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League unifor…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-how-gofundme-became-america-s-backup-plan"
-        },
-        {
-          "title": "Hacer unos deberes excelentes ya no significa ser un buen estudiante. La culpa es de la IA",
+          "title": "La IA está permitiendo a los estudiantes sacar mejores notas que nunca en los deberes. Hasta que llegan al examen",
           "url": "https://www.xataka.com/robotica-e-ia/alumnos-que-usan-ia-hacen-mejor-deberes-problema-llega-examenes",
           "source": "Xataka",
           "published_at": "2026-08-24T14:00:00Z",
@@ -367,36 +468,23 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-24-hacer-unos-deberes-excelentes-ya-no-significa-ser"
+          "id": "xataka-2026-08-24-la-ia-esta-permitiendo-a-los-estudiantes-sacar"
         },
         {
-          "title": "Netflix reportedly considers opening its app to other streamers",
-          "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-          "source": "The Verge",
-          "published_at": "2026-08-24T13:47:14Z",
-          "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-24-netflix-reportedly-considers-opening-its-app-to-other"
-        },
-        {
-          "title": "Ya hay gente nostálgica de la IA del pasado: el pequeño lamento por todo lo que DALL-E 2 nos dio y se perdió por el camino",
+          "title": "La IA ya genera imágenes y vídeos perfectos, así que ha empezado el ciclo de la nostalgia: echamos de menos DALL-E 2",
           "url": "https://www.xataka.com/robotica-e-ia/hay-gente-nostalgica-ia-pasado-pequeno-lamento-todo-que-dall-e-2-nos-dio-se-perdio-camino",
           "source": "Xataka",
-          "published_at": "2026-08-24T12:01:33Z",
+          "published_at": "2026-08-24T12:00:00Z",
           "summary": "En las últimas semanas se ha extendido por X una comparación entre la misma imagen generada con DALL-E 2 y con modelos posteriores : un bodegón de una galleta mojada en leche, con idéntico prompt en ambos casos. La respu…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-24-ya-hay-gente-nostalgica-de-la-ia-del"
+          "id": "xataka-2026-08-24-la-ia-ya-genera-imagenes-y-videos-perfectos"
         },
         {
-          "title": "\"Me equivoqué en muchas cosas, pero sobre todo en una: la economía tiene mucha inercia\": Sam Altman reconoce que las empresas no han adoptado IA tanto como imaginaba",
+          "title": "Sam Altman, sobre la poca penetración de la IA: \"Me equivoqué en muchas cosas, pero sobre todo en que la economía tiene mucha inercia\"",
           "url": "https://www.xataka.com/robotica-e-ia/me-equivoque-muchas-cosas-todo-economia-tiene-mucha-inercia-sam-altman-reconoce-que-empresas-no-han-adoptado-ia-como-imaginaba",
           "source": "Xataka",
           "published_at": "2026-08-24T11:30:00Z",
@@ -406,46 +494,20 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-24-me-equivoque-en-muchas-cosas-pero-sobre-todo"
+          "id": "xataka-2026-08-24-sam-altman-sobre-la-poca-penetracion-de-la"
         },
         {
-          "title": "Ox Alpha es el nuevo y misterioso modelo de IA del que todos hablan. Nadie sabe quién está detrás",
+          "title": "Se llama Ox Alpha, es el nuevo modelo de IA causando sensación y nadie sabe quién está detrás de él",
           "url": "https://www.xataka.com/robotica-e-ia/ox-alpha-nuevo-misterioso-modelo-ia-que-todos-hablan-nadie-sabe-quien-esta-detras",
           "source": "Xataka",
-          "published_at": "2026-08-24T09:31:33Z",
+          "published_at": "2026-08-24T09:30:00Z",
           "summary": "Se llama Ox Alpha y está disponible (entre otras plataformas) en Open Router como un modelo de IA \"stealth\". No está lanzado oficialmente, y no hay un paper ni una empresa que lo haya hecho &nbsp;suyo. Su capacidad es re…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-08-24-ox-alpha-es-el-nuevo-y-misterioso-modelo"
-        },
-        {
-          "title": "\"¿Esto cómo se hace?\": en la gran banca internacional, los junior están enseñando a sus jefes a utilizar la IA",
-          "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
-          "source": "Xataka",
-          "published_at": "2026-08-23T10:30:00Z",
-          "summary": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-23-esto-como-se-hace-en-la-gran-banca"
-        },
-        {
-          "title": "Anthropic lanzó una \"marca de agua\" para los textos de Claude. A las 24 horas ya había un manual para borrarla",
-          "url": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
-          "source": "Xataka",
-          "published_at": "2026-08-23T08:00:00Z",
-          "summary": "La semana pasada, Anthropic anunciaba la llegada de su marca de agua para los textos generados con Claude, con el fin de cumplir así con la legislación europea . Tras el revuelo causado y las amenazas de bajas en la susc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-23-anthropic-lanzo-una-marca-de-agua-para-los"
+          "id": "xataka-2026-08-24-se-llama-ox-alpha-es-el-nuevo-modelo"
         }
       ]
     }
@@ -482,6 +544,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T07:05:00Z",
+          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T07:00:00Z",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-jalapeno-s-first-results-show-industry-leading-speed-and"
+        },
+        {
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-disrupting-a-new-covert-influence-campaign-from-russia"
+        },
+        {
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "url": "https://openai.com/index/introducing-admin-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-25-introducing-the-admin-plugin-for-chatgpt-work-and"
+        },
         {
           "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
           "url": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -533,84 +647,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-19-offering-zero-data-retention-for-frontier-models"
-        },
-        {
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI",
-          "published_at": "2026-08-19T07:00:00Z",
-          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-19-replit-expands-access-to-software-creation-with-gpt-5"
-        },
-        {
-          "title": "ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T22:00:00Z",
-          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-chatgpt-ads-expands-across-europe"
-        },
-        {
-          "title": "Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T19:00:00Z",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-strengthening-democratic-oversight-in-national-security"
-        },
-        {
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-partnering-with-codeai-to-prepare-the-first-ai"
-        },
-        {
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-pacing-model-development-in-an-era-of-cyber-critical"
-        },
-        {
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI",
-          "published_at": "2026-08-18T11:00:00Z",
-          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-18-introducing-chatgpt-for-teens-built-for-learning-backed"
         }
       ]
     },
@@ -619,17 +655,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "How Claude’s text watermark works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "title": "Funding better evaluations of AI’s impact on wellbeing",
+          "url": "https://www.anthropic.com/news/wellbeing-research-grants",
           "source": "Anthropic",
-          "published_at": "2026-08-14T00:00:00Z",
-          "summary": "How Claude’s text watermark works",
+          "published_at": "2026-08-25T00:00:00Z",
+          "summary": "Funding better evaluations of AI’s impact on wellbeing",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-08-14-how-claude-s-text-watermark-works"
+          "id": "anthropic-2026-08-25-funding-better-evaluations-of-ai-s-impact-on"
         }
       ]
     },
@@ -637,6 +673,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "source": "Google AI",
+          "published_at": "2026-08-25T16:00:00Z",
+          "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-08-25-5-ways-to-upgrade-your-home-decor-with"
+        },
         {
           "title": "5 new ways to level up your learning with Search",
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
