@@ -1,78 +1,91 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T17:42:48.192204Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T09:43:42.263711Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
-      "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
-      "source": "Xataka",
-      "published_at": "2026-08-27T16:45:04Z",
-      "summary": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico ' Código Fuente: Mis inicios ', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar u…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-27-bill-gates-exige-que-la-ia-pague-impuestos"
-    },
-    {
-      "title": "Speedo’s new smart goggles module can track all four swim strokes",
-      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
       "source": "The Verge",
-      "published_at": "2026-08-27T16:18:51Z",
-      "summary": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system …",
+      "published_at": "2026-08-28T03:14:06Z",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The la…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-27-speedo-s-new-smart-goggles-module-can-track"
+      "id": "theverge-2026-08-28-anthropic-was-illegally-blacklisted-by-the-trump-administration"
     },
     {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "source": "The Verge",
-      "published_at": "2026-08-27T16:15:52Z",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately,…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-08-27-jensen-huang-says-nvidia-achieved-agi-again---"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "DeepMind",
-      "published_at": "2026-08-27T16:11:32Z",
-      "summary": "Qué pasó: (resumen pendiente)",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "published_at": "2026-08-28T02:00:00Z",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "why_it_matters": "",
       "tags": [
         "producto"
       ],
       "category": "lanzamientos",
-      "id": "deepmind-2026-08-27-gemini-omni-1-1-flash-lets-you-build"
+      "id": "openai-2026-08-28-supporting-thailand-s-next-generation-of-ai-startups"
     },
     {
-      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
       "source": "The Verge",
-      "published_at": "2026-08-27T16:00:00Z",
-      "summary": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II -…",
+      "published_at": "2026-08-28T01:05:18Z",
+      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-27-sony-finally-has-a-cheaper-oled-to-compete"
+      "id": "theverge-2026-08-28-the-gta-vi-extended-look-is-now-streaming"
+    },
+    {
+      "title": "The biggest video game of all time looks like a movie",
+      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "source": "The Verge",
+      "published_at": "2026-08-27T23:20:00Z",
+      "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-27-the-biggest-video-game-of-all-time-looks"
+    },
+    {
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "source": "The Verge",
+      "published_at": "2026-08-27T21:37:45Z",
+      "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Th…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-27-meta-addresses-pervert-glasses-reputation-with-a-privacy"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "source": "DeepMind",
+          "published_at": "2026-08-27T16:11:32Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-08-27-gemini-omni-1-1-flash-lets-you-build"
+        },
         {
           "title": "3 new ways to plan and book travel in Search",
           "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -124,6 +137,32 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-27-expanding-openai-s-presence-in-brazil"
+        },
+        {
+          "title": "Expanding our support for scientists",
+          "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+          "source": "Anthropic",
+          "published_at": "2026-08-27T00:00:00Z",
+          "summary": "Expanding our support for scientists",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-27-expanding-our-support-for-scientists"
+        },
+        {
+          "title": "Previewing the Model Hardware Standard",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "source": "Anthropic",
+          "published_at": "2026-08-27T00:00:00Z",
+          "summary": "Previewing the Model Hardware Standard",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-27-previewing-the-model-hardware-standard"
         },
         {
           "title": "Intelligent transcription with Gemini 3.5 Transcribe",
@@ -333,64 +372,98 @@
       ]
     },
     {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-          "source": "Hugging Face",
-          "published_at": "2026-08-26T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-26-training-and-finetuning-multi-vector-embedding-models-with-sentence"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "Americans are cheering for vigilantes who take down Flock cameras",
-          "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
           "source": "The Verge",
-          "published_at": "2026-08-27T15:49:47Z",
-          "summary": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes th…",
+          "published_at": "2026-08-27T20:01:56Z",
+          "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-27-americans-are-cheering-for-vigilantes-who-take-down"
+          "id": "theverge-2026-08-27-gta-vi-all-the-news-on-rockstar-s"
         },
         {
-          "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
-          "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+          "title": "GTA VI looks just as great as we could hope for",
+          "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
           "source": "The Verge",
-          "published_at": "2026-08-27T14:58:33Z",
-          "summary": "The latest special-edition of Google's Fitbit Air is inspired by the Pok&#233;mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and …",
+          "published_at": "2026-08-27T19:49:57Z",
+          "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-27-google-launches-pokemon-sleep-special-edition-fitbit-air"
+          "id": "theverge-2026-08-27-gta-vi-looks-just-as-great-as-we"
         },
         {
-          "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
-          "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+          "title": "Google’s AI note-taking app now allows you to interact with books",
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
           "source": "The Verge",
-          "published_at": "2026-08-27T14:55:20Z",
-          "summary": "As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo's VP of Onboard Softwar…",
+          "published_at": "2026-08-27T19:30:00Z",
+          "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Noteboo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-27-in-a-swipe-at-tesla-waymo-says-cameras"
+          "id": "theverge-2026-08-27-google-s-ai-note-taking-app-now-allows-you"
+        },
+        {
+          "title": "Google tells Android app developers to cool it on memory use, or else",
+          "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+          "source": "The Verge",
+          "published_at": "2026-08-27T18:33:11Z",
+          "summary": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage r…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-27-google-tells-android-app-developers-to-cool-it"
+        },
+        {
+          "title": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
+          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
+          "source": "Xataka",
+          "published_at": "2026-08-27T16:45:04Z",
+          "summary": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico ' Código Fuente: Mis inicios ', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar u…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-27-bill-gates-exige-que-la-ia-pague-impuestos"
+        },
+        {
+          "title": "Speedo’s new smart goggles module can track all four swim strokes",
+          "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+          "source": "The Verge",
+          "published_at": "2026-08-27T16:18:51Z",
+          "summary": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-27-speedo-s-new-smart-goggles-module-can-track"
+        },
+        {
+          "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+          "source": "The Verge",
+          "published_at": "2026-08-27T16:15:52Z",
+          "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-27-jensen-huang-says-nvidia-achieved-agi-again---"
         },
         {
           "title": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
@@ -404,32 +477,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-27-eeuu-tiene-los-modelos-mas-caros-y-capaces"
-        },
-        {
-          "title": "Orchestration is the new challenge for CX in the age of AI agents",
-          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-          "source": "VentureBeat",
-          "published_at": "2026-08-27T14:30:00Z",
-          "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-08-27-orchestration-is-the-new-challenge-for-cx-in"
-        },
-        {
-          "title": "If Meta&#8217;s going down, it’s taking TikTok and YouTube with it",
-          "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap",
-          "source": "The Verge",
-          "published_at": "2026-08-27T14:24:29Z",
-          "summary": "Meta might be on the hook for $17.1 billion and a host of app changes under a new kids safety settlement, but it's already spinning the deal to its advantage. After years of being the national punching bag for social med…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-27-if-meta-8217-s-going-down-it-s"
         },
         {
           "title": "Wall Street está haciendo con la deuda de los centros de datos lo mismo que hizo con las hipotecas basura antes de 2008",
@@ -458,32 +505,6 @@
           "id": "venturebeat-2026-08-27-enterprise-ai-s-real-risk-isn-t-autonomous"
         },
         {
-          "title": "OpenAI&#8217;s executive exodus has one big winner",
-          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-          "source": "The Verge",
-          "published_at": "2026-08-27T14:00:00Z",
-          "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg B…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-27-openai-8217-s-executive-exodus-has-one-big"
-        },
-        {
-          "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-          "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-          "source": "The Verge",
-          "published_at": "2026-08-27T13:44:00Z",
-          "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-27-hugging-face-s-new-robot-is-an-adorable"
-        },
-        {
           "title": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
           "url": "https://www.xataka.com/videojuegos/nvidia-lanza-dlss-4-5-ray-reconstruction-asi-nueva-ia-que-mejora-imagen-tus-juegos-tener-que-cambiar-grafica",
           "source": "Xataka",
@@ -508,19 +529,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-27-mark-zuckerberg-quiso-convertir-a-meta-en-nativa"
-        },
-        {
-          "title": "Plaud is launching AI earbuds",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-          "source": "The Verge",
-          "published_at": "2026-08-27T13:11:23Z",
-          "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like tradi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-27-plaud-is-launching-ai-earbuds"
         },
         {
           "title": "When agents act on their own, governance has to live in the data layer",
@@ -586,6 +594,19 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-26-taiwan-acusa-a-ocho-personas-por-el-presunto"
+        },
+        {
+          "title": "Orchestration is the new challenge for CX in the age of AI agents",
+          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+          "source": "VentureBeat",
+          "published_at": "2026-08-26T14:30:00Z",
+          "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "venturebeat-2026-08-26-orchestration-is-the-new-challenge-for-cx-in"
         }
       ]
     }
@@ -622,6 +643,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "source": "OpenAI",
+          "published_at": "2026-08-28T02:00:00Z",
+          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-08-28-supporting-thailand-s-next-generation-of-ai-startups"
+        },
         {
           "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
           "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -771,6 +805,32 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Expanding our support for scientists",
+          "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+          "source": "Anthropic",
+          "published_at": "2026-08-27T00:00:00Z",
+          "summary": "Expanding our support for scientists",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-27-expanding-our-support-for-scientists"
+        },
+        {
+          "title": "Previewing the Model Hardware Standard",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "source": "Anthropic",
+          "published_at": "2026-08-27T00:00:00Z",
+          "summary": "Previewing the Model Hardware Standard",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-08-27-previewing-the-model-hardware-standard"
+        },
         {
           "title": "Funding better evaluations of AI’s impact on wellbeing",
           "url": "https://www.anthropic.com/news/wellbeing-research-grants",
