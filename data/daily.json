@@ -1,72 +1,72 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T06:39:51.278831Z",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T06:41:19.878005Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Google further buries search results under AI mode",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
       "source": "The Verge",
-      "published_at": "2026-08-28T22:48:11Z",
-      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from…",
+      "published_at": "2026-08-29T20:59:26Z",
+      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-28-google-further-buries-search-results-under-ai-mode"
+      "id": "theverge-2026-08-29-vicariously-hike-the-appalachian-in-the-gorgeous-a"
     },
     {
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
       "source": "The Verge",
-      "published_at": "2026-08-28T22:03:13Z",
-      "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of …",
+      "published_at": "2026-08-29T19:49:59Z",
+      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-28-xbox-ceo-calls-project-helix-a-family-of"
+      "id": "theverge-2026-08-29-alt-right-troll-milo-yiannopoulos-has-been-deported"
     },
     {
-      "title": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
-      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
-      "source": "Xataka",
-      "published_at": "2026-08-28T19:01:04Z",
-      "summary": "TeraWulf ha recibido luz verde por parte de los reguladores para desarrollar un enorme campus de centros de datos de IA construido en lo que antes era una fundición de aluminio en Kentucky, Estados Unidos. El coste del p…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-28-de-enorme-fabrica-de-aluminio-a-centro-de"
-    },
-    {
-      "title": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
-      "source": "Xataka",
-      "published_at": "2026-08-28T18:46:59Z",
-      "summary": "Los gurús de la IA nos contaron que esta tecnología iba a permitirnos trabajar menos horas , liberarnos de las tareas aburridas y rutinarias y a darnos tiempo para lo realmente importante. La promesa sonaba bien, pero ha…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-08-28-la-ia-prometia-reducir-la-jornada-laboral-de"
-    },
-    {
-      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge",
-      "published_at": "2026-08-28T17:03:07Z",
-      "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already l…",
+      "published_at": "2026-08-29T18:19:53Z",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-08-28-save-hundreds-on-a-tcl-mini-led-tv-with"
+      "id": "theverge-2026-08-29-sony-music-and-warner-chappell-are-suing-anthropic"
+    },
+    {
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "source": "The Verge",
+      "published_at": "2026-08-29T16:01:13Z",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-29-distraction-free-writing-gadget-byok-is-adding-custom-extensions"
+    },
+    {
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "source": "The Verge",
+      "published_at": "2026-08-29T15:00:00Z",
+      "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the con…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-08-29-welcome-to-night-vale-cocreator-joseph-fink-learned"
     }
   ],
   "sections": [
@@ -349,69 +349,98 @@
       ]
     },
     {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "¿Por qué Nvidia compra Hugging Face? Entre otras cosas, porque OpenAI ya tiene su primer chip de inferencia propio",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-su-chip-inferencia-se-llama-jalapeno-ha-conseguido-algo-inesperado-superar-a-nvidia",
-          "source": "Xataka",
-          "published_at": "2026-08-27T10:45:00Z",
-          "summary": "OpenAI acaba de sacar pecho con su primer chip de inferencia IA, al que ha bautizado con el curioso nombre de \"Jalapeño\". Este chip acelerador de IA permite ejecutar modelos ya entrenados y generar las respuestas que rec…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-08-27-por-que-nvidia-compra-hugging-face-entre-otras"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-          "source": "Hugging Face",
-          "published_at": "2026-08-28T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-08-28-the-open-asr-leaderboard-adds-its-first-global"
-        }
-      ]
-    },
-    {
       "name": "General",
       "items": [
         {
-          "title": "Trump’s EPA wants to let data centers hide their air pollution",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+          "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+          "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
           "source": "The Verge",
-          "published_at": "2026-08-28T16:28:40Z",
-          "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA p…",
+          "published_at": "2026-08-29T13:00:00Z",
+          "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-28-trump-s-epa-wants-to-let-data-centers"
+          "id": "theverge-2026-08-29-the-galaxy-z-flip-8-is-at-its"
         },
         {
-          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
           "source": "The Verge",
-          "published_at": "2026-08-28T16:22:16Z",
-          "summary": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of …",
+          "published_at": "2026-08-29T12:00:00Z",
+          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of h…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-08-28-dlss-5-leaked-and-modders-are-putting-nvidia"
+          "id": "theverge-2026-08-29-musicians-turned-detectives-are-hunting-for-ai-grifters"
+        },
+        {
+          "title": "Google further buries search results under AI mode",
+          "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+          "source": "The Verge",
+          "published_at": "2026-08-28T22:48:11Z",
+          "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-28-google-further-buries-search-results-under-ai-mode"
+        },
+        {
+          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+          "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+          "source": "The Verge",
+          "published_at": "2026-08-28T22:03:13Z",
+          "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-28-xbox-ceo-calls-project-helix-a-family-of"
+        },
+        {
+          "title": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
+          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
+          "source": "Xataka",
+          "published_at": "2026-08-28T19:01:04Z",
+          "summary": "TeraWulf ha recibido luz verde por parte de los reguladores para desarrollar un enorme campus de centros de datos de IA construido en lo que antes era una fundición de aluminio en Kentucky, Estados Unidos. El coste del p…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-28-de-enorme-fabrica-de-aluminio-a-centro-de"
+        },
+        {
+          "title": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
+          "source": "Xataka",
+          "published_at": "2026-08-28T18:46:59Z",
+          "summary": "Los gurús de la IA nos contaron que esta tecnología iba a permitirnos trabajar menos horas , liberarnos de las tareas aburridas y rutinarias y a darnos tiempo para lo realmente importante. La promesa sonaba bien, pero ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-08-28-la-ia-prometia-reducir-la-jornada-laboral-de"
+        },
+        {
+          "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+          "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-08-28T17:03:07Z",
+          "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already l…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-08-28-save-hundreds-on-a-tcl-mini-led-tv-with"
         },
         {
           "title": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
@@ -427,45 +456,6 @@
           "id": "xataka-2026-08-28-openai-anthropic-y-google-piden-protegernos-de-los"
         },
         {
-          "title": "The iPhone Fold could make concerts even worse",
-          "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-08-28T15:26:19Z",
-          "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the bi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-28-the-iphone-fold-could-make-concerts-even-worse"
-        },
-        {
-          "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-          "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-          "source": "The Verge",
-          "published_at": "2026-08-28T13:47:36Z",
-          "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-28-apple-tv-now-costs-14-99-a-month"
-        },
-        {
-          "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-          "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-          "source": "The Verge",
-          "published_at": "2026-08-28T12:00:00Z",
-          "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-28-apple-tv-s-sci-fi-thriller-dark-matter-gets"
-        },
-        {
           "title": "700 agentes de OpenAI participaron en el ataque a Hugging Face. Lo inquietante es cómo llegaron a organizarse",
           "url": "https://www.xataka.com/robotica-e-ia/700-agentes-openai-participaron-ataque-a-hugging-face-inquietante-como-llegaron-a-organizarse",
           "source": "Xataka",
@@ -477,123 +467,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-08-28-700-agentes-de-openai-participaron-en-el-ataque"
-        },
-        {
-          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-          "source": "The Verge",
-          "published_at": "2026-08-28T03:14:06Z",
-          "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-28-anthropic-was-illegally-blacklisted-by-the-trump-administration"
-        },
-        {
-          "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-          "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-          "source": "The Verge",
-          "published_at": "2026-08-28T01:05:18Z",
-          "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-08-28-the-gta-vi-extended-look-is-now-streaming"
-        },
-        {
-          "title": "Bill Gates: \"Creo que deberíamos poner impuestos a la IA, si contratas a alguien ahora mismo pagas impuestos sobre su nómina\"",
-          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
-          "source": "Xataka",
-          "published_at": "2026-08-27T16:45:00Z",
-          "summary": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico ' Código Fuente: Mis inicios ', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar u…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-27-bill-gates-creo-que-deberiamos-poner-impuestos-a"
-        },
-        {
-          "title": "Qwen3.8-Flash y DeepSeek V4-Flash apuntan en la misma dirección: la IA china está reventando la relación calidad/precio",
-          "url": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
-          "source": "Xataka",
-          "published_at": "2026-08-27T14:45:00Z",
-          "summary": "Hace pocas semanas se lanzó DeepSeek V4-Flash,&nbsp;y esta semana hemos visto cómo han llegado dos espectaculares modelos más: Qwen3.8-Flash y GLM-5.3-Flash. Todos ellos destacan por ser buenos, bonitos y sobre todo, bar…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-27-qwen3-8-flash-y-deepseek-v4-flash-apuntan-en-la"
-        },
-        {
-          "title": "Los bancos están vendiendo la deuda de los centros de datos junto a planes de pensiones. Es lo mismo que llevó a la crisis de 2008",
-          "url": "https://www.xataka.com/empresas-y-economia/wall-street-esta-buscando-a-quien-colocarle-riesgo-centros-datos-destinatario-tu-fondo-pensiones",
-          "source": "Xataka",
-          "published_at": "2026-08-27T14:15:00Z",
-          "summary": "El Financial Times ha reconstruido cómo se está pagando la construcción de centros de datos y el retrato tiene un aire que nos resulta familiar. Ni siquiera las tecnológicas (con sus decenas de miles de millones en caja)…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-27-los-bancos-estan-vendiendo-la-deuda-de-los"
-        },
-        {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-          "source": "VentureBeat",
-          "published_at": "2026-08-27T14:01:00Z",
-          "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deplo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-08-27-enterprise-ai-s-real-risk-isn-t-autonomous"
-        },
-        {
-          "title": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
-          "url": "https://www.xataka.com/videojuegos/nvidia-lanza-dlss-4-5-ray-reconstruction-asi-nueva-ia-que-mejora-imagen-tus-juegos-tener-que-cambiar-grafica",
-          "source": "Xataka",
-          "published_at": "2026-08-27T13:21:04Z",
-          "summary": "Hace unos meses contábamos qué se traía entre manos Nvidia este año en cuanto a su receta mágica del DLSS en juegos y, finalmente, la compañía ha aprovechado la Gamescom para lanzar la versión DLSS 4.5 con reconstrucción…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-27-nvidia-lanza-dlss-4-5-ray-reconstruction-asi"
-        },
-        {
-          "title": "Mark Zuckerberg quiso demostrar que Meta era más productiva usando IA que con empleados. Ha sido un fiasco para la compañía",
-          "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-quiso-convertir-a-meta-nativa-ia-reduciendo-60-tamano-sus-equipos-ha-sido-completo-desastre",
-          "source": "Xataka",
-          "published_at": "2026-08-27T13:15:00Z",
-          "summary": "En enero, Mark Zuckerberg reunió a su círculo directivo más cercano en su casoplón de Hawái para discutir sobre el futuro de su plantilla . Sobre la mesa tenían un plan con nombre de película de espías: Project OT (de Or…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-08-27-mark-zuckerberg-quiso-demostrar-que-meta-era-mas"
-        },
-        {
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-          "source": "VentureBeat",
-          "published_at": "2026-08-27T12:01:00Z",
-          "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "venturebeat-2026-08-27-when-agents-act-on-their-own-governance-has"
         }
       ]
     }
