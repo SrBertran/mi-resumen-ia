@@ -1,78 +1,143 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T11:27:56.936850Z",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T11:31:01.468051Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "OpenAI y Anthropic tienen un problema: los nuevos modelos baratos de Google y Meta ya son demasiado buenos",
-      "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-tienen-problema-nuevos-modelos-baratos-google-meta-demasiado-buenos",
+      "title": "Why AI food looks like that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "source": "The Verge",
+      "published_at": "2026-09-04T11:00:00Z",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens fro…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-why-ai-food-looks-like-that"
+    },
+    {
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source": "The Verge",
+      "published_at": "2026-09-04T10:44:15Z",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-microsoft-s-project-zenith-is-a-distraction-free-windows"
+    },
+    {
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source": "The Verge",
+      "published_at": "2026-09-04T10:41:48Z",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-sam-altman-apologizes-for-8216-messy-8217-gpt-6"
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "source": "The Verge",
+      "published_at": "2026-09-04T09:41:44Z",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that comb…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-this-nas-company-wants-to-run-your-local"
+    },
+    {
+      "title": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
+      "url": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
       "source": "Xataka",
-      "published_at": "2026-09-03T09:45:49Z",
-      "summary": "La batalla de la IA parecía centrarse en qué modelo era el más inteligente, punto. Ahora empieza a desplazarse a otra métrica: la de la \"inteligencia\" por dólar . Cuánta \"inteligencia\" podemos conseguir con cada dólar qu…",
+      "published_at": "2026-09-04T09:15:36Z",
+      "summary": "Que la inteligencia artificial necesita una enorme cantidad de energía para funcionar no es algo que pille de nuevas. Desde hace meses, la industria está buscando la forma de asegurar el suministro y vemos cómo hay proye…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-03-openai-y-anthropic-tienen-un-problema-los-nuevos"
-    },
-    {
-      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-      "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-      "source": "The Verge",
-      "published_at": "2026-09-03T08:59:09Z",
-      "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to refl…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-03-microsoft-discloses-azure-revenue-as-part-of-major"
-    },
-    {
-      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-      "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-      "source": "The Verge",
-      "published_at": "2026-09-03T08:30:00Z",
-      "summary": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-03-here-s-the-first-4k-120hz-ust-projector"
-    },
-    {
-      "title": "Belkin’s first trackers come ready to attach to your gear.",
-      "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-      "source": "The Verge",
-      "published_at": "2026-09-03T08:00:00Z",
-      "summary": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In additi…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-03-belkin-s-first-trackers-come-ready-to-attach"
-    },
-    {
-      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-      "source": "The Verge",
-      "published_at": "2026-09-03T08:00:00Z",
-      "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-03-belkin-introduces-its-first-longer-lasting-semi-solid-state-power-banks"
+      "id": "xataka-2026-09-04-la-ia-ha-crecido-tan-rapido-que-su"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "source": "DeepMind",
+          "published_at": "2026-09-03T15:02:08Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-03-introducing-weathernext-3-our-most-advanced-and-accurate"
+        },
+        {
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T13:15:00Z",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
+        },
+        {
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+        },
+        {
+          "title": "Safety overview: GPT-6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T00:00:00Z",
+          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-safety-overview-gpt-6-astra"
+        },
         {
           "title": "Proactive cyber defense for governments and enterprises",
           "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -280,77 +345,38 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-08-31-improving-our-alignment-and-security-efforts"
-        },
-        {
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "OpenAI",
-          "published_at": "2026-08-28T06:00:00Z",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-28-our-decision-on-cursor-following-its-acquisition-by"
-        },
-        {
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI",
-          "published_at": "2026-08-28T02:00:00Z",
-          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-28-supporting-thailand-s-next-generation-of-ai-startups"
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash lets you build with more control",
-          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "source": "DeepMind",
-          "published_at": "2026-08-27T16:11:32Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-27-gemini-omni-1-1-flash-lets-you-build"
-        },
-        {
-          "title": "3 new ways to plan and book travel in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-          "source": "Google AI",
-          "published_at": "2026-08-27T16:00:00Z",
-          "summary": "Graphic depicting new travel features for AI Mode in Search",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-27-3-new-ways-to-plan-and-book-travel"
-        },
-        {
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-          "source": "DeepMind",
-          "published_at": "2026-08-27T12:59:16Z",
-          "summary": "Piloting the world's first double-blind AI evaluations",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-27-piloting-the-world-s-first-double-blind-ai-evaluations"
         }
       ]
     },
     {
       "name": "Negocio",
       "items": [
+        {
+          "title": "No hay centros de datos para todos y las startups de la IA tienen una idea: convertir tu tarjeta gráfica en un chatbot",
+          "url": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
+          "source": "Xataka",
+          "published_at": "2026-09-03T15:30:00Z",
+          "summary": "La industria de la IA está llamando a la puerta de una nueva era: la de la inferencia . Si estos últimos años nos ha bombardeado con el entrenamiento y todos los recursos necesarios para llevarlo a cabo ( saqueando Inter…",
+          "why_it_matters": "",
+          "tags": [
+            "negocio"
+          ],
+          "category": "negocio",
+          "id": "xataka-2026-09-03-no-hay-centros-de-datos-para-todos-y"
+        },
+        {
+          "title": "NVIDIA compra Hugging Face por 12.930 millones y entra de lleno en una de las piezas de la IA que todavía no controlaba",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-compra-hugging-face-12-930-millones-entra-lleno-piezas-ia-que-todavia-no-controlaba",
+          "source": "Xataka",
+          "published_at": "2026-09-03T14:30:00Z",
+          "summary": "NVIDIA ha acordado adquirir Hugging Face por 12.930 millones de dólares , una operación que coloca bajo su paraguas una de las plataformas más importantes del ecosistema de modelos abiertos de inteligencia artificial. El…",
+          "why_it_matters": "",
+          "tags": [
+            "negocio"
+          ],
+          "category": "negocio",
+          "id": "xataka-2026-09-03-nvidia-compra-hugging-face-por-12-930-millones"
+        },
         {
           "title": "Una startup valenciana ha captado 125 millones de dólares para una pieza invisible de la IA. Nvidia está dentro",
           "url": "https://www.xataka.com/empresas-y-economia/startup-valenciana-ha-captado-125-millones-dolares-para-pieza-invisible-ia-nvidia-esta-dentro",
@@ -381,51 +407,38 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-09-02-ai-efficiency-could-cost-us-the-next-generation"
-        },
-        {
-          "title": "Ya conocemos lo que contamina la IA. Ahora un estudio dice que puede ayudar a reducir un 10% de las emisiones",
-          "url": "https://www.xataka.com/energia/conocemos-que-contamina-ia-ahora-estudio-dice-que-puede-ayudar-a-reducir-10-emisiones",
-          "source": "Xataka",
-          "published_at": "2026-09-02T07:01:45Z",
-          "summary": "Centros de datos inmensos, un consumo de agua cada vez mayor, toneladas de hardware y una enorme demanda energética… La cara oscura de la IA es tan conocida como su enorme potencial para ayudarnos a ahorrar tiempo y esfu…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "xataka-2026-09-02-ya-conocemos-lo-que-contamina-la-ia-ahora"
-        },
-        {
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
-          "source": "Hugging Face",
-          "published_at": "2026-09-01T21:39:07Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-09-01-benchmirt-what-are-llm-benchmarks-actually-measuring"
-        },
-        {
-          "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
-          "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-01T14:00:03Z",
-          "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hun…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-01-cash-in-on-the-ai-boom-by-renting"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face",
+          "published_at": "2026-09-03T13:13:48Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-03-neomme-an-efficient-multimodal-native-and-multilingual-encoder"
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face",
+          "published_at": "2026-09-03T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-03-fine-tuning-a-350m-model-for-better-structured-outputs"
+        },
         {
           "title": "Give Your Coding Agents a Memory You Own",
           "url": "https://huggingface.co/blog/funes",
@@ -471,82 +484,134 @@
       "name": "General",
       "items": [
         {
-          "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
-          "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-          "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor…",
+          "title": "DLSS 5 desató la polémica por convertir los videojuegos en películas. Lo hemos probado en NBA 2K27 y la realidad es mucho más sutil",
+          "url": "https://www.xataka.com/videojuegos/dlss-5-desato-polemica-convertir-videojuegos-peliculas-hemos-probado-nba-2k27-realidad-mucho-sutil",
+          "source": "Xataka",
+          "published_at": "2026-09-04T08:51:35Z",
+          "summary": "Nvidia lleva meses preparándonos para la llegada de DLSS 5 . Esta nueva versión de su tecnología plantea según la compañía un salto generacional en los gráficos para videojuegos. Durante semanas hemos visto imágenes y ví…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-anker-s-sleep-speaker-uses-radar-and-flower"
+          "id": "xataka-2026-09-04-dlss-5-desato-la-polemica-por-convertir-los"
         },
         {
-          "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
-          "url": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+          "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+          "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
           "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever heard f…",
+          "published_at": "2026-09-04T07:00:00Z",
+          "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-anker-s-soundcore-is-bringing-its-incredible-call"
+          "id": "theverge-2026-09-04-lexar-s-muse-is-an-ultra-slim-portable-ssd"
         },
         {
-          "title": "Anker announces its first over-the-counter hearing aids",
-          "url": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+          "title": "Aqara goes all in on smart lighting",
+          "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
           "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexi…",
+          "published_at": "2026-09-04T07:00:00Z",
+          "summary": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-anker-announces-its-first-over-the-counter-hearing-aids"
+          "id": "theverge-2026-09-04-aqara-goes-all-in-on-smart-lighting"
         },
         {
-          "title": "Anker’s new printer works directly on fabrics",
-          "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+          "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+          "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
           "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print direct…",
+          "published_at": "2026-09-04T07:00:00Z",
+          "summary": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from every…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-anker-s-new-printer-works-directly-on-fabrics"
+          "id": "theverge-2026-09-04-this-rugged-phone-s-removable-camera-can-survive"
         },
         {
-          "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-          "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+          "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
           "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also anno…",
+          "published_at": "2026-09-04T01:49:25Z",
+          "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But u…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-anker-s-new-mindbase-is-an-ai-powered-brain"
+          "id": "theverge-2026-09-04-nvidia-will-officially-bring-dlss-5-to-older"
         },
         {
-          "title": "Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module",
-          "url": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
+          "title": "The unusually muted Tesla Cybercab launch",
+          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
           "source": "The Verge",
-          "published_at": "2026-09-03T07:30:00Z",
-          "summary": "Philips Hue is finally adding wall panels into its smart lighting portfolio. But instead of developing its own, it's partnered with longtime rival Nanoleaf, the company that invented the smart modular wall panel category…",
+          "published_at": "2026-09-04T00:25:06Z",
+          "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless ca…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-03-philips-hue-adds-nanoleaf-8217-s-light-panels"
+          "id": "theverge-2026-09-04-the-unusually-muted-tesla-cybercab-launch"
+        },
+        {
+          "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+          "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+          "source": "The Verge",
+          "published_at": "2026-09-03T23:37:37Z",
+          "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-03-steve-ballmer-got-suspended-by-the-nba-because"
+        },
+        {
+          "title": "GPT-6 Astra llega como el gran salto de OpenAI: puede hacer mucho más por nosotros, pero también será más difícil de supervisar",
+          "url": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-llega-como-gran-salto-openai-puede-hacer-mucho-nosotros-tambien-sera-dificil-supervisar",
+          "source": "Xataka",
+          "published_at": "2026-09-03T19:41:00Z",
+          "summary": "Cuanto más capaz es una inteligencia artificial de trabajar por nosotros, menos queremos tener que vigilar cada uno de sus movimientos. Ahí está precisamente una de las grandes promesas de los agentes: darles un objetivo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-03-gpt-6-astra-llega-como-el-gran-salto-de"
+        },
+        {
+          "title": "Pensábamos que la generación Z iba a impulsar la revolución de la IA en las oficinas: cuanto más la usan, menos creen en ella",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-habia-prometido-revolucionar-trabajo-estudio-revela-que-sus-usuarios-fieles-han-acabado-decepcionados",
+          "source": "Xataka",
+          "published_at": "2026-09-03T16:45:00Z",
+          "summary": "Hace apenas dos años, la IA parecía la gran promesa del trabajo moderno. Los expertos y gurús aseguraban que la implantación de la IA Iba a&nbsp; liberarnos de tareas aburridas , a darnos horas extra de vida y, sobre tod…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-03-pensabamos-que-la-generacion-z-iba-a-impulsar"
+        },
+        {
+          "title": "OpenAI y Anthropic tienen un problema: los nuevos modelos baratos de Google y Meta ya son demasiado buenos",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-tienen-problema-nuevos-modelos-baratos-google-meta-demasiado-buenos",
+          "source": "Xataka",
+          "published_at": "2026-09-03T09:45:49Z",
+          "summary": "La batalla de la IA parecía centrarse en qué modelo era el más inteligente, punto. Ahora empieza a desplazarse a otra métrica: la de la \"inteligencia\" por dólar . Cuánta \"inteligencia\" podemos conseguir con cada dólar qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-03-openai-y-anthropic-tienen-un-problema-los-nuevos"
         },
         {
           "title": "Samsung ha conseguido lo imposible: meter en una lavadora de tamaño “normal” los 13 kg de capacidad",
@@ -560,84 +625,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-02-samsung-ha-conseguido-lo-imposible-meter-en-una"
-        },
-        {
-          "title": "Claude Fable 5.1: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
-          "url": "https://www.xataka.com/basics/claude-fable-5-1-lista-novedades-nueva-version-modelo-inteligencia-artificial-anthropic",
-          "source": "Xataka",
-          "published_at": "2026-09-02T10:16:15Z",
-          "summary": "Vamos a decirte cuáles son las novedades de Claude Fable 5.1 , la nueva versión del modelo de inteligencia artificial más avanzado de Anthropic. Llega apenas tres meses después del lanzamiento de Fable 5 , y sus novedade…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-02-claude-fable-5-1-lista-de-novedades-de"
-        },
-        {
-          "title": "\"No hay lenguaje ahí fuera”: Atlas quiere hacer con el mundo físico lo que los LLM hicieron con internet",
-          "url": "https://www.xataka.com/robotica-e-ia/no-hay-lenguaje-ahi-fuera-atlas-quiere-hacer-mundo-fisico-que-llm-hicieron-internet",
-          "source": "Xataka",
-          "published_at": "2026-09-02T09:20:16Z",
-          "summary": "Uno se pasa por el anuncio oficial de Atlas y la cosa no parece para tanto. Hace ya tiempo que los modelos de IA generativa de vídeo son capaces de crear todo tipo de escenas con un realismo fantástico. Sin embargo este …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-02-no-hay-lenguaje-ahi-fuera-atlas-quiere-hacer"
-        },
-        {
-          "title": "Anthropic acaba de lanzar Fable 5.1, su modelo de IA más potente. Hay un problema: no se atreve a dejarnos utilizarlo entero",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-fable-5-1-su-modelo-ia-potente-hay-problema-no-se-atreve-a-dejarnos-utilizarlo-entero",
-          "source": "Xataka",
-          "published_at": "2026-09-02T07:14:00Z",
-          "summary": "Anthropic acaba de presentar Claude Fable 5.1 , que sobre el papel es su modelo más capaz hasta la fecha. En la evaluación independiente de Artificial Analysis alcanza 66 puntos, por delante de los 63 de Opus 5 o los 61 …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-02-anthropic-acaba-de-lanzar-fable-5-1-su"
-        },
-        {
-          "title": "Huawei quiere llevar su IA mucho más allá de los móviles: ahora busca hacerse un hueco en el desarrollo de nuevos medicamentos",
-          "url": "https://www.xataka.com/empresas-y-economia/huawei-quiere-llevar-su-ia-mucho-alla-moviles-ahora-busca-hacerse-hueco-desarrollo-nuevos-medicamentos",
-          "source": "Xataka",
-          "published_at": "2026-09-01T19:31:45Z",
-          "summary": "Huawei hace tiempo que dejó de ser solo esa marca que muchos asociamos a móviles, antenas y equipos de red. En los últimos años, en un contexto de restricciones de EEUU y apuesta china por reforzar tecnologías propias, l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-01-huawei-quiere-llevar-su-ia-mucho-mas-alla"
-        },
-        {
-          "title": "Ha nacido el \"Claudés\", el dialecto que sólo entienden quienes se pasan el día hablando con sus agentes de IA",
-          "url": "https://www.xataka.com/robotica-e-ia/ha-nacido-claudes-dialecto-que-solo-entienden-quienes-se-pasan-dia-hablando-sus-agentes-ia",
-          "source": "Xataka",
-          "published_at": "2026-09-01T15:31:45Z",
-          "summary": "Hay un nuevo dialecto circulando en la industria tech, uno que sólo entienden quienes trabajan constantemente con agentes de IA. \"Tienes razón al oponerte. Mi error no fue periférico; fue fundacional\" es el tipo de frase…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-01-ha-nacido-el-claudes-el-dialecto-que-solo"
-        },
-        {
-          "title": "Nvidia acaba de invertir 3.500 millones en MediaTek. Curiosamente, para ayudar a crear alternativas a sus propias GPU",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-acaba-invertir-3-500-millones-mediatek-curiosamente-para-ayudar-a-crear-alternativas-a-sus-propias-gpu",
-          "source": "Xataka",
-          "published_at": "2026-09-01T14:45:45Z",
-          "summary": "Nvidia está poniendo más dinero a trabajar,&nbsp;esta vez&nbsp;en la empresa que podría acabar&nbsp;convirtiéndose en&nbsp;su propia competencia.&nbsp;Y es que este&nbsp;lunes,&nbsp;la compañía anunciaba &nbsp;un acuerdo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-01-nvidia-acaba-de-invertir-3-500-millones-en"
         }
       ]
     }
@@ -674,6 +661,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T13:15:00Z",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
+        },
+        {
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+        },
+        {
+          "title": "Safety overview: GPT-6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T00:00:00Z",
+          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-safety-overview-gpt-6-astra"
+        },
         {
           "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "url": "https://openai.com/index/atv-big-air-tour",
@@ -777,32 +816,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-08-31-a-milestone-in-expanding-access-to-ai"
-        },
-        {
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "OpenAI",
-          "published_at": "2026-08-28T06:00:00Z",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-28-our-decision-on-cursor-following-its-acquisition-by"
-        },
-        {
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI",
-          "published_at": "2026-08-28T02:00:00Z",
-          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-28-supporting-thailand-s-next-generation-of-ai-startups"
         }
       ]
     },
@@ -880,19 +893,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-01-try-google-pics-easy-image-creation-and-editing"
-        },
-        {
-          "title": "3 new ways to plan and book travel in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-          "source": "Google AI",
-          "published_at": "2026-08-27T16:00:00Z",
-          "summary": "Graphic depicting new travel features for AI Mode in Search",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-08-27-3-new-ways-to-plan-and-book-travel"
         }
       ]
     },
@@ -900,6 +900,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "source": "DeepMind",
+          "published_at": "2026-09-03T15:02:08Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-03-introducing-weathernext-3-our-most-advanced-and-accurate"
+        },
         {
           "title": "Proactive cyber defense for governments and enterprises",
           "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -938,32 +951,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-09-01-introducing-agentic-video-understanding-with-gemini"
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash lets you build with more control",
-          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "source": "DeepMind",
-          "published_at": "2026-08-27T16:11:32Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-27-gemini-omni-1-1-flash-lets-you-build"
-        },
-        {
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-          "source": "DeepMind",
-          "published_at": "2026-08-27T12:59:16Z",
-          "summary": "Piloting the world's first double-blind AI evaluations",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-08-27-piloting-the-world-s-first-double-blind-ai-evaluations"
         }
       ]
     }
