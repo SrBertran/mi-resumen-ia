@@ -1,72 +1,72 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T11:31:01.468051Z",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T10:46:43.553666Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Why AI food looks like that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "source": "The Verge",
-      "published_at": "2026-09-04T11:00:00Z",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens fro…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-04-why-ai-food-looks-like-that"
-    },
-    {
-      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "source": "The Verge",
-      "published_at": "2026-09-04T10:44:15Z",
-      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-04-microsoft-s-project-zenith-is-a-distraction-free-windows"
-    },
-    {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "source": "The Verge",
-      "published_at": "2026-09-04T10:41:48Z",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-04-sam-altman-apologizes-for-8216-messy-8217-gpt-6"
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "source": "The Verge",
-      "published_at": "2026-09-04T09:41:44Z",
-      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that comb…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-04-this-nas-company-wants-to-run-your-local"
-    },
-    {
-      "title": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
-      "url": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
+      "title": "Las mejores inteligencias artificiales para estudiantes: herramientas gratis y qué hace cada una",
+      "url": "https://www.xataka.com/basics/mejores-ias-para-estudiar",
       "source": "Xataka",
-      "published_at": "2026-09-04T09:15:36Z",
-      "summary": "Que la inteligencia artificial necesita una enorme cantidad de energía para funcionar no es algo que pille de nuevas. Desde hace meses, la industria está buscando la forma de asegurar el suministro y vemos cómo hay proye…",
+      "published_at": "2026-09-05T10:00:28Z",
+      "summary": "Vamos a decirte cuáles son los mejores servicios de inteligencia artificial para ayudarte con tus estudios . Ya sean exámenes, oposiciones o cualquier otro examen que quieras realizar, estas son las mejores herramientas …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-04-la-ia-ha-crecido-tan-rapido-que-su"
+      "id": "xataka-2026-09-05-las-mejores-inteligencias-artificiales-para-estudiantes-herramientas-gratis"
+    },
+    {
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "source": "The Verge",
+      "published_at": "2026-09-04T21:23:50Z",
+      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-audacity-4-is-a-complete-revamp-of-the"
+    },
+    {
+      "title": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
+      "url": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
+      "source": "Xataka",
+      "published_at": "2026-09-04T20:01:36Z",
+      "summary": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de informac…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-09-04-la-cinta-magnetica-parecia-una-reliquia-en-la"
+    },
+    {
+      "title": "The White House is making arcade games racist",
+      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "source": "The Verge",
+      "published_at": "2026-09-04T19:42:54Z",
+      "summary": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated wit…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-the-white-house-is-making-arcade-games-racist"
+    },
+    {
+      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+      "source": "The Verge",
+      "published_at": "2026-09-04T18:00:45Z",
+      "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-04-gopro-says-it-8217-s-still-committed-8216"
     }
   ],
   "sections": [
@@ -100,6 +100,19 @@
           "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
         },
         {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+        },
+        {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI",
@@ -113,17 +126,17 @@
           "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
         },
         {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "url": "https://openai.com/index/gpt-6-astra",
           "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "published_at": "2026-09-03T11:00:00Z",
+          "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+          "id": "openai-2026-09-03-gpt-6-astra-a-new-generation-of-intelligence"
         },
         {
           "title": "Safety overview: GPT-6 Astra",
@@ -376,37 +389,6 @@
           ],
           "category": "negocio",
           "id": "xataka-2026-09-03-nvidia-compra-hugging-face-por-12-930-millones"
-        },
-        {
-          "title": "Una startup valenciana ha captado 125 millones de dólares para una pieza invisible de la IA. Nvidia está dentro",
-          "url": "https://www.xataka.com/empresas-y-economia/startup-valenciana-ha-captado-125-millones-dolares-para-pieza-invisible-ia-nvidia-esta-dentro",
-          "source": "Xataka",
-          "published_at": "2026-09-02T19:00:38Z",
-          "summary": "Cuando hablamos de inteligencia artificial, solemos mirar hacia los modelos, las GPU y los nombres que dominan la conversación global. Pero una parte decisiva de esa carrera ocurre bastante más abajo, en la infraestructu…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-09-02-una-startup-valenciana-ha-captado-125-millones-de"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-          "url": "https://spectrum.ieee.org/ai-engineer-skills",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-02T13:00:04Z",
-          "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-02-ai-efficiency-could-cost-us-the-next-generation"
         }
       ]
     },
@@ -425,64 +407,142 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-09-03-neomme-an-efficient-multimodal-native-and-multilingual-encoder"
-        },
-        {
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "source": "Hugging Face",
-          "published_at": "2026-09-03T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-03-fine-tuning-a-350m-model-for-better-structured-outputs"
-        },
-        {
-          "title": "Give Your Coding Agents a Memory You Own",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face",
-          "published_at": "2026-09-03T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-03-give-your-coding-agents-a-memory-you-own"
-        },
-        {
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face",
-          "published_at": "2026-09-03T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-03-training-a-coding-model-to-paint-watercolours-with"
-        },
-        {
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face",
-          "published_at": "2026-09-02T13:49:14Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-02-real-time-intelligence-with-ibm-time-series-models-on"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Roland is getting into generative AI music with Melody Flip",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "source": "The Verge",
+          "published_at": "2026-09-04T17:51:35Z",
+          "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offer…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-roland-is-getting-into-generative-ai-music-with"
+        },
+        {
+          "title": "AGI is whatever you want it to be",
+          "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+          "source": "The Verge",
+          "published_at": "2026-09-04T17:16:49Z",
+          "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-agi-is-whatever-you-want-it-to-be"
+        },
+        {
+          "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+          "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+          "source": "The Verge",
+          "published_at": "2026-09-04T16:05:57Z",
+          "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright cl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-microsoft-says-virtually-nobody-was-grabbing-nyt-articles"
+        },
+        {
+          "title": "The best tech and gadgets announced at IFA so far",
+          "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+          "source": "The Verge",
+          "published_at": "2026-09-04T15:41:17Z",
+          "summary": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, her…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-the-best-tech-and-gadgets-announced-at-ifa"
+        },
+        {
+          "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+          "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-04T14:55:40Z",
+          "summary": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-alienware-s-refurbished-16-aurora-is-almost-200"
+        },
+        {
+          "title": "What to expect at Apple’s September 9th launch event",
+          "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+          "source": "The Verge",
+          "published_at": "2026-09-04T14:52:00Z",
+          "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first mod…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-what-to-expect-at-apple-s-september-9th"
+        },
+        {
+          "title": "Nintendo&#8217;s next two Direct events are both happening next week",
+          "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
+          "source": "The Verge",
+          "published_at": "2026-09-04T14:29:44Z",
+          "summary": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-04-nintendo-8217-s-next-two-direct-events-are"
+        },
+        {
+          "title": "Del vibe coding al \"vibe doing\": cómo con GPT-6 Astra, OpenAI quiere que las máquinas hagan cosas por nosotros",
+          "url": "https://www.xataka.com/robotica-e-ia/vibe-coding-al-vibe-doing-como-gpt-6-astra-openai-quiere-que-maquinas-hagan-cosas-nosotros",
+          "source": "Xataka",
+          "published_at": "2026-09-04T13:15:36Z",
+          "summary": "Un tipo rubio aparece sentado frente a una pantalla gigante . De repente mueve la mano izquierda, en la que tiene algún tipo de puntero virtual, y dice \"Crea un círculo amarillo... allí\". Acto seguido, en efecto, aparece…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-04-del-vibe-coding-al-vibe-doing-como-con"
+        },
+        {
+          "title": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-04T13:01:37Z",
+          "summary": "La IA es el futuro. Al menos, eso es lo que los más interesados en ese escenario llevan repitiendo desde hace meses. Jensen Huang , CEO de Nvidia, es uno de esos perfiles, y no es para menos si tenemos en cuenta que su e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-04-jensen-huang-tiene-un-mensaje-claro-para-los"
+        },
+        {
+          "title": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
+          "url": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
+          "source": "Xataka",
+          "published_at": "2026-09-04T09:15:36Z",
+          "summary": "Que la inteligencia artificial necesita una enorme cantidad de energía para funcionar no es algo que pille de nuevas. Desde hace meses, la industria está buscando la forma de asegurar el suministro y vemos cómo hay proye…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-04-la-ia-ha-crecido-tan-rapido-que-su"
+        },
         {
           "title": "DLSS 5 desató la polémica por convertir los videojuegos en películas. Lo hemos probado en NBA 2K27 y la realidad es mucho más sutil",
           "url": "https://www.xataka.com/videojuegos/dlss-5-desato-polemica-convertir-videojuegos-peliculas-hemos-probado-nba-2k27-realidad-mucho-sutil",
@@ -495,84 +555,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-04-dlss-5-desato-la-polemica-por-convertir-los"
-        },
-        {
-          "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-          "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-          "source": "The Verge",
-          "published_at": "2026-09-04T07:00:00Z",
-          "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-lexar-s-muse-is-an-ultra-slim-portable-ssd"
-        },
-        {
-          "title": "Aqara goes all in on smart lighting",
-          "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-          "source": "The Verge",
-          "published_at": "2026-09-04T07:00:00Z",
-          "summary": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-aqara-goes-all-in-on-smart-lighting"
-        },
-        {
-          "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-          "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-          "source": "The Verge",
-          "published_at": "2026-09-04T07:00:00Z",
-          "summary": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from every…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-this-rugged-phone-s-removable-camera-can-survive"
-        },
-        {
-          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-          "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-          "source": "The Verge",
-          "published_at": "2026-09-04T01:49:25Z",
-          "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But u…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-nvidia-will-officially-bring-dlss-5-to-older"
-        },
-        {
-          "title": "The unusually muted Tesla Cybercab launch",
-          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-          "source": "The Verge",
-          "published_at": "2026-09-04T00:25:06Z",
-          "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless ca…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-the-unusually-muted-tesla-cybercab-launch"
-        },
-        {
-          "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-          "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-          "source": "The Verge",
-          "published_at": "2026-09-03T23:37:37Z",
-          "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-03-steve-ballmer-got-suspended-by-the-nba-because"
         },
         {
           "title": "GPT-6 Astra llega como el gran salto de OpenAI: puede hacer mucho más por nosotros, pero también será más difícil de supervisar",
@@ -599,32 +581,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-03-pensabamos-que-la-generacion-z-iba-a-impulsar"
-        },
-        {
-          "title": "OpenAI y Anthropic tienen un problema: los nuevos modelos baratos de Google y Meta ya son demasiado buenos",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-tienen-problema-nuevos-modelos-baratos-google-meta-demasiado-buenos",
-          "source": "Xataka",
-          "published_at": "2026-09-03T09:45:49Z",
-          "summary": "La batalla de la IA parecía centrarse en qué modelo era el más inteligente, punto. Ahora empieza a desplazarse a otra métrica: la de la \"inteligencia\" por dólar . Cuánta \"inteligencia\" podemos conseguir con cada dólar qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-03-openai-y-anthropic-tienen-un-problema-los-nuevos"
-        },
-        {
-          "title": "Samsung ha conseguido lo imposible: meter en una lavadora de tamaño “normal” los 13 kg de capacidad",
-          "url": "https://www.xataka.com/otros-dispositivos/samsung-ha-conseguido-imposible-meter-lavadora-tamano-normal-13-kg-capacidad",
-          "source": "Xataka",
-          "published_at": "2026-09-02T11:59:00Z",
-          "summary": "Los electrodomésticos no son inmunes a la innovación . Podríamos pensar que es difícil introducir tecnologías realmente disruptivas en un frigorífico, un lavavajillas o una lavadora. Y sí, probablemente no es fácil, pero…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-02-samsung-ha-conseguido-lo-imposible-meter-en-una"
         }
       ]
     }
@@ -675,6 +631,19 @@
           "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
         },
         {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+        },
+        {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI",
@@ -688,17 +657,17 @@
           "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
         },
         {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "url": "https://openai.com/index/gpt-6-astra",
           "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "published_at": "2026-09-03T11:00:00Z",
+          "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
+          "id": "openai-2026-09-03-gpt-6-astra-a-new-generation-of-intelligence"
         },
         {
           "title": "Safety overview: GPT-6 Astra",
