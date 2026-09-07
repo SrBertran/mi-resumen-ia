@@ -1,78 +1,104 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T11:08:49.801455Z",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T12:49:35.848556Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
-      "url": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
+      "title": "Corea del Sur no quiere que la IA de sus ciudadanos dependa de OpenAI o Google. Su solución: IA nacional y gratis para todos",
+      "url": "https://www.xataka.com/robotica-e-ia/corea-sur-no-quiere-que-ia-sus-ciudadanos-dependa-openai-google-su-solucion-ia-nacional-gratis-para-todos",
       "source": "Xataka",
-      "published_at": "2026-09-06T10:00:28Z",
-      "summary": "Al igual que ocurrió con los smartwatches y los auriculares TWS , las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi , la renacida Packard Bell y parece que hasta Ap…",
+      "published_at": "2026-09-07T11:30:28Z",
+      "summary": "Corea del Sur tiene un problema curioso: sus ciudadanos se han enamorado de la IA, pero buena parte de esa nueva infraestructura digital pertenece a empresas extranjeras. ChatGPT &nbsp;tenía ya 23,45 millones de usuarios…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-06-meta-desactiva-la-camara-de-sus-gafas-ante"
+      "id": "xataka-2026-09-07-corea-del-sur-no-quiere-que-la-ia"
     },
     {
-      "title": "Explore the globe in field recordings",
-      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
       "source": "The Verge",
-      "published_at": "2026-09-05T21:31:34Z",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in o…",
+      "published_at": "2026-09-07T11:00:00Z",
+      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "regulación"
       ],
-      "category": "general",
-      "id": "theverge-2026-09-05-explore-the-globe-in-field-recordings"
+      "category": "regulación",
+      "id": "theverge-2026-09-07-bentley-s-torcal-ev-tries-to-balance-authenticity"
     },
     {
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
       "source": "The Verge",
-      "published_at": "2026-09-05T20:53:58Z",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there wer…",
+      "published_at": "2026-09-07T10:09:42Z",
+      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-05-iphone-handoff-will-seamlessly-share-one-number-between"
+      "id": "theverge-2026-09-07-huawei-copies-samsung-s-privacy-display-in-its"
     },
     {
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "source": "The Verge",
-      "published_at": "2026-09-05T16:49:33Z",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up f…",
+      "title": "Para Jensen Huang, \"la AGI ha llegado\" con GPT-6 Astra. El problema es que no es la primera vez que lo dice",
+      "url": "https://www.xataka.com/robotica-e-ia/para-jensen-huang-agi-ha-llegado-gpt-6-astra-problema-que-no-primera-vez-que-dice",
+      "source": "Xataka",
+      "published_at": "2026-09-07T09:30:28Z",
+      "summary": "Jensen Huang es uno de los perfiles más optimistas con la IA. Tiene que serlo porque Nvidia se ha convertido en el pegamento de la industria tanto con su dinero como con su tecnología . Es por ello que su voz suele ser t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-05-cd-sales-are-booming-as-physical-media-continues"
+      "id": "xataka-2026-09-07-para-jensen-huang-la-agi-ha-llegado-con"
     },
     {
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "source": "The Verge",
-      "published_at": "2026-09-05T15:00:00Z",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, in…",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI",
+      "published_at": "2026-09-07T00:00:00Z",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-09-05-fantasy-footballers-andy-holloway-is-a-dedicated-zero-inbox"
+      "category": "lanzamientos",
+      "id": "openai-2026-09-07-supporting-independent-journalism-in-ukraine"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI",
+          "published_at": "2026-09-06T09:00:00Z",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-06-an-alien-mind"
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI",
+          "published_at": "2026-09-06T08:00:00Z",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-06-research-acceleration-the-view-inside-openai"
+        },
         {
           "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -100,19 +126,6 @@
           "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
         },
         {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
-        },
-        {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI",
@@ -124,6 +137,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
         },
         {
           "title": "GPT-6 Astra: A new generation of intelligence",
@@ -306,58 +332,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-09-01-developing-enterprise-frontier-safeguards-with-our-customers"
-        },
-        {
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T07:00:00Z",
-          "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-openai-supports-california-s-bill-to-advance-youth"
-        },
-        {
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
-          "url": "https://openai.com/index/polimill",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T07:00:00Z",
-          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-polimill-builds-japan-s-next-generation-public-ai-infrastructure"
-        },
-        {
-          "title": "A milestone in expanding access to AI",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T04:00:00Z",
-          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-a-milestone-in-expanding-access-to-ai"
-        },
-        {
-          "title": "Improving our alignment and security efforts",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic",
-          "published_at": "2026-08-31T00:00:00Z",
-          "summary": "Improving our alignment and security efforts",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-31-improving-our-alignment-and-security-efforts"
         }
       ]
     },
@@ -365,134 +339,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Content creators drop the ball",
-          "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
           "source": "The Verge",
-          "published_at": "2026-09-05T14:00:16Z",
-          "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpir…",
+          "published_at": "2026-09-06T23:36:04Z",
+          "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without perm…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-05-content-creators-drop-the-ball"
+          "id": "theverge-2026-09-06-seattle-times-and-newsday-sue-openai-and-microsoft"
         },
         {
-          "title": "The weird and wonderful headphones of CanJam 2026",
-          "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+          "title": "An Amazon cargo plane crashed at Miami International Airport",
+          "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
           "source": "The Verge",
-          "published_at": "2026-09-05T13:00:00Z",
-          "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream opti…",
+          "published_at": "2026-09-06T20:56:38Z",
+          "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the inj…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-05-the-weird-and-wonderful-headphones-of-canjam-2026"
+          "id": "theverge-2026-09-06-an-amazon-cargo-plane-crashed-at-miami-international"
         },
         {
-          "title": "OpenAI admits to German wiki ‘incident’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "title": "Europe has its first commercial orbital rocket",
+          "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
           "source": "The Verge",
-          "published_at": "2026-09-05T11:15:55Z",
-          "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control a…",
+          "published_at": "2026-09-06T19:04:22Z",
+          "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into th…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-05-openai-admits-to-german-wiki-incident"
+          "id": "theverge-2026-09-06-europe-has-its-first-commercial-orbital-rocket"
         },
         {
-          "title": "Robotaxis enter their villain era",
-          "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+          "title": "Boox’s tiny Picco e-reader should land in November",
+          "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
           "source": "The Verge",
-          "published_at": "2026-09-05T11:00:00Z",
-          "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain wit…",
+          "published_at": "2026-09-06T16:28:58Z",
+          "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-05-robotaxis-enter-their-villain-era"
+          "id": "theverge-2026-09-06-boox-s-tiny-picco-e-reader-should-land-in"
         },
         {
-          "title": "Las mejores inteligencias artificiales para estudiantes: herramientas gratis y qué hace cada una",
-          "url": "https://www.xataka.com/basics/mejores-ias-para-estudiar",
+          "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+          "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+          "source": "The Verge",
+          "published_at": "2026-09-06T13:00:00Z",
+          "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-06-the-fairphone-6-plus-is-the-midrange-phone"
+        },
+        {
+          "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+          "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+          "source": "The Verge",
+          "published_at": "2026-09-06T13:00:00Z",
+          "summary": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-06-competitive-pokemon-is-on-phones-now-but-you"
+        },
+        {
+          "title": "DIY plug-in solar gains momentum in the US",
+          "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+          "source": "The Verge",
+          "published_at": "2026-09-06T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscriber…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-06-diy-plug-in-solar-gains-momentum-in-the-us"
+        },
+        {
+          "title": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
+          "url": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
           "source": "Xataka",
-          "published_at": "2026-09-05T10:00:28Z",
-          "summary": "Vamos a decirte cuáles son los mejores servicios de inteligencia artificial para ayudarte con tus estudios . Ya sean exámenes, oposiciones o cualquier otro examen que quieras realizar, estas son las mejores herramientas …",
+          "published_at": "2026-09-06T10:00:28Z",
+          "summary": "Al igual que ocurrió con los smartwatches y los auriculares TWS , las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi , la renacida Packard Bell y parece que hasta Ap…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-05-las-mejores-inteligencias-artificiales-para-estudiantes-herramientas-gratis"
+          "id": "xataka-2026-09-06-meta-desactiva-la-camara-de-sus-gafas-ante"
         },
         {
-          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-          "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+          "title": "Explore the globe in field recordings",
+          "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
           "source": "The Verge",
-          "published_at": "2026-09-04T21:23:50Z",
-          "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early…",
+          "published_at": "2026-09-05T21:31:34Z",
+          "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in o…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-04-audacity-4-is-a-complete-revamp-of-the"
-        },
-        {
-          "title": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
-          "url": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
-          "source": "Xataka",
-          "published_at": "2026-09-04T20:01:36Z",
-          "summary": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de informac…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-04-la-cinta-magnetica-parecia-una-reliquia-en-la"
-        },
-        {
-          "title": "The White House is making arcade games racist",
-          "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-          "source": "The Verge",
-          "published_at": "2026-09-04T19:42:54Z",
-          "summary": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated wit…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-04-the-white-house-is-making-arcade-games-racist"
-        },
-        {
-          "title": "Del vibe coding al \"vibe doing\": cómo con GPT-6 Astra, OpenAI quiere que las máquinas hagan cosas por nosotros",
-          "url": "https://www.xataka.com/robotica-e-ia/vibe-coding-al-vibe-doing-como-gpt-6-astra-openai-quiere-que-maquinas-hagan-cosas-nosotros",
-          "source": "Xataka",
-          "published_at": "2026-09-04T13:15:36Z",
-          "summary": "Un tipo rubio aparece sentado frente a una pantalla gigante . De repente mueve la mano izquierda, en la que tiene algún tipo de puntero virtual, y dice \"Crea un círculo amarillo... allí\". Acto seguido, en efecto, aparece…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-04-del-vibe-coding-al-vibe-doing-como-con"
-        },
-        {
-          "title": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
-          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
-          "source": "Xataka",
-          "published_at": "2026-09-04T13:01:37Z",
-          "summary": "La IA es el futuro. Al menos, eso es lo que los más interesados en ese escenario llevan repitiendo desde hace meses. Jensen Huang , CEO de Nvidia, es uno de esos perfiles, y no es para menos si tenemos en cuenta que su e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-04-jensen-huang-tiene-un-mensaje-claro-para-los"
+          "id": "theverge-2026-09-05-explore-the-globe-in-field-recordings"
         }
       ]
     }
@@ -530,6 +491,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "source": "OpenAI",
+          "published_at": "2026-09-07T00:00:00Z",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-07-supporting-independent-journalism-in-ukraine"
+        },
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI",
+          "published_at": "2026-09-06T09:00:00Z",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-06-an-alien-mind"
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI",
+          "published_at": "2026-09-06T08:00:00Z",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-06-research-acceleration-the-view-inside-openai"
+        },
+        {
           "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
           "url": "https://openai.com/index/daybreak-for-frontline-defenders",
           "source": "OpenAI",
@@ -543,19 +543,6 @@
           "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
         },
         {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
-        },
-        {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI",
@@ -567,6 +554,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-03T12:00:00Z",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
         },
         {
           "title": "GPT-6 Astra: A new generation of intelligence",
@@ -658,45 +658,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-01-how-law-firm-gilbert-tobin-governs-and-scales"
-        },
-        {
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T07:00:00Z",
-          "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-openai-supports-california-s-bill-to-advance-youth"
-        },
-        {
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
-          "url": "https://openai.com/index/polimill",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T07:00:00Z",
-          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-polimill-builds-japan-s-next-generation-public-ai-infrastructure"
-        },
-        {
-          "title": "A milestone in expanding access to AI",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI",
-          "published_at": "2026-08-31T04:00:00Z",
-          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-08-31-a-milestone-in-expanding-access-to-ai"
         }
       ]
     },
@@ -716,19 +677,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-09-01-developing-enterprise-frontier-safeguards-with-our-customers"
-        },
-        {
-          "title": "Improving our alignment and security efforts",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic",
-          "published_at": "2026-08-31T00:00:00Z",
-          "summary": "Improving our alignment and security efforts",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-08-31-improving-our-alignment-and-security-efforts"
         }
       ]
     },
