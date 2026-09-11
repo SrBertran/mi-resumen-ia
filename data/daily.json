@@ -1,78 +1,169 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T11:33:29.556568Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T11:35:04.088363Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
       "source": "The Verge",
-      "published_at": "2026-09-10T11:00:57Z",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpubli…",
+      "published_at": "2026-09-11T11:07:24Z",
+      "summary": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-10-mathematicians-want-proof-openai-didn-t-use-their"
+      "id": "theverge-2026-09-11-insta360-launches-a-single-lens-osmo-pocket-rival-you"
     },
     {
-      "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
-      "url": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
-      "source": "The Verge",
-      "published_at": "2026-09-10T10:00:00Z",
-      "summary": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iri…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-10-the-variable-aperture-isn-t-the-cool-part"
-    },
-    {
-      "title": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
-      "url": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
+      "title": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
+      "url": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
       "source": "Xataka",
-      "published_at": "2026-09-10T09:30:00Z",
-      "summary": "Apple ha celebrado su tradicional Keynote de septiembre en la que ha presentado un montón de dispositivos . Ya tenemos todos los detalles de un iPhone 18 Pro del que se había filtrado prácticamente todo, pero también de …",
+      "published_at": "2026-09-11T10:31:01Z",
+      "summary": "España tiene casi todo lo que necesita la industria de los centros de datos: suelo, buena conectividad y abundante energía renovable a precios competitivos. Eso ha provocado que surja una avalancha de proyectos vinculado…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-10-el-apple-watch-ya-no-solo-es-un"
+      "id": "xataka-2026-09-11-los-centros-de-datos-quieren-instalarse-en-espana"
     },
     {
-      "title": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
-      "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
-      "source": "Xataka",
-      "published_at": "2026-09-10T09:17:00Z",
-      "summary": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%. &nbsp;Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-10-estan-jugando-con-nuestras-vidas-un-investigador-de"
-    },
-    {
-      "title": "The Trump phone just got a $250 price hike",
-      "url": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+      "title": "Apple addresses iPhone Duo copycats",
+      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
       "source": "The Verge",
-      "published_at": "2026-09-10T09:13:04Z",
-      "summary": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly chan…",
+      "published_at": "2026-09-11T10:02:58Z",
+      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product de…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-10-the-trump-phone-just-got-a-250-price"
+      "id": "theverge-2026-09-11-apple-addresses-iphone-duo-copycats"
+    },
+    {
+      "title": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+      "source": "Xataka",
+      "published_at": "2026-09-11T09:47:00Z",
+      "summary": "Anthropic acaba de publicar su informe de inteligencia de amenazas más detallado hasta la fecha. Además de campañas de ciberespionaje o armas biológicas aparece una historia especialmente llamativa: siete laboratorios de…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-09-11-anthropic-ha-pillado-a-china-copiando-claude-de"
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge",
+      "published_at": "2026-09-10T21:25:21Z",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-10-slack-can-now-vibe-code-interactive-charts-and-reports"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T16:00:00Z",
+          "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-how-a-researcher-uses-codex-and-chatgpt-to"
+        },
+        {
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+          "source": "Google AI",
+          "published_at": "2026-09-10T16:00:00Z",
+          "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-10-3-ways-to-prep-for-your-next-big"
+        },
+        {
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T15:00:00Z",
+          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-now-everyone-can-put-data-to-work"
+        },
+        {
+          "title": "Introducing ChatGPT for Financial Services",
+          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T07:00:00Z",
+          "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-introducing-chatgpt-for-financial-services"
+        },
+        {
+          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T07:00:00Z",
+          "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
+        },
+        {
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
+        },
+        {
+          "title": "Introducing the Agents API",
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-introducing-the-agents-api"
+        },
         {
           "title": "Paul Christiano joins OpenAI Foundation Board",
           "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
@@ -280,64 +371,25 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-06-research-acceleration-the-view-inside-openai"
-        },
-        {
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-          "source": "DeepMind",
-          "published_at": "2026-09-03T15:02:08Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-03-introducing-weathernext-3-our-most-advanced-and-accurate"
-        },
-        {
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T13:15:00Z",
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
-        },
-        {
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
-        },
-        {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
+          "url": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+          "source": "Xataka",
+          "published_at": "2026-09-10T17:31:01Z",
+          "summary": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte . Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del emp…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "xataka-2026-09-10-me-he-leido-el-estudio-de-anthropic-sobre"
+        },
         {
           "title": "AI Models Are Watermarking Text—Will You Notice?",
           "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
@@ -350,45 +402,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-09-09-ai-models-are-watermarking-text--will-you-notice"
-        },
-        {
-          "title": "China’s Regulators Take Aim at “AI Boyfriends”",
-          "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-09T10:00:07Z",
-          "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted deep in my heart, my spiritual …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-09-china-s-regulators-take-aim-at-ai-boyfriends"
-        },
-        {
-          "title": "AI Slop Is Changing How Engineers Review Code",
-          "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-08T16:16:49Z",
-          "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language mode…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-08-ai-slop-is-changing-how-engineers-review-code"
-        },
-        {
-          "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
-          "url": "https://spectrum.ieee.org/alphagenome-atlas",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-08T14:00:05Z",
-          "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” So…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-08-google-deepmind-maps-9-billion-possible-dna-variants"
         }
       ]
     },
@@ -420,19 +433,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-09-09-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model"
-        },
-        {
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "source": "Hugging Face",
-          "published_at": "2026-09-08T14:23:07Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-08-safety-for-whom-refusing-the-right-subset-of"
         }
       ]
     },
@@ -440,17 +440,160 @@
       "name": "General",
       "items": [
         {
-          "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
-          "url": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+          "title": "Schools are catching on to Big Tech’s playbook",
+          "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
           "source": "The Verge",
-          "published_at": "2026-09-10T09:07:00Z",
-          "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when …",
+          "published_at": "2026-09-10T19:44:20Z",
+          "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for l…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-10-nintendo-s-latest-switch-2-update-adds-vrr"
+          "id": "theverge-2026-09-10-schools-are-catching-on-to-big-tech-s"
+        },
+        {
+          "title": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
+          "url": "https://www.xataka.com/espacio/nasa-quiere-entender-mejor-luna-antes-volver-alli-ha-creado-ibm-ia-para-encontrar-hielo-nuevos-crateres",
+          "source": "Xataka",
+          "published_at": "2026-09-10T19:01:00Z",
+          "summary": "Durante 17 años, la Lunar Reconnaissance Orbiter ha fotografiado y medido la Luna hasta construir uno de los archivos más detallados que existen sobre su superficie. La NASA asegura que la misión ha generado un volumen d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-10-la-nasa-quiere-entender-mejor-la-luna-antes"
+        },
+        {
+          "title": "China quiere sustituir los chips de NVIDIA con alternativas propias. La memoria HBM acaba de ponerle un problema delante",
+          "url": "https://www.xataka.com/robotica-e-ia/china-quiere-sustituir-chips-nvidia-alternativas-propias-memoria-hbm-acaba-ponerle-problema-delante",
+          "source": "Xataka",
+          "published_at": "2026-09-10T18:31:00Z",
+          "summary": "Pekín lleva tiempo impulsando la sustitución de los chips de NVIDIA por alternativas desarrolladas dentro del país. Huawei, Cambricon y otros fabricantes nacionales han creado aceleradores destinados a cubrir parte del e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-10-china-quiere-sustituir-los-chips-de-nvidia-con"
+        },
+        {
+          "title": "Google se gasta 13.000 millones de euros en Finlandia y se asegura su propia central nuclear para no quedarse sin electricidad",
+          "url": "https://www.xataka.com/empresas-y-economia/google-se-gasta-13-000-millones-euros-finlandia-se-asegura-su-propia-central-nuclear-para-no-quedarse-electricidad",
+          "source": "Xataka",
+          "published_at": "2026-09-10T18:01:01Z",
+          "summary": "Google acaba de hacer su mayor apuesta por Europa&nbsp;en materia de centros de datos.&nbsp;Y es que la&nbsp;compañía anunció el miércoles que invertirá al menos 13.000 millones de euros en Finlandia durante los próximos…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-10-google-se-gasta-13-000-millones-de-euros"
+        },
+        {
+          "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
+          "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-10T16:58:44Z",
+          "summary": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you u…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-amazon-s-fire-tv-stick-4k-is-over"
+        },
+        {
+          "title": "Electric air taxis get the green light for test flights in Texas",
+          "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+          "source": "The Verge",
+          "published_at": "2026-09-10T16:00:00Z",
+          "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-electric-air-taxis-get-the-green-light-for"
+        },
+        {
+          "title": "Universal Music is launching an AI music platform with ElevenLabs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+          "source": "The Verge",
+          "published_at": "2026-09-10T15:38:19Z",
+          "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thur…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-universal-music-is-launching-an-ai-music-platform"
+        },
+        {
+          "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+          "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+          "source": "The Verge",
+          "published_at": "2026-09-10T15:00:00Z",
+          "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Ser…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-where-to-preorder-the-new-apple-watch-series"
+        },
+        {
+          "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
+          "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
+          "source": "The Verge",
+          "published_at": "2026-09-10T15:00:00Z",
+          "summary": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slici…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-wolverine-on-the-ps5-goes-back-to-a"
+        },
+        {
+          "title": "Meta’s Muse AI works and creeps me out",
+          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+          "source": "The Verge",
+          "published_at": "2026-09-10T15:00:00Z",
+          "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shoppin…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-10-meta-s-muse-ai-works-and-creeps-me"
+        },
+        {
+          "title": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
+          "url": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
+          "source": "Xataka",
+          "published_at": "2026-09-10T09:30:00Z",
+          "summary": "Apple ha celebrado su tradicional Keynote de septiembre en la que ha presentado un montón de dispositivos . Ya tenemos todos los detalles de un iPhone 18 Pro del que se había filtrado prácticamente todo, pero también de …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-10-el-apple-watch-ya-no-solo-es-un"
+        },
+        {
+          "title": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
+          "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
+          "source": "Xataka",
+          "published_at": "2026-09-10T09:17:00Z",
+          "summary": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%. &nbsp;Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-10-estan-jugando-con-nuestras-vidas-un-investigador-de"
         },
         {
           "title": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
@@ -466,84 +609,6 @@
           "id": "xataka-2026-09-10-como-usar-notebooklm-para-ayudarte-a-estudiar-y"
         },
         {
-          "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
-          "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-          "source": "The Verge",
-          "published_at": "2026-09-10T08:22:40Z",
-          "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productio…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-xbox-picks-up-kojima-8217-s-physint-after"
-        },
-        {
-          "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-          "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-          "source": "The Verge",
-          "published_at": "2026-09-10T07:00:00Z",
-          "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-volvo-xc40-phev-is-back-with-a-new"
-        },
-        {
-          "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-          "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-          "source": "The Verge",
-          "published_at": "2026-09-09T23:00:04Z",
-          "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-09-there-aren-t-airpods-with-cameras-yet-and"
-        },
-        {
-          "title": "The black iPhone Pro returns",
-          "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-          "source": "The Verge",
-          "published_at": "2026-09-09T22:37:51Z",
-          "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-09-the-black-iphone-pro-returns"
-        },
-        {
-          "title": "The incomplete history of Duo devices",
-          "url": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
-          "source": "The Verge",
-          "published_at": "2026-09-09T22:23:35Z",
-          "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-09-the-incomplete-history-of-duo-devices"
-        },
-        {
-          "title": "Automattic CEO Matt Mullenweg placed on leave",
-          "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-          "source": "The Verge",
-          "published_at": "2026-09-09T22:15:52Z",
-          "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-09-automattic-ceo-matt-mullenweg-placed-on-leave"
-        },
-        {
           "title": "Siri AI aspira a convertirse en el asistente personal de IA que nos acompañe a todas partes. Y no tiene ninguna prisa por lograrlo",
           "url": "https://www.xataka.com/robotica-e-ia/siri-ai-aspira-a-convertirse-asistente-personal-ia-que-nos-acompane-a-todas-partes-no-tiene-ninguna-prisa-lograrlo",
           "source": "Xataka",
@@ -555,84 +620,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-09-siri-ai-aspira-a-convertirse-en-el-asistente"
-        },
-        {
-          "title": "Escribir los trabajos de los universitarios occidentales era un trabajo muy bien pagado en Kenia. Entonces llegó ChatGPT",
-          "url": "https://www.xataka.com/robotica-e-ia/escribir-trabajos-universitarios-occidentales-era-trabajo-muy-bien-pagado-kenia-entonces-llego-chatgpt",
-          "source": "Xataka",
-          "published_at": "2026-09-09T16:01:01Z",
-          "summary": "Copiar en los exámenes o pedir a alguien que te haga ese trabajo que se te ha atragantado es una tentación tan vieja como la propia educación. Los de mi generación crecimos con la picaresca a 'El Rincón del Vago' , pero …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-escribir-los-trabajos-de-los-universitarios-occidentales-era"
-        },
-        {
-          "title": "OpenAI acaba de lanzar su modelo de frontera. Acto seguido su científico jefe afirmó que quizá están yendo demasiado lejos",
-          "url": "https://www.xataka.com/seguridad/openai-acaba-lanzar-su-modelo-frontera-acto-seguido-su-cientifico-jefe-afirmo-que-quiza-estan-yendo-demasiado-lejos",
-          "source": "Xataka",
-          "published_at": "2026-09-09T12:01:00Z",
-          "summary": "La semana pasada, OpenAI lanzó &nbsp;GPT-6 Astra . Se trata de su modelo público más potente que llegó en paralelo a Fable 5.1 , de Anthropic. Las dos compañías se encuentran jugando al juego del gato y el ratón, un \"y y…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-openai-acaba-de-lanzar-su-modelo-de-frontera"
-        },
-        {
-          "title": "OpenAI afirma haber resuelto uno de los Problemas del Milenio con su IA. La que se ha liado después es gorda",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-afirma-haber-resuelto-uno-problemas-milenio-su-ia-que-se-ha-liado-despues-gorda",
-          "source": "Xataka",
-          "published_at": "2026-09-09T11:17:00Z",
-          "summary": "OpenAI afirma haber resuelto el problema de existencia y regularidad de Navier-Stokes , uno de los siete Problemas del Milenio planteados por el Clay Mathematics Institute y dotados con un premio de un millón de dólares.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-openai-afirma-haber-resuelto-uno-de-los-problemas"
-        },
-        {
-          "title": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
-          "url": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
-          "source": "Xataka",
-          "published_at": "2026-09-09T08:16:54Z",
-          "summary": "Vamos a decirte cómo crear una imagen tuya vestido o vestida como en los 80 para sumarte a la tendencia viral de redes sociales. ChatGPT ha lanzado un filtro en su creador de imágenes por inteligencia artificial con el q…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-como-te-verias-en-los-80-como-crear"
-        },
-        {
-          "title": "China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030",
-          "url": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
-          "source": "Xataka",
-          "published_at": "2026-09-09T07:01:01Z",
-          "summary": "Aunque EEUU siga a la cabeza en varios frentes, China ha demostrado ser un rival más que capaz de plantarles cara e incluso poder llegar a adelantarles en la carrera de la IA. Para lograrlo, el gobierno chino puso en mar…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-china-prepara-un-salto-masivo-de-infraestructura-para"
-        },
-        {
-          "title": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
-          "url": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
-          "source": "Xataka",
-          "published_at": "2026-09-08T19:01:01Z",
-          "summary": "Podemos leer una secuencia de ADN y localizar dónde cambia una de sus letras . Lo difícil viene después: saber qué consecuencias tiene ese cambio . Muchas variantes apenas modifican el funcionamiento celular, mientras qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-08-la-ia-de-google-acaba-de-dar-un"
         }
       ]
     }
@@ -670,6 +657,84 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T16:00:00Z",
+          "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-how-a-researcher-uses-codex-and-chatgpt-to"
+        },
+        {
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T15:00:00Z",
+          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-now-everyone-can-put-data-to-work"
+        },
+        {
+          "title": "Introducing ChatGPT for Financial Services",
+          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T07:00:00Z",
+          "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-introducing-chatgpt-for-financial-services"
+        },
+        {
+          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T07:00:00Z",
+          "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
+        },
+        {
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
+        },
+        {
+          "title": "Introducing the Agents API",
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-introducing-the-agents-api"
+        },
+        {
           "title": "Paul Christiano joins OpenAI Foundation Board",
           "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
           "source": "OpenAI",
@@ -837,45 +902,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-06-research-acceleration-the-view-inside-openai"
-        },
-        {
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T13:15:00Z",
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential"
-        },
-        {
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-legora-reviewed-41-documents-in-minutes-with-gpt-6"
-        },
-        {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-03T12:00:00Z",
-          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-03-playco-cut-manual-fixes-50-prototyping-games-with"
         }
       ]
     },
@@ -902,6 +928,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+          "source": "Google AI",
+          "published_at": "2026-09-10T16:00:00Z",
+          "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-10-3-ways-to-prep-for-your-next-big"
+        },
         {
           "title": "Get ready for the game with new football features in Search",
           "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
@@ -946,19 +985,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-09-08-alphagenome-atlas-a-predictive-map-of-every-possible"
-        },
-        {
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-          "source": "DeepMind",
-          "published_at": "2026-09-03T15:02:08Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-03-introducing-weathernext-3-our-most-advanced-and-accurate"
         }
       ]
     }
