@@ -1,78 +1,104 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T11:35:04.088363Z",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T10:59:24.774991Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
-      "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-      "source": "The Verge",
-      "published_at": "2026-09-11T11:07:24Z",
-      "summary": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a…",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "published_at": "2026-09-14T00:00:00Z",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-09-11-insta360-launches-a-single-lens-osmo-pocket-rival-you"
+      "category": "lanzamientos",
+      "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
     },
     {
-      "title": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
-      "url": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
+      "title": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
+      "url": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
       "source": "Xataka",
-      "published_at": "2026-09-11T10:31:01Z",
-      "summary": "España tiene casi todo lo que necesita la industria de los centros de datos: suelo, buena conectividad y abundante energía renovable a precios competitivos. Eso ha provocado que surja una avalancha de proyectos vinculado…",
+      "published_at": "2026-09-12T08:30:00Z",
+      "summary": "Esta semana la ciencia se ha llevado una de cal y otra de arena: a falta de la confirmación de la comunidad matemática, parece que por fin hemos averiguado la solución a uno de los&nbsp; siete Problemas del Milenio &nbsp…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-11-los-centros-de-datos-quieren-instalarse-en-espana"
+      "id": "xataka-2026-09-12-una-amenaza-general-al-trabajo-intelectual-las-mentes"
     },
     {
-      "title": "Apple addresses iPhone Duo copycats",
-      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
       "source": "The Verge",
-      "published_at": "2026-09-11T10:02:58Z",
-      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product de…",
+      "published_at": "2026-09-11T20:44:02Z",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesd…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-11-apple-addresses-iphone-duo-copycats"
+      "id": "theverge-2026-09-11-lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a"
     },
     {
-      "title": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
-      "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+      "title": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
+      "url": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
       "source": "Xataka",
-      "published_at": "2026-09-11T09:47:00Z",
-      "summary": "Anthropic acaba de publicar su informe de inteligencia de amenazas más detallado hasta la fecha. Además de campañas de ciberespionaje o armas biológicas aparece una historia especialmente llamativa: siete laboratorios de…",
+      "published_at": "2026-09-11T18:01:01Z",
+      "summary": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-11-anthropic-ha-pillado-a-china-copiando-claude-de"
+      "id": "xataka-2026-09-11-en-china-los-tokens-de-ia-son-los"
     },
     {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
+      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
       "source": "The Verge",
-      "published_at": "2026-09-10T21:25:21Z",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what…",
+      "published_at": "2026-09-11T17:16:59Z",
+      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirme…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-10-slack-can-now-vibe-code-interactive-charts-and-reports"
+      "id": "theverge-2026-09-11-matt-mullenweg-returns-as-automattic-ceo-two-days"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-11T16:00:00Z",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-11-cognition-helps-devin-test-its-own-work-with"
+        },
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI",
+          "published_at": "2026-09-11T10:00:00Z",
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-11-rapidly-scaling-online-storage-to-serve-over-1"
+        },
         {
           "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -375,6 +401,24 @@
       ]
     },
     {
+      "name": "Regulación",
+      "items": [
+        {
+          "title": "Anime reaction YouTubers are at war with copyright enforcers",
+          "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+          "source": "The Verge",
+          "published_at": "2026-09-11T15:12:58Z",
+          "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Del…",
+          "why_it_matters": "",
+          "tags": [
+            "regulación"
+          ],
+          "category": "regulación",
+          "id": "theverge-2026-09-11-anime-reaction-youtubers-are-at-war-with-copyright"
+        }
+      ]
+    },
+    {
       "name": "Investigación",
       "items": [
         {
@@ -389,50 +433,6 @@
           ],
           "category": "investigación",
           "id": "xataka-2026-09-10-me-he-leido-el-estudio-de-anthropic-sobre"
-        },
-        {
-          "title": "AI Models Are Watermarking Text—Will You Notice?",
-          "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-09T12:00:04Z",
-          "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-09-ai-models-are-watermarking-text--will-you-notice"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-10-rebuilding-automatic1111-with-gradio-workflow"
-        },
-        {
-          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face",
-          "published_at": "2026-09-09T15:36:24Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-09-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model"
         }
       ]
     },
@@ -440,17 +440,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Schools are catching on to Big Tech’s playbook",
-          "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+          "title": "We unfolded the iPhone Duo",
+          "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
           "source": "The Verge",
-          "published_at": "2026-09-10T19:44:20Z",
-          "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for l…",
+          "published_at": "2026-09-11T16:22:24Z",
+          "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's la…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-10-schools-are-catching-on-to-big-tech-s"
+          "id": "theverge-2026-09-11-we-unfolded-the-iphone-duo"
+        },
+        {
+          "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+          "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+          "source": "The Verge",
+          "published_at": "2026-09-11T16:21:19Z",
+          "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-the-white-house-says-truth-social-is-the"
+        },
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "source": "The Verge",
+          "published_at": "2026-09-11T16:09:14Z",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents dis…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-anthropic-spent-this-week-in-hot-water-over"
+        },
+        {
+          "title": "Microsoft’s head of comms is leaving after almost 20 years",
+          "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+          "source": "The Verge",
+          "published_at": "2026-09-11T16:01:34Z",
+          "summary": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's comm…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-microsoft-s-head-of-comms-is-leaving-after"
+        },
+        {
+          "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
+          "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+          "source": "The Verge",
+          "published_at": "2026-09-11T15:38:31Z",
+          "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonO…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-meta-may-have-leaked-the-first-look-at"
+        },
+        {
+          "title": "Where to preorder the Apple AirPods 5",
+          "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+          "source": "The Verge",
+          "published_at": "2026-09-11T15:31:00Z",
+          "summary": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Ser…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-where-to-preorder-the-apple-airpods-5"
+        },
+        {
+          "title": "The wireless earbuds with unbeatable call quality got their first discount",
+          "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-11T14:43:26Z",
+          "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-11-the-wireless-earbuds-with-unbeatable-call-quality-got"
+        },
+        {
+          "title": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
+          "url": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
+          "source": "Xataka",
+          "published_at": "2026-09-11T10:31:01Z",
+          "summary": "España tiene casi todo lo que necesita la industria de los centros de datos: suelo, buena conectividad y abundante energía renovable a precios competitivos. Eso ha provocado que surja una avalancha de proyectos vinculado…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-11-los-centros-de-datos-quieren-instalarse-en-espana"
+        },
+        {
+          "title": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+          "source": "Xataka",
+          "published_at": "2026-09-11T09:47:00Z",
+          "summary": "Anthropic acaba de publicar su informe de inteligencia de amenazas más detallado hasta la fecha. Además de campañas de ciberespionaje o armas biológicas aparece una historia especialmente llamativa: siete laboratorios de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-11-anthropic-ha-pillado-a-china-copiando-claude-de"
         },
         {
           "title": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
@@ -490,136 +594,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-10-google-se-gasta-13-000-millones-de-euros"
-        },
-        {
-          "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-          "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-09-10T16:58:44Z",
-          "summary": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you u…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-amazon-s-fire-tv-stick-4k-is-over"
-        },
-        {
-          "title": "Electric air taxis get the green light for test flights in Texas",
-          "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-          "source": "The Verge",
-          "published_at": "2026-09-10T16:00:00Z",
-          "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-electric-air-taxis-get-the-green-light-for"
-        },
-        {
-          "title": "Universal Music is launching an AI music platform with ElevenLabs",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-          "source": "The Verge",
-          "published_at": "2026-09-10T15:38:19Z",
-          "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thur…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-universal-music-is-launching-an-ai-music-platform"
-        },
-        {
-          "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-          "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-          "source": "The Verge",
-          "published_at": "2026-09-10T15:00:00Z",
-          "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Ser…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-where-to-preorder-the-new-apple-watch-series"
-        },
-        {
-          "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-          "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-          "source": "The Verge",
-          "published_at": "2026-09-10T15:00:00Z",
-          "summary": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slici…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-wolverine-on-the-ps5-goes-back-to-a"
-        },
-        {
-          "title": "Meta’s Muse AI works and creeps me out",
-          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-          "source": "The Verge",
-          "published_at": "2026-09-10T15:00:00Z",
-          "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shoppin…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-10-meta-s-muse-ai-works-and-creeps-me"
-        },
-        {
-          "title": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
-          "url": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
-          "source": "Xataka",
-          "published_at": "2026-09-10T09:30:00Z",
-          "summary": "Apple ha celebrado su tradicional Keynote de septiembre en la que ha presentado un montón de dispositivos . Ya tenemos todos los detalles de un iPhone 18 Pro del que se había filtrado prácticamente todo, pero también de …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-10-el-apple-watch-ya-no-solo-es-un"
-        },
-        {
-          "title": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
-          "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
-          "source": "Xataka",
-          "published_at": "2026-09-10T09:17:00Z",
-          "summary": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%. &nbsp;Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-10-estan-jugando-con-nuestras-vidas-un-investigador-de"
-        },
-        {
-          "title": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
-          "url": "https://www.xataka.com/basics/como-usar-notebooklm-para-ayudarte-a-estudiar-repasar-nuevo-curso-escolar",
-          "source": "Xataka",
-          "published_at": "2026-09-10T08:31:00Z",
-          "summary": "Vamos a explicarte cómo usar NotebookLM para ayudarte durante el curso escolar. NotebookLM es la herramienta de&nbsp; inteligencia artificial &nbsp;de Google con la que puedes hacerle preguntas a la IA y las respuestas s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-10-como-usar-notebooklm-para-ayudarte-a-estudiar-y"
-        },
-        {
-          "title": "Siri AI aspira a convertirse en el asistente personal de IA que nos acompañe a todas partes. Y no tiene ninguna prisa por lograrlo",
-          "url": "https://www.xataka.com/robotica-e-ia/siri-ai-aspira-a-convertirse-asistente-personal-ia-que-nos-acompane-a-todas-partes-no-tiene-ninguna-prisa-lograrlo",
-          "source": "Xataka",
-          "published_at": "2026-09-09T17:45:49Z",
-          "summary": "En Apple tienen claro que si hay un producto que sabe algo de ti, ese producto es tu móvil. Y eso hace que el iPhone se convierta en candidato perfecto para que saques más partido de la IA que se beneficia de todo ese co…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-09-siri-ai-aspira-a-convertirse-en-el-asistente"
         }
       ]
     }
@@ -656,6 +630,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-14T00:00:00Z",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
+        },
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-11T16:00:00Z",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-11-cognition-helps-devin-test-its-own-work-with"
+        },
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI",
+          "published_at": "2026-09-11T10:00:00Z",
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-11-rapidly-scaling-online-storage-to-serve-over-1"
+        },
         {
           "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
