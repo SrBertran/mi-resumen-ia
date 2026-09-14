@@ -1,78 +1,91 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T12:08:48.549180Z",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T13:05:39.238445Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "published_at": "2026-09-14T00:00:00Z",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "title": "Adversarial Fashion Confronts Surveillance Norms",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-09-14T13:00:03Z",
+      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound, encompassing the lack of consent…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "investigación"
       ],
-      "category": "lanzamientos",
-      "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
+      "category": "investigación",
+      "id": "ieee-2026-09-14-adversarial-fashion-confronts-surveillance-norms"
     },
     {
-      "title": "Your car is selling your data",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
       "source": "The Verge",
-      "published_at": "2026-09-13T12:00:00Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers'…",
+      "published_at": "2026-09-14T13:00:00Z",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-13-your-car-is-selling-your-data"
+      "id": "theverge-2026-09-14-microsoft-says-people-matter-more-than-ai-following"
     },
     {
-      "title": "Apple’s new phones are here",
-      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "title": "Misiles hipersónicos, enjambres kamikaze y hasta 12 objetivos en Taiwán. En Rusia, China, Irán y Yemen dieron con el mismo ingeniero militar: Claude",
+      "url": "https://www.xataka.com/magnet/misiles-hipersonicos-enjambres-kamikaze-12-objetivos-taiwan-rusia-china-iran-yemen-encontraron-ingeniero-militar-claude",
+      "source": "Xataka",
+      "published_at": "2026-09-14T12:31:00Z",
+      "summary": "Misiles balísticos de más de 2.000 kilómetros, un proyecto de vehículo hipersónico, enjambres de drones capaces de decidir cuándo detonar, sistemas navales antitorpedo o incluso un programa para localizar las defensas aé…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-09-14-misiles-hipersonicos-enjambres-kamikaze-y-hasta-12-objetivos"
+    },
+    {
+      "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
+      "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-09-14T12:00:01Z",
+      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay…",
+      "why_it_matters": "",
+      "tags": [
+        "investigación"
+      ],
+      "category": "investigación",
+      "id": "ieee-2026-09-14-why-andon-labs-puts-ai-agents-in-charge"
+    },
+    {
+      "title": "What happens after a town de-Flocks",
+      "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
       "source": "The Verge",
-      "published_at": "2026-09-13T12:00:00Z",
-      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer home…",
+      "published_at": "2026-09-14T11:00:00Z",
+      "summary": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But en…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-13-apple-s-new-phones-are-here"
-    },
-    {
-      "title": "Las GPU están por las nubes: esta web ha cartografiado la subida de las RTX 50 y RX 9000 en 2026 y es demencial",
-      "url": "https://www.xataka.com/componentes/gpu-estan-nubes-esta-web-ha-cartografiado-subida-rtx-50-rx-9000-2026-demencial",
-      "source": "Xataka",
-      "published_at": "2026-09-13T09:01:00Z",
-      "summary": "Tengo un compañero en Xataka (no revelaré el nombre) que a principios de año pidió componentes para montar un ordenador gaming. Algunos le llegaron rápidamente, pero otros como la GPU se demoraron meses. Él nos contaba a…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-13-las-gpu-estan-por-las-nubes-esta-web"
-    },
-    {
-      "title": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
-      "url": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
-      "source": "Xataka",
-      "published_at": "2026-09-13T07:22:38Z",
-      "summary": "Dario Amodei cambia de idea. El CEO de Anthropic se ha pronunciado sobre el ritmo de mejora y los avances de la inteligencia artificial pidiendo que se pise el freno por una cuestión de seguridad. Allá por 2023, Amodei d…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-13-debemos-frenar-el-ritmo-dario-amodei-avisa-de"
+      "id": "theverge-2026-09-14-what-happens-after-a-town-de-flocks"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-14T00:00:00Z",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
+        },
         {
           "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
           "url": "https://openai.com/index/cognition-devin-testing-with-astra",
@@ -165,19 +178,6 @@
           "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
         },
         {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
-        },
-        {
           "title": "Introducing the Agents API",
           "url": "https://openai.com/index/introducing-the-agents-api",
           "source": "OpenAI",
@@ -189,6 +189,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-10-introducing-the-agents-api"
+        },
+        {
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
         },
         {
           "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -358,25 +371,155 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-08-1password-increases-engineering-productivity-21-with-codex"
-        },
-        {
-          "title": "Supporting independent journalism in Ukraine",
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "source": "OpenAI",
-          "published_at": "2026-09-07T00:00:00Z",
-          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-07-supporting-independent-journalism-in-ukraine"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "“¿Por qué esto no lo está construyendo el Gobierno?”: Dario Amodei cree que la IA es demasiado importante para dejarla en manos privadas",
+          "url": "https://www.xataka.com/robotica-e-ia/que-esto-no-esta-construyendo-gobierno-dario-amodei-cree-que-ia-demasiado-importante-para-dejarla-manos-privadas",
+          "source": "Xataka",
+          "published_at": "2026-09-14T10:01:01Z",
+          "summary": "El debate sobre el frenazo de la IA está en todas partes. La reciente reflexión de Dario Amodei ha provocado declaraciones y opiniones por todas partes, y el CEO de Anthropic ha dado ya varias entrevistas en las que ampl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-14-por-que-esto-no-lo-esta-construyendo-el"
+        },
+        {
+          "title": "Todos quieren frenar la carrera de la IA. Hay un problema: nadie se fía lo suficiente del otro como para ser el primero",
+          "url": "https://www.xataka.com/robotica-e-ia/todos-quieren-frenar-carrera-ia-hay-problema-nadie-se-fia-suficiente-otro-como-para-ser-primero",
+          "source": "Xataka",
+          "published_at": "2026-09-14T07:48:00Z",
+          "summary": "El CEO de Anthropic, Dario Amodei, sorprendía a todos el fin de semana con un mensaje contundente: ralentizar el desarrollo de modelos de IA avanzados . Eso, explica, nos daría tiempo para entender los riesgos. Sam Altma…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-14-todos-quieren-frenar-la-carrera-de-la-ia"
+        },
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge",
+          "published_at": "2026-09-13T19:41:48Z",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-trump-and-mike-johnson-think-the-ai-industry"
+        },
+        {
+          "title": "Apple is reportedly working on iPhone game controllers",
+          "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "source": "The Verge",
+          "published_at": "2026-09-13T18:30:16Z",
+          "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some ti…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-apple-is-reportedly-working-on-iphone-game-controllers"
+        },
+        {
+          "title": "The Units’ Digital Stimulation is synthpunk perfection",
+          "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+          "source": "The Verge",
+          "published_at": "2026-09-13T17:36:10Z",
+          "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-the-units-digital-stimulation-is-synthpunk-perfection"
+        },
+        {
+          "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+          "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+          "source": "The Verge",
+          "published_at": "2026-09-13T14:28:12Z",
+          "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were take…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-waymo-pulls-over-calls-cops-on-riders-with"
+        },
+        {
+          "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+          "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+          "source": "The Verge",
+          "published_at": "2026-09-13T13:00:00Z",
+          "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take ove…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-your-mother-your-mother-your-mother-will-make"
+        },
+        {
+          "title": "Your car is selling your data",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "The Verge",
+          "published_at": "2026-09-13T12:00:00Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers'…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-your-car-is-selling-your-data"
+        },
+        {
+          "title": "Apple’s new phones are here",
+          "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+          "source": "The Verge",
+          "published_at": "2026-09-13T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer home…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-13-apple-s-new-phones-are-here"
+        },
+        {
+          "title": "Las GPU están por las nubes: esta web ha cartografiado la subida de las RTX 50 y RX 9000 en 2026 y es demencial",
+          "url": "https://www.xataka.com/componentes/gpu-estan-nubes-esta-web-ha-cartografiado-subida-rtx-50-rx-9000-2026-demencial",
+          "source": "Xataka",
+          "published_at": "2026-09-13T09:01:00Z",
+          "summary": "Tengo un compañero en Xataka (no revelaré el nombre) que a principios de año pidió componentes para montar un ordenador gaming. Algunos le llegaron rápidamente, pero otros como la GPU se demoraron meses. Él nos contaba a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-13-las-gpu-estan-por-las-nubes-esta-web"
+        },
+        {
+          "title": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
+          "url": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
+          "source": "Xataka",
+          "published_at": "2026-09-13T07:22:38Z",
+          "summary": "Dario Amodei cambia de idea. El CEO de Anthropic se ha pronunciado sobre el ritmo de mejora y los avances de la inteligencia artificial pidiendo que se pise el freno por una cuestión de seguridad. Allá por 2023, Amodei d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-13-debemos-frenar-el-ritmo-dario-amodei-avisa-de"
+        },
         {
           "title": "OpenAI’s rogue AI tried to hack another company in May",
           "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -389,123 +532,6 @@
           ],
           "category": "general",
           "id": "theverge-2026-09-12-openai-s-rogue-ai-tried-to-hack-another"
-        },
-        {
-          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-          "source": "The Verge",
-          "published_at": "2026-09-12T21:16:28Z",
-          "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking inciden…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-sam-altman-says-openai-going-public-in-2026"
-        },
-        {
-          "title": "StarCraft returns in 2030 as an open-world shooter",
-          "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-          "source": "The Verge",
-          "published_at": "2026-09-12T20:08:09Z",
-          "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-starcraft-returns-in-2030-as-an-open-world-shooter"
-        },
-        {
-          "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-          "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-          "source": "The Verge",
-          "published_at": "2026-09-12T16:35:00Z",
-          "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Ove…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-sylvan-esso-think-you-should-splurge-on-good-quality"
-        },
-        {
-          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-          "source": "The Verge",
-          "published_at": "2026-09-12T16:23:40Z",
-          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a w…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-anthropic-ceo-says-it-s-time-to-pump"
-        },
-        {
-          "title": "LG responds to TV spying allegations",
-          "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-          "source": "The Verge",
-          "published_at": "2026-09-12T15:19:44Z",
-          "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-lg-responds-to-tv-spying-allegations"
-        },
-        {
-          "title": "Trump is giving data centers a pass to pollute",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-          "source": "The Verge",
-          "published_at": "2026-09-12T14:41:27Z",
-          "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-trump-is-giving-data-centers-a-pass-to"
-        },
-        {
-          "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-          "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-          "source": "The Verge",
-          "published_at": "2026-09-12T13:00:00Z",
-          "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most an…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-12-laika-s-stop-motion-fantasy-wildwood-looks-so-smooth"
-        },
-        {
-          "title": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
-          "source": "Xataka",
-          "published_at": "2026-09-12T08:30:00Z",
-          "summary": "Esta semana la ciencia se ha llevado una de cal y otra de arena: a falta de la confirmación de la comunidad matemática, parece que por fin hemos averiguado la solución a uno de los&nbsp; siete Problemas del Milenio &nbsp…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-12-una-amenaza-general-al-trabajo-intelectual-las-mentes"
-        },
-        {
-          "title": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
-          "url": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
-          "source": "Xataka",
-          "published_at": "2026-09-11T18:01:01Z",
-          "summary": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-11-en-china-los-tokens-de-ia-son-los"
         }
       ]
     }
@@ -634,19 +660,6 @@
           "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
         },
         {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
-        },
-        {
           "title": "Introducing the Agents API",
           "url": "https://openai.com/index/introducing-the-agents-api",
           "source": "OpenAI",
@@ -658,6 +671,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-10-introducing-the-agents-api"
+        },
+        {
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI",
+          "published_at": "2026-09-10T00:00:00Z",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
         },
         {
           "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -788,19 +814,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-08-1password-increases-engineering-productivity-21-with-codex"
-        },
-        {
-          "title": "Supporting independent journalism in Ukraine",
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "source": "OpenAI",
-          "published_at": "2026-09-07T00:00:00Z",
-          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-07-supporting-independent-journalism-in-ukraine"
         }
       ]
     },
