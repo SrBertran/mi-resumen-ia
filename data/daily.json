@@ -1,78 +1,143 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T11:55:18.201465Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T11:51:47.569682Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "GM updates its trucks’ native software to coexist with CarPlay",
-      "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
-      "source": "The Verge",
-      "published_at": "2026-09-15T11:00:00Z",
-      "summary": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-15-gm-updates-its-trucks-native-software-to-coexist"
-    },
-    {
-      "title": "El debate sobre la IA ya no enfrenta a optimistas y pesimistas. Enfrenta a empresas con miles de millones en juego",
-      "url": "https://www.xataka.com/robotica-e-ia/debate-ia-no-enfrenta-a-optimistas-pesimistas-enfrenta-a-empresas-miles-millones-juego",
+      "title": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
+      "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
       "source": "Xataka",
-      "published_at": "2026-09-15T10:46:10Z",
-      "summary": "ChatGPT no llevaba ni seis meses en escena cuando el experto Eliezer Yudkowsky nos avisó de que la IA \"nos mataría a todos\" . Su discurso catastrofista no fue el primero, pero sí reactivó la preocupación ante una amenaza…",
+      "published_at": "2026-09-16T10:46:11Z",
+      "summary": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-15-el-debate-sobre-la-ia-ya-no-enfrenta"
+      "id": "xataka-2026-09-16-un-agente-de-ia-ha-protagonizado-un-ciberataque"
     },
     {
-      "title": "Qué es y quién está detrás de METR, el organismo que Anthropic propone para supervisar que la IA no sea un peligro para la sociedad",
-      "url": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
+      "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
+      "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
       "source": "Xataka",
-      "published_at": "2026-09-15T09:31:01Z",
-      "summary": "En una carta publicada hace unos días , Dario Amodei abogó por detener el avance de la IA , y además lo hizo dando detalles muy claros de a lo que nos exponemos. Según el CEO de Anthropic, en menos de un año una IA podrí…",
+      "published_at": "2026-09-16T10:07:15Z",
+      "summary": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo #SOCIAL_BUTTONS# \"It's Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-15-que-es-y-quien-esta-detras-de-metr"
+      "id": "xataka-2026-09-16-llevo-21-anos-sin-ver-la-f1-pero"
     },
     {
-      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-      "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
       "source": "The Verge",
-      "published_at": "2026-09-15T08:54:48Z",
-      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this mon…",
+      "published_at": "2026-09-16T08:54:46Z",
+      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-15-microsoft-issues-emergency-windows-11-update-to-fix"
+      "id": "theverge-2026-09-16-meta-is-reportedly-ready-to-launch-less-pervy"
     },
     {
-      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-      "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-      "source": "The Verge",
-      "published_at": "2026-09-15T07:00:00Z",
-      "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its P…",
+      "title": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
+      "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
+      "source": "Xataka",
+      "published_at": "2026-09-16T07:30:12Z",
+      "summary": "El pasado lunes Jensen Huang, CEO de NVIDIA, estaba participando el evento All-In en Los Ángeles cuando le sonó el móvil. Lo normal habría sido ignorarlo y continuar con su discurso, pero quien llamaba era Donald Trump. …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-15-volvo-s-plug-in-hybrid-xc60-and-xc90-can"
+      "id": "xataka-2026-09-16-no-vamos-a-permitir-que-eso-suceda-jensen"
+    },
+    {
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "source": "The Verge",
+      "published_at": "2026-09-16T02:00:00Z",
+      "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justif…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-16-the-boox-palma-3-gets-stylus-support-and"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "source": "DeepMind",
+          "published_at": "2026-09-15T17:05:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-15-introducing-gemini-3-8-live-and-3-8"
+        },
+        {
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-ai-for-societal-impact"
+        },
+        {
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-building-ai-to-accelerate-science-and-improve-lives"
+        },
+        {
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "Animation of several words in different languages slowly zooming past",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-ai-for-everyone-in-every-language"
+        },
+        {
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T13:00:00Z",
+          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
+        },
         {
           "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -293,58 +358,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-09-the-ai-policy-window-is-open-we-need"
-        },
-        {
-          "title": "GPT-6 Astra: The next generation in intelligence for work",
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T11:00:00Z",
-          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-gpt-6-astra-the-next-generation-in-intelligence-for"
-        },
-        {
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "OpenAI",
-          "published_at": "2026-09-08T17:00:00Z",
-          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-08-how-gpt-5-6-sol-helps-run-quantum-computing"
-        },
-        {
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-          "source": "DeepMind",
-          "published_at": "2026-09-08T14:00:15Z",
-          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-08-alphagenome-atlas-a-predictive-map-of-every-possible"
-        },
-        {
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI",
-          "published_at": "2026-09-08T13:00:00Z",
-          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-08-the-work-now-within-reach"
         }
       ]
     },
@@ -406,189 +419,220 @@
       ]
     },
     {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "source": "Hugging Face",
+          "published_at": "2026-09-15T16:00:44Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-15-your-agent-aced-the-task-will-it-do"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-          "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+          "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
           "source": "The Verge",
-          "published_at": "2026-09-15T00:13:47Z",
-          "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The…",
+          "published_at": "2026-09-16T01:00:00Z",
+          "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-15-valve-is-still-figuring-out-how-and-when"
+          "id": "theverge-2026-09-16-the-eos-r8-mark-ii-is-canon-s"
         },
         {
-          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "title": "AI and data centers are incredibly unpopular in every poll",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
           "source": "The Verge",
-          "published_at": "2026-09-14T22:59:41Z",
-          "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive…",
+          "published_at": "2026-09-15T23:34:25Z",
+          "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-is-big-tech-s-ai-slowdown-a-safety"
+          "id": "theverge-2026-09-15-ai-and-data-centers-are-incredibly-unpopular-in"
         },
         {
-          "title": "Apple Home’s new security camera features cost as much as $60 a month",
-          "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+          "title": "Microsoft announces Windows and Surface event for October 7th",
+          "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
           "source": "The Verge",
-          "published_at": "2026-09-14T22:28:52Z",
-          "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secur…",
+          "published_at": "2026-09-15T20:36:59Z",
+          "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-apple-home-s-new-security-camera-features-cost"
+          "id": "theverge-2026-09-15-microsoft-announces-windows-and-surface-event-for-october"
         },
         {
-          "title": "What execs and politicians are saying about slowing down AI development",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+          "title": "What if social media isn’t hurting kids?",
+          "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
           "source": "The Verge",
-          "published_at": "2026-09-14T21:21:42Z",
-          "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and …",
+          "published_at": "2026-09-15T20:13:30Z",
+          "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decl…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-what-execs-and-politicians-are-saying-about-slowing"
+          "id": "theverge-2026-09-15-what-if-social-media-isn-t-hurting-kids"
         },
         {
-          "title": "Trump throws out power plant climate pollution rules",
-          "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+          "title": "Justo cuando parecía que Google estaba solucionando el problema de fragmentación de Android, llegó la IA",
+          "url": "https://www.xataka.com/moviles/justo-cuando-parecia-que-google-estaba-solucionando-problema-fragmentacion-android-llego-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-15T20:00:12Z",
+          "summary": "La fragmentación siempre ha sido uno de los puntos más flojos de Android , ya que la experiencia del sistema difiere mucho en según qué terminales lo ejecuten. Y esto no solo viene dado por lo potente que sea nuestro móv…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-15-justo-cuando-parecia-que-google-estaba-solucionando-el"
+        },
+        {
+          "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+          "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
           "source": "The Verge",
-          "published_at": "2026-09-14T20:45:00Z",
-          "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier a…",
+          "published_at": "2026-09-15T18:39:44Z",
+          "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-trump-throws-out-power-plant-climate-pollution-rules"
+          "id": "theverge-2026-09-15-kia-s-electric-van-lineup-is-getting-more"
         },
         {
-          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-          "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+          "title": "One of the best 3D printers for beginners is almost $100 off",
+          "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-09-14T20:03:37Z",
-          "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put …",
+          "published_at": "2026-09-15T18:02:30Z",
+          "summary": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. Thi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-jensen-huang-puts-trump-on-speakerphone-onstage-to"
+          "id": "theverge-2026-09-15-one-of-the-best-3d-printers-for-beginners"
         },
         {
-          "title": "Valve&#8217;s virtual reality plans hit actual reality",
-          "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+          "title": "Frenar la IA suena a proteger a la humanidad. También es una forma muy eficaz de frenar a DeepSeek, Qwen y Mistral",
+          "url": "https://www.xataka.com/robotica-e-ia/frenar-ia-suena-a-proteger-a-humanidad-tambien-forma-muy-eficaz-frenar-a-deepseek-qwen-mistral",
+          "source": "Xataka",
+          "published_at": "2026-09-15T16:30:12Z",
+          "summary": "Dario Amodei publicó estos días su \" We must pace the frontier \" , su propuesta para frenar el ritmo de la IA . Y OpenAI y SpaceXAI la han respaldado. En todo el ensayo, por cierto, no aparecen ni una vez las palabras \" …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-15-frenar-la-ia-suena-a-proteger-a-la"
+        },
+        {
+          "title": "How The Oregon Trail became a generational icon",
+          "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
           "source": "The Verge",
-          "published_at": "2026-09-14T19:48:06Z",
-          "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the globa…",
+          "published_at": "2026-09-15T16:18:10Z",
+          "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-14-valve-8217-s-virtual-reality-plans-hit-actual"
+          "id": "theverge-2026-09-15-how-the-oregon-trail-became-a-generational-icon"
         },
         {
-          "title": "La generación z creció con internet pero se ha rebelado contra la IA: nuevos luditas del siglo XXI bloqueando centros de datos",
-          "url": "https://www.xataka.com/robotica-e-ia/magnates-tech-sonaron-revolucion-digital-que-les-haria-milmillonarios-se-han-encontrado-regreso-luditas",
+          "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso 'techie' definitivo",
+          "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo-1",
           "source": "Xataka",
-          "published_at": "2026-09-14T17:15:00Z",
-          "summary": "En septiembre de 2025, Michael Trazzi se sentó con una silla plegable y una pizarra frente a la sede de Google DeepMind en Londres y se declaraba en huelga de hambre . En la pizarra se podía leer: \" DeepMind parad la car…",
+          "published_at": "2026-09-15T16:08:00Z",
+          "summary": "\"Is Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del Gran Premio de Madrid. Kimi pasó a mi lado y yo seguí tan pancho. Al darme la vuelta vi que la gente se arremolinaba a su alrededor, pidién…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-la-generacion-z-crecio-con-internet-pero-se"
+          "id": "xataka-2026-09-15-llevo-21-anos-sin-ver-la-f1-pero"
         },
         {
-          "title": "Llevamos años oyendo que una superinteligencia podría matarnos a todos. Entre “podría” y “nos extinguirá” hay un abismo",
-          "url": "https://www.xataka.com/robotica-e-ia/llevamos-anos-oyendo-que-superinteligencia-podria-matarnos-a-todos-podria-nos-extinguira-hay-abismo",
-          "source": "Xataka",
-          "published_at": "2026-09-14T16:31:00Z",
-          "summary": "Ya hablamos de cómo Evan Hubinger, responsable de la división de alineamiento en Anthropic, publicó un polémico mensaje en X en el que indicaba que creía que había un 10% de posibilidades de que la IA acabase con la raza…",
+          "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
+          "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
+          "source": "The Verge",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-st…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-llevamos-anos-oyendo-que-una-superinteligencia-podria-matarnos"
+          "id": "theverge-2026-09-15-vintage-violence-is-an-absurdist-crime-thriller-for"
         },
         {
-          "title": "Las big tech de la IA dicen que hay que frenar para salvar a la humanidad. Lo que no quieren decir es que necesitan oxígeno",
-          "url": "https://www.xataka.com/empresas-y-economia/big-tech-ia-dicen-que-hay-que-frenar-para-salvar-a-humanidad-que-no-quieren-decir-que-necesitan-oxigeno",
+          "title": "Un estudiante tardó cuatro horas en \"estropear\" una presentación perfecta hecha por IA para que no pareciera IA",
+          "url": "https://www.xataka.com/robotica-e-ia/estudiantes-usan-ia-para-hacer-trampas-ahora-pierden-horas-intentando-que-no-se-note",
           "source": "Xataka",
-          "published_at": "2026-09-14T15:47:00Z",
-          "summary": "\"Nos estamos pasando de frenada con la IA\". Básicamente, ese es el mensaje que Dario Amodei, CEO de Anthropic, mandaba este fin de semana , poniendo sobre la mesa, otra vez, que pese al enorme potencial de la tecnología,…",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "Antes de la IA, los estudiantes ya copiaban en exámenes, se descargaban trabajos de ' El Rincón del Vago ' o incluso pagaban para que alguien se los hiciera . Con la IA, hacer trampas se ha convertido en algo tan sencill…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-las-big-tech-de-la-ia-dicen-que"
+          "id": "xataka-2026-09-15-un-estudiante-tardo-cuatro-horas-en-estropear-una"
         },
         {
-          "title": "OpenAI y Anthropic están intentando hacer con la IA lo que Rockefeller hizo con el petróleo",
-          "url": "https://www.xataka.com/robotica-e-ia/grandes-ia-estan-resucitando-estrategia-que-invento-rockefeller",
+          "title": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
+          "url": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
           "source": "Xataka",
-          "published_at": "2026-09-14T15:00:00Z",
-          "summary": "Desde hace meses, el discurso en torno a los últimos modelos de IA se ha ido volviendo más y más apocalíptico. Desde hace unos días ya no se habla tanto de modelos que pueden ser un riesgo para la ciberseguridad , se hab…",
+          "published_at": "2026-09-15T14:00:12Z",
+          "summary": "La fiebre del oro en California duró poco . De 1848 a mediados de la década posterior, decenas de miles de buscadores vendieron sus pertenencias, se asentaron en los ríos y montañas californianos armados con la esperanza…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-openai-y-anthropic-estan-intentando-hacer-con-la"
+          "id": "xataka-2026-09-15-la-ia-es-la-nueva-fiebre-del-oro"
         },
         {
-          "title": "Misiles hipersónicos, enjambres kamikaze y hasta 12 objetivos en Taiwán. En Rusia, China, Irán y Yemen dieron con el mismo ingeniero militar: Claude",
-          "url": "https://www.xataka.com/magnet/misiles-hipersonicos-enjambres-kamikaze-12-objetivos-taiwan-rusia-china-iran-yemen-encontraron-ingeniero-militar-claude",
+          "title": "El debate sobre la IA ya no enfrenta a optimistas y pesimistas. Enfrenta a empresas con miles de millones en juego",
+          "url": "https://www.xataka.com/robotica-e-ia/debate-ia-no-enfrenta-a-optimistas-pesimistas-enfrenta-a-empresas-miles-millones-juego",
           "source": "Xataka",
-          "published_at": "2026-09-14T12:31:00Z",
-          "summary": "Misiles balísticos de más de 2.000 kilómetros, un proyecto de vehículo hipersónico, enjambres de drones capaces de decidir cuándo detonar, sistemas navales antitorpedo o incluso un programa para localizar las defensas aé…",
+          "published_at": "2026-09-15T10:46:10Z",
+          "summary": "ChatGPT no llevaba ni seis meses en escena cuando el experto Eliezer Yudkowsky nos avisó de que la IA \"nos mataría a todos\" . Su discurso catastrofista no fue el primero, pero sí reactivó la preocupación ante una amenaza…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-misiles-hipersonicos-enjambres-kamikaze-y-hasta-12-objetivos"
+          "id": "xataka-2026-09-15-el-debate-sobre-la-ia-ya-no-enfrenta"
         },
         {
-          "title": "“¿Por qué esto no lo está construyendo el Gobierno?”: Dario Amodei cree que la IA es demasiado importante para dejarla en manos privadas",
-          "url": "https://www.xataka.com/robotica-e-ia/que-esto-no-esta-construyendo-gobierno-dario-amodei-cree-que-ia-demasiado-importante-para-dejarla-manos-privadas",
+          "title": "Anthropic quiere poner un árbitro a la IA. El problema es quién ha elegido para hacerlo",
+          "url": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
           "source": "Xataka",
-          "published_at": "2026-09-14T10:01:01Z",
-          "summary": "El debate sobre el frenazo de la IA está en todas partes. La reciente reflexión de Dario Amodei ha provocado declaraciones y opiniones por todas partes, y el CEO de Anthropic ha dado ya varias entrevistas en las que ampl…",
+          "published_at": "2026-09-15T09:30:00Z",
+          "summary": "En una carta publicada hace unos días , Dario Amodei abogó por detener el avance de la IA , y además lo hizo dando detalles muy claros de a lo que nos exponemos. Según el CEO de Anthropic, en menos de un año una IA podrí…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-14-por-que-esto-no-lo-esta-construyendo-el"
-        },
-        {
-          "title": "Todos quieren frenar la carrera de la IA. Hay un problema: nadie se fía lo suficiente del otro como para ser el primero",
-          "url": "https://www.xataka.com/robotica-e-ia/todos-quieren-frenar-carrera-ia-hay-problema-nadie-se-fia-suficiente-otro-como-para-ser-primero",
-          "source": "Xataka",
-          "published_at": "2026-09-14T07:48:00Z",
-          "summary": "El CEO de Anthropic, Dario Amodei, sorprendía a todos el fin de semana con un mensaje contundente: ralentizar el desarrollo de modelos de IA avanzados . Eso, explica, nos daría tiempo para entender los riesgos. Sam Altma…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-14-todos-quieren-frenar-la-carrera-de-la-ia"
+          "id": "xataka-2026-09-15-anthropic-quiere-poner-un-arbitro-a-la-ia"
         }
       ]
     }
@@ -780,45 +824,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-09-the-ai-policy-window-is-open-we-need"
-        },
-        {
-          "title": "GPT-6 Astra: The next generation in intelligence for work",
-          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T11:00:00Z",
-          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-gpt-6-astra-the-next-generation-in-intelligence-for"
-        },
-        {
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "OpenAI",
-          "published_at": "2026-09-08T17:00:00Z",
-          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-08-how-gpt-5-6-sol-helps-run-quantum-computing"
-        },
-        {
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI",
-          "published_at": "2026-09-08T13:00:00Z",
-          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-08-the-work-now-within-reach"
         }
       ]
     },
@@ -845,6 +850,58 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-ai-for-societal-impact"
+        },
+        {
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-building-ai-to-accelerate-science-and-improve-lives"
+        },
+        {
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T16:00:00Z",
+          "summary": "Animation of several words in different languages slowly zooming past",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-ai-for-everyone-in-every-language"
+        },
+        {
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+          "source": "Google AI",
+          "published_at": "2026-09-15T13:00:00Z",
+          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
+        },
         {
           "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -917,17 +974,17 @@
       "name": "DeepMind",
       "items": [
         {
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
           "source": "DeepMind",
-          "published_at": "2026-09-08T14:00:15Z",
-          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "published_at": "2026-09-15T17:05:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "deepmind-2026-09-08-alphagenome-atlas-a-predictive-map-of-every-possible"
+          "id": "deepmind-2026-09-15-introducing-gemini-3-8-live-and-3-8"
         }
       ]
     }
