@@ -1,78 +1,143 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T11:51:47.569682Z",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T11:54:13.095341Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
-      "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
-      "source": "Xataka",
-      "published_at": "2026-09-16T10:46:11Z",
-      "summary": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-16-un-agente-de-ia-ha-protagonizado-un-ciberataque"
-    },
-    {
-      "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
-      "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
-      "source": "Xataka",
-      "published_at": "2026-09-16T10:07:15Z",
-      "summary": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo #SOCIAL_BUTTONS# \"It's Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-16-llevo-21-anos-sin-ver-la-f1-pero"
-    },
-    {
-      "title": "Meta is reportedly ready to launch less pervy smart glasses",
-      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
       "source": "The Verge",
-      "published_at": "2026-09-16T08:54:46Z",
-      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information …",
+      "published_at": "2026-09-17T11:30:00Z",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurit…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-16-meta-is-reportedly-ready-to-launch-less-pervy"
+      "id": "theverge-2026-09-17-inside-the-suddenly-explosive-world-of-ai-safety"
     },
     {
-      "title": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
+      "title": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+      "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
       "source": "Xataka",
-      "published_at": "2026-09-16T07:30:12Z",
-      "summary": "El pasado lunes Jensen Huang, CEO de NVIDIA, estaba participando el evento All-In en Los Ángeles cuando le sonó el móvil. Lo normal habría sido ignorarlo y continuar con su discurso, pero quien llamaba era Donald Trump. …",
+      "published_at": "2026-09-17T10:00:14Z",
+      "summary": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "regulación"
       ],
-      "category": "general",
-      "id": "xataka-2026-09-16-no-vamos-a-permitir-que-eso-suceda-jensen"
+      "category": "regulación",
+      "id": "xataka-2026-09-17-jensen-huang-ceo-de-nvidia-no-necesitamos-nuevas"
     },
     {
-      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-      "source": "The Verge",
-      "published_at": "2026-09-16T02:00:00Z",
-      "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justif…",
+      "title": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
+      "url": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
+      "source": "Xataka",
+      "published_at": "2026-09-17T08:30:11Z",
+      "summary": "Seamos sinceros: la domótica es un rollo porque se ha convertido en una selva de aplicaciones propietarias y ecosistemas diferentes. Por mucho que haya intentos como Matter , la realidad es que los usuarios nos vemos atr…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-16-the-boox-palma-3-gets-stylus-support-and"
+      "id": "xataka-2026-09-17-el-futuro-del-hogar-conectado-no-es-instalar"
+    },
+    {
+      "title": "Apple planea volver al mercado de servidores para IA de la mano de Nvidia y el chip M8 Ultra, según The Information",
+      "url": "https://www.xataka.com/empresas-y-economia/apple-planea-volver-al-mercado-servidores-para-ia-mano-nvidia-chip-m8-ultra-the-information",
+      "source": "Xataka",
+      "published_at": "2026-09-17T08:16:11Z",
+      "summary": "John Ternus lleva dos semanas en el cargo como nuevo CEO de Apple y, siendo un hombre de hardware, parece que tiene la intención de devolver a Apple a los días en los que estaban en el negocio de los servidores. Con la e…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-09-17-apple-planea-volver-al-mercado-de-servidores-para"
+    },
+    {
+      "title": "The streamers are fighting over Halloween",
+      "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "source": "The Verge",
+      "published_at": "2026-09-17T03:00:00Z",
+      "summary": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netf…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-17-the-streamers-are-fighting-over-halloween"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T17:00:00Z",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-our-framework-for-reporting-model-misalignment"
+        },
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T16:00:00Z",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-helping-older-adults-use-ai-in-everyday-life"
+        },
+        {
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T13:00:00Z",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-reimagining-advertising-with-ai"
+        },
+        {
+          "title": "How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T12:00:00Z",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-how-to-connect-ai-usage-to-business-value"
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T09:00:00Z",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-how-workers-are-unlocking-new-ways-of-working"
+        },
         {
           "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -254,110 +319,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-10-now-everyone-can-put-data-to-work"
-        },
-        {
-          "title": "Introducing ChatGPT for Financial Services",
-          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T07:00:00Z",
-          "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-introducing-chatgpt-for-financial-services"
-        },
-        {
-          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-          "url": "https://openai.com/index/expanding-ai-access-us-government",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T07:00:00Z",
-          "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
-        },
-        {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
-        },
-        {
-          "title": "Introducing the Agents API",
-          "url": "https://openai.com/index/introducing-the-agents-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-introducing-the-agents-api"
-        },
-        {
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T17:00:00Z",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-paul-christiano-joins-openai-foundation-board"
-        },
-        {
-          "title": "Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-          "source": "Google AI",
-          "published_at": "2026-09-09T16:00:00Z",
-          "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the ico…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-09-get-ready-for-the-game-with-new-football"
-        },
-        {
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-          "source": "Google AI",
-          "published_at": "2026-09-09T16:00:00Z",
-          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-09-recreating-a-70-year-love-story-frame-by-frame"
-        },
-        {
-          "title": "The AI policy window is open. We need to act.",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T13:00:00Z",
-          "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-the-ai-policy-window-is-open-we-need"
         }
       ]
     },
@@ -365,56 +326,17 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Responsible AI for Higher Education",
-          "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+          "title": "Rethinking Robot Safety in the Age of AI",
+          "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
           "source": "IEEE Spectrum",
-          "published_at": "2026-09-14T14:18:11Z",
-          "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, an…",
+          "published_at": "2026-09-16T16:51:02Z",
+          "summary": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker chang…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-09-14-responsible-ai-for-higher-education"
-        },
-        {
-          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-14T14:06:31Z",
-          "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-14-how-openai-used-its-own-llms-to-design"
-        },
-        {
-          "title": "Adversarial Fashion Confronts Surveillance Norms",
-          "url": "https://spectrum.ieee.org/adversarial-fashion",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-14T13:00:03Z",
-          "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound, encompassing the lack of consent…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-14-adversarial-fashion-confronts-surveillance-norms"
-        },
-        {
-          "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
-          "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-14T12:00:01Z",
-          "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-14-why-andon-labs-puts-ai-agents-in-charge"
+          "id": "ieee-2026-09-16-rethinking-robot-safety-in-the-age-of-ai"
         }
       ]
     },
@@ -440,56 +362,186 @@
       "name": "General",
       "items": [
         {
-          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-          "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
           "source": "The Verge",
-          "published_at": "2026-09-16T01:00:00Z",
-          "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2…",
+          "published_at": "2026-09-16T23:40:00Z",
+          "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-16-the-eos-r8-mark-ii-is-canon-s"
+          "id": "theverge-2026-09-16-snap-is-launching-a-new-specs-ai-tool"
         },
         {
-          "title": "AI and data centers are incredibly unpopular in every poll",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "title": "I wore Snap’s $2,200 smart glasses",
+          "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
           "source": "The Verge",
-          "published_at": "2026-09-15T23:34:25Z",
-          "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support …",
+          "published_at": "2026-09-16T23:40:00Z",
+          "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino wi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-15-ai-and-data-centers-are-incredibly-unpopular-in"
+          "id": "theverge-2026-09-16-i-wore-snap-s-2-200-smart-glasses"
         },
         {
-          "title": "Microsoft announces Windows and Surface event for October 7th",
-          "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
           "source": "The Verge",
-          "published_at": "2026-09-15T20:36:59Z",
-          "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it …",
+          "published_at": "2026-09-16T20:59:13Z",
+          "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-15-microsoft-announces-windows-and-surface-event-for-october"
+          "id": "theverge-2026-09-16-the-2-5-hour-ai-generated-odyssey-movie-is-2"
         },
         {
-          "title": "What if social media isn’t hurting kids?",
-          "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
           "source": "The Verge",
-          "published_at": "2026-09-15T20:13:30Z",
-          "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decl…",
+          "published_at": "2026-09-16T20:40:46Z",
+          "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-15-what-if-social-media-isn-t-hurting-kids"
+          "id": "theverge-2026-09-16-the-ai-data-center-e-waste-problem-is-huge"
+        },
+        {
+          "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+          "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+          "source": "The Verge",
+          "published_at": "2026-09-16T18:45:35Z",
+          "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-16-resident-evil-is-a-comedy-first-and-a"
+        },
+        {
+          "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+          "url": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-16T18:20:38Z",
+          "summary": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already ex…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-16-walmart-takes-a-bite-off-the-cost-of"
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "source": "The Verge",
+          "published_at": "2026-09-16T17:20:29Z",
+          "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to oth…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-16-apple-might-make-servers-again-to-cash-in"
+        },
+        {
+          "title": "Your ‘health age’ is fake",
+          "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+          "source": "The Verge",
+          "published_at": "2026-09-16T17:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Duri…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-16-your-health-age-is-fake"
+        },
+        {
+          "title": "Mientras unos piden parar la IA y otros acelerar, Zuckerberg ha encontrado la tercera vía: vender seguridad",
+          "url": "https://www.xataka.com/robotica-e-ia/para-zuckerberg-seguridad-ia-no-freno-argumento-venta-anthropic-openai",
+          "source": "Xataka",
+          "published_at": "2026-09-16T15:00:00Z",
+          "summary": "Las empresas de IA están \"jugando con nuestras vidas\" . Es lo que dijo Jacob Coxon, exingeniero de Anthropic justo después de abandonar la compañía. Lo que le siguió fue un terremoto que ha puesto patas arriba la industr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-mientras-unos-piden-parar-la-ia-y-otros"
+        },
+        {
+          "title": "La nueva idea de uno de los creadores de ChatGPT es una IA que no sabe escribir. Esa es precisamente su ventaja",
+          "url": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
+          "source": "Xataka",
+          "published_at": "2026-09-16T14:16:11Z",
+          "summary": "Diogo Almeida no es un emprendedor de IA cualquiera . Trabajó en OpenAI y fue uno de los autores de InstructGPT, el estudio sobre aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) que sentó parte de la…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-la-nueva-idea-de-uno-de-los-creadores"
+        },
+        {
+          "title": "“El mundo tiene razón al tener miedo de la IA”. La solución de Sam Altman es que confiemos en quienes la están construyendo",
+          "url": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
+          "source": "Xataka",
+          "published_at": "2026-09-16T12:46:10Z",
+          "summary": "Sam Altman, el CEO de OpenAI, ha hecho una declaración llamativa : \"el mundo tiene razón al tener miedo de esto\". Se refiere, cómo no, a la amenaza que plantea la IA y que hizo que su rival empresarial, Dario Amodei, dij…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-el-mundo-tiene-razon-al-tener-miedo-de"
+        },
+        {
+          "title": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
+          "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
+          "source": "Xataka",
+          "published_at": "2026-09-16T10:46:11Z",
+          "summary": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-un-agente-de-ia-ha-protagonizado-un-ciberataque"
+        },
+        {
+          "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
+          "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
+          "source": "Xataka",
+          "published_at": "2026-09-16T10:07:15Z",
+          "summary": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo #SOCIAL_BUTTONS# \"It's Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-llevo-21-anos-sin-ver-la-f1-pero"
+        },
+        {
+          "title": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-16T07:30:12Z",
+          "summary": "El pasado lunes Jensen Huang, CEO de NVIDIA, estaba participando el evento All-In en Los Ángeles cuando le sonó el móvil. Lo normal habría sido ignorarlo y continuar con su discurso, pero quien llamaba era Donald Trump. …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-16-no-vamos-a-permitir-que-eso-suceda-jensen"
         },
         {
           "title": "Justo cuando parecía que Google estaba solucionando el problema de fragmentación de Android, llegó la IA",
@@ -503,136 +555,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-15-justo-cuando-parecia-que-google-estaba-solucionando-el"
-        },
-        {
-          "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-          "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-          "source": "The Verge",
-          "published_at": "2026-09-15T18:39:44Z",
-          "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-15-kia-s-electric-van-lineup-is-getting-more"
-        },
-        {
-          "title": "One of the best 3D printers for beginners is almost $100 off",
-          "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-09-15T18:02:30Z",
-          "summary": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. Thi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-15-one-of-the-best-3d-printers-for-beginners"
-        },
-        {
-          "title": "Frenar la IA suena a proteger a la humanidad. También es una forma muy eficaz de frenar a DeepSeek, Qwen y Mistral",
-          "url": "https://www.xataka.com/robotica-e-ia/frenar-ia-suena-a-proteger-a-humanidad-tambien-forma-muy-eficaz-frenar-a-deepseek-qwen-mistral",
-          "source": "Xataka",
-          "published_at": "2026-09-15T16:30:12Z",
-          "summary": "Dario Amodei publicó estos días su \" We must pace the frontier \" , su propuesta para frenar el ritmo de la IA . Y OpenAI y SpaceXAI la han respaldado. En todo el ensayo, por cierto, no aparecen ni una vez las palabras \" …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-frenar-la-ia-suena-a-proteger-a-la"
-        },
-        {
-          "title": "How The Oregon Trail became a generational icon",
-          "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-          "source": "The Verge",
-          "published_at": "2026-09-15T16:18:10Z",
-          "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-15-how-the-oregon-trail-became-a-generational-icon"
-        },
-        {
-          "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso 'techie' definitivo",
-          "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo-1",
-          "source": "Xataka",
-          "published_at": "2026-09-15T16:08:00Z",
-          "summary": "\"Is Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del Gran Premio de Madrid. Kimi pasó a mi lado y yo seguí tan pancho. Al darme la vuelta vi que la gente se arremolinaba a su alrededor, pidién…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-llevo-21-anos-sin-ver-la-f1-pero"
-        },
-        {
-          "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
-          "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-          "source": "The Verge",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-st…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-15-vintage-violence-is-an-absurdist-crime-thriller-for"
-        },
-        {
-          "title": "Un estudiante tardó cuatro horas en \"estropear\" una presentación perfecta hecha por IA para que no pareciera IA",
-          "url": "https://www.xataka.com/robotica-e-ia/estudiantes-usan-ia-para-hacer-trampas-ahora-pierden-horas-intentando-que-no-se-note",
-          "source": "Xataka",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "Antes de la IA, los estudiantes ya copiaban en exámenes, se descargaban trabajos de ' El Rincón del Vago ' o incluso pagaban para que alguien se los hiciera . Con la IA, hacer trampas se ha convertido en algo tan sencill…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-un-estudiante-tardo-cuatro-horas-en-estropear-una"
-        },
-        {
-          "title": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
-          "url": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
-          "source": "Xataka",
-          "published_at": "2026-09-15T14:00:12Z",
-          "summary": "La fiebre del oro en California duró poco . De 1848 a mediados de la década posterior, decenas de miles de buscadores vendieron sus pertenencias, se asentaron en los ríos y montañas californianos armados con la esperanza…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-la-ia-es-la-nueva-fiebre-del-oro"
-        },
-        {
-          "title": "El debate sobre la IA ya no enfrenta a optimistas y pesimistas. Enfrenta a empresas con miles de millones en juego",
-          "url": "https://www.xataka.com/robotica-e-ia/debate-ia-no-enfrenta-a-optimistas-pesimistas-enfrenta-a-empresas-miles-millones-juego",
-          "source": "Xataka",
-          "published_at": "2026-09-15T10:46:10Z",
-          "summary": "ChatGPT no llevaba ni seis meses en escena cuando el experto Eliezer Yudkowsky nos avisó de que la IA \"nos mataría a todos\" . Su discurso catastrofista no fue el primero, pero sí reactivó la preocupación ante una amenaza…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-el-debate-sobre-la-ia-ya-no-enfrenta"
-        },
-        {
-          "title": "Anthropic quiere poner un árbitro a la IA. El problema es quién ha elegido para hacerlo",
-          "url": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
-          "source": "Xataka",
-          "published_at": "2026-09-15T09:30:00Z",
-          "summary": "En una carta publicada hace unos días , Dario Amodei abogó por detener el avance de la IA , y además lo hizo dando detalles muy claros de a lo que nos exponemos. Según el CEO de Anthropic, en menos de un año una IA podrí…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-15-anthropic-quiere-poner-un-arbitro-a-la-ia"
         }
       ]
     }
@@ -669,6 +591,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T17:00:00Z",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-our-framework-for-reporting-model-misalignment"
+        },
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T16:00:00Z",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-helping-older-adults-use-ai-in-everyday-life"
+        },
+        {
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T13:00:00Z",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-reimagining-advertising-with-ai"
+        },
+        {
+          "title": "How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T12:00:00Z",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-how-to-connect-ai-usage-to-business-value"
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T09:00:00Z",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-how-workers-are-unlocking-new-ways-of-working"
+        },
         {
           "title": "How Fyxer built an AI executive assistant people trust",
           "url": "https://openai.com/index/fyxer",
@@ -746,84 +733,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-10-now-everyone-can-put-data-to-work"
-        },
-        {
-          "title": "Introducing ChatGPT for Financial Services",
-          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T07:00:00Z",
-          "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-introducing-chatgpt-for-financial-services"
-        },
-        {
-          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-          "url": "https://openai.com/index/expanding-ai-access-us-government",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T07:00:00Z",
-          "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-expanding-ai-access-and-cyber-defense-for-federal"
-        },
-        {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in"
-        },
-        {
-          "title": "Introducing the Agents API",
-          "url": "https://openai.com/index/introducing-the-agents-api",
-          "source": "OpenAI",
-          "published_at": "2026-09-10T00:00:00Z",
-          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-10-introducing-the-agents-api"
-        },
-        {
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T17:00:00Z",
-          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-paul-christiano-joins-openai-foundation-board"
-        },
-        {
-          "title": "The AI policy window is open. We need to act.",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI",
-          "published_at": "2026-09-09T13:00:00Z",
-          "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-09-the-ai-policy-window-is-open-we-need"
         }
       ]
     },
@@ -940,32 +849,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-10-3-ways-to-prep-for-your-next-big"
-        },
-        {
-          "title": "Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-          "source": "Google AI",
-          "published_at": "2026-09-09T16:00:00Z",
-          "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the ico…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-09-get-ready-for-the-game-with-new-football"
-        },
-        {
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-          "source": "Google AI",
-          "published_at": "2026-09-09T16:00:00Z",
-          "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-09-recreating-a-70-year-love-story-frame-by-frame"
         }
       ]
     },
