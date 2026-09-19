@@ -1,78 +1,143 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T11:31:08.619327Z",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T11:15:06.473826Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "source": "The Verge",
-      "published_at": "2026-09-18T11:00:00Z",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginn…",
+      "published_at": "2026-09-18T21:07:24Z",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-18-flash-floods-can-strike-without-warning----this"
+      "id": "theverge-2026-09-18-openai-and-microsoft-knew-they-were-starting-a"
     },
     {
-      "title": "Dos estudiantes valencianos crean con IA un \"Tinder\" para los trasplantes de hígado que busca reducir las listas de espera",
-      "url": "https://www.xataka.com/medicina-y-salud/dos-estudiantes-valencianos-crean-ia-tinder-para-trasplantes-higado-que-busca-reducir-listas-espera",
-      "source": "Xataka",
-      "published_at": "2026-09-18T10:46:10Z",
-      "summary": "En la medicina de trasplantes siempre nos enfrentamos al mismo dilema: faltan órganos disponibles mientras que las listas de espera de pacientes no paran de crecer. Durante décadas, la asignación de un hígado ha dependid…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-18-dos-estudiantes-valencianos-crean-con-ia-un-tinder"
-    },
-    {
-      "title": "“No queremos que estas cosas operen de forma autónoma”: Microsoft AI marca distancias con Anthropic por la seguridad de la IA",
-      "url": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
-      "source": "Xataka",
-      "published_at": "2026-09-18T06:30:12Z",
-      "summary": "Podemos construir una inteligencia artificial cada vez más capaz y, al mismo tiempo, decidir que hay cosas que nunca debería poder hacer por su cuenta. Ese es uno de los puntos hacia los que se está desplazando el debate…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-09-18-no-queremos-que-estas-cosas-operen-de-forma"
-    },
-    {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "source": "The Verge",
-      "published_at": "2026-09-18T02:00:00Z",
-      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" …",
+      "published_at": "2026-09-18T18:29:17Z",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-18-waymo-says-singapore-will-be-its-next-international"
+      "id": "theverge-2026-09-18-virginia-governor-creates-an-ai-task-force-and"
     },
     {
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "published_at": "2026-09-17T20:00:00Z",
-      "summary": "UN System Data Commons Data webpage",
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "source": "The Verge",
+      "published_at": "2026-09-18T18:27:04Z",
+      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney annou…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-09-17-making-global-data-easier-to-explore"
+      "category": "general",
+      "id": "theverge-2026-09-18-disney-s-first-cto-is-character-ai-s"
+    },
+    {
+      "title": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
+      "url": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
+      "source": "Xataka",
+      "published_at": "2026-09-18T17:30:12Z",
+      "summary": "A finales de 2023, el New York Times demandó a OpenAI y Microsoft acusándolas de usar sus artículos para entrenar modelos de IA sin haber obtenido autorización y tampoco haberles compensado de ninguna manera. Se acabaron…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "xataka-2026-09-18-el-mayor-robo-laboral-de-la-historia-asi"
+    },
+    {
+      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+      "source": "The Verge",
+      "published_at": "2026-09-18T17:06:37Z",
+      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low l…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-18-the-real-story-of-the-iphone-18-pro"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "source": "Google AI",
+          "published_at": "2026-09-18T14:00:00Z",
+          "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-18-new-experts-join-google-s-ai-economy-team"
+        },
+        {
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "source": "Google AI",
+          "published_at": "2026-09-18T13:00:00Z",
+          "summary": "Jane Wade and Sergio Hudson",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-18-co-creating-the-future-of-fashion-with-google"
+        },
+        {
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-09-18T12:00:00Z",
+          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-18-introducing-the-australian-youth-safety-blueprint"
+        },
+        {
+          "title": "Partnering with Accenture on embedded evaluation",
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic",
+          "published_at": "2026-09-18T00:00:00Z",
+          "summary": "Partnering with Accenture on embedded evaluation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-09-18-partnering-with-accenture-on-embedded-evaluation"
+        },
+        {
+          "title": "Making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+          "source": "Google AI",
+          "published_at": "2026-09-17T20:00:00Z",
+          "summary": "UN System Data Commons Data webpage",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-17-making-global-data-easier-to-explore"
+        },
         {
           "title": "How Cooley is accelerating IPO work with ChatGPT",
           "url": "https://openai.com/index/cooley-gopublic",
@@ -150,6 +215,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-16-reimagining-advertising-with-ai"
+        },
+        {
+          "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+          "url": "https://openai.com/index/hex-gpt-6-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T12:00:00Z",
+          "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-hex-turns-complex-analysis-into-visual-reports-with"
         },
         {
           "title": "How to connect AI usage to business value",
@@ -293,19 +371,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
-        },
-        {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-11T16:00:00Z",
-          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-11-cognition-helps-devin-test-its-own-work-with"
         }
       ]
     },
@@ -313,17 +378,30 @@
       "name": "Regulación",
       "items": [
         {
-          "title": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
-          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+          "title": "Racionalistas, altruistas eficaces y aceleracionistas: las tres tribus que se disputan el alma de la IA en Silicon Valley",
+          "url": "https://www.xataka.com/robotica-e-ia/racionalistas-altruistas-eficaces-aceleracionistas-tres-tribus-que-se-disputan-alma-ia-silicon-valley",
           "source": "Xataka",
-          "published_at": "2026-09-17T10:00:14Z",
-          "summary": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue…",
+          "published_at": "2026-09-18T13:16:11Z",
+          "summary": "Las guerras ideológicas de Silicon Valley ya no se libran en foros, sino con decenas de millones en las elecciones legislativas de Estados Unidos . Un supercomité financiado por Andreessen Horowitz (a16z) y Greg Brockman…",
           "why_it_matters": "",
           "tags": [
             "regulación"
           ],
           "category": "regulación",
-          "id": "xataka-2026-09-17-jensen-huang-ceo-de-nvidia-no-necesitamos-nuevas"
+          "id": "xataka-2026-09-18-racionalistas-altruistas-eficaces-y-aceleracionistas-las-tres-tribus"
+        },
+        {
+          "title": "Mustafa Suleyman, CEO de Microsoft IA: \"No queremos que la IA tenga derechos, queremos que trabaje para los humanos\"",
+          "url": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-18T06:30:00Z",
+          "summary": "Podemos construir una inteligencia artificial cada vez más capaz y, al mismo tiempo, decidir que hay cosas que nunca debería poder hacer por su cuenta. Ese es uno de los puntos hacia los que se está desplazando el debate…",
+          "why_it_matters": "",
+          "tags": [
+            "regulación"
+          ],
+          "category": "regulación",
+          "id": "xataka-2026-09-18-mustafa-suleyman-ceo-de-microsoft-ia-no-queremos"
         }
       ]
     },
@@ -331,30 +409,17 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Rethinking Robot Safety in the Age of AI",
-          "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-16T16:51:02Z",
-          "summary": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker chang…",
+          "title": "Security researchers used Claude to help them hack into OpenAI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+          "source": "The Verge",
+          "published_at": "2026-09-18T15:30:16Z",
+          "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They w…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-09-16-rethinking-robot-safety-in-the-age-of-ai"
-        },
-        {
-          "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-          "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-16T13:24:18Z",
-          "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this free whitepaper now!",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-16-single-phase-direct-liquid-cooling-is-proven-for-the"
+          "id": "theverge-2026-09-18-security-researchers-used-claude-to-help-them-hack"
         }
       ]
     },
@@ -362,108 +427,95 @@
       "name": "General",
       "items": [
         {
-          "title": "The AI Superintelligence Slowdown",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "title": "Gavin Newsom is pushing for an AI kill switch",
+          "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
           "source": "The Verge",
-          "published_at": "2026-09-17T19:28:24Z",
-          "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI co…",
+          "published_at": "2026-09-18T17:04:51Z",
+          "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-the-ai-superintelligence-slowdown"
+          "id": "theverge-2026-09-18-gavin-newsom-is-pushing-for-an-ai-kill"
         },
         {
-          "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+          "title": "What Hollywood thinks about existential AI warnings",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
           "source": "The Verge",
-          "published_at": "2026-09-17T18:58:05Z",
-          "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group…",
+          "published_at": "2026-09-18T16:35:19Z",
+          "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, L…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-claude-code-relaunches-projects-to-manage-multiple-ai"
+          "id": "theverge-2026-09-18-what-hollywood-thinks-about-existential-ai-warnings"
         },
         {
-          "title": "Save $30 or more on a refurbished Apple TV 4K",
-          "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+          "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+          "url": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
           "source": "The Verge",
-          "published_at": "2026-09-17T17:14:07Z",
-          "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished throu…",
+          "published_at": "2026-09-18T15:12:41Z",
+          "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-save-30-or-more-on-a-refurbished-apple"
+          "id": "theverge-2026-09-18-brendan-carr-s-fcc-is-more-worried-about"
         },
         {
-          "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-          "url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+          "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
+          "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-09-17T16:00:00Z",
-          "summary": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as …",
+          "published_at": "2026-09-18T14:51:26Z",
+          "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:1…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-xbox-s-clever-disc-to-digital-feature-was-15-years"
+          "id": "theverge-2026-09-18-lenovo-s-yoga-slim-7x-is-the-most"
         },
         {
-          "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-          "url": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
+          "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
+          "url": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
           "source": "The Verge",
-          "published_at": "2026-09-17T15:00:00Z",
-          "summary": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Cam…",
+          "published_at": "2026-09-18T14:41:18Z",
+          "summary": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-camp-snap-s-110d-gives-slim-retro-film"
+          "id": "theverge-2026-09-18-this-cartridge-playing-game-boy-clone-is-smaller-and"
         },
         {
-          "title": "Your robotaxi might be a narc",
-          "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
-          "source": "The Verge",
-          "published_at": "2026-09-17T15:00:00Z",
-          "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and…",
+          "title": "Si los actores tenían miedo de que un IA les reemplazara, la última tecnología de Amazon no les va a gustar demasiado",
+          "url": "https://www.xataka.com/cine-y-tv/amazon-lleva-doblaje-al-siguiente-nivel-ia-que-modifica-labios-actores-encajen-otra-voz",
+          "source": "Xataka",
+          "published_at": "2026-09-18T12:00:00Z",
+          "summary": "Amazon es una de las compañías que más están empujando la inteligencia artificial . Si ves competiciones deportivas, te habrás tragado anuncios cada dos por tres sobre AWS y publicidad sobre cómo ciertas estadísticas de …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-your-robotaxi-might-be-a-narc"
+          "id": "xataka-2026-09-18-si-los-actores-tenian-miedo-de-que-un"
         },
         {
-          "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-          "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-          "source": "The Verge",
-          "published_at": "2026-09-17T14:00:00Z",
-          "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise…",
+          "title": "Dos estudiantes valencianos crean con IA un \"Tinder\" para los trasplantes de hígado que busca reducir las listas de espera",
+          "url": "https://www.xataka.com/medicina-y-salud/dos-estudiantes-valencianos-crean-ia-tinder-para-trasplantes-higado-que-busca-reducir-listas-espera",
+          "source": "Xataka",
+          "published_at": "2026-09-18T10:46:10Z",
+          "summary": "En la medicina de trasplantes siempre nos enfrentamos al mismo dilema: faltan órganos disponibles mientras que las listas de espera de pacientes no paran de crecer. Durante décadas, la asignación de un hígado ha dependid…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-17-microsoft-ai-ceo-says-ai-threats-are-real"
-        },
-        {
-          "title": "AI is feared globally as the destroyer of jobs",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-          "source": "The Verge",
-          "published_at": "2026-09-17T14:00:00Z",
-          "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from Fe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-17-ai-is-feared-globally-as-the-destroyer-of"
+          "id": "xataka-2026-09-18-dos-estudiantes-valencianos-crean-con-ia-un-tinder"
         },
         {
           "title": "Las empresas que llevan años acelerando la IA empiezan a hablar de límites. Microsoft acaba de poner los suyos por escrito",
@@ -490,71 +542,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-17-no-respondes-ante-corporaciones-ni-gobiernos-openai-publica"
-        },
-        {
-          "title": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
-          "url": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
-          "source": "Xataka",
-          "published_at": "2026-09-17T08:30:11Z",
-          "summary": "Seamos sinceros: la domótica es un rollo porque se ha convertido en una selva de aplicaciones propietarias y ecosistemas diferentes. Por mucho que haya intentos como Matter , la realidad es que los usuarios nos vemos atr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-17-el-futuro-del-hogar-conectado-no-es-instalar"
-        },
-        {
-          "title": "Apple planea volver al mercado de servidores para IA de la mano de Nvidia y el chip M8 Ultra, según The Information",
-          "url": "https://www.xataka.com/empresas-y-economia/apple-planea-volver-al-mercado-servidores-para-ia-mano-nvidia-chip-m8-ultra-the-information",
-          "source": "Xataka",
-          "published_at": "2026-09-17T08:16:11Z",
-          "summary": "John Ternus lleva dos semanas en el cargo como nuevo CEO de Apple y, siendo un hombre de hardware, parece que tiene la intención de devolver a Apple a los días en los que estaban en el negocio de los servidores. Con la e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-17-apple-planea-volver-al-mercado-de-servidores-para"
-        },
-        {
-          "title": "Mark Zuckerberg lo tiene claro: \"Cualquier laboratorio de IA que no se enfoque en la alineación se quedará atrás\"",
-          "url": "https://www.xataka.com/robotica-e-ia/para-zuckerberg-seguridad-ia-no-freno-argumento-venta-anthropic-openai",
-          "source": "Xataka",
-          "published_at": "2026-09-16T15:00:00Z",
-          "summary": "Las empresas de IA están \"jugando con nuestras vidas\" . Es lo que dijo Jacob Coxon, exingeniero de Anthropic justo después de abandonar la compañía. Lo que le siguió fue un terremoto que ha puesto patas arriba la industr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-16-mark-zuckerberg-lo-tiene-claro-cualquier-laboratorio-de"
-        },
-        {
-          "title": "Uno de los creadores de ChatGPT ha creado una IA 400 veces más barata que el resto. Su secreto: no generar texto",
-          "url": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
-          "source": "Xataka",
-          "published_at": "2026-09-16T14:15:00Z",
-          "summary": "Diogo Almeida no es un emprendedor de IA cualquiera . Trabajó en OpenAI y fue uno de los autores de InstructGPT, el estudio sobre aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) que sentó parte de la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-16-uno-de-los-creadores-de-chatgpt-ha-creado"
-        },
-        {
-          "title": "Sam Altman quiere que te fíes de él: \"El mundo debería confiar en que vamos a hacer lo correcto porque es lo correcto\"",
-          "url": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
-          "source": "Xataka",
-          "published_at": "2026-09-16T12:45:00Z",
-          "summary": "Sam Altman, el CEO de OpenAI, ha hecho una declaración llamativa : \"el mundo tiene razón al tener miedo de esto\". Se refiere, cómo no, a la amenaza que plantea la IA y que hizo que su rival empresarial, Dario Amodei, dij…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-16-sam-altman-quiere-que-te-fies-de-el"
         }
       ]
     }
@@ -591,6 +578,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI",
+          "published_at": "2026-09-18T12:00:00Z",
+          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-18-introducing-the-australian-youth-safety-blueprint"
+        },
         {
           "title": "How Cooley is accelerating IPO work with ChatGPT",
           "url": "https://openai.com/index/cooley-gopublic",
@@ -657,6 +657,19 @@
           "id": "openai-2026-09-16-reimagining-advertising-with-ai"
         },
         {
+          "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+          "url": "https://openai.com/index/hex-gpt-6-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-16T12:00:00Z",
+          "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-16-hex-turns-complex-analysis-into-visual-reports-with"
+        },
+        {
           "title": "How to connect AI usage to business value",
           "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
           "source": "OpenAI",
@@ -707,19 +720,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
-        },
-        {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-11T16:00:00Z",
-          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-11-cognition-helps-devin-test-its-own-work-with"
         }
       ]
     },
@@ -727,6 +727,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Partnering with Accenture on embedded evaluation",
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic",
+          "published_at": "2026-09-18T00:00:00Z",
+          "summary": "Partnering with Accenture on embedded evaluation",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-09-18-partnering-with-accenture-on-embedded-evaluation"
+        },
         {
           "title": "Introducing the Life Sciences Verification Program",
           "url": "https://www.anthropic.com/news/life-sciences-verification-program",
@@ -746,6 +759,32 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "source": "Google AI",
+          "published_at": "2026-09-18T14:00:00Z",
+          "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-18-new-experts-join-google-s-ai-economy-team"
+        },
+        {
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "source": "Google AI",
+          "published_at": "2026-09-18T13:00:00Z",
+          "summary": "Jane Wade and Sergio Hudson",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-18-co-creating-the-future-of-fashion-with-google"
+        },
         {
           "title": "Making global data easier to explore",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
