@@ -1,78 +1,143 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T13:04:04.781060Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T11:53:59.170306Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "These are the first five Googlebook laptops",
-      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "title": "Can you forget how you feel about Meta?",
+      "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
       "source": "The Verge",
-      "published_at": "2026-09-21T13:01:00Z",
-      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today …",
+      "published_at": "2026-09-22T10:00:01Z",
+      "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health.…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-21-these-are-the-first-five-googlebook-laptops"
+      "id": "theverge-2026-09-22-can-you-forget-how-you-feel-about-meta"
     },
     {
-      "title": "The long dream of the Googlebook",
-      "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
       "source": "The Verge",
-      "published_at": "2026-09-21T13:00:00Z",
-      "summary": "In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd…",
+      "published_at": "2026-09-22T08:35:54Z",
+      "summary": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located unde…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-21-the-long-dream-of-the-googlebook"
+      "id": "theverge-2026-09-22-apple-8217-s-first-live-music-venue-is"
     },
     {
-      "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-      "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-09-22-transformers-now-runs-llama-cpp-quants"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-09-22-jun-kim-omlx-creator-and-maintainer-joins-hugging"
+    },
+    {
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
       "source": "The Verge",
-      "published_at": "2026-09-21T13:00:00Z",
-      "summary": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive…",
+      "published_at": "2026-09-21T23:48:56Z",
+      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit fail…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-21-i-got-to-see-google-8217-s-wild"
-    },
-    {
-      "title": "The Mac Mini is still mighty, just not as cheap",
-      "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
-      "source": "The Verge",
-      "published_at": "2026-09-21T13:00:00Z",
-      "summary": "There are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduced the Mini to 0.82L, a chassis so minimal you can easily mount it behind a monitor or u…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-21-the-mac-mini-is-still-mighty-just-not"
-    },
-    {
-      "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-      "source": "The Verge",
-      "published_at": "2026-09-21T13:00:00Z",
-      "summary": "The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thi…",
-      "why_it_matters": "",
-      "tags": [
-        "investigación"
-      ],
-      "category": "investigación",
-      "id": "theverge-2026-09-21-the-m5-ultra-mac-studio-tears-through-our"
+      "id": "theverge-2026-09-21-a-cut-cable-disrupted-hundreds-of-flights-across"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
+        },
+        {
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
+        },
+        {
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T10:00:00Z",
+          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-building-standards-for-the-next-phase-of-ai"
+        },
+        {
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T07:00:00Z",
+          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
+        },
+        {
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T00:00:00Z",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-how-v7-gives-ai-agents-institutional-memory"
+        },
         {
           "title": "New experts join Google’s AI & Economy team",
           "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -319,32 +384,37 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-          "source": "Google AI",
-          "published_at": "2026-09-14T19:00:00Z",
-          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face",
+          "published_at": "2026-09-21T13:44:34Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-14-watch-astronaut-christina-koch-and-google-s-james"
+          "category": "herramientas",
+          "id": "huggingface-2026-09-21-pruning-llms-like-a-physicist-block-removal-as"
         },
         {
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-          "source": "Google AI",
-          "published_at": "2026-09-14T16:00:00Z",
-          "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
+          "title": "tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face",
+          "published_at": "2026-09-21T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-14-devfest-is-back"
+          "category": "herramientas",
+          "id": "huggingface-2026-09-21-tokenizers-v1-encode-decode-and-scaling-measured"
         }
       ]
     },
@@ -352,95 +422,134 @@
       "name": "General",
       "items": [
         {
-          "title": "Googlebooks feel like the first laptops built for Android owners",
-          "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
+          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+          "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
           "source": "The Verge",
-          "published_at": "2026-09-21T13:00:00Z",
-          "summary": "There's a good chance that my next laptop will be a Googlebook. If you're an Android user like me, then yours might be too, because Google is making a compelling pitch: The Googlebook does for the Android phone what the …",
+          "published_at": "2026-09-21T23:15:32Z",
+          "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech compa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-21-googlebooks-feel-like-the-first-laptops-built-for"
+          "id": "theverge-2026-09-21-amazon-wants-to-help-the-colorado-river-but"
         },
         {
-          "title": "“Es como si llovieran lingotes de oro del cielo”: la IA está generando millonarios en el lugar más inesperado",
+          "title": "California tightens rules on AI data center energy and water use",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "source": "The Verge",
+          "published_at": "2026-09-21T20:29:45Z",
+          "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-california-tightens-rules-on-ai-data-center-energy"
+        },
+        {
+          "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+          "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+          "source": "The Verge",
+          "published_at": "2026-09-21T17:47:54Z",
+          "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker ma…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-gm-can-t-bring-back-apple-carplay-because"
+        },
+        {
+          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+          "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+          "source": "The Verge",
+          "published_at": "2026-09-21T17:42:15Z",
+          "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way o…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-paramount-settles-lawsuit-blocking-110-billion-warner-bros"
+        },
+        {
+          "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+          "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+          "source": "The Verge",
+          "published_at": "2026-09-21T16:35:59Z",
+          "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie cre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-bungie-says-it-s-not-done-with-destiny"
+        },
+        {
+          "title": "El Gobierno de España presenta su gran plan para la IA: gigafactorías, un gran \"contrato social\" e insertarla en Mi Carpeta Ciudadana",
+          "url": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
+          "source": "Xataka",
+          "published_at": "2026-09-21T16:29:00Z",
+          "summary": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360 , una hoja de ruta con la que…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-21-el-gobierno-de-espana-presenta-su-gran-plan"
+        },
+        {
+          "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+          "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-21T15:13:32Z",
+          "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color yo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-grab-an-xbox-controller-and-a-50-xbox"
+        },
+        {
+          "title": "Can John Ternus find Apple’s next big thing?",
+          "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+          "source": "The Verge",
+          "published_at": "2026-09-21T14:00:00Z",
+          "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted it…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-21-can-john-ternus-find-apple-s-next-big"
+        },
+        {
+          "title": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
           "url": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
           "source": "Xataka",
-          "published_at": "2026-09-21T12:46:15Z",
+          "published_at": "2026-09-21T12:45:00Z",
           "summary": "Cuando se habla del dinero que está generando la IA , habitualmente surgen los mismos nombres: Nvidia, OpenAI, Anthropic y sus nuevos fundadores milmillonarios . Sin embargo, al hablar de los enormes beneficios de la IA …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-21-es-como-si-llovieran-lingotes-de-oro-del"
+          "id": "xataka-2026-09-21-lin-tsung-chi-fundo-una-empresa-de-herrajes-para"
         },
         {
-          "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
-          "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
-          "source": "The Verge",
-          "published_at": "2026-09-21T12:37:27Z",
-          "summary": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in place on the new iPhones, according to Appl…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-apple-s-clever-software-solution-lets-iphone-batteries"
-        },
-        {
-          "title": "“La presión laboral era abrumadora. Ahora estoy mejor”: la IA está ayudando a los jóvenes chinos a emprender solos",
+          "title": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
           "url": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
           "source": "Xataka",
-          "published_at": "2026-09-21T12:16:15Z",
+          "published_at": "2026-09-21T12:15:00Z",
           "summary": "China registró más de siete millones de nuevas empresa de una sola persona en 2025, lo que supone cerca del 42% más que el año anterior. Hay que dejar claro que no todas son startups tecnológicas y tampoco todas usan IA,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-21-la-presion-laboral-era-abrumadora-ahora-estoy-mejor"
-        },
-        {
-          "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
-          "url": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
-          "source": "The Verge",
-          "published_at": "2026-09-21T10:57:27Z",
-          "summary": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustable mechanical iris o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-teardown-details-the-iphone-18-pro-s-mechanical"
-        },
-        {
-          "title": "UN says AI safeguards can’t wait for certainty",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-          "source": "The Verge",
-          "published_at": "2026-09-21T10:18:06Z",
-          "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-un-says-ai-safeguards-can-t-wait-for"
-        },
-        {
-          "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-          "source": "The Verge",
-          "published_at": "2026-09-21T09:21:47Z",
-          "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-amazon-doesn-t-trust-meta-s-muse-ai"
+          "id": "xataka-2026-09-21-en-china-la-ia-esta-causando-una-revolucion"
         },
         {
           "title": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
@@ -454,58 +563,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-20-20-anos-anticipando-el-apocalipsis-todas-las-veces"
-        },
-        {
-          "title": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
-          "url": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
-          "source": "Xataka",
-          "published_at": "2026-09-20T11:30:12Z",
-          "summary": "Si quieres entregarle las llaves de tu hogar a los agentes de IA de Google, ahora puedes. Y es que la compañía ha habilitado una integración MCP para cualquier agente de IA, haciendo que Claude , Google Antigravity , Her…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-20-google-ya-permite-a-cualquier-agente-de-ia"
-        },
-        {
-          "title": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
-          "url": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
-          "source": "Xataka",
-          "published_at": "2026-09-20T08:30:12Z",
-          "summary": "Hace casi un mes que OpenAI desveló al mundo algunos de los detalles de Jalapeño , su primer chip de IA propio, desarrollado en colaboración con Broadcom. Que una empresa haga un chip es un auténtico hito que requiere ti…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-20-disenar-un-chip-de-ia-suele-llevar-anos"
-        },
-        {
-          "title": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
-          "url": "https://www.xataka.com/aplicaciones/algunos-pueblos-china-medico-atiende-a-2-000-personas-ia-empieza-a-convertirse-su-segunda-opinion",
-          "source": "Xataka",
-          "published_at": "2026-09-19T16:00:12Z",
-          "summary": "Me considero una afortunada: si pido cita para mi médica en mi pueblo, en menos de 48 horas suelo poder acudir a resolver cualquier dolencia. Sé que si la cita es con un especialista la cosa cambia y que en otras localiz…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-19-en-algunos-pueblos-de-china-un-medico-atiende"
-        },
-        {
-          "title": "La IA no solo genera vídeos sueltos: en China acaba de producir una serie entera",
-          "url": "https://www.xataka.com/cine-y-tv/ia-no-solo-genera-videos-sueltos-china-acaba-producir-serie-entera",
-          "source": "Xataka",
-          "published_at": "2026-09-19T13:30:12Z",
-          "summary": "Mientras Hollywood trata de esconder que está usando IA en multitud de películas y el rechazo crece entre los actores , en China se han lanzado a los brazos de la IA generativa y ya tienen la primera serie de televisión …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-19-la-ia-no-solo-genera-videos-sueltos-en"
         }
       ]
     }
@@ -542,6 +599,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
+        },
+        {
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
+        },
+        {
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T10:00:00Z",
+          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-building-standards-for-the-next-phase-of-ai"
+        },
+        {
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T07:00:00Z",
+          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
+        },
+        {
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T00:00:00Z",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-how-v7-gives-ai-agents-institutional-memory"
+        },
         {
           "title": "Introducing the Australian Youth Safety Blueprint",
           "url": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -787,32 +909,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
-        },
-        {
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-          "source": "Google AI",
-          "published_at": "2026-09-14T19:00:00Z",
-          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-14-watch-astronaut-christina-koch-and-google-s-james"
-        },
-        {
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-          "source": "Google AI",
-          "published_at": "2026-09-14T16:00:00Z",
-          "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-14-devfest-is-back"
         }
       ]
     },
