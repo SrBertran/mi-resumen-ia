@@ -1,72 +1,72 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T11:53:59.170306Z",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T11:53:08.204360Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Can you forget how you feel about Meta?",
-      "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
       "source": "The Verge",
-      "published_at": "2026-09-22T10:00:01Z",
-      "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health.…",
+      "published_at": "2026-09-23T11:02:39Z",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joi…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-22-can-you-forget-how-you-feel-about-meta"
+      "id": "theverge-2026-09-23-openai-nabs-key-patreon-execs-ahead-of-upcoming"
     },
     {
-      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
-      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+      "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
       "source": "The Verge",
-      "published_at": "2026-09-22T08:35:54Z",
-      "summary": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located unde…",
+      "published_at": "2026-09-23T11:00:00Z",
+      "summary": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls i…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-22-apple-8217-s-first-live-music-venue-is"
+      "id": "theverge-2026-09-23-eight-sleep-s-new-cooling-hub-is-small"
     },
     {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face",
-      "published_at": "2026-09-22T00:00:00Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-09-22-transformers-now-runs-llama-cpp-quants"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "published_at": "2026-09-22T00:00:00Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-09-22-jun-kim-omlx-creator-and-maintainer-joins-hugging"
-    },
-    {
-      "title": "A cut cable disrupted hundreds of flights across the US",
-      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
       "source": "The Verge",
-      "published_at": "2026-09-21T23:48:56Z",
-      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit fail…",
+      "published_at": "2026-09-23T00:17:17Z",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a ne…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-21-a-cut-cable-disrupted-hundreds-of-flights-across"
+      "id": "theverge-2026-09-23-openai-wants-to-consult-elite-mathematicians-about-how"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI",
+      "published_at": "2026-09-23T00:00:00Z",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "openai-2026-09-23-grab-and-openai-bring-practical-ai-skills-to"
+    },
+    {
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "source": "The Verge",
+      "published_at": "2026-09-22T22:26:07Z",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest producti…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-22-paramount-will-need-to-release-way-more-movies"
     }
   ],
   "sections": [
@@ -74,17 +74,56 @@
       "name": "Lanzamientos",
       "items": [
         {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
           "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "published_at": "2026-09-22T21:00:00Z",
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
+          "id": "openai-2026-09-22-better-prompt-caching-for-gpt-6"
+        },
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T18:00:00Z",
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-introducing-gpt-6-sol-and-luna"
+        },
+        {
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T12:00:00Z",
+          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-parallel-cut-research-time-and-cost-in-half"
+        },
+        {
+          "title": "Priorities and principles for effective third party assessments",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T00:00:00Z",
+          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-priorities-and-principles-for-effective-third-party-assessments"
         },
         {
           "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -98,6 +137,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
+        },
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
         },
         {
           "title": "Building standards for the next phase of AI",
@@ -306,90 +358,100 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-16-how-to-connect-ai-usage-to-business-value"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "How workers are unlocking new ways of working",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI",
-          "published_at": "2026-09-16T09:00:00Z",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "title": "El plan de España para la IA: captar más inversión, incorporarlo en Mi Carpeta Ciudadana y un \"contrato social\"",
+          "url": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
+          "source": "Xataka",
+          "published_at": "2026-09-21T16:29:00Z",
+          "summary": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360 , una hoja de ruta con la que…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-16-how-workers-are-unlocking-new-ways-of-working"
+          "category": "negocio",
+          "id": "xataka-2026-09-21-el-plan-de-espana-para-la-ia-captar"
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+          "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-22T15:00:05Z",
+          "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken d…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-22-why-read-a-research-paper-when-you-can"
         },
         {
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-          "source": "DeepMind",
-          "published_at": "2026-09-15T17:05:57Z",
+          "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+          "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-22T12:22:50Z",
+          "summary": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load.…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-22-the-future-is-fanless-100-heat-capture-for"
+        },
+        {
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "source": "Hugging Face",
+          "published_at": "2026-09-22T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-15-introducing-gemini-3-8-live-and-3-8"
-        },
-        {
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-ai-for-societal-impact"
-        },
-        {
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-building-ai-to-accelerate-science-and-improve-lives"
-        },
-        {
-          "title": "AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "Animation of several words in different languages slowly zooming past",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-ai-for-everyone-in-every-language"
-        },
-        {
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T13:00:00Z",
-          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
+          "category": "investigación",
+          "id": "huggingface-2026-09-22-how-uk-aisi-and-evaleval-are-making-benchmark"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face",
+          "published_at": "2026-09-22T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-22-transformers-now-runs-llama-cpp-quants"
+        },
+        {
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face",
+          "published_at": "2026-09-22T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-22-jun-kim-omlx-creator-and-maintainer-joins-hugging"
+        },
         {
           "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
           "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
@@ -402,19 +464,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-09-21-pruning-llms-like-a-physicist-block-removal-as"
-        },
-        {
-          "title": "tokenizers v1: encode, decode and scaling, measured",
-          "url": "https://huggingface.co/blog/tokenizers-v1",
-          "source": "Hugging Face",
-          "published_at": "2026-09-21T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-21-tokenizers-v1-encode-decode-and-scaling-measured"
         }
       ]
     },
@@ -422,108 +471,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-          "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
           "source": "The Verge",
-          "published_at": "2026-09-21T23:15:32Z",
-          "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech compa…",
+          "published_at": "2026-09-22T20:52:40Z",
+          "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-21-amazon-wants-to-help-the-colorado-river-but"
+          "id": "theverge-2026-09-22-rabbit-s-new-ai-agent-doesn-t-need"
         },
         {
-          "title": "California tightens rules on AI data center energy and water use",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-          "source": "The Verge",
-          "published_at": "2026-09-21T20:29:45Z",
-          "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-california-tightens-rules-on-ai-data-center-energy"
-        },
-        {
-          "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-          "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-          "source": "The Verge",
-          "published_at": "2026-09-21T17:47:54Z",
-          "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker ma…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-gm-can-t-bring-back-apple-carplay-because"
-        },
-        {
-          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-          "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-          "source": "The Verge",
-          "published_at": "2026-09-21T17:42:15Z",
-          "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way o…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-paramount-settles-lawsuit-blocking-110-billion-warner-bros"
-        },
-        {
-          "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-          "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-          "source": "The Verge",
-          "published_at": "2026-09-21T16:35:59Z",
-          "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie cre…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-21-bungie-says-it-s-not-done-with-destiny"
-        },
-        {
-          "title": "El Gobierno de España presenta su gran plan para la IA: gigafactorías, un gran \"contrato social\" e insertarla en Mi Carpeta Ciudadana",
-          "url": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
+          "title": "La carrera de la IA está entrando en otra fase: tras Opus 5.5, OpenAI juega una baza clave con GPT-6 Sol y Luna",
+          "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-esta-entrando-otra-fase-opus-5-5-openai-juega-baza-clave-gpt-6-sol-luna",
           "source": "Xataka",
-          "published_at": "2026-09-21T16:29:00Z",
-          "summary": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360 , una hoja de ruta con la que…",
+          "published_at": "2026-09-22T20:40:19Z",
+          "summary": "Podemos medir parte del ritmo actual de la inteligencia artificial en horas. Anthropic acababa de presentar Claude Opus 5.5 cuando, apenas 90 unos después, OpenAI anunció dos nuevos integrantes de su familia GPT-6: Sol y…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-21-el-gobierno-de-espana-presenta-su-gran-plan"
+          "id": "xataka-2026-09-22-la-carrera-de-la-ia-esta-entrando-en"
         },
         {
-          "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-          "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+          "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+          "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
           "source": "The Verge",
-          "published_at": "2026-09-21T15:13:32Z",
-          "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color yo…",
+          "published_at": "2026-09-22T20:14:54Z",
+          "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a li…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-21-grab-an-xbox-controller-and-a-50-xbox"
+          "id": "theverge-2026-09-22-saudi-arabia-s-new-exobot-evs-make-the"
         },
         {
-          "title": "Can John Ternus find Apple’s next big thing?",
-          "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+          "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+          "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
           "source": "The Verge",
-          "published_at": "2026-09-21T14:00:00Z",
-          "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted it…",
+          "published_at": "2026-09-22T20:00:00Z",
+          "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limit…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-21-can-john-ternus-find-apple-s-next-big"
+          "id": "theverge-2026-09-22-qualcomm-s-snapdragon-8-elite-gen-6-comes"
+        },
+        {
+          "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+          "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+          "source": "The Verge",
+          "published_at": "2026-09-22T20:00:00Z",
+          "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still wai…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-22-motorola-s-wild-looking-signature-27-runs-qualcomm-s"
+        },
+        {
+          "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+          "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+          "source": "The Verge",
+          "published_at": "2026-09-22T19:48:08Z",
+          "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-22-apple-clarifies-that-texture-and-grain-controls-are"
+        },
+        {
+          "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+          "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-22T19:28:55Z",
+          "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to kno…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-22-score-free-pixel-buds-2a-when-you-preorder"
+        },
+        {
+          "title": "Anthropic acaba de lanzar Claude Opus 5.5. La gran novedad no es solo lo que puede hacer, sino lo que ya no le dejarán hacer",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-opus-5-5-gran-novedad-no-solo-que-puede-hacer-sino-que-no-le-dejaran-hacer",
+          "source": "Xataka",
+          "published_at": "2026-09-22T18:49:00Z",
+          "summary": "Cuanto más capaces se vuelven los grandes modelos de inteligencia artificial, menos sencillo resulta medir el progreso únicamente por todo lo nuevo que consiguen hacer. También empieza a importar qué capacidades necesita…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-22-anthropic-acaba-de-lanzar-claude-opus-5-5"
+        },
+        {
+          "title": "La IA de OpenAI está resolviendo problemas matemáticos a una velocidad asombrosa. Entender sus soluciones es otra historia",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-asegura-que-su-ia-ha-resuelto-100-problemas-matematicos-hay-problema-que-significa-exactamente-resolver",
+          "source": "Xataka",
+          "published_at": "2026-09-22T15:45:00Z",
+          "summary": "OpenAI asegura que un modelo de IA interno ha resuelto más de 100 problemas matemáticos abiertos, y lo ha logrado en apenas unas semanas. Es un logro extraordinario, pero uno que abre un melón importante: plantear soluci…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-22-la-ia-de-openai-esta-resolviendo-problemas-matematicos"
+        },
+        {
+          "title": "La IA está cambiando la forma de consumir ficción: historias infinitas, fan fiction y fantasías a medida",
+          "url": "https://www.xataka.com/literatura-comics-y-juegos/industria-editorial-se-escandaliza-ia-miles-usuarios-piden-a-diario-juegos-rol-fan-fiction-erotica",
+          "source": "Xataka",
+          "published_at": "2026-09-22T13:00:00Z",
+          "summary": "La IA está en todas partes, también en las librerías. Amazon estaba llenándose de libros IA a un ritmo tan loco, que tuvieron que limitar la autopublicación . Algunos de estos libros, incluso, han llegado a ganar concurs…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-22-la-ia-esta-cambiando-la-forma-de-consumir"
+        },
+        {
+          "title": "España no tiene un problema de planes para la IA. Tiene un problema para cumplirlos",
+          "url": "https://www.xataka.com/robotica-e-ia/espana-tiene-plan-casi-perfecto-para-convertirse-potencia-ia-tambien-tenia-uno-2020",
+          "source": "Xataka",
+          "published_at": "2026-09-22T12:45:00Z",
+          "summary": "España acaba de presentar un ambicioso plan para intentar convertirse en referente europeo en inteligencia artificial. Entre los objetivos están la creación de una gigafactoría con hasta 100.000 chips aceleradores de IA,…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-22-espana-no-tiene-un-problema-de-planes-para"
         },
         {
           "title": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
@@ -539,7 +627,7 @@
           "id": "xataka-2026-09-21-lin-tsung-chi-fundo-una-empresa-de-herrajes-para"
         },
         {
-          "title": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
+          "title": "La IA amenazaba con quitarles el trabajo a los jóvenes chinos. Ahora les está ayudando a montárselo por su cuenta",
           "url": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
           "source": "Xataka",
           "published_at": "2026-09-21T12:15:00Z",
@@ -549,20 +637,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-21-en-china-la-ia-esta-causando-una-revolucion"
-        },
-        {
-          "title": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
-          "url": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
-          "source": "Xataka",
-          "published_at": "2026-09-20T17:00:12Z",
-          "summary": "\"Urge regular la inteligencia artificial antes de que se convierta en un peligro para la humanidad\". Podría ser una frase extraída de la carta que Dario Amodei publicó hace unos días , pero no. Lo dijo Elon Musk en 2017 …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-20-20-anos-anticipando-el-apocalipsis-todas-las-veces"
+          "id": "xataka-2026-09-21-la-ia-amenazaba-con-quitarles-el-trabajo-a"
         }
       ]
     }
@@ -600,17 +675,69 @@
       "name": "OpenAI",
       "items": [
         {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
           "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "published_at": "2026-09-23T00:00:00Z",
+          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
+          "id": "openai-2026-09-23-grab-and-openai-bring-practical-ai-skills-to"
+        },
+        {
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T21:00:00Z",
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-better-prompt-caching-for-gpt-6"
+        },
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T18:00:00Z",
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-introducing-gpt-6-sol-and-luna"
+        },
+        {
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T12:00:00Z",
+          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-parallel-cut-research-time-and-cost-in-half"
+        },
+        {
+          "title": "Priorities and principles for effective third party assessments",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI",
+          "published_at": "2026-09-22T00:00:00Z",
+          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-22-priorities-and-principles-for-effective-third-party-assessments"
         },
         {
           "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -624,6 +751,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
+        },
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI",
+          "published_at": "2026-09-21T12:00:00Z",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
         },
         {
           "title": "Building standards for the next phase of AI",
@@ -767,19 +907,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-16-how-to-connect-ai-usage-to-business-value"
-        },
-        {
-          "title": "How workers are unlocking new ways of working",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI",
-          "published_at": "2026-09-16T09:00:00Z",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-16-how-workers-are-unlocking-new-ways-of-working"
         }
       ]
     },
@@ -857,58 +984,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-17-making-global-data-easier-to-explore"
-        },
-        {
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-ai-for-societal-impact"
-        },
-        {
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-building-ai-to-accelerate-science-and-improve-lives"
-        },
-        {
-          "title": "AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T16:00:00Z",
-          "summary": "Animation of several words in different languages slowly zooming past",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-ai-for-everyone-in-every-language"
-        },
-        {
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "source": "Google AI",
-          "published_at": "2026-09-15T13:00:00Z",
-          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-15-new-insights-from-google-s-ai-economy-atlas"
         }
       ]
     },
