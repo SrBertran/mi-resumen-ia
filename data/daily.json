@@ -1,78 +1,91 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T12:00:37.003971Z",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T12:01:02.896867Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Control Resonant gets tough, but gives you the tools to deal with it",
-      "url": "https://www.theverge.com/games/999464/control-resonant-assist-mode",
+      "title": "Here’s the Tesla Semi… again",
+      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
       "source": "The Verge",
-      "published_at": "2026-09-24T12:00:00Z",
-      "summary": "Control Resonant isn't an easy game. At any given moment while exploring vast open areas where you're sometimes leaping from wall to wall to ceiling, you may be surrounded by swarms of otherworldly enemies trying to crus…",
+      "published_at": "2026-09-25T02:12:57Z",
+      "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evenin…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-24-control-resonant-gets-tough-but-gives-you-the"
+      "id": "theverge-2026-09-25-here-s-the-tesla-semi-again"
     },
     {
-      "title": "OpenAI agents hacked an Australian government website in search for data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
       "source": "The Verge",
-      "published_at": "2026-09-24T11:52:32Z",
-      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue …",
+      "published_at": "2026-09-25T01:25:53Z",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsof…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-24-openai-agents-hacked-an-australian-government-website-in"
+      "id": "theverge-2026-09-25-microsoft-is-killing-off-the-copilot-plus-pc"
     },
     {
-      "title": "\"Lo único que hacemos es pulsar Enter\": La IA prometía liberar a los programadores, pero les está quitando la ilusión por trabajar",
-      "url": "https://www.xataka.com/robotica-e-ia/unico-que-hacemos-pulsar-enter-ia-prometia-liberar-a-programadores-les-esta-quitando-ilusion-trabajar",
-      "source": "Xataka",
-      "published_at": "2026-09-24T11:45:08Z",
-      "summary": "Se suponía que la IA iba a liberar a los desarrolladores de tareas repetitivas para que pudieran concentrarse en problemas importantes. Se suponía. Un ingeniero de software que firma como @v0xium en X asegura que en su n…",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "source": "The Verge",
+      "published_at": "2026-09-24T23:50:55Z",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-24-lo-unico-que-hacemos-es-pulsar-enter-la"
+      "id": "theverge-2026-09-24-meta-employees-ordered-attorney-client-privilege-hats-while"
     },
     {
-      "title": "Instinct aún no factura ni un dólar pero está a punto de valer 10.000 millones. Lo que vende es la pereza que nos dará dejarlo",
-      "url": "https://www.xataka.com/robotica-e-ia/instinct-no-factura-dolar-esta-a-punto-valer-10-000-millones-que-vende-pereza-que-nos-dara-dejarlo",
-      "source": "Xataka",
-      "published_at": "2026-09-24T11:01:08Z",
-      "summary": "Planet Fitness se ha dejado un 19% en bolsa esta semana y The New York Times , un 16%. Ninguno ha presentado malos resultados que expliquen una caída tan grande en tan poco tiempo . Lo que ha pasado es que Meta ha lanzad…",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "source": "The Verge",
+      "published_at": "2026-09-24T23:42:39Z",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound El…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-24-instinct-aun-no-factura-ni-un-dolar-pero"
+      "id": "theverge-2026-09-24-qualcomm-s-new-elite-sound-chip-might-finally"
     },
     {
-      "title": "Meta quiere que llevemos su agente de IA siempre encima, así que ha creado un Tamagotchi",
-      "url": "https://www.xataka.com/wearables/meta-quiere-que-llevemos-su-agente-ia-siempre-encima-asi-que-ha-creado-tamagotchi",
-      "source": "Xataka",
-      "published_at": "2026-09-24T10:15:08Z",
-      "summary": "La conferencia Meta Connect estaba terminando cuando Mark Zuckerberg dijo aquello de \"Hemos visto muchos productos. Tengo uno más que enseñaros\". El producto en cuestión es el Muse Charm, un pequeño dispositivo con un di…",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "source": "The Verge",
+      "published_at": "2026-09-24T22:08:22Z",
+      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee co…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-24-meta-quiere-que-llevemos-su-agente-de-ia"
+      "id": "theverge-2026-09-24-microsoft-puts-brad-smith-in-charge-of-communications"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "source": "DeepMind",
+          "published_at": "2026-09-24T16:20:39Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-24-introducing-gemini-3-8-live-with-live-avatar"
+        },
         {
           "title": "Google Beam expands with new regions, partners, and customers",
           "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -360,7 +373,7 @@
           "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
         },
         {
-          "title": "How V7 gives AI agents institutional memory",
+          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
           "url": "https://openai.com/index/v7",
           "source": "OpenAI",
           "published_at": "2026-09-21T00:00:00Z",
@@ -370,7 +383,7 @@
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-21-how-v7-gives-ai-agents-institutional-memory"
+          "id": "openai-2026-09-21-v7-cuts-costs-78-while-boosting-accuracy-with"
         },
         {
           "title": "New experts join Google’s AI & Economy team",
@@ -397,82 +410,25 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-18-co-creating-the-future-of-fashion-with-google"
-        },
-        {
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "url": "https://openai.com/index/australian-youth-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-09-18T12:00:00Z",
-          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-18-introducing-the-australian-youth-safety-blueprint"
-        },
-        {
-          "title": "Partnering with Accenture on embedded evaluation",
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic",
-          "published_at": "2026-09-18T00:00:00Z",
-          "summary": "Partnering with Accenture on embedded evaluation",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-09-18-partnering-with-accenture-on-embedded-evaluation"
-        },
-        {
-          "title": "Making global data easier to explore",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-          "source": "Google AI",
-          "published_at": "2026-09-17T20:00:00Z",
-          "summary": "UN System Data Commons Data webpage",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-17-making-global-data-easier-to-explore"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
-          "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-22T15:00:05Z",
-          "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken d…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-22-why-read-a-research-paper-when-you-can"
-        },
-        {
-          "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-          "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-22T12:22:50Z",
-          "summary": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load.…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-22-the-future-is-fanless-100-heat-capture-for"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face",
+          "published_at": "2026-09-24T14:08:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-24-accelerating-vision-language-models-with-lfm2-5-vl-dspark"
+        },
         {
           "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -492,33 +448,176 @@
       "name": "General",
       "items": [
         {
-          "title": "China abrazó la IA para solucionar su crisis demográfica. El problema es que está dando a los jóvenes la principal razón para no casarse",
+          "title": "De forma sorprendente, España es bastante más pro-IA que los países de su entorno",
+          "url": "https://www.xataka.com/robotica-e-ia/forma-sorprendente-espana-bastante-pro-ia-que-paises-su-entorno",
+          "source": "Xataka",
+          "published_at": "2026-09-24T20:01:09Z",
+          "summary": "Ayer, mi compañero Jose García resumía en la newsletter de Xataka una de las contradicciones más llamativas del momento: \"las empresas de IA han pedido frenar y, a los dos días, han lanzado tres modelos nuevos\". La frase…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-de-forma-sorprendente-espana-es-bastante-mas-pro-ia"
+        },
+        {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "source": "The Verge",
+          "published_at": "2026-09-24T19:59:26Z",
+          "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-24-gemini-3-8-live-with-live-avatar-gives"
+        },
+        {
+          "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+          "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-09-24T18:19:23Z",
+          "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original pr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-24-sadly-this-1-549-rtx-5070-equipped-gaming-pc"
+        },
+        {
+          "title": "Jensen Huang talks about AI and climate change like a supervillain",
+          "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+          "source": "The Verge",
+          "published_at": "2026-09-24T18:04:44Z",
+          "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the lat…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-24-jensen-huang-talks-about-ai-and-climate-change"
+        },
+        {
+          "title": "Meta is going to let you build games with AI right on your phone",
+          "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+          "source": "The Verge",
+          "published_at": "2026-09-24T17:52:29Z",
+          "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Hor…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-24-meta-is-going-to-let-you-build-games"
+        },
+        {
+          "title": "Muse will apparently let you download its entire filesystem",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+          "source": "The Verge",
+          "published_at": "2026-09-24T17:14:12Z",
+          "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-24-muse-will-apparently-let-you-download-its-entire"
+        },
+        {
+          "title": "Decenas coinciden: \"escrita con IA\". Un escritor francés está ganando premios con su nueva novela menos el de la sinceridad",
+          "url": "https://www.xataka.com/literatura-comics-y-juegos/novela-escrita-frances-moda-ha-recibido-toda-clase-premios-alabanzas-probable-que-se-haya-escrito-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-24T15:05:00Z",
+          "summary": "Lunes 21 de septiembre. El escritor Thélyson Orélien recoge el Premio Fnac de novela por su flamante 'C'était ça ou mourir' ('Era eso o morir'). El mismo día, una cuenta anónima de X con apenas 92 seguidores (ahora tiene…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-decenas-coinciden-escrita-con-ia-un-escritor-frances"
+        },
+        {
+          "title": "Una IA de OpenAI hackeó al Gobierno de Australia y tuvo acceso a datos de su sanidad pública",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-openai-hackeo-al-gobierno-australia-tuvo-acceso-a-datos-su-sanidad-publica",
+          "source": "Xataka",
+          "published_at": "2026-09-24T12:47:00Z",
+          "summary": "Anthony Albanese es un nombre que es normal que no nos suene demasiado porque, realmente, la política de Oceanía es algo que nos queda lejos. Sin embargo, resulta que es el Primer Ministro australiano y acaba de converti…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-una-ia-de-openai-hackeo-al-gobierno-de"
+        },
+        {
+          "title": "El Gobierno de EEUU no se cree el relato de OpenAI: si una IA \"descontrolada\" comete un crimen, el responsable será su empresa",
+          "url": "https://www.xataka.com/robotica-e-ia/gobierno-eeuu-no-se-cree-relato-openai-ia-descontrolada-comete-crimen-responsable-sera-su-empresa",
+          "source": "Xataka",
+          "published_at": "2026-09-24T12:01:08Z",
+          "summary": "En julio de este año, ocurrió lo que se ha bautizado como 'incidente Hugging Face'. Uno de los modelos de OpenAI accedió sin autorización a Hugging Face , otra startup de IA, durante un experimento en el que OpenAI bajó …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-el-gobierno-de-eeuu-no-se-cree-el"
+        },
+        {
+          "title": "Cada vez más programadores coinciden sobre su futuro a causa de la IA: \"Lo único que hacemos es pulsar Enter\"",
+          "url": "https://www.xataka.com/robotica-e-ia/unico-que-hacemos-pulsar-enter-ia-prometia-liberar-a-programadores-les-esta-quitando-ilusion-trabajar",
+          "source": "Xataka",
+          "published_at": "2026-09-24T11:45:00Z",
+          "summary": "Se suponía que la IA iba a liberar a los desarrolladores de tareas repetitivas para que pudieran concentrarse en problemas importantes. Se suponía. Un ingeniero de software que firma como @v0xium en X asegura que en su n…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-cada-vez-mas-programadores-coinciden-sobre-su-futuro"
+        },
+        {
+          "title": "La IA siempre nos prometió desprendernos de todas las tareas tediosas que nunca quisimos hacer. Instinct es exactamente eso",
+          "url": "https://www.xataka.com/robotica-e-ia/instinct-no-factura-dolar-esta-a-punto-valer-10-000-millones-que-vende-pereza-que-nos-dara-dejarlo",
+          "source": "Xataka",
+          "published_at": "2026-09-24T11:00:00Z",
+          "summary": "Planet Fitness se ha dejado un 19% en bolsa esta semana y The New York Times , un 16%. Ninguno ha presentado malos resultados que expliquen una caída tan grande en tan poco tiempo . Lo que ha pasado es que Meta ha lanzad…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-la-ia-siempre-nos-prometio-desprendernos-de-todas"
+        },
+        {
+          "title": "La industria tecnológica lleva cuatro años pensando cómo llevar la IA a un dispositivo. Meta cree que con un Tamagotchi",
+          "url": "https://www.xataka.com/wearables/meta-quiere-que-llevemos-su-agente-ia-siempre-encima-asi-que-ha-creado-tamagotchi",
+          "source": "Xataka",
+          "published_at": "2026-09-24T10:15:00Z",
+          "summary": "La conferencia Meta Connect estaba terminando cuando Mark Zuckerberg dijo aquello de \"Hemos visto muchos productos. Tengo uno más que enseñaros\". El producto en cuestión es el Muse Charm, un pequeño dispositivo con un di…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-24-la-industria-tecnologica-lleva-cuatro-anos-pensando-como"
+        },
+        {
+          "title": "La natalidad de China lleva años en caída libre. Lejos de ser una solución, la IA está empeorando el problema",
           "url": "https://www.xataka.com/robotica-e-ia/china-abrazo-ia-para-solucionar-su-crisis-demografica-problema-que-esta-dando-a-jovenes-principal-razon-para-no-casarse",
           "source": "Xataka",
-          "published_at": "2026-09-24T10:01:08Z",
+          "published_at": "2026-09-24T10:00:00Z",
           "summary": "China está intentándolo todo para revertir la profunda crisis demográfica que atraviesa, hasta el punto de montar casetas de bodas exprés en festivales de música . Hay muchos motivos por los que los jóvenes chinos no se …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-24-china-abrazo-la-ia-para-solucionar-su-crisis"
+          "id": "xataka-2026-09-24-la-natalidad-de-china-lleva-anos-en-caida"
         },
         {
-          "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-          "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-          "source": "The Verge",
-          "published_at": "2026-09-24T09:04:18Z",
-          "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-24-gemini-4-is-almost-ready-says-new-google"
-        },
-        {
-          "title": "Meta renueva su gama de gafas inteligentes y apuesta por su primer modelo sin cámara",
+          "title": "Meta ha dado el paso que miles de usuarios ya le estaban reclamando: lanzar unas gafas inteligentes sin cámara",
           "url": "https://www.xataka.com/wearables/meta-renueva-su-gama-gafas-inteligentes-apuesta-su-primer-modelo-camara",
           "source": "Xataka",
           "published_at": "2026-09-24T07:29:00Z",
@@ -528,98 +627,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-24-meta-renueva-su-gama-de-gafas-inteligentes-y"
-        },
-        {
-          "title": "Meta is making a standalone Muse AI gadget",
-          "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-          "source": "The Verge",
-          "published_at": "2026-09-24T00:15:20Z",
-          "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-24-meta-is-making-a-standalone-muse-ai-gadget"
-        },
-        {
-          "title": "Meta Connect 2026: The 7 biggest announcements",
-          "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-          "source": "The Verge",
-          "published_at": "2026-09-24T00:00:33Z",
-          "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style fram…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-24-meta-connect-2026-the-7-biggest-announcements"
-        },
-        {
-          "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-          "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-          "source": "The Verge",
-          "published_at": "2026-09-23T23:42:10Z",
-          "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-23-meta-s-next-vr-device-isn-t-a"
-        },
-        {
-          "title": "Muse is coming to Meta smart glasses",
-          "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-          "source": "The Verge",
-          "published_at": "2026-09-23T23:40:56Z",
-          "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-23-muse-is-coming-to-meta-smart-glasses"
-        },
-        {
-          "title": "Meta ditches the camera on its newest smart glasses",
-          "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-          "source": "The Verge",
-          "published_at": "2026-09-23T23:37:17Z",
-          "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-23-meta-ditches-the-camera-on-its-newest-smart"
-        },
-        {
-          "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-          "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-          "source": "The Verge",
-          "published_at": "2026-09-23T23:19:42Z",
-          "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-23-meta-is-making-muse-more-powerful-and-will"
-        },
-        {
-          "title": "Meta Connect 2026: The biggest news and announcements",
-          "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-          "source": "The Verge",
-          "published_at": "2026-09-23T22:45:00Z",
-          "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updat…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-23-meta-connect-2026-the-biggest-news-and-announcements"
+          "id": "xataka-2026-09-24-meta-ha-dado-el-paso-que-miles-de"
         },
         {
           "title": "Europa quiere depender menos de EEUU en chips de IA. Alemania y Países Bajos tienen un plan: usar IA para diseñarlos",
@@ -633,58 +641,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-23-europa-quiere-depender-menos-de-eeuu-en-chips"
-        },
-        {
-          "title": "Quienes han tenido contacto con Muse cada vez tienen más clara su opinión: la gran promesa de la IA agéntica la está cumpliendo Meta",
-          "url": "https://www.xataka.com/robotica-e-ia/quienes-han-tenido-contacto-muse-cada-vez-tienen-clara-su-opinion-gran-promesa-ia-agentica-esta-cumpliendo-meta",
-          "source": "Xataka",
-          "published_at": "2026-09-23T14:31:01Z",
-          "summary": "Hace dos semanas Eli Tan creó una cuenta en Muse y le dio acceso a su cuenta de correo y a sus tarjetas de crédito. \"Monitoriza mis gastos en Google Sheets, por favor\", le pidió a este agente de IA. Minutos después había…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-23-quienes-han-tenido-contacto-con-muse-cada-vez"
-        },
-        {
-          "title": "Shopify obligó a sus empleados a usar IA para trabajar mejor. Ahora su CEO tiene un nombre para el problema: granadas de slop",
-          "url": "https://www.xataka.com/robotica-e-ia/ceo-shopify-ha-descubierto-gran-problema-dejar-que-ia-haga-trabajo-empleados-granadas-slop",
-          "source": "Xataka",
-          "published_at": "2026-09-23T13:15:00Z",
-          "summary": "Hace poco más de un año, el fundador y CEO de Shopify puso una condición a sus empleados. Desde su perfil de X , pidió a sus empleados que, antes de pedir más recursos, tenían que demostrar que la IA no podía hacer ese t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-23-shopify-obligo-a-sus-empleados-a-usar-ia"
-        },
-        {
-          "title": "La carrera de la IA está entrando en otra fase: tras Opus 5.5, OpenAI juega una baza clave con GPT-6 Sol y Luna",
-          "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-esta-entrando-otra-fase-opus-5-5-openai-juega-baza-clave-gpt-6-sol-luna",
-          "source": "Xataka",
-          "published_at": "2026-09-22T20:40:19Z",
-          "summary": "Podemos medir parte del ritmo actual de la inteligencia artificial en horas. Anthropic acababa de presentar Claude Opus 5.5 cuando, apenas 90 unos después, OpenAI anunció dos nuevos integrantes de su familia GPT-6: Sol y…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-22-la-carrera-de-la-ia-esta-entrando-en"
-        },
-        {
-          "title": "Anthropic acaba de lanzar Claude Opus 5.5. La gran novedad no es solo lo que puede hacer, sino lo que ya no le dejarán hacer",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-opus-5-5-gran-novedad-no-solo-que-puede-hacer-sino-que-no-le-dejaran-hacer",
-          "source": "Xataka",
-          "published_at": "2026-09-22T18:49:00Z",
-          "summary": "Cuanto más capaces se vuelven los grandes modelos de inteligencia artificial, menos sencillo resulta medir el progreso únicamente por todo lo nuevo que consiguen hacer. También empieza a importar qué capacidades necesita…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-22-anthropic-acaba-de-lanzar-claude-opus-5-5"
         }
       ]
     }
@@ -956,7 +912,7 @@
           "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
         },
         {
-          "title": "How V7 gives AI agents institutional memory",
+          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
           "url": "https://openai.com/index/v7",
           "source": "OpenAI",
           "published_at": "2026-09-21T00:00:00Z",
@@ -966,20 +922,7 @@
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-21-how-v7-gives-ai-agents-institutional-memory"
-        },
-        {
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "url": "https://openai.com/index/australian-youth-safety-blueprint",
-          "source": "OpenAI",
-          "published_at": "2026-09-18T12:00:00Z",
-          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-18-introducing-the-australian-youth-safety-blueprint"
+          "id": "openai-2026-09-21-v7-cuts-costs-78-while-boosting-accuracy-with"
         }
       ]
     },
@@ -999,19 +942,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-09-23-claude-discovers-a-novel-enzyme-system-with-crispr-like"
-        },
-        {
-          "title": "Partnering with Accenture on embedded evaluation",
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic",
-          "published_at": "2026-09-18T00:00:00Z",
-          "summary": "Partnering with Accenture on embedded evaluation",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-09-18-partnering-with-accenture-on-embedded-evaluation"
         }
       ]
     },
@@ -1057,19 +987,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-18-co-creating-the-future-of-fashion-with-google"
-        },
-        {
-          "title": "Making global data easier to explore",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-          "source": "Google AI",
-          "published_at": "2026-09-17T20:00:00Z",
-          "summary": "UN System Data Commons Data webpage",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-17-making-global-data-easier-to-explore"
         }
       ]
     },
@@ -1077,6 +994,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "source": "DeepMind",
+          "published_at": "2026-09-24T16:20:39Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-24-introducing-gemini-3-8-live-with-live-avatar"
+        },
         {
           "title": "Advancing Private AI Compute with secure, server-side memory",
           "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
