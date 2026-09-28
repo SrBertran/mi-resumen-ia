@@ -1,72 +1,72 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T12:14:59.545579Z",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T14:14:50.413561Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-iba-a-democratizar-creacion-contenido-esta-consiguiendo-contrario-que-internet-vuelva-a-poner-puertas",
+      "title": "Bose’s first wired earbuds in 11 years add noise canceling",
+      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
+      "source": "The Verge",
+      "published_at": "2026-09-28T14:09:44Z",
+      "summary": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds, do aw…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-28-bose-s-first-wired-earbuds-in-11-years"
+    },
+    {
+      "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+      "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+      "source": "The Verge",
+      "published_at": "2026-09-28T14:00:00Z",
+      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.&#160; Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-28-the-saaspocalypse-that-wasn-8217-t-with-atlassian"
+    },
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge",
+      "published_at": "2026-09-28T13:36:06Z",
+      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidi…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-09-28-nvidia-says-its-new-ai-safety-platform-can"
+    },
+    {
+      "title": "Tenemos un nuevo \"benchmark\" para la IA: preguntarle si has montado correctamente tus muebles de Ikea o no",
+      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-benchmark-para-ia-preguntarle-has-montado-correctamente-tus-muebles-ikea-no",
       "source": "Xataka",
-      "published_at": "2026-09-27T09:00:50Z",
-      "summary": "En enero, Daniel Stenberg cerró el programa de recompensas por bugs de cURL , una de las piezas de software más usadas del mundo. No lo hizo por que le faltaba dinero, sino porque le sobraban informes: una cantidad desco…",
+      "published_at": "2026-09-28T13:16:26Z",
+      "summary": "A Epoch AI la conocemos por su ambicioso benchmark matemático para la IA, pero sus responsables tuvieron hace tiempo una idea de lo más original . Compraron tres muebles de IKEA, empezaron a montarlos y de vez en cuando …",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "xataka-2026-09-27-la-ia-iba-a-democratizar-la-creacion-de"
+      "category": "investigación",
+      "id": "xataka-2026-09-28-tenemos-un-nuevo-benchmark-para-la-ia-preguntarle"
     },
     {
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
       "source": "The Verge",
-      "published_at": "2026-09-26T21:30:01Z",
-      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around…",
+      "published_at": "2026-09-28T13:00:00Z",
+      "summary": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-26-apple-hit-with-5-7-billion-in-damages"
-    },
-    {
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "source": "The Verge",
-      "published_at": "2026-09-26T19:30:00Z",
-      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-26-decap-is-the-man-behind-the-drums-behind"
-    },
-    {
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-      "source": "The Verge",
-      "published_at": "2026-09-26T17:32:35Z",
-      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-26-kids-turned-the-comment-section-of-an-npr"
-    },
-    {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "published_at": "2026-09-26T16:34:59Z",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made afte…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-09-26-openai-pauses-training-of-its-most-capable-models"
+      "id": "theverge-2026-09-28-philips-motion-tracking-smart-toothbrush-uses-ai-to-make"
     }
   ],
   "sections": [
@@ -332,71 +332,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-22-priorities-and-principles-for-effective-third-party-assessments"
-        },
-        {
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
-        },
-        {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
-        },
-        {
-          "title": "Building standards for the next phase of AI",
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T10:00:00Z",
-          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-building-standards-for-the-next-phase-of-ai"
-        },
-        {
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T07:00:00Z",
-          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
-        },
-        {
-          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-          "url": "https://openai.com/index/v7",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T00:00:00Z",
-          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-v7-cuts-costs-78-while-boosting-accuracy-with"
         }
       ]
     },
@@ -419,150 +354,147 @@
       ]
     },
     {
+      "name": "Investigación",
+      "items": [
+        {
+          "title": "Generative AI Gives Spacecraft the Autonomy Engineers Once Feared",
+          "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-28T11:00:05Z",
+          "summary": "Space was always supposed to be the final frontier of human exploration. It’s shaping up to be the final frontier for artificial intelligence too. Last December, NASA’s Jet Propulsion Laboratory used Anthropic’s Claude m…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-28-generative-ai-gives-spacecraft-the-autonomy-engineers-once"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Holo4: powering generalist computer-use agents",
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "source": "Hugging Face",
+          "published_at": "2026-09-28T09:44:05Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-28-holo4-powering-generalist-computer-use-agents"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-          "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+          "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+          "url": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
           "source": "The Verge",
-          "published_at": "2026-09-26T14:00:00Z",
-          "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought…",
+          "published_at": "2026-09-28T12:09:17Z",
+          "summary": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Sta…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-26-can-cloudflare-ceo-matthew-prince-save-the-web"
+          "id": "theverge-2026-09-28-spacex-preps-next-gen-starlink-as-amazon-s-competitor"
         },
         {
-          "title": "El ciberataque a Renfe y Adif confirma lo que la IA llevaba meses avisando. 500GB de datos de clientes quedan al descubierto",
-          "url": "https://www.xataka.com/seguridad/ciberataque-a-renfe-adif-confirma-que-ia-llevaba-meses-avisando-500gb-datos-clientes-quedan-al-descubierto",
+          "title": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-frena-seco-entrenamiento-sus-modelos-potentes-sus-agentes-ia-se-han-vuelto-a-descontrolar",
           "source": "Xataka",
-          "published_at": "2026-09-26T13:50:00Z",
-          "summary": "Algo pasaba cuando la web de Adif mostraba un tierno gatito negro y ya lo sabemos: Adif y Renfe han sufrido un ciberataque en el que se han filtrado 500 GB de información privada de sus clientes, como ha adelantado El Mu…",
+          "published_at": "2026-09-28T10:15:00Z",
+          "summary": "OpenAI ha detenido el entrenamiento de sus modelos de IA más avanzados tras una serie de incidentes inesperados, incluyendo el de un modelo de prueba que encontró la forma de acceder a una red pública. Según cuenta The V…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-26-el-ciberataque-a-renfe-y-adif-confirma-lo"
+          "id": "xataka-2026-09-28-openai-frena-en-seco-el-entrenamiento-de-sus"
         },
         {
-          "title": "Control Resonant is a great game — it’s even better when you read everything",
-          "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+          "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+          "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
           "source": "The Verge",
-          "published_at": "2026-09-26T13:00:00Z",
-          "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, …",
+          "published_at": "2026-09-28T08:00:36Z",
+          "summary": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it an…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-26-control-resonant-is-a-great-game----it"
+          "id": "theverge-2026-09-28-honor-s-magic-9-pro-max-has-a"
         },
         {
-          "title": "Pokémon card resellers have turned collecting into an online blood sport",
-          "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
           "source": "The Verge",
-          "published_at": "2026-09-26T12:00:00Z",
-          "summary": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium bo…",
+          "published_at": "2026-09-27T21:59:57Z",
+          "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of th…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-26-pokemon-card-resellers-have-turned-collecting-into-an"
+          "id": "theverge-2026-09-27-out-of-the-park-baseball-lets-me-enjoy"
         },
         {
-          "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
-          "url": "https://www.xataka.com/aplicaciones/microsoft-cree-que-ha-inventado-nuevo-office-superapp-ia-que-quiere-sentarse-a-mesa-anthropic-openai",
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source": "The Verge",
+          "published_at": "2026-09-27T20:46:36Z",
+          "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-27-engram-is-a-sampler-that-turns-broken-ai"
+        },
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source": "The Verge",
+          "published_at": "2026-09-27T17:21:07Z",
+          "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-27-openai-agents-tried-to-bruteforce-a-un-website"
+        },
+        {
+          "title": "Why OLPC’s $100 laptop never stood a chance",
+          "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+          "source": "The Verge",
+          "published_at": "2026-09-27T12:25:00Z",
+          "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One L…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-27-why-olpc-s-100-laptop-never-stood-a"
+        },
+        {
+          "title": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-iba-a-democratizar-creacion-contenido-esta-consiguiendo-contrario-que-internet-vuelva-a-poner-puertas",
           "source": "Xataka",
-          "published_at": "2026-09-26T07:00:17Z",
-          "summary": "Parece que fue ayer y mucho ha llovido desde que hace más de tres años Microsoft integró la IA en Bing , que después pasó a llamarse Copilot . Pues bien, la empresa fundada por Bill Gates y Paul Allen acaba de hacer un b…",
+          "published_at": "2026-09-27T09:00:50Z",
+          "summary": "En enero, Daniel Stenberg cerró el programa de recompensas por bugs de cURL , una de las piezas de software más usadas del mundo. No lo hizo por que le faltaba dinero, sino porque le sobraban informes: una cantidad desco…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-09-26-microsoft-cree-que-ha-inventado-el-nuevo-office"
-        },
-        {
-          "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-          "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-          "source": "The Verge",
-          "published_at": "2026-09-26T07:00:00Z",
-          "summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with thei…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-26-can-8216-esuv-8217-e-bikes-really-go-from"
-        },
-        {
-          "title": "Las empresas chinas lleva la delantera en modelos \"pequeños\" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales",
-          "url": "https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales",
-          "source": "Xataka",
-          "published_at": "2026-09-25T21:48:17Z",
-          "summary": "No toda la carrera de la inteligencia artificial se libra dentro de enormes centros de datos. También existe otra, mucho más cerca del usuario, por conseguir modelos suficientemente pequeños como para ejecutarse con meno…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-25-las-empresas-chinas-lleva-la-delantera-en-modelos"
-        },
-        {
-          "title": "Qualcomm tiene otro lugar donde quiere meter la IA: unos auriculares que entienden tu contexto y ponen a agentes a trabajar",
-          "url": "https://www.xataka.com/robotica-e-ia/qualcomm-tiene-otro-lugar-donde-quiere-meter-ia-unos-auriculares-que-entienden-tu-contexto-ponen-a-agentes-a-trabajar",
-          "source": "Xataka",
-          "published_at": "2026-09-25T20:01:07Z",
-          "summary": "Hay una razón por la que los auriculares resultan especialmente interesantes en esta nueva etapa de la inteligencia artificial: ya están con nosotros. Los llevamos caminando, trabajando, viajando o esperando un tren, muc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-25-qualcomm-tiene-otro-lugar-donde-quiere-meter-la"
-        },
-        {
-          "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-          "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-09-25T18:18:57Z",
-          "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vis…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-25-roku-8217-s-first-oled-tvs-are-up"
-        },
-        {
-          "title": "Phones don’t have lights",
-          "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-          "source": "The Verge",
-          "published_at": "2026-09-25T17:42:59Z",
-          "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-25-phones-don-t-have-lights"
-        },
-        {
-          "title": "\"No sé mi dirección y no me importa\". Jensen Huang habla sobre la pérdida de destreza intelectual debido a la IA (y por qué es bueno)",
-          "url": "https://www.xataka.com/robotica-e-ia/no-se-mi-direccion-no-me-importa-jensen-huang-habla-perdida-destreza-intelectual-debido-a-ia-que-bueno",
-          "source": "Xataka",
-          "published_at": "2026-09-25T13:00:00Z",
-          "summary": "El trabajo de Jensen Huang al frente de Nvidia es el de dar entrevistas. Al menos, eso es lo que parece si tenemos en cuenta el largo tour por medios y eventos políticos en los que el mandamás de la compañía lleva meses …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-25-no-se-mi-direccion-y-no-me-importa"
+          "id": "xataka-2026-09-27-la-ia-iba-a-democratizar-la-creacion-de"
         }
       ]
     }
@@ -793,71 +725,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-22-priorities-and-principles-for-effective-third-party-assessments"
-        },
-        {
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-higgsfield-ai-ships-new-video-features-in-a"
-        },
-        {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T12:00:00Z",
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-advisory-group-on-mathematics-and-artificial-intelligence"
-        },
-        {
-          "title": "Building standards for the next phase of AI",
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T10:00:00Z",
-          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-building-standards-for-the-next-phase-of-ai"
-        },
-        {
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T07:00:00Z",
-          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-expanding-openai-academy-with-new-learning-paths"
-        },
-        {
-          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-          "url": "https://openai.com/index/v7",
-          "source": "OpenAI",
-          "published_at": "2026-09-21T00:00:00Z",
-          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-21-v7-cuts-costs-78-while-boosting-accuracy-with"
         }
       ]
     },
