@@ -1,78 +1,156 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T06:52:06.772577Z",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T06:52:12.546290Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-      "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-      "source": "The Verge",
-      "published_at": "2026-09-29T01:00:00Z",
-      "summary": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for somethi…",
+      "title": "China está adoptando la IA generativa a una velocidad difícil de ignorar. La cifra de usuarios lo deja claro",
+      "url": "https://www.xataka.com/robotica-e-ia/china-esta-adoptando-ia-generativa-a-velocidad-dificil-ignorar-cifra-usuarios-deja-claro",
+      "source": "Xataka",
+      "published_at": "2026-09-30T06:30:25Z",
+      "summary": "Nos hemos acostumbrado muy rápido a hablar de inteligencia artificial generativa como si llevara años formando parte de nuestra vida cotidiana. No es así. Hace apenas unos años, estas herramientas estaban todavía en una …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-29-nothing-s-new-flagship-headphone-1-pro-put"
+      "id": "xataka-2026-09-30-china-esta-adoptando-la-ia-generativa-a-una"
     },
     {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
       "source": "The Verge",
-      "published_at": "2026-09-28T21:31:35Z",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was val…",
+      "published_at": "2026-09-30T00:19:13Z",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-28-amd-is-acquiring-ai-company-world-labs-in"
+      "id": "theverge-2026-09-30-sam-altman-says-openai-won-t-go-public"
     },
     {
-      "title": "Bose starts adding Auracast to its headphones",
-      "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
       "source": "The Verge",
-      "published_at": "2026-09-28T19:31:24Z",
-      "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sh…",
+      "published_at": "2026-09-29T22:25:45Z",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-28-bose-starts-adding-auracast-to-its-headphones"
+      "id": "theverge-2026-09-29-trump-orders-us-government-to-call-ai-super"
     },
     {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published_at": "2026-09-28T19:00:00Z",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+      "source": "The Verge",
+      "published_at": "2026-09-29T22:01:00Z",
+      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German …",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
+      "category": "general",
+      "id": "theverge-2026-09-29-bmw-s-revamped-i3-boasts-up-to-468"
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI",
-      "published_at": "2026-09-28T19:00:00Z",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+      "source": "The Verge",
+      "published_at": "2026-09-29T21:50:31Z",
+      "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the F…",
       "why_it_matters": "",
       "tags": [
-        "producto"
+        "ia"
       ],
-      "category": "lanzamientos",
-      "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
+      "category": "general",
+      "id": "theverge-2026-09-29-suspected-shinyhunters-leader-arrested-in-the-netherlands"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
+        },
+        {
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-devday-2026-recap"
+        },
+        {
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T00:00:00Z",
+          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-dots"
+        },
+        {
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
+        },
+        {
+          "title": "How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
+        },
+        {
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "source": "Google AI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
+        },
         {
           "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
           "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
@@ -204,17 +282,17 @@
           "id": "openai-2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian"
         },
         {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "url": "https://openai.com/index/ringg",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
           "source": "OpenAI",
           "published_at": "2026-09-23T12:00:00Z",
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
+          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
         },
         {
           "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -230,6 +308,19 @@
           "id": "openai-2026-09-23-harvey-turns-legal-context-into-stronger-drafts-with"
         },
         {
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI",
+          "published_at": "2026-09-23T12:00:00Z",
+          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
+        },
+        {
           "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI",
@@ -243,19 +334,6 @@
           "id": "openai-2026-09-23-how-invideo-improves-color-grading-3x-with-gpt-6"
         },
         {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
-        },
-        {
           "title": "Introducing MentalHealthBench",
           "url": "https://openai.com/index/introducing-mentalhealthbench",
           "source": "OpenAI",
@@ -267,103 +345,64 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-23-introducing-mentalhealthbench"
-        },
-        {
-          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-          "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T02:00:00Z",
-          "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-chatgpt-ads-expands-to-southeast-asia-and-taiwan"
-        },
-        {
-          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-          "url": "https://openai.com/index/airbnb-gpt-6-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T01:00:00Z",
-          "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-airbnb-widens-access-to-gpt-6-astra-and-openai"
-        },
-        {
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T00:00:00Z",
-          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-grab-and-openai-bring-practical-ai-skills-to"
-        },
-        {
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic",
-          "published_at": "2026-09-23T00:00:00Z",
-          "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-09-23-claude-discovers-a-novel-enzyme-system-with-crispr-like"
-        },
-        {
-          "title": "Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T21:00:00Z",
-          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-better-prompt-caching-for-gpt-6"
-        },
-        {
-          "title": "Introducing GPT-6 Sol and Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T18:00:00Z",
-          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-introducing-gpt-6-sol-and-luna"
-        },
-        {
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T12:00:00Z",
-          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-parallel-cut-research-time-and-cost-in-half"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+          "source": "The Verge",
+          "published_at": "2026-09-29T17:35:03Z",
+          "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including cur…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "theverge-2026-09-29-ai-researchers-put-out-videos-saying-superintelligence-is"
+        },
+        {
+          "title": "How to Stop AI Agents From Secretly Collaborating",
+          "url": "https://spectrum.ieee.org/ai-agent-security",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-29T12:00:02Z",
+          "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-29-how-to-stop-ai-agents-from-secretly-collaborating"
+        },
+        {
+          "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+          "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-29T10:00:06Z",
+          "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologie…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-29-unveiling-ic-star-full-flow-autonomy-from-digital-to-analog"
+        },
+        {
+          "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+          "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-28T21:48:56Z",
+          "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-09-28-a-day-in-the-life-of-a-roboticist"
+        },
         {
           "title": "Tenemos un nuevo \"benchmark\" para la IA: preguntarle si has montado correctamente tus muebles de Ikea o no",
           "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-benchmark-para-ia-preguntarle-has-montado-correctamente-tus-muebles-ikea-no",
@@ -396,6 +435,32 @@
       "name": "Herramientas",
       "items": [
         {
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face",
+          "published_at": "2026-09-29T15:30:38Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-29-nvidia-kumo-tabular-sets-a-new-accuracy-efficiency-frontier"
+        },
+        {
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face",
+          "published_at": "2026-09-29T13:07:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-29-getting-the-source-right-not-just-the-fact"
+        },
+        {
           "title": "Holo4: powering generalist computer-use agents",
           "url": "https://huggingface.co/blog/Hcompany/holo4",
           "source": "Hugging Face",
@@ -414,95 +479,134 @@
       "name": "General",
       "items": [
         {
-          "title": "OpenAI’s AI agents need to catch up",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+          "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
           "source": "The Verge",
-          "published_at": "2026-09-28T18:45:00Z",
-          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, i…",
+          "published_at": "2026-09-29T21:49:09Z",
+          "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since Apri…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-openai-s-ai-agents-need-to-catch-up"
+          "id": "theverge-2026-09-29-elon-musk-8217-s-ai-powered-grokipedia-is-updating"
         },
         {
-          "title": "Trump finalizes rule to make cars less fuel efficient",
-          "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
-          "source": "The Verge",
-          "published_at": "2026-09-28T18:39:50Z",
-          "summary": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for …",
+          "title": "Tesla necesita que sus trabajadores enseñen a Optimus a trabajar. El problema es que no todos quieren hacerlo",
+          "url": "https://www.xataka.com/robotica-e-ia/tesla-necesita-que-sus-trabajadores-ensenen-a-optimus-a-trabajar-problema-que-no-todos-quieren-hacerlo",
+          "source": "Xataka",
+          "published_at": "2026-09-29T21:00:26Z",
+          "summary": "Hay una pregunta que la expansión de la inteligencia artificial está haciendo cada vez menos abstracta: ¿qué pensaríamos si nos pidieran entrenar una tecnología que algún día podría hacer nuestro trabajo? La situación ya…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-trump-finalizes-rule-to-make-cars-less-fuel"
+          "id": "xataka-2026-09-29-tesla-necesita-que-sus-trabajadores-ensenen-a-optimus"
         },
         {
-          "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+          "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+          "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-09-28T18:30:00Z",
-          "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to unde…",
+          "published_at": "2026-09-29T17:19:07Z",
+          "summary": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and lo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-ai-is-supercharging-hacking-and-your-local-hospitals"
+          "id": "theverge-2026-09-29-razer-s-low-latency-wireless-gaming-keyboard-is-almost"
         },
         {
-          "title": "Florida seeks a ban on ChatGPT acting like a person",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
           "source": "The Verge",
-          "published_at": "2026-09-28T17:00:23Z",
-          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, use…",
+          "published_at": "2026-09-29T17:15:00Z",
+          "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" acr…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-florida-seeks-a-ban-on-chatgpt-acting-like"
+          "id": "theverge-2026-09-29-openai-launches-dots-its-muse-competitor"
         },
         {
-          "title": "OpenAI keeps bulldozing mathematicians",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "title": "Protesters gather at OpenAI’s DevDay",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
           "source": "The Verge",
-          "published_at": "2026-09-28T17:00:00Z",
-          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better…",
+          "published_at": "2026-09-29T17:12:27Z",
+          "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spell…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-openai-keeps-bulldozing-mathematicians"
+          "id": "theverge-2026-09-29-protesters-gather-at-openai-s-devday"
         },
         {
-          "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-          "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+          "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+          "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
           "source": "The Verge",
-          "published_at": "2026-09-28T16:44:57Z",
-          "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company…",
+          "published_at": "2026-09-29T16:17:01Z",
+          "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocke…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-walmart-won-t-hike-prices-based-on-your"
+          "id": "theverge-2026-09-29-xbox-s-mythic-achievements-are-here-and-they"
         },
         {
-          "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-          "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-          "source": "The Verge",
-          "published_at": "2026-09-28T15:43:09Z",
-          "summary": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recogni…",
+          "title": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
+          "source": "Xataka",
+          "published_at": "2026-09-29T10:16:26Z",
+          "summary": "Por fin empezamos a conocer los números detrás de Claude. Los datos a los que ha tenido aceso Reuters provienen de la información que la empresa debe ceder para efectuar su salida a bolsa. Según dichos datos, la empresa …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-28-volkswagen-replaces-id-4-with-all-electric-tiguan"
+          "id": "xataka-2026-09-29-anthropic-camina-o-revienta-sus-cuentas-desveladas-sugieren"
+        },
+        {
+          "title": "OpenAI cancela el lanzamiento de GPT-6.1 Astra: su propio equipo de seguridad ha visto que el modelo no era fiable",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-cancela-gpt-6-1-astra-su-propio-equipo-seguridad-ha-visto-que-modelo-no-era-fiable",
+          "source": "Xataka",
+          "published_at": "2026-09-29T09:50:00Z",
+          "summary": "OpenAI ha dejado en suspenso GPT-6.1 Astra, el modelo que planeaba lanzar en octubre, después de que sus propios investigadores descubrieran que el sistema no se comportaba de forma suficientemente fiable durante las pru…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-29-openai-cancela-el-lanzamiento-de-gpt-6-1-astra"
+        },
+        {
+          "title": "Bill Gates tampoco se fía de la IA: \"Es lo suficientemente poderosa como para provocar acontecimientos que causen 1.000 millones de muertes\"",
+          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-riesgos-ia-fuera-control-no-basta-tener-interruptor-apagado",
+          "source": "Xataka",
+          "published_at": "2026-09-29T09:30:00Z",
+          "summary": "A lo largo de los años hemos escuchado muchas veces eso de que la IA podía acabar con la humanidad , pero desde hace varias semanas el discurso se ha intensificado a partir del tuit viral de un exingeniero de Anthropic .…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-29-bill-gates-tampoco-se-fia-de-la-ia"
+        },
+        {
+          "title": "Seguir el ritmo de la IA en 2026 es imposible: el reto de descubrir cuál es el mejor chatbot a día de hoy",
+          "url": "https://www.xataka.com/robotica-e-ia/seguir-ritmo-ia-2026-imposible-reto-descubrir-cual-mejor-chatbot-a-dia-hoy",
+          "source": "Xataka",
+          "published_at": "2026-09-29T09:00:27Z",
+          "summary": "Recuerdo cuando elegir el chatbot que quería usar era sencillo porque prácticamente solo había uno: ChatGPT . Poco a poco fueron apareciendo más y más alternativas, y el panorama hoy en día es completamente distinto. Ten…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-29-seguir-el-ritmo-de-la-ia-en-2026"
         },
         {
           "title": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
@@ -516,19 +620,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-28-openai-frena-en-seco-el-entrenamiento-de-sus"
-        },
-        {
-          "title": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-iba-a-democratizar-creacion-contenido-esta-consiguiendo-contrario-que-internet-vuelva-a-poner-puertas",
-          "source": "Xataka",
-          "published_at": "2026-09-27T09:00:50Z",
-          "summary": "En enero, Daniel Stenberg cerró el programa de recompensas por bugs de cURL , una de las piezas de software más usadas del mundo. No lo hizo por que le faltaba dinero, sino porque le sobraban informes: una cantidad desco…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-27-la-ia-iba-a-democratizar-la-creacion-de"
         }
       ]
     }
@@ -565,6 +656,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
+        },
+        {
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-devday-2026-recap"
+        },
+        {
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T00:00:00Z",
+          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-dots"
+        },
+        {
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
+        },
         {
           "title": "How we will do better for Australia",
           "url": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -657,17 +800,17 @@
           "id": "openai-2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian"
         },
         {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "url": "https://openai.com/index/ringg",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
           "source": "OpenAI",
           "published_at": "2026-09-23T12:00:00Z",
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
+          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
         },
         {
           "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -683,6 +826,19 @@
           "id": "openai-2026-09-23-harvey-turns-legal-context-into-stronger-drafts-with"
         },
         {
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI",
+          "published_at": "2026-09-23T12:00:00Z",
+          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
+        },
+        {
           "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI",
@@ -696,19 +852,6 @@
           "id": "openai-2026-09-23-how-invideo-improves-color-grading-3x-with-gpt-6"
         },
         {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
-        },
-        {
           "title": "Introducing MentalHealthBench",
           "url": "https://openai.com/index/introducing-mentalhealthbench",
           "source": "OpenAI",
@@ -720,84 +863,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-23-introducing-mentalhealthbench"
-        },
-        {
-          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-          "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T02:00:00Z",
-          "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-chatgpt-ads-expands-to-southeast-asia-and-taiwan"
-        },
-        {
-          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-          "url": "https://openai.com/index/airbnb-gpt-6-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T01:00:00Z",
-          "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-airbnb-widens-access-to-gpt-6-astra-and-openai"
-        },
-        {
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T00:00:00Z",
-          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-grab-and-openai-bring-practical-ai-skills-to"
-        },
-        {
-          "title": "Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T21:00:00Z",
-          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-better-prompt-caching-for-gpt-6"
-        },
-        {
-          "title": "Introducing GPT-6 Sol and Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T18:00:00Z",
-          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-introducing-gpt-6-sol-and-luna"
-        },
-        {
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-22T12:00:00Z",
-          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-22-parallel-cut-research-time-and-cost-in-half"
         }
       ]
     },
