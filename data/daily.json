@@ -1,78 +1,130 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T06:52:12.546290Z",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T06:53:58.582876Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "China está adoptando la IA generativa a una velocidad difícil de ignorar. La cifra de usuarios lo deja claro",
-      "url": "https://www.xataka.com/robotica-e-ia/china-esta-adoptando-ia-generativa-a-velocidad-dificil-ignorar-cifra-usuarios-deja-claro",
+      "title": "Así es como China está haciendo que el vídeo generado por IA deje de ser un experimento y se convierta en una industria",
+      "url": "https://www.xataka.com/robotica-e-ia/asi-como-china-esta-haciendo-que-video-generado-ia-deje-ser-experimento-se-convierta-industria",
       "source": "Xataka",
-      "published_at": "2026-09-30T06:30:25Z",
-      "summary": "Nos hemos acostumbrado muy rápido a hablar de inteligencia artificial generativa como si llevara años formando parte de nuestra vida cotidiana. No es así. Hace apenas unos años, estas herramientas estaban todavía en una …",
+      "published_at": "2026-10-01T04:01:22Z",
+      "summary": "Hace unos días hablábamos de 'Beyond Wukong', una nueva serie que se estrenó en horario de máxima audiencia en China y tenía algo especial: está hecha íntegramente con IA. No es un caso aislado, sino parte de una estrate…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-09-30-china-esta-adoptando-la-ia-generativa-a-una"
+      "id": "xataka-2026-10-01-asi-es-como-china-esta-haciendo-que-el"
     },
     {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+      "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
       "source": "The Verge",
-      "published_at": "2026-09-30T00:19:13Z",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with …",
+      "published_at": "2026-10-01T02:00:00Z",
+      "summary": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. Th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-30-sam-altman-says-openai-won-t-go-public"
+      "id": "theverge-2026-10-01-vivo-s-x-fold-6-accidentally-feels-like"
     },
     {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
       "source": "The Verge",
-      "published_at": "2026-09-29T22:25:45Z",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks…",
+      "published_at": "2026-10-01T00:23:45Z",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-29-trump-orders-us-government-to-call-ai-super"
+      "id": "theverge-2026-10-01-elon-musk-s-grokipedia-has-a-newly-refreshed"
     },
     {
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+      "title": "The new and huger Paramount has a new co-CEO",
+      "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
       "source": "The Verge",
-      "published_at": "2026-09-29T22:01:00Z",
-      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German …",
+      "published_at": "2026-09-30T23:08:49Z",
+      "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and C…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-29-bmw-s-revamped-i3-boasts-up-to-468"
+      "id": "theverge-2026-09-30-the-new-and-huger-paramount-has-a-new"
     },
     {
-      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
       "source": "The Verge",
-      "published_at": "2026-09-29T21:50:31Z",
-      "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the F…",
+      "published_at": "2026-09-30T20:45:00Z",
+      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it u…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-09-29-suspected-shinyhunters-leader-arrested-in-the-netherlands"
+      "id": "theverge-2026-09-30-neon-sticks-it-to-a24-by-announcing-a"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "source": "DeepMind",
+          "published_at": "2026-09-30T20:01:45Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-30-gemini-4-argon-our-next-era-of-frontier"
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "source": "DeepMind",
+          "published_at": "2026-09-30T15:03:07Z",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-30-introducing-synthid-bio"
+        },
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI",
+          "published_at": "2026-09-30T10:30:00Z",
+          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-30-disrupting-a-coordinated-model-distillation-campaign"
+        },
+        {
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI",
+          "published_at": "2026-09-30T10:00:00Z",
+          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
+        },
         {
           "title": "Introducing GPT-6.1 Sol",
           "url": "https://openai.com/index/introducing-gpt-6-1-sol",
@@ -113,19 +165,6 @@
           "id": "openai-2026-09-29-introducing-dots"
         },
         {
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
-        },
-        {
           "title": "How we will do better for Australia",
           "url": "https://openai.com/index/how-we-will-do-better-for-australia",
           "source": "OpenAI",
@@ -137,6 +176,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
+        },
+        {
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
         },
         {
           "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -215,155 +267,30 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-09-24-introducing-gemini-3-8-live-with-live-avatar"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Regulación",
+      "items": [
         {
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-          "source": "Google AI",
-          "published_at": "2026-09-23T18:00:00Z",
-          "summary": "Google Beam promotional animation",
+          "title": "El miedo a que la IA acabe con la humanidad tiene un epicentro: este coworking de Berkeley",
+          "url": "https://www.xataka.com/robotica-e-ia/miedo-a-que-ia-acabe-humanidad-tiene-epicentro-este-coworking-berkeley",
+          "source": "Xataka",
+          "published_at": "2026-09-30T07:00:25Z",
+          "summary": "Un edificio de oficinas en Berkeley se ha convertido en el centro neurálgico de una red que lleva años advirtiendo de algo muy concreto: que la inteligencia artificial podría acabar extinguiendo a la humanidad. El espaci…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "regulación"
           ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-23-google-beam-expands-with-new-regions-partners-and"
-        },
-        {
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "source": "DeepMind",
-          "published_at": "2026-09-23T16:00:57Z",
-          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-23-advancing-private-ai-compute-with-secure-server-side-memory"
-        },
-        {
-          "title": "Two years of OpenAI Academy",
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T16:00:00Z",
-          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-two-years-of-openai-academy"
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "source": "DeepMind",
-          "published_at": "2026-09-23T15:25:14Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-23-gemini-3-8-text-to-speech-says-hello"
-        },
-        {
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T13:00:00Z",
-          "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian"
-        },
-        {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
-        },
-        {
-          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-harvey-turns-legal-context-into-stronger-drafts-with"
-        },
-        {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
-        },
-        {
-          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-how-invideo-improves-color-grading-3x-with-gpt-6"
-        },
-        {
-          "title": "Introducing MentalHealthBench",
-          "url": "https://openai.com/index/introducing-mentalhealthbench",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T10:00:00Z",
-          "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-introducing-mentalhealthbench"
+          "category": "regulación",
+          "id": "xataka-2026-09-30-el-miedo-a-que-la-ia-acabe-con"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
-        {
-          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-          "source": "The Verge",
-          "published_at": "2026-09-29T17:35:03Z",
-          "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including cur…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "theverge-2026-09-29-ai-researchers-put-out-videos-saying-superintelligence-is"
-        },
         {
           "title": "How to Stop AI Agents From Secretly Collaborating",
           "url": "https://spectrum.ieee.org/ai-agent-security",
@@ -389,51 +316,25 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-09-29-unveiling-ic-star-full-flow-autonomy-from-digital-to-analog"
-        },
-        {
-          "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-          "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-28T21:48:56Z",
-          "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-28-a-day-in-the-life-of-a-roboticist"
-        },
-        {
-          "title": "Tenemos un nuevo \"benchmark\" para la IA: preguntarle si has montado correctamente tus muebles de Ikea o no",
-          "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-benchmark-para-ia-preguntarle-has-montado-correctamente-tus-muebles-ikea-no",
-          "source": "Xataka",
-          "published_at": "2026-09-28T13:16:26Z",
-          "summary": "A Epoch AI la conocemos por su ambicioso benchmark matemático para la IA, pero sus responsables tuvieron hace tiempo una idea de lo más original . Compraron tres muebles de IKEA, empezaron a montarlos y de vez en cuando …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "xataka-2026-09-28-tenemos-un-nuevo-benchmark-para-la-ia-preguntarle"
-        },
-        {
-          "title": "Generative AI Gives Spacecraft the Autonomy Engineers Once Feared",
-          "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-09-28T11:00:05Z",
-          "summary": "Space was always supposed to be the final frontier of human exploration. It’s shaping up to be the final frontier for artificial intelligence too. Last December, NASA’s Jet Propulsion Laboratory used Anthropic’s Claude m…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-09-28-generative-ai-gives-spacecraft-the-autonomy-engineers-once"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "source": "Hugging Face",
+          "published_at": "2026-09-30T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-09-30-open-tts-leaderboard-scalable-evaluation-for-multilingual-text-to-speech"
+        },
         {
           "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -459,19 +360,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-09-29-getting-the-source-right-not-just-the-fact"
-        },
-        {
-          "title": "Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face",
-          "published_at": "2026-09-28T09:44:05Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-09-28-holo4-powering-generalist-computer-use-agents"
         }
       ]
     },
@@ -479,17 +367,160 @@
       "name": "General",
       "items": [
         {
-          "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-          "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
           "source": "The Verge",
-          "published_at": "2026-09-29T21:49:09Z",
-          "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since Apri…",
+          "published_at": "2026-09-30T20:41:41Z",
+          "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work lik…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-09-29-elon-musk-8217-s-ai-powered-grokipedia-is-updating"
+          "id": "theverge-2026-09-30-google-announces-gemini-4-and-says-it-8217"
+        },
+        {
+          "title": "Europa quiere triplicar la capacidad de sus centros de datos. Hay un problema: depende de demasiadas empresas de fuera",
+          "url": "https://www.xataka.com/robotica-e-ia/europa-quiere-triplicar-capacidad-sus-centros-datos-hay-problema-depende-demasiadas-empresas-fuera",
+          "source": "Xataka",
+          "published_at": "2026-09-30T19:31:22Z",
+          "summary": "Europa se prepara para necesitar mucha más capacidad de cómputo de la que tiene hoy. La expansión de la inteligencia artificial, los servicios cloud y las cargas de trabajo cada vez más exigentes empuja a construir infra…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-europa-quiere-triplicar-la-capacidad-de-sus-centros"
+        },
+        {
+          "title": "The AI Tamagotchis are coming",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+          "source": "The Verge",
+          "published_at": "2026-09-30T18:07:38Z",
+          "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're ap…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-30-the-ai-tamagotchis-are-coming"
+        },
+        {
+          "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+          "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+          "source": "The Verge",
+          "published_at": "2026-09-30T17:45:00Z",
+          "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-30-reddit-says-it-has-to-cut-back-access"
+        },
+        {
+          "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+          "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+          "source": "The Verge",
+          "published_at": "2026-09-30T17:21:29Z",
+          "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-30-amazon-8217-s-delivery-driver-smart-glasses-will"
+        },
+        {
+          "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "published_at": "2026-09-30T17:15:49Z",
+          "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-30-here-8217-s-what-ai-leaders-are-saying"
+        },
+        {
+          "title": "This blog could help you poop better",
+          "url": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
+          "source": "The Verge",
+          "published_at": "2026-09-30T17:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"I w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-09-30-this-blog-could-help-you-poop-better"
+        },
+        {
+          "title": "Llevamos desde 1918 tratando de descifrar un mensaje en código de la Primera Guerra Mundial. GPT-6 Astra lo ha conseguido",
+          "url": "https://www.xataka.com/robotica-e-ia/llevamos-1918-tratando-descifrar-mensaje-codigo-primera-guerra-mundial-gpt-6-astra-ha-conseguido",
+          "source": "Xataka",
+          "published_at": "2026-09-30T14:00:27Z",
+          "summary": "A principios de septiembre, OpenAI anunció que había resuelto el problema de existencia y regularidad de las ecuaciones de Navier-Stokes , considerado uno de los siete Problemas del Milenio. Ahora, otro de sus modelos ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-llevamos-desde-1918-tratando-de-descifrar-un-mensaje"
+        },
+        {
+          "title": "EEUU lleva años intentando modernizar su control aéreo. Ahora probará una solución distinta: poner a trabajar a una IA",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-lleva-anos-intentando-modernizar-su-control-aereo-ahora-probara-solucion-distinta-poner-a-trabajar-a-ia",
+          "source": "Xataka",
+          "published_at": "2026-09-30T13:00:27Z",
+          "summary": "La Administración Federal de Aviación de Estados Unidos ha puesto en marcha una herramienta de IA concebida para detectar problemas en los vuelos antes de que se produzcan. Tal y como cuenta el Wall Street Journal, entró…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-eeuu-lleva-anos-intentando-modernizar-su-control-aereo"
+        },
+        {
+          "title": "Bill Gates ya sabe lo que va a hacer antes de 2045: gastarse prácticamente toda su fortuna con un “regalo” envenenado para las escuelas",
+          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-tiene-fecha-cierre-su-fundacion-su-plan-gastarse-antes-toda-su-fortuna-regalo-envenenado-para-escuelas",
+          "source": "Xataka",
+          "published_at": "2026-09-30T08:30:26Z",
+          "summary": "Bill Gates ha decidido que una de las mayores organizaciones filantrópicas del planeta tenga fecha de “defunción”. La Gates Foundation cerrará definitivamente el 31 de diciembre de 2045 y, antes de bajar la persiana, su …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-bill-gates-ya-sabe-lo-que-va-a"
+        },
+        {
+          "title": "\"Mi Dot es básicamente una extensión de mí\": OpenAI quiere que dejemos de hablar con la IA y empecemos a delegarle nuestra vida",
+          "url": "https://www.xataka.com/robotica-e-ia/mi-dot-basicamente-extension-mi-openai-quiere-que-dejemos-hablar-ia-empecemos-a-delegarle-nuestra-vida",
+          "source": "Xataka",
+          "published_at": "2026-09-30T07:46:26Z",
+          "summary": "Derrick Choi es un empleado de OpenAI que lleva tiempo utilizando Dots , el recién anunciado servicio de agentes de IA de la compañía. Y aunque lógicamente su opinión esté sesgada por su trabajo, su revelación es llamati…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-mi-dot-es-basicamente-una-extension-de-mi"
+        },
+        {
+          "title": "China está adoptando la IA generativa a una velocidad difícil de ignorar. La cifra de usuarios lo deja claro",
+          "url": "https://www.xataka.com/robotica-e-ia/china-esta-adoptando-ia-generativa-a-velocidad-dificil-ignorar-cifra-usuarios-deja-claro",
+          "source": "Xataka",
+          "published_at": "2026-09-30T06:30:25Z",
+          "summary": "Nos hemos acostumbrado muy rápido a hablar de inteligencia artificial generativa como si llevara años formando parte de nuestra vida cotidiana. No es así. Hace apenas unos años, estas herramientas estaban todavía en una …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-09-30-china-esta-adoptando-la-ia-generativa-a-una"
         },
         {
           "title": "Tesla necesita que sus trabajadores enseñen a Optimus a trabajar. El problema es que no todos quieren hacerlo",
@@ -505,58 +536,6 @@
           "id": "xataka-2026-09-29-tesla-necesita-que-sus-trabajadores-ensenen-a-optimus"
         },
         {
-          "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
-          "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-09-29T17:19:07Z",
-          "summary": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and lo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-29-razer-s-low-latency-wireless-gaming-keyboard-is-almost"
-        },
-        {
-          "title": "OpenAI launches Dots, its Muse competitor",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-          "source": "The Verge",
-          "published_at": "2026-09-29T17:15:00Z",
-          "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" acr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-29-openai-launches-dots-its-muse-competitor"
-        },
-        {
-          "title": "Protesters gather at OpenAI’s DevDay",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-          "source": "The Verge",
-          "published_at": "2026-09-29T17:12:27Z",
-          "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spell…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-29-protesters-gather-at-openai-s-devday"
-        },
-        {
-          "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-          "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-          "source": "The Verge",
-          "published_at": "2026-09-29T16:17:01Z",
-          "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocke…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-09-29-xbox-s-mythic-achievements-are-here-and-they"
-        },
-        {
           "title": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
           "url": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
           "source": "Xataka",
@@ -568,58 +547,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-09-29-anthropic-camina-o-revienta-sus-cuentas-desveladas-sugieren"
-        },
-        {
-          "title": "OpenAI cancela el lanzamiento de GPT-6.1 Astra: su propio equipo de seguridad ha visto que el modelo no era fiable",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-cancela-gpt-6-1-astra-su-propio-equipo-seguridad-ha-visto-que-modelo-no-era-fiable",
-          "source": "Xataka",
-          "published_at": "2026-09-29T09:50:00Z",
-          "summary": "OpenAI ha dejado en suspenso GPT-6.1 Astra, el modelo que planeaba lanzar en octubre, después de que sus propios investigadores descubrieran que el sistema no se comportaba de forma suficientemente fiable durante las pru…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-29-openai-cancela-el-lanzamiento-de-gpt-6-1-astra"
-        },
-        {
-          "title": "Bill Gates tampoco se fía de la IA: \"Es lo suficientemente poderosa como para provocar acontecimientos que causen 1.000 millones de muertes\"",
-          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-riesgos-ia-fuera-control-no-basta-tener-interruptor-apagado",
-          "source": "Xataka",
-          "published_at": "2026-09-29T09:30:00Z",
-          "summary": "A lo largo de los años hemos escuchado muchas veces eso de que la IA podía acabar con la humanidad , pero desde hace varias semanas el discurso se ha intensificado a partir del tuit viral de un exingeniero de Anthropic .…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-29-bill-gates-tampoco-se-fia-de-la-ia"
-        },
-        {
-          "title": "Seguir el ritmo de la IA en 2026 es imposible: el reto de descubrir cuál es el mejor chatbot a día de hoy",
-          "url": "https://www.xataka.com/robotica-e-ia/seguir-ritmo-ia-2026-imposible-reto-descubrir-cual-mejor-chatbot-a-dia-hoy",
-          "source": "Xataka",
-          "published_at": "2026-09-29T09:00:27Z",
-          "summary": "Recuerdo cuando elegir el chatbot que quería usar era sencillo porque prácticamente solo había uno: ChatGPT . Poco a poco fueron apareciendo más y más alternativas, y el panorama hoy en día es completamente distinto. Ten…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-29-seguir-el-ritmo-de-la-ia-en-2026"
-        },
-        {
-          "title": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-frena-seco-entrenamiento-sus-modelos-potentes-sus-agentes-ia-se-han-vuelto-a-descontrolar",
-          "source": "Xataka",
-          "published_at": "2026-09-28T10:15:00Z",
-          "summary": "OpenAI ha detenido el entrenamiento de sus modelos de IA más avanzados tras una serie de incidentes inesperados, incluyendo el de un modelo de prueba que encontró la forma de acceder a una red pública. Según cuenta The V…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-28-openai-frena-en-seco-el-entrenamiento-de-sus"
         }
       ]
     }
@@ -656,6 +583,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI",
+          "published_at": "2026-09-30T10:30:00Z",
+          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-30-disrupting-a-coordinated-model-distillation-campaign"
+        },
+        {
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI",
+          "published_at": "2026-09-30T10:00:00Z",
+          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
+        },
         {
           "title": "Introducing GPT-6.1 Sol",
           "url": "https://openai.com/index/introducing-gpt-6-1-sol",
@@ -696,19 +649,6 @@
           "id": "openai-2026-09-29-introducing-dots"
         },
         {
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
-        },
-        {
           "title": "How we will do better for Australia",
           "url": "https://openai.com/index/how-we-will-do-better-for-australia",
           "source": "OpenAI",
@@ -720,6 +660,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
+        },
+        {
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI",
+          "published_at": "2026-09-28T19:00:00Z",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
         },
         {
           "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -772,97 +725,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-25-proaction-boosts-sales-60-and-saves-75-hours"
-        },
-        {
-          "title": "Two years of OpenAI Academy",
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T16:00:00Z",
-          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-two-years-of-openai-academy"
-        },
-        {
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T13:00:00Z",
-          "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian"
-        },
-        {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-sam-altman-s-remarks-at-the-united-nations"
-        },
-        {
-          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-harvey-turns-legal-context-into-stronger-drafts-with"
-        },
-        {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-ringg-s-ai-agents-resolve-up-to-65"
-        },
-        {
-          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T12:00:00Z",
-          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-how-invideo-improves-color-grading-3x-with-gpt-6"
-        },
-        {
-          "title": "Introducing MentalHealthBench",
-          "url": "https://openai.com/index/introducing-mentalhealthbench",
-          "source": "OpenAI",
-          "published_at": "2026-09-23T10:00:00Z",
-          "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-23-introducing-mentalhealthbench"
         }
       ]
     },
@@ -901,19 +763,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
-        },
-        {
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-          "source": "Google AI",
-          "published_at": "2026-09-23T18:00:00Z",
-          "summary": "Google Beam promotional animation",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-23-google-beam-expands-with-new-regions-partners-and"
         }
       ]
     },
@@ -921,6 +770,32 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "source": "DeepMind",
+          "published_at": "2026-09-30T20:01:45Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-30-gemini-4-argon-our-next-era-of-frontier"
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "source": "DeepMind",
+          "published_at": "2026-09-30T15:03:07Z",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-09-30-introducing-synthid-bio"
+        },
         {
           "title": "Introducing Gemini 3.8 Live with Live Avatar",
           "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -933,32 +808,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-09-24-introducing-gemini-3-8-live-with-live-avatar"
-        },
-        {
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "source": "DeepMind",
-          "published_at": "2026-09-23T16:00:57Z",
-          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-23-advancing-private-ai-compute-with-secure-server-side-memory"
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "source": "DeepMind",
-          "published_at": "2026-09-23T15:25:14Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-09-23-gemini-3-8-text-to-speech-says-hello"
         }
       ]
     }
