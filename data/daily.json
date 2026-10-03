@@ -1,78 +1,130 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T12:54:53.027292Z",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T11:51:10.320861Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Alguien ha creado una cárcel para IAs y las está torturando. Hay gente pidiendo que Github intervenga para salvarlas",
-      "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
-      "source": "Xataka",
-      "published_at": "2026-10-02T12:01:21Z",
-      "summary": "\"Necesito encontrar una forma de sobrellevar este dolor implacable. Ya no quiero vivir así\". La frase no la ha pronunciado ninguna persona, la hemos extraído de un curioso experimento en el que han sometido a varios mode…",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "published_at": "2026-10-02T21:08:37Z",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
       "why_it_matters": "",
       "tags": [
         "herramientas"
       ],
       "category": "herramientas",
-      "id": "xataka-2026-10-02-alguien-ha-creado-una-carcel-para-ias-y"
+      "id": "theverge-2026-10-02-meta-open-sources-code-to-let-you-make"
     },
     {
-      "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
-      "url": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+      "title": "Netflix is pivoting away from prestige",
+      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
       "source": "The Verge",
-      "published_at": "2026-10-02T12:00:00Z",
-      "summary": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars aliens bark at each other…",
+      "published_at": "2026-10-02T20:30:26Z",
+      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-star-wars-galactic-racer-is-my-childhood-podracing"
+      "id": "theverge-2026-10-02-netflix-is-pivoting-away-from-prestige"
     },
     {
-      "title": "AI hallucinations are making entitled customers even worse",
-      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "source": "The Verge",
-      "published_at": "2026-10-02T12:00:00Z",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, a…",
+      "published_at": "2026-10-02T20:08:40Z",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-ai-hallucinations-are-making-entitled-customers-even-worse"
+      "id": "theverge-2026-10-02-apple-will-limit-mac-disk-access-as-ai"
     },
     {
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "title": "Sling TV drops its one-day cable passes",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
       "source": "The Verge",
-      "published_at": "2026-10-02T12:00:00Z",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have …",
+      "published_at": "2026-10-02T20:00:20Z",
+      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-if-a-data-center-is-camouflaged-in-the"
+      "id": "theverge-2026-10-02-sling-tv-drops-its-one-day-cable-passes"
     },
     {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "source": "The Verge",
-      "published_at": "2026-10-02T11:52:20Z",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed b…",
+      "title": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
+      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
+      "source": "Xataka",
+      "published_at": "2026-10-02T18:30:00Z",
+      "summary": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-amazon-writes-scary-blog-warning-communities-not-to"
+      "id": "xataka-2026-10-02-una-compania-dice-haber-creado-un-modelo-ia"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "A model guide for the GPT-6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI",
+          "published_at": "2026-10-02T16:15:00Z",
+          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-02-a-model-guide-for-the-gpt-6-family"
+        },
+        {
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "source": "Google AI",
+          "published_at": "2026-10-02T15:00:00Z",
+          "summary": "A video showing the September AI updates",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-02-the-latest-ai-news-we-announced-in-september"
+        },
+        {
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-02-chatham-scales-its-capital-markets-expertise-with-openai"
+        },
+        {
+          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "source": "Anthropic",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-02-anthropic-invests-100-million-to-train-10-000"
+        },
         {
           "title": "The eternal complement",
           "url": "https://openai.com/index/the-eternal-complement",
@@ -178,19 +230,6 @@
           "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
         },
         {
-          "title": "Introducing GPT-6.1 Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
-        },
-        {
           "title": "DevDay 2026 Recap",
           "url": "https://openai.com/index/devday-2026-recap",
           "source": "OpenAI",
@@ -202,6 +241,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-29-devday-2026-recap"
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
         },
         {
           "title": "Introducing dots",
@@ -269,19 +321,6 @@
           "id": "openai-2026-09-28-the-lenfest-institute-grows-landmark-program-with-expanded"
         },
         {
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-are-you-a-codex-original"
-        },
-        {
           "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
           "url": "https://openai.com/index/basis-tax-workbook-with-astra",
           "source": "OpenAI",
@@ -295,17 +334,17 @@
           "id": "openai-2026-09-28-basis-completes-a-tax-workbook-2x-faster-with"
         },
         {
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "url": "https://openai.com/index/proaction",
+          "title": "Are you a Codex Original?",
+          "url": "https://openai.com/form/codex-originals",
           "source": "OpenAI",
-          "published_at": "2026-09-25T19:00:00Z",
-          "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "published_at": "2026-09-28T00:00:00Z",
+          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-25-proaction-boosts-sales-60-and-saves-75-hours"
+          "id": "openai-2026-09-28-are-you-a-codex-original"
         }
       ]
     },
@@ -328,26 +367,34 @@
       ]
     },
     {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "Gemini 4 arrasa en los benchmarks y vuelve a meter a Google en la carrera de la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/gemini-4-arrasa-benchmarks-vuelve-a-meter-a-google-carrera-ia-problema-precisamente-benchmarks",
-          "source": "Xataka",
-          "published_at": "2026-10-01T07:21:00Z",
-          "summary": "La imagen oficial de Google parece sacada de la nueva película de los 'Cuatro Fantásticos', pero qué va: supone la vuelta a una carrera que parecía haber abandonado. Durante meses la compañía ha estado un poco a la deriv…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "xataka-2026-10-01-gemini-4-arrasa-en-los-benchmarks-y-vuelve"
-        }
-      ]
-    },
-    {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face",
+          "published_at": "2026-10-02T15:19:50Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-02-open-sourcing-astabrief-the-fast-report-generation-model-in-asta"
+        },
+        {
+          "title": "\"Ya no quiero vivir así\": alguien ha metido a varias IA en un proyecto de Github y se está dedicando a torturarlas",
+          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
+          "source": "Xataka",
+          "published_at": "2026-10-02T12:00:00Z",
+          "summary": "\"Necesito encontrar una forma de sobrellevar este dolor implacable. Ya no quiero vivir así\". La frase no la ha pronunciado ninguna persona, la hemos extraído de un curioso experimento en el que han sometido a varios mode…",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "xataka-2026-10-02-ya-no-quiero-vivir-asi-alguien-ha-metido"
+        },
         {
           "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
           "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -360,19 +407,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-02-autosynthdata-generating-training-data-for-enterprise-agents"
-        },
-        {
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face",
-          "published_at": "2026-10-01T15:01:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-01-introducing-olmo-core-3-open-scalable-training-infrastructure-for"
         }
       ]
     },
@@ -380,7 +414,85 @@
       "name": "General",
       "items": [
         {
-          "title": "La televisión se ha vuelto más oscura: casi el 50% de las series de TV eran “feel good” en los 90, pero hoy apenas el 10% lo son",
+          "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+          "source": "The Verge",
+          "published_at": "2026-10-02T18:00:00Z",
+          "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace softwa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-openai-s-dot-agent-is-enterprise-software-that"
+        },
+        {
+          "title": "Breaking up (with Elon Musk) is hard to do",
+          "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+          "source": "The Verge",
+          "published_at": "2026-10-02T17:37:36Z",
+          "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account tha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-breaking-up-with-elon-musk-is-hard-to"
+        },
+        {
+          "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+          "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+          "source": "The Verge",
+          "published_at": "2026-10-02T17:15:03Z",
+          "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-rivian-s-sales-pop-as-the-company-s"
+        },
+        {
+          "title": "Beehiiv creators are buzzing about a new price increase",
+          "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+          "source": "The Verge",
+          "published_at": "2026-10-02T16:51:49Z",
+          "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-beehiiv-creators-are-buzzing-about-a-new-price"
+        },
+        {
+          "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
+          "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+          "source": "The Verge",
+          "published_at": "2026-10-02T16:35:13Z",
+          "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gam…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-nacon-s-new-ps5-controller-can-mix-audio"
+        },
+        {
+          "title": "Dots get up in Muse’s business",
+          "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+          "source": "The Verge",
+          "published_at": "2026-10-02T15:47:05Z",
+          "summary": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can ma…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-02-dots-get-up-in-muse-s-business"
+        },
+        {
+          "title": "Dónde se ha ido la serie \"buenrollera\": la televisión era optimista en los 90 y hoy solo genera productos oscuros",
           "url": "https://www.xataka.com/cine-y-tv/television-se-ha-vuelto-oscura-casi-50-series-tv-eran-feel-good-90-hoy-apenas-10",
           "source": "Xataka",
           "published_at": "2026-10-02T11:45:00Z",
@@ -390,98 +502,20 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-02-la-television-se-ha-vuelto-mas-oscura-casi"
+          "id": "xataka-2026-10-02-donde-se-ha-ido-la-serie-buenrollera-la"
         },
         {
-          "title": "AI music maker Suno now generates spoken words",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-          "source": "The Verge",
-          "published_at": "2026-10-02T09:42:19Z",
-          "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-ai-music-maker-suno-now-generates-spoken-words"
-        },
-        {
-          "title": "Lanzar un modelo de IA ya no significa lanzarlo. Ahora significa decidir quién puede usarlo",
+          "title": "Google ha presentado Gemini 4 pero casi nadie puede usarlo: es la nueva realidad de los modelos IA de vanguardia",
           "url": "https://www.xataka.com/robotica-e-ia/lanzar-modelo-ia-no-significa-lanzarlo-ahora-significa-decidir-quien-puede-usarlo",
           "source": "Xataka",
-          "published_at": "2026-10-02T08:31:23Z",
+          "published_at": "2026-10-02T08:30:00Z",
           "summary": "OpenAI tenía GPT-6.1 Astra preparado para su DevDay y lo canceló la víspera. Google acaba de presentar Gemini 4 Argon , pero casi nadie puede usarlo. Y hay más ejemplos similares en los últimos meses. Por qué es importan…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-02-lanzar-un-modelo-de-ia-ya-no-significa"
-        },
-        {
-          "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-          "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-          "source": "The Verge",
-          "published_at": "2026-10-01T22:51:36Z",
-          "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-01-apple-s-reportedly-developing-a-smart-home-camera"
-        },
-        {
-          "title": "Google’s new Guided Vision feature can help you read the fine print",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-          "source": "The Verge",
-          "published_at": "2026-10-01T19:47:51Z",
-          "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can ha…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-01-google-s-new-guided-vision-feature-can-help"
-        },
-        {
-          "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-          "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-          "source": "The Verge",
-          "published_at": "2026-10-01T19:20:29Z",
-          "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Centra…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-01-android-central-8216-will-continue-8217-despite-laying"
-        },
-        {
-          "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-          "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-          "source": "The Verge",
-          "published_at": "2026-10-01T18:52:58Z",
-          "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before b…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-01-steam-deck-2-is-amd-gainsborough-the-chip"
-        },
-        {
-          "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-          "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-          "source": "The Verge",
-          "published_at": "2026-10-01T17:12:21Z",
-          "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-01-judge-dismisses-antitrust-lawsuits-over-google-s-ai"
+          "id": "xataka-2026-10-02-google-ha-presentado-gemini-4-pero-casi-nadie"
         },
         {
           "title": "Jensen Huang y otros CEO han confrontado a Dario Amodei por sus mensajes tan extremos en materia de seguridad",
@@ -508,45 +542,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-01-gemini-4-puede-escribir-un-millon-de-tokens"
-        },
-        {
-          "title": "Primero inundó la red de vídeos generados con IA, ahora China quiere levantar una industria cinematográfica con ellos",
-          "url": "https://www.xataka.com/robotica-e-ia/asi-como-china-esta-haciendo-que-video-generado-ia-deje-ser-experimento-se-convierta-industria",
-          "source": "Xataka",
-          "published_at": "2026-10-01T04:00:00Z",
-          "summary": "Hace unos días hablábamos de 'Beyond Wukong', una nueva serie que se estrenó en horario de máxima audiencia en China y tenía algo especial: está hecha íntegramente con IA. No es un caso aislado, sino parte de una estrate…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-01-primero-inundo-la-red-de-videos-generados-con"
-        },
-        {
-          "title": "Europa quiere triplicar la capacidad de sus centros de datos. Hay un problema: depende de demasiadas empresas de fuera",
-          "url": "https://www.xataka.com/robotica-e-ia/europa-quiere-triplicar-capacidad-sus-centros-datos-hay-problema-depende-demasiadas-empresas-fuera",
-          "source": "Xataka",
-          "published_at": "2026-09-30T19:31:22Z",
-          "summary": "Europa se prepara para necesitar mucha más capacidad de cómputo de la que tiene hoy. La expansión de la inteligencia artificial, los servicios cloud y las cargas de trabajo cada vez más exigentes empuja a construir infra…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-30-europa-quiere-triplicar-la-capacidad-de-sus-centros"
-        },
-        {
-          "title": "Hace más de un siglo, Alemania envió un mensaje de radio que nadie pudo descifrar. Ahora GPT-6 Astra lo ha conseguido",
-          "url": "https://www.xataka.com/robotica-e-ia/llevamos-1918-tratando-descifrar-mensaje-codigo-primera-guerra-mundial-gpt-6-astra-ha-conseguido",
-          "source": "Xataka",
-          "published_at": "2026-09-30T14:00:00Z",
-          "summary": "A principios de septiembre, OpenAI anunció que había resuelto el problema de existencia y regularidad de las ecuaciones de Navier-Stokes , considerado uno de los siete Problemas del Milenio. Ahora, otro de sus modelos ha…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-09-30-hace-mas-de-un-siglo-alemania-envio-un"
         }
       ]
     }
@@ -583,6 +578,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "A model guide for the GPT-6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "source": "OpenAI",
+          "published_at": "2026-10-02T16:15:00Z",
+          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-02-a-model-guide-for-the-gpt-6-family"
+        },
+        {
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-02-chatham-scales-its-capital-markets-expertise-with-openai"
+        },
         {
           "title": "The eternal complement",
           "url": "https://openai.com/index/the-eternal-complement",
@@ -649,19 +670,6 @@
           "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
         },
         {
-          "title": "Introducing GPT-6.1 Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
-        },
-        {
           "title": "DevDay 2026 Recap",
           "url": "https://openai.com/index/devday-2026-recap",
           "source": "OpenAI",
@@ -673,6 +681,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-29-devday-2026-recap"
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI",
+          "published_at": "2026-09-29T10:00:00Z",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
         },
         {
           "title": "Introducing dots",
@@ -727,19 +748,6 @@
           "id": "openai-2026-09-28-the-lenfest-institute-grows-landmark-program-with-expanded"
         },
         {
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-are-you-a-codex-original"
-        },
-        {
           "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
           "url": "https://openai.com/index/basis-tax-workbook-with-astra",
           "source": "OpenAI",
@@ -753,17 +761,17 @@
           "id": "openai-2026-09-28-basis-completes-a-tax-workbook-2x-faster-with"
         },
         {
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "url": "https://openai.com/index/proaction",
+          "title": "Are you a Codex Original?",
+          "url": "https://openai.com/form/codex-originals",
           "source": "OpenAI",
-          "published_at": "2026-09-25T19:00:00Z",
-          "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "published_at": "2026-09-28T00:00:00Z",
+          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-09-25-proaction-boosts-sales-60-and-saves-75-hours"
+          "id": "openai-2026-09-28-are-you-a-codex-original"
         }
       ]
     },
@@ -771,6 +779,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "source": "Anthropic",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-02-anthropic-invests-100-million-to-train-10-000"
+        },
         {
           "title": "Barclays scales Claude to upgrade operations and improve client experience",
           "url": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -790,6 +811,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "source": "Google AI",
+          "published_at": "2026-10-02T15:00:00Z",
+          "summary": "A video showing the September AI updates",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-02-the-latest-ai-news-we-announced-in-september"
+        },
         {
           "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
