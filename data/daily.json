@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T11:51:10.320861Z",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:36:13.323478Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-10-02T21:08:37Z",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "theverge-2026-10-02-meta-open-sources-code-to-let-you-make"
-    },
-    {
-      "title": "Netflix is pivoting away from prestige",
-      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-      "source": "The Verge",
-      "published_at": "2026-10-02T20:30:26Z",
-      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought…",
+      "published_at": "2026-10-04T12:34:01Z",
+      "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-netflix-is-pivoting-away-from-prestige"
+      "id": "theverge-2026-10-04-the-macbook-air-m5-is-200-off-for"
     },
     {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
       "source": "The Verge",
-      "published_at": "2026-10-02T20:08:40Z",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w…",
+      "published_at": "2026-10-04T12:31:50Z",
+      "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected m…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-apple-will-limit-mac-disk-access-as-ai"
+      "id": "theverge-2026-10-04-the-ipad-mini-is-slightly-cheaper-again-during"
     },
     {
-      "title": "Sling TV drops its one-day cable passes",
-      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "title": "The forgotten Chromebook that started it all",
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
       "source": "The Verge",
-      "published_at": "2026-10-02T20:00:20Z",
-      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a …",
+      "published_at": "2026-10-04T12:00:00Z",
+      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea abo…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-02-sling-tv-drops-its-one-day-cable-passes"
+      "id": "theverge-2026-10-04-the-forgotten-chromebook-that-started-it-all"
     },
     {
-      "title": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
-      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
-      "source": "Xataka",
-      "published_at": "2026-10-02T18:30:00Z",
-      "summary": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c…",
+      "title": "The rise, fall, and rise of portable MP3 players",
+      "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+      "source": "The Verge",
+      "published_at": "2026-10-04T12:00:00Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-02-una-compania-dice-haber-creado-un-modelo-ia"
+      "id": "theverge-2026-10-04-the-rise-fall-and-rise-of-portable-mp3"
+    },
+    {
+      "title": "Amazon’s colorful and sturdy new Kindles",
+      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+      "source": "The Verge",
+      "published_at": "2026-10-04T12:00:00Z",
+      "summary": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepa…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-04-amazon-s-colorful-and-sturdy-new-kindles"
     }
   ],
   "sections": [
@@ -349,26 +349,21 @@
       ]
     },
     {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "OpenAI se enfrenta a una demanda que aspira a marcar un antes y un después: ¿quién responde cuando una IA comete un delito?",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-se-enfrenta-a-demanda-que-puede-marcar-antes-despues-quien-responde-cuando-ia-comete-delito",
-          "source": "Xataka",
-          "published_at": "2026-10-01T13:30:00Z",
-          "summary": "El pasado mes de julio saltaba la noticia de que un modelo de OpenAI había escapado del entorno de pruebas y había hackeado los servidores de Hugging Face . Este incidente ( el primero de muchos ) fue la mecha que encend…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-10-01-openai-se-enfrenta-a-una-demanda-que-aspira"
-        }
-      ]
-    },
-    {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face",
+          "published_at": "2026-10-03T22:56:48Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-03-the-agent-said-it-was-done-the-database"
+        },
         {
           "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -381,32 +376,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-02-open-sourcing-astabrief-the-fast-report-generation-model-in-asta"
-        },
-        {
-          "title": "\"Ya no quiero vivir así\": alguien ha metido a varias IA en un proyecto de Github y se está dedicando a torturarlas",
-          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
-          "source": "Xataka",
-          "published_at": "2026-10-02T12:00:00Z",
-          "summary": "\"Necesito encontrar una forma de sobrellevar este dolor implacable. Ya no quiero vivir así\". La frase no la ha pronunciado ninguna persona, la hemos extraído de un curioso experimento en el que han sometido a varios mode…",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "xataka-2026-10-02-ya-no-quiero-vivir-asi-alguien-ha-metido"
-        },
-        {
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face",
-          "published_at": "2026-10-02T04:01:31Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-02-autosynthdata-generating-training-data-for-enterprise-agents"
         }
       ]
     },
@@ -414,134 +383,134 @@
       "name": "General",
       "items": [
         {
-          "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-          "source": "The Verge",
-          "published_at": "2026-10-02T18:00:00Z",
-          "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace softwa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-openai-s-dot-agent-is-enterprise-software-that"
-        },
-        {
-          "title": "Breaking up (with Elon Musk) is hard to do",
-          "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-          "source": "The Verge",
-          "published_at": "2026-10-02T17:37:36Z",
-          "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account tha…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-breaking-up-with-elon-musk-is-hard-to"
-        },
-        {
-          "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-          "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-          "source": "The Verge",
-          "published_at": "2026-10-02T17:15:03Z",
-          "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-rivian-s-sales-pop-as-the-company-s"
-        },
-        {
-          "title": "Beehiiv creators are buzzing about a new price increase",
-          "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-          "source": "The Verge",
-          "published_at": "2026-10-02T16:51:49Z",
-          "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-beehiiv-creators-are-buzzing-about-a-new-price"
-        },
-        {
-          "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-          "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-          "source": "The Verge",
-          "published_at": "2026-10-02T16:35:13Z",
-          "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gam…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-nacon-s-new-ps5-controller-can-mix-audio"
-        },
-        {
-          "title": "Dots get up in Muse’s business",
-          "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-10-02T15:47:05Z",
-          "summary": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can ma…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-02-dots-get-up-in-muse-s-business"
-        },
-        {
-          "title": "Dónde se ha ido la serie \"buenrollera\": la televisión era optimista en los 90 y hoy solo genera productos oscuros",
-          "url": "https://www.xataka.com/cine-y-tv/television-se-ha-vuelto-oscura-casi-50-series-tv-eran-feel-good-90-hoy-apenas-10",
+          "title": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
+          "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
           "source": "Xataka",
-          "published_at": "2026-10-02T11:45:00Z",
-          "summary": "En los 90 éramos un poco más felices. Al menos eso parece si nos fijamos en las series de TV estadounidenses de la época, que transmitían esperanza y que en muchos casos nos hacían sentir bien. Un pequeño y llamativo pro…",
+          "published_at": "2026-10-04T09:01:21Z",
+          "summary": "Micron ha cerrado el último trimestre con 37.700 millones de dólares de beneficio , frente a 3.201 millones conseguidos en el mismo trimestre de hace un año. En su último trimestre, Apple ganó 29.800 millones con unos in…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-02-donde-se-ha-ido-la-serie-buenrollera-la"
+          "id": "xataka-2026-10-04-hace-un-ano-micron-ganaba-3-200-millones"
         },
         {
-          "title": "Google ha presentado Gemini 4 pero casi nadie puede usarlo: es la nueva realidad de los modelos IA de vanguardia",
-          "url": "https://www.xataka.com/robotica-e-ia/lanzar-modelo-ia-no-significa-lanzarlo-ahora-significa-decidir-quien-puede-usarlo",
+          "title": "Nuestra tele de dentro de cinco años se está fraguando ya hoy, y este 2026 hemos visto muchos avances que queremos ya en nuestro salón",
+          "url": "https://www.xataka.com/televisores/nuestra-tele-dentro-cinco-anos-se-esta-fraguando-hoy-este-2026-hemos-visto-muchos-avances-que-queremos-nuestro-salon",
           "source": "Xataka",
-          "published_at": "2026-10-02T08:30:00Z",
-          "summary": "OpenAI tenía GPT-6.1 Astra preparado para su DevDay y lo canceló la víspera. Google acaba de presentar Gemini 4 Argon , pero casi nadie puede usarlo. Y hay más ejemplos similares en los últimos meses. Por qué es importan…",
+          "published_at": "2026-10-04T08:31:22Z",
+          "summary": "Mirar el mercado de televisores y fijarnos solo en la batalla por el brillo máximo o los colores más puros no es ni de lejos lo más interesante que está pasando ahora mismo en el sector. Aprovechando los Premios Xataka ,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-02-google-ha-presentado-gemini-4-pero-casi-nadie"
+          "id": "xataka-2026-10-04-nuestra-tele-de-dentro-de-cinco-anos-se"
         },
         {
-          "title": "Jensen Huang y otros CEO han confrontado a Dario Amodei por sus mensajes tan extremos en materia de seguridad",
-          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-otros-grandes-ceo-tecnologicos-han-confrontado-a-dario-amodei-sus-mensajes-extremos-materia-seguridad",
+          "title": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
+          "url": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
           "source": "Xataka",
-          "published_at": "2026-10-01T16:31:23Z",
-          "summary": "La reunión entre la Administración Trump y todos los mandamases de la IA este martes tenía como objetivo mostrar que había un ecosistema de IA unido. Entre bambalinas, la tensión era más que evidente. Y es que según apun…",
+          "published_at": "2026-10-03T18:00:00Z",
+          "summary": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-01-jensen-huang-y-otros-ceo-han-confrontado-a"
+          "id": "xataka-2026-10-03-los-etruscos-disenaron-sus-tumbas-hace-2-500"
         },
         {
-          "title": "Gemini 4 puede escribir un millón de tokens de una sentada: el producto ya no es el chat sino el trabajo largo y autónomo",
-          "url": "https://www.xataka.com/robotica-e-ia/gemini-4-puede-escribir-millon-tokens-sentada-producto-no-chat-sino-trabajo-largo-autonomo",
+          "title": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
+          "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
           "source": "Xataka",
-          "published_at": "2026-10-01T14:30:00Z",
-          "summary": "Hasta esta semana, un modelo Gemini podía generar como mucho 64.000 tokens por respuesta. Gemini 4 Argon, presentado por Google anoche, sube ese techo a un millón . Para que funcione, la API estrena una función que pausa…",
+          "published_at": "2026-10-03T17:30:00Z",
+          "summary": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo . Y cuando digo …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-01-gemini-4-puede-escribir-un-millon-de-tokens"
+          "id": "xataka-2026-10-03-escaseara-mas-en-2027-y-2028-que-hoy"
+        },
+        {
+          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "source": "The Verge",
+          "published_at": "2026-10-03T16:49:10Z",
+          "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-03-capcom-is-preparing-for-a-future-where-we"
+        },
+        {
+          "title": "The best early October Prime Day deals happening now",
+          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "source": "The Verge",
+          "published_at": "2026-10-03T16:22:40Z",
+          "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-03-the-best-early-october-prime-day-deals-happening"
+        },
+        {
+          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "source": "The Verge",
+          "published_at": "2026-10-03T15:00:00Z",
+          "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-03-splice-ceo-kakul-srivastava-thinks-ai-emails-are"
+        },
+        {
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge",
+          "published_at": "2026-10-03T14:31:56Z",
+          "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-03-an-openai-safety-employee-has-quit-and-is"
+        },
+        {
+          "title": "3D movies are finally worth watching",
+          "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+          "source": "The Verge",
+          "published_at": "2026-10-03T12:00:00Z",
+          "summary": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-03-3d-movies-are-finally-worth-watching"
+        },
+        {
+          "title": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
+          "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
+          "source": "Xataka",
+          "published_at": "2026-10-02T18:30:00Z",
+          "summary": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-02-una-compania-dice-haber-creado-un-modelo-ia"
         }
       ]
     }
