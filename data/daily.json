@@ -1,78 +1,91 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T12:36:13.323478Z",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T15:02:42.825206Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+      "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
       "source": "The Verge",
-      "published_at": "2026-10-04T12:34:01Z",
-      "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable …",
+      "published_at": "2026-10-05T14:42:34Z",
+      "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined com…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-04-the-macbook-air-m5-is-200-off-for"
+      "id": "theverge-2026-10-05-cnn-8217-s-boss-will-remain-as-paramount"
     },
     {
-      "title": "The iPad Mini is slightly cheaper again during Prime Day",
-      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
       "source": "The Verge",
-      "published_at": "2026-10-04T12:31:50Z",
-      "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected m…",
+      "published_at": "2026-10-05T14:30:00Z",
+      "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all the…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-04-the-ipad-mini-is-slightly-cheaper-again-during"
+      "id": "theverge-2026-10-05-sen-adam-schiff-on-ai-regulation-free-speech"
     },
     {
-      "title": "The forgotten Chromebook that started it all",
-      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "title": "The best early October Prime Day deals happening now",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "source": "The Verge",
-      "published_at": "2026-10-04T12:00:00Z",
-      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea abo…",
+      "published_at": "2026-10-05T14:10:19Z",
+      "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime D…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-04-the-forgotten-chromebook-that-started-it-all"
+      "id": "theverge-2026-10-05-the-best-early-october-prime-day-deals-happening"
     },
     {
-      "title": "The rise, fall, and rise of portable MP3 players",
-      "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
       "source": "The Verge",
-      "published_at": "2026-10-04T12:00:00Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in …",
+      "published_at": "2026-10-05T13:47:14Z",
+      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-04-the-rise-fall-and-rise-of-portable-mp3"
+      "id": "theverge-2026-10-05-an-open-source-tool-lets-you-delete-12gb-of"
     },
     {
-      "title": "Amazon’s colorful and sturdy new Kindles",
-      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "source": "The Verge",
-      "published_at": "2026-10-04T12:00:00Z",
-      "summary": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepa…",
+      "published_at": "2026-10-05T13:09:48Z",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with Chat…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-04-amazon-s-colorful-and-sturdy-new-kindles"
+      "id": "theverge-2026-10-05-openai-is-sticking-more-ads-in-chatgpt"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI",
+          "published_at": "2026-10-05T10:00:00Z",
+          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-05-building-advertising-for-the-way-people-use-ai"
+        },
         {
           "title": "A model guide for the GPT-6 family",
           "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -306,45 +319,37 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
         {
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T07:00:00Z",
-          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+          "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+          "source": "The Verge",
+          "published_at": "2026-10-05T12:02:41Z",
+          "summary": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-the-lenfest-institute-grows-landmark-program-with-expanded"
+          "category": "investigación",
+          "id": "theverge-2026-10-05-tcl-s-paperlike-oled-phone-made-me-more"
         },
         {
-          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-          "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
+          "url": "https://spectrum.ieee.org/millennium-prize-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-05T12:00:02Z",
+          "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst. …",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-basis-completes-a-tax-workbook-2x-faster-with"
-        },
-        {
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-are-you-a-codex-original"
+          "category": "investigación",
+          "id": "ieee-2026-10-05-ai-solves-a-major-unsolved-math-problem-not"
         }
       ]
     },
@@ -363,25 +368,90 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-03-the-agent-said-it-was-done-the-database"
-        },
-        {
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face",
-          "published_at": "2026-10-02T15:19:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-02-open-sourcing-astabrief-the-fast-report-generation-model-in-asta"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "Un patrón emerge en EEUU: el número de empleados en la industria de las artes se está desplomando sospechosamente desde 2022",
+          "url": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
+          "source": "Xataka",
+          "published_at": "2026-10-05T12:31:22Z",
+          "summary": "En 2000, Metallica descubrió que el nuevo single que había grabado para la banda sonora de Misión imposible \" I disappear \" circulaba por Napster antes de salir a la venta. La banda fue a juicio y la plataforma finalment…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-05-un-patron-emerge-en-eeuu-el-numero-de"
+        },
+        {
+          "title": "Google admits not every Android app runs great on Intel Googlebooks",
+          "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+          "source": "The Verge",
+          "published_at": "2026-10-05T10:58:22Z",
+          "summary": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks g…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-05-google-admits-not-every-android-app-runs-great"
+        },
+        {
+          "title": "Our minds aren’t equipped to handle AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+          "source": "The Verge",
+          "published_at": "2026-10-05T10:00:00Z",
+          "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-05-our-minds-aren-t-equipped-to-handle-ai"
+        },
+        {
+          "title": "The new Fitbit Edge leaks",
+          "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+          "source": "The Verge",
+          "published_at": "2026-10-04T21:02:09Z",
+          "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Goog…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-04-the-new-fitbit-edge-leaks"
+        },
+        {
+          "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+          "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+          "source": "The Verge",
+          "published_at": "2026-10-04T20:00:00Z",
+          "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-04-prick-s-theatrical-industrial-punk-is-perfect-for"
+        },
+        {
+          "title": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
+          "url": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
+          "source": "Xataka",
+          "published_at": "2026-10-04T14:30:00Z",
+          "summary": "Entras a un McDonald's, vas a pedir un Big Mac y te encuentras que vale 6,90 euros. Te vas a otro restaurante de la franquicia y descubres que allí vale 8 euros. Parece imposible, pero es cierto y de hecho ya está pasand…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-04-tu-big-mac-ya-no-vale-lo-mismo"
+        },
         {
           "title": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
           "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
@@ -433,84 +503,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-03-escaseara-mas-en-2027-y-2028-que-hoy"
-        },
-        {
-          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-          "source": "The Verge",
-          "published_at": "2026-10-03T16:49:10Z",
-          "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-03-capcom-is-preparing-for-a-future-where-we"
-        },
-        {
-          "title": "The best early October Prime Day deals happening now",
-          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-          "source": "The Verge",
-          "published_at": "2026-10-03T16:22:40Z",
-          "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-03-the-best-early-october-prime-day-deals-happening"
-        },
-        {
-          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-          "source": "The Verge",
-          "published_at": "2026-10-03T15:00:00Z",
-          "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-03-splice-ceo-kakul-srivastava-thinks-ai-emails-are"
-        },
-        {
-          "title": "An OpenAI safety employee has quit and is sounding the alarm",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-          "source": "The Verge",
-          "published_at": "2026-10-03T14:31:56Z",
-          "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-03-an-openai-safety-employee-has-quit-and-is"
-        },
-        {
-          "title": "3D movies are finally worth watching",
-          "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-          "source": "The Verge",
-          "published_at": "2026-10-03T12:00:00Z",
-          "summary": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wo…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-03-3d-movies-are-finally-worth-watching"
-        },
-        {
-          "title": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
-          "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
-          "source": "Xataka",
-          "published_at": "2026-10-02T18:30:00Z",
-          "summary": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-02-una-compania-dice-haber-creado-un-modelo-ia"
         }
       ]
     }
@@ -547,6 +539,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI",
+          "published_at": "2026-10-05T10:00:00Z",
+          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-05-building-advertising-for-the-way-people-use-ai"
+        },
         {
           "title": "A model guide for the GPT-6 family",
           "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -702,45 +707,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
-        },
-        {
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T07:00:00Z",
-          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-the-lenfest-institute-grows-landmark-program-with-expanded"
-        },
-        {
-          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-          "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-basis-completes-a-tax-workbook-2x-faster-with"
-        },
-        {
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-are-you-a-codex-original"
         }
       ]
     },
