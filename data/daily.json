@@ -1,78 +1,91 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T15:02:42.825206Z",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T13:27:45.720403Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-      "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+      "title": "The best October Prime Day tech deals we found",
+      "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
       "source": "The Verge",
-      "published_at": "2026-10-05T14:42:34Z",
-      "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined com…",
+      "published_at": "2026-10-06T13:27:40Z",
+      "summary": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personall…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-05-cnn-8217-s-boss-will-remain-as-paramount"
+      "id": "theverge-2026-10-06-the-best-october-prime-day-tech-deals-we"
     },
     {
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "title": "Amazon reportedly pays $120 million to stream the Emmys for free",
+      "url": "https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal",
       "source": "The Verge",
-      "published_at": "2026-10-05T14:30:00Z",
-      "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all the…",
+      "published_at": "2026-10-06T13:26:52Z",
+      "summary": "The Emmys have a new home - and it looks like Amazon paid plenty for the rights. The awards show and Amazon announced a six-year deal that will move the Emmys from its traditional broadcast television home to Prime Video…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-05-sen-adam-schiff-on-ai-regulation-free-speech"
+      "id": "theverge-2026-10-06-amazon-reportedly-pays-120-million-to-stream-the"
     },
     {
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
       "source": "The Verge",
-      "published_at": "2026-10-05T14:10:19Z",
-      "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime D…",
+      "published_at": "2026-10-06T13:19:01Z",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-05-the-best-early-october-prime-day-deals-happening"
+      "id": "theverge-2026-10-06-google-is-about-to-remove-free-access-to"
     },
     {
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "title": "I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won&#8217;t update his MacBook",
+      "url": "https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls",
       "source": "The Verge",
-      "published_at": "2026-10-05T13:47:14Z",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int…",
+      "published_at": "2026-10-06T13:15:28Z",
+      "summary": "After suffering years of frustration with Apple's parental control features, I've been eagerly anticipating the revamped Screen Time that launched last month with iOS 27. Unfortunately, I can't use it. Technically, this …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-05-an-open-source-tool-lets-you-delete-12gb-of"
+      "id": "theverge-2026-10-06-i-can-t-use-apple-s-new-screen"
     },
     {
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "title": "The wireless headphones that roll up into a Bluetooth speaker are now available",
+      "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
       "source": "The Verge",
-      "published_at": "2026-10-05T13:09:48Z",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with Chat…",
+      "published_at": "2026-10-06T13:00:00Z",
+      "summary": "Following their debut at CES 2026 and a successful Kickstarter crowdfunding campaign last February, Tomorrow Doesn't Matter's (TDM) Neo headphones are now available in the US. While Sony recently opted to reintroduce a h…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-05-openai-is-sticking-more-ads-in-chatgpt"
+      "id": "theverge-2026-10-06-the-wireless-headphones-that-roll-up-into-a"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI",
+          "published_at": "2026-10-05T15:00:00Z",
+          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-05-our-approach-to-eu-text-provenance-rules"
+        },
         {
           "title": "Building advertising for the way people use AI",
           "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
@@ -241,84 +254,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
-        },
-        {
-          "title": "DevDay 2026 Recap",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-devday-2026-recap"
-        },
-        {
-          "title": "Introducing GPT-6.1 Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
-        },
-        {
-          "title": "Introducing dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-dots"
-        },
-        {
-          "title": "How we will do better for Australia",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
-        },
-        {
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
-        },
-        {
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-          "source": "Google AI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
         }
       ]
     },
@@ -326,17 +261,30 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
-          "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
-          "source": "The Verge",
-          "published_at": "2026-10-05T12:02:41Z",
-          "summary": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, …",
+          "title": "6 Guidelines for Governing AI",
+          "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-05T18:00:02Z",
+          "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers …",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "theverge-2026-10-05-tcl-s-paperlike-oled-phone-made-me-more"
+          "id": "ieee-2026-10-05-6-guidelines-for-governing-ai"
+        },
+        {
+          "title": "Attempts to Keep Humans in the AI Loop May Actually Push Them Out",
+          "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-05T15:57:11Z",
+          "summary": "A crucial safeguard against AI agents going rogue —keeping humans in the loop to review and approve their decisions—will fail unless designers and users change their current practices, a trio of leading AI ethics researc…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-10-05-attempts-to-keep-humans-in-the-ai-loop"
         },
         {
           "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
@@ -357,17 +305,17 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
           "source": "Hugging Face",
-          "published_at": "2026-10-03T22:56:48Z",
+          "published_at": "2026-10-06T06:44:39Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-10-03-the-agent-said-it-was-done-the-database"
+          "id": "huggingface-2026-10-06-falcon-emirati-when-an-llm-learns-the-dialect-the"
         }
       ]
     },
@@ -375,69 +323,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Un patrón emerge en EEUU: el número de empleados en la industria de las artes se está desplomando sospechosamente desde 2022",
+          "title": "The easiest Apple Watch to recommend is $50 off",
+          "url": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-10-06T12:30:00Z",
+          "summary": "The Apple Watch SE 3 is the smartwatch that we recommend for most people because it’s affordable, yet packed with most of the features found in pricier versions. We spotted Amazon October Prime Day discounts across the l…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-06-the-easiest-apple-watch-to-recommend-is-50"
+        },
+        {
+          "title": "The planetary wave headed for California isn’t what you think it is",
+          "url": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+          "source": "The Verge",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-06-the-planetary-wave-headed-for-california-isn-t"
+        },
+        {
+          "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
+          "url": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-10-06T11:30:00Z",
+          "summary": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-06-the-pixel-11-pro-and-pro-xl-phones"
+        },
+        {
+          "title": "The Verge&#8217;s guide to the best October Prime Day deals",
+          "url": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
+          "source": "The Verge",
+          "published_at": "2026-10-06T11:01:52Z",
+          "summary": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-06-the-verge-8217-s-guide-to-the-best"
+        },
+        {
+          "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+          "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+          "source": "The Verge",
+          "published_at": "2026-10-06T10:53:11Z",
+          "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-06-amazon-alexa-plus-keeps-creepily-singing-lalala-for"
+        },
+        {
+          "title": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
+          "url": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-se-canso-perder-starcraft-que-hizo-para-ganar-tsorprendio-organizadores-torneo",
+          "source": "Xataka",
+          "published_at": "2026-10-06T05:00:00Z",
+          "summary": "Llevamos años poniendo a modelos de IA a jugar a videojuegos para medir sus capacidades y en eso precisamente consiste StarSkirmish , un torneo creado por aficionados a ' StarCraft: Brood War ' en el que se enfrentan var…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-06-gpt-6-astra-se-canso-de-perder-ante-humanos"
+        },
+        {
+          "title": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
+          "url": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
+          "source": "Xataka",
+          "published_at": "2026-10-05T21:52:00Z",
+          "summary": "Elon Musk puede permitirse vivir prácticamente en cualquier lugar del mundo. Su fortuna hace que elegir una casa, un hotel o incluso una ciudad difícilmente dependa del dinero, así que cuando decide dónde instalarse conv…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-05-elon-musk-podria-vivir-donde-quisiera-pero-eligio"
+        },
+        {
+          "title": "Mientras China acelera a toda velocidad, EEUU vive otra realidad: solo un 2% de las familias pagan por la IA",
+          "url": "https://www.xataka.com/empresas-y-economia/china-acelera-a-toda-velocidad-cifras-uso-ia-a-pie-calle-eeuu-bastante-discretas-solo-2-paga-ella",
+          "source": "Xataka",
+          "published_at": "2026-10-05T15:00:00Z",
+          "summary": "La industria de la inteligencia artificial se encuentra en un momento incómodo. Anthropic y OpenAI llevan meses avisando de sus intenciones de convertirse en empresas públicas , pero el año toca a su fin y no vemos movim…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-05-mientras-china-acelera-a-toda-velocidad-eeuu-vive"
+        },
+        {
+          "title": "Los datos de EEUU apuntan en una dirección: \"algo\" ha destruido más de 200.000 empleos creativos desde 2022",
           "url": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
           "source": "Xataka",
-          "published_at": "2026-10-05T12:31:22Z",
+          "published_at": "2026-10-05T12:30:00Z",
           "summary": "En 2000, Metallica descubrió que el nuevo single que había grabado para la banda sonora de Misión imposible \" I disappear \" circulaba por Napster antes de salir a la venta. La banda fue a juicio y la plataforma finalment…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-05-un-patron-emerge-en-eeuu-el-numero-de"
-        },
-        {
-          "title": "Google admits not every Android app runs great on Intel Googlebooks",
-          "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
-          "source": "The Verge",
-          "published_at": "2026-10-05T10:58:22Z",
-          "summary": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks g…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-05-google-admits-not-every-android-app-runs-great"
-        },
-        {
-          "title": "Our minds aren’t equipped to handle AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-          "source": "The Verge",
-          "published_at": "2026-10-05T10:00:00Z",
-          "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-05-our-minds-aren-t-equipped-to-handle-ai"
-        },
-        {
-          "title": "The new Fitbit Edge leaks",
-          "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-          "source": "The Verge",
-          "published_at": "2026-10-04T21:02:09Z",
-          "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Goog…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-04-the-new-fitbit-edge-leaks"
-        },
-        {
-          "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-          "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-          "source": "The Verge",
-          "published_at": "2026-10-04T20:00:00Z",
-          "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-04-prick-s-theatrical-industrial-punk-is-perfect-for"
+          "id": "xataka-2026-10-05-los-datos-de-eeuu-apuntan-en-una-direccion"
         },
         {
           "title": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
@@ -451,58 +451,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-04-tu-big-mac-ya-no-vale-lo-mismo"
-        },
-        {
-          "title": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
-          "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
-          "source": "Xataka",
-          "published_at": "2026-10-04T09:01:21Z",
-          "summary": "Micron ha cerrado el último trimestre con 37.700 millones de dólares de beneficio , frente a 3.201 millones conseguidos en el mismo trimestre de hace un año. En su último trimestre, Apple ganó 29.800 millones con unos in…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-04-hace-un-ano-micron-ganaba-3-200-millones"
-        },
-        {
-          "title": "Nuestra tele de dentro de cinco años se está fraguando ya hoy, y este 2026 hemos visto muchos avances que queremos ya en nuestro salón",
-          "url": "https://www.xataka.com/televisores/nuestra-tele-dentro-cinco-anos-se-esta-fraguando-hoy-este-2026-hemos-visto-muchos-avances-que-queremos-nuestro-salon",
-          "source": "Xataka",
-          "published_at": "2026-10-04T08:31:22Z",
-          "summary": "Mirar el mercado de televisores y fijarnos solo en la batalla por el brillo máximo o los colores más puros no es ni de lejos lo más interesante que está pasando ahora mismo en el sector. Aprovechando los Premios Xataka ,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-04-nuestra-tele-de-dentro-de-cinco-anos-se"
-        },
-        {
-          "title": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
-          "url": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-          "source": "Xataka",
-          "published_at": "2026-10-03T18:00:00Z",
-          "summary": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-03-los-etruscos-disenaron-sus-tumbas-hace-2-500"
-        },
-        {
-          "title": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
-          "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-          "source": "Xataka",
-          "published_at": "2026-10-03T17:30:00Z",
-          "summary": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo . Y cuando digo …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-03-escaseara-mas-en-2027-y-2028-que-hoy"
         }
       ]
     }
@@ -539,6 +487,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI",
+          "published_at": "2026-10-05T15:00:00Z",
+          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-05-our-approach-to-eu-text-provenance-rules"
+        },
         {
           "title": "Building advertising for the way people use AI",
           "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
@@ -642,71 +603,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
-        },
-        {
-          "title": "DevDay 2026 Recap",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-devday-2026-recap"
-        },
-        {
-          "title": "Introducing GPT-6.1 Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T10:00:00Z",
-          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-gpt-6-1-sol"
-        },
-        {
-          "title": "Introducing dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-29-introducing-dots"
-        },
-        {
-          "title": "How we will do better for Australia",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-how-we-will-do-better-for-australia"
-        },
-        {
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-28-towards-safety-cases-for-frontier-ai-training"
         }
       ]
     },
@@ -758,19 +654,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-10-02-the-latest-ai-news-we-announced-in-september"
-        },
-        {
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-          "source": "Google AI",
-          "published_at": "2026-09-28T19:00:00Z",
-          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-09-28-watch-the-winning-trailer-from-the-future-vision"
         }
       ]
     },
