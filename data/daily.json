@@ -1,78 +1,169 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T13:27:45.720403Z",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T13:39:15.609731Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The best October Prime Day tech deals we found",
-      "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
-      "source": "The Verge",
-      "published_at": "2026-10-06T13:27:40Z",
-      "summary": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personall…",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face",
+      "published_at": "2026-10-07T13:21:03Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-10-06-the-best-october-prime-day-tech-deals-we"
+      "category": "herramientas",
+      "id": "huggingface-2026-10-07-introducing-falcon-asr"
     },
     {
-      "title": "Amazon reportedly pays $120 million to stream the Emmys for free",
-      "url": "https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal",
+      "title": "Windows and Surface event: how to watch and what to expect",
+      "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
       "source": "The Verge",
-      "published_at": "2026-10-06T13:26:52Z",
-      "summary": "The Emmys have a new home - and it looks like Amazon paid plenty for the rights. The awards show and Amazon announced a six-year deal that will move the Emmys from its traditional broadcast television home to Prime Video…",
+      "published_at": "2026-10-07T13:12:56Z",
+      "summary": "Microsoft is heading to San Francisco this morning to reveal what's coming next for Windows and Surface and a \"conversation on how local AI will shape the next chapter of the PC.\" That conversation will include Microsoft…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-06-amazon-reportedly-pays-120-million-to-stream-the"
+      "id": "theverge-2026-10-07-windows-and-surface-event-how-to-watch-and"
     },
     {
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "title": "The Social Reckoning is a tepid thriller that reminds us of how we got here",
+      "url": "https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen",
       "source": "The Verge",
-      "published_at": "2026-10-06T13:19:01Z",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google…",
+      "published_at": "2026-10-07T13:00:00Z",
+      "summary": "When David Fincher's The Social Network premiered in 2010, many people still thought of Mark Zuckerberg as a genius who had revolutionized the world by creating Facebook. Writer Aaron Sorkin's script was critical of Zuck…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-06-google-is-about-to-remove-free-access-to"
+      "id": "theverge-2026-10-07-the-social-reckoning-is-a-tepid-thriller-that"
     },
     {
-      "title": "I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won&#8217;t update his MacBook",
-      "url": "https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls",
-      "source": "The Verge",
-      "published_at": "2026-10-06T13:15:28Z",
-      "summary": "After suffering years of frustration with Apple's parental control features, I've been eagerly anticipating the revamped Screen Time that launched last month with iOS 27. Unfortunately, I can't use it. Technically, this …",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "published_at": "2026-10-07T12:45:31Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-10-06-i-can-t-use-apple-s-new-screen"
+      "category": "herramientas",
+      "id": "huggingface-2026-10-07-one-model-family-two-gold-level-results-fine-tuning-nemotron"
     },
     {
-      "title": "The wireless headphones that roll up into a Bluetooth speaker are now available",
-      "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
-      "source": "The Verge",
-      "published_at": "2026-10-06T13:00:00Z",
-      "summary": "Following their debut at CES 2026 and a successful Kickstarter crowdfunding campaign last February, Tomorrow Doesn't Matter's (TDM) Neo headphones are now available in the US. While Sony recently opted to reintroduce a h…",
+      "title": "Wall Street ha descubierto que implantar IA no va de despedir empleados sino de contratar a los correctos",
+      "url": "https://www.xataka.com/robotica-e-ia/wall-street-ha-descubierto-que-implantar-ia-no-consiste-despedir-empleados-sino-contratar-a-correctos",
+      "source": "Xataka",
+      "published_at": "2026-10-07T12:15:00Z",
+      "summary": "En Wall Street llevan meses afinando el discurso de la eficiencia para hacer más con menos . En esa liza entra en juego la inteligencia artificial que, en teoría, les iba a permitir reducir el número de analistas , gener…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-06-the-wireless-headphones-that-roll-up-into-a"
+      "id": "xataka-2026-10-07-wall-street-ha-descubierto-que-implantar-ia-no"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "source": "Google AI",
+          "published_at": "2026-10-07T12:00:00Z",
+          "summary": "Overview of Playground",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-07-introducing-playground-create-and-play-custom-games"
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "source": "DeepMind",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-06-embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+        },
+        {
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T16:00:00Z",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise"
+        },
+        {
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-how-jump-trading-is-scaling-quant-research-with"
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-sharing-ai-progress-in-mathematics"
+        },
+        {
+          "title": "Advancing computer use with Ironclad",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T10:00:00Z",
+          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-advancing-computer-use-with-ironclad"
+        },
+        {
+          "title": "Expanding the Cyber Verification Program",
+          "url": "https://www.anthropic.com/news/cyber-verification-program",
+          "source": "Anthropic",
+          "published_at": "2026-10-06T00:00:00Z",
+          "summary": "Expanding the Cyber Verification Program",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
+        },
         {
           "title": "Our approach to EU text provenance rules",
           "url": "https://openai.com/index/eu-text-provenance",
@@ -228,32 +319,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-09-30-introducing-synthid-bio"
-        },
-        {
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI",
-          "published_at": "2026-09-30T10:30:00Z",
-          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-30-disrupting-a-coordinated-model-distillation-campaign"
-        },
-        {
-          "title": "Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI",
-          "published_at": "2026-09-30T10:00:00Z",
-          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
         }
       ]
     },
@@ -285,37 +350,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-10-05-attempts-to-keep-humans-in-the-ai-loop"
-        },
-        {
-          "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
-          "url": "https://spectrum.ieee.org/millennium-prize-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-05T12:00:02Z",
-          "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst. …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-05-ai-solves-a-major-unsolved-math-problem-not"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face",
-          "published_at": "2026-10-06T06:44:39Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-06-falcon-emirati-when-an-llm-learns-the-dialect-the"
         }
       ]
     },
@@ -323,69 +357,173 @@
       "name": "General",
       "items": [
         {
-          "title": "The easiest Apple Watch to recommend is $50 off",
-          "url": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+          "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+          "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
           "source": "The Verge",
-          "published_at": "2026-10-06T12:30:00Z",
-          "summary": "The Apple Watch SE 3 is the smartwatch that we recommend for most people because it’s affordable, yet packed with most of the features found in pricier versions. We spotted Amazon October Prime Day discounts across the l…",
+          "published_at": "2026-10-07T12:01:22Z",
+          "summary": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-po…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-06-the-easiest-apple-watch-to-recommend-is-50"
+          "id": "theverge-2026-10-07-google-8217-s-pixel-buds-update-will-put"
         },
         {
-          "title": "The planetary wave headed for California isn’t what you think it is",
-          "url": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+          "title": "AI could upend food delivery",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
           "source": "The Verge",
-          "published_at": "2026-10-06T12:00:00Z",
-          "summary": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's w…",
+          "published_at": "2026-10-07T12:00:00Z",
+          "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 30…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-06-the-planetary-wave-headed-for-california-isn-t"
+          "id": "theverge-2026-10-07-ai-could-upend-food-delivery"
         },
         {
-          "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
-          "url": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+          "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+          "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
           "source": "The Verge",
-          "published_at": "2026-10-06T11:30:00Z",
-          "summary": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for th…",
+          "published_at": "2026-10-07T12:00:00Z",
+          "summary": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in p…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-06-the-pixel-11-pro-and-pro-xl-phones"
+          "id": "theverge-2026-10-07-at-1-279-google-s-xreal-aura-will"
         },
         {
-          "title": "The Verge&#8217;s guide to the best October Prime Day deals",
-          "url": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
+          "title": "Google now lets you make games with AI",
+          "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
           "source": "The Verge",
-          "published_at": "2026-10-06T11:01:52Z",
-          "summary": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way t…",
+          "published_at": "2026-10-07T12:00:00Z",
+          "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-06-the-verge-8217-s-guide-to-the-best"
+          "id": "theverge-2026-10-07-google-now-lets-you-make-games-with-ai"
         },
         {
-          "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-          "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+          "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+          "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
           "source": "The Verge",
-          "published_at": "2026-10-06T10:53:11Z",
-          "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users…",
+          "published_at": "2026-10-07T11:26:22Z",
+          "summary": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh disco…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-06-amazon-alexa-plus-keeps-creepily-singing-lalala-for"
+          "id": "theverge-2026-10-07-the-best-october-prime-day-deals-from-apple"
+        },
+        {
+          "title": "Samsung Wallet now unlocks some GM cars",
+          "url": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars",
+          "source": "The Verge",
+          "published_at": "2026-10-07T11:25:33Z",
+          "summary": "Users of some Samsung devices in the US and Canada can now lock, unlock, and start select GM vehicles using a digital key stored in their Samsung Wallet. Support will start on select 2026 and 2027 Cadillac EVs, including…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-07-samsung-wallet-now-unlocks-some-gm-cars"
+        },
+        {
+          "title": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
+          "source": "Xataka",
+          "published_at": "2026-10-07T11:00:40Z",
+          "summary": "Hace unos meses, OpenAI pareció poner un poco de orden. ChatGPT Work fusionó la experiencia de escritorio e integró Codex en la aplicación principal. Parecía el fin de la dispersión. Entonces llegó el DevDay de la semana…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-07-openai-todavia-no-sabe-que-forma-tendra-el"
+        },
+        {
+          "title": "Jaguar’s Type 01 EV looks just like its divisive concept car",
+          "url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+          "source": "The Verge",
+          "published_at": "2026-10-07T10:03:46Z",
+          "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-07-jaguar-s-type-01-ev-looks-just-like"
+        },
+        {
+          "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+          "source": "The Verge",
+          "published_at": "2026-10-07T09:00:00Z",
+          "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced i…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-07-chatgpt-for-teens-is-an-unacceptable-risk-says"
+        },
+        {
+          "title": "Haces un pedido en tu tienda de ropa favorita, abres ChatGPT y descubres cómo te queda sin probártela",
+          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-quiere-convertirse-tu-probador-virtual-subes-foto-te-ensena-como-te-queda-ropa",
+          "source": "Xataka",
+          "published_at": "2026-10-07T07:00:00Z",
+          "summary": "Una de las desventajas de comprar ropa online es que no nos la podemos probar. Los procesos de devolución se han simplificado mucho, pero hasta que la prenda no llega no podemos saber cómo nos va a quedar. ChatGPT quiere…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-07-haces-un-pedido-en-tu-tienda-de-ropa"
+        },
+        {
+          "title": "Un investigador se ha cansado de los textos escritos con IA y ha creado un detector que promete un 98% de acierto",
+          "url": "https://www.xataka.com/servicios/alguien-ha-entrenado-modelo-ia-para-detectar-textos-escritos-ia-dice-tener-98-precision-tarea",
+          "source": "Xataka",
+          "published_at": "2026-10-07T06:00:00Z",
+          "summary": "Que estamos rodeados por texto escrito por una IA ya no sorprende a nadie. Los que queremos leer a personas vamos todo el día con el hacha levantada buscando indicios para comprobar si estamos leyendo a un humano o a un …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-07-un-investigador-se-ha-cansado-de-los-textos"
+        },
+        {
+          "title": "Mistral da su mayor salto hasta ahora con un modelo de pesos abiertos tan potente como cualquiera de China",
+          "url": "https://www.xataka.com/robotica-e-ia/mistral-da-su-mayor-salto-ahora-modelo-europeo-que-quiere-plantar-cara-al-dominio-eeuu-china",
+          "source": "Xataka",
+          "published_at": "2026-10-06T16:07:00Z",
+          "summary": "Si hemos seguido de cerca la evolución de la inteligencia artificial, hay un patrón que se repite una y otra vez: los grandes movimientos suelen llegar desde Estados Unidos o China . Son los dos polos desde los que hemos…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-06-mistral-da-su-mayor-salto-hasta-ahora-con"
+        },
+        {
+          "title": "Apple está empezando a cortar el acceso a los agentes de IA por motivos de seguridad",
+          "url": "https://www.xataka.com/servicios/apple-esta-empezando-a-cortar-acceso-a-agentes-ia-motivos-seguridad",
+          "source": "Xataka",
+          "published_at": "2026-10-06T15:01:22Z",
+          "summary": "Septiembre y octubre están siendo movidos en lo que respecta a las inteligencias artificiales metiendo las narices donde no deberían. Este verano, uno de los modelos de OpenAI se coló en instituciones oficiales, llegando…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-06-apple-esta-empezando-a-cortar-el-acceso-a"
         },
         {
           "title": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
@@ -425,32 +563,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-05-mientras-china-acelera-a-toda-velocidad-eeuu-vive"
-        },
-        {
-          "title": "Los datos de EEUU apuntan en una dirección: \"algo\" ha destruido más de 200.000 empleos creativos desde 2022",
-          "url": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
-          "source": "Xataka",
-          "published_at": "2026-10-05T12:30:00Z",
-          "summary": "En 2000, Metallica descubrió que el nuevo single que había grabado para la banda sonora de Misión imposible \" I disappear \" circulaba por Napster antes de salir a la venta. La banda fue a juicio y la plataforma finalment…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-05-los-datos-de-eeuu-apuntan-en-una-direccion"
-        },
-        {
-          "title": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
-          "url": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
-          "source": "Xataka",
-          "published_at": "2026-10-04T14:30:00Z",
-          "summary": "Entras a un McDonald's, vas a pedir un Big Mac y te encuentras que vale 6,90 euros. Te vas a otro restaurante de la franquicia y descubres que allí vale 8 euros. Parece imposible, pero es cierto y de hecho ya está pasand…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-04-tu-big-mac-ya-no-vale-lo-mismo"
         }
       ]
     }
@@ -487,6 +599,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T16:00:00Z",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise"
+        },
+        {
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-how-jump-trading-is-scaling-quant-research-with"
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-sharing-ai-progress-in-mathematics"
+        },
+        {
+          "title": "Advancing computer use with Ironclad",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI",
+          "published_at": "2026-10-06T10:00:00Z",
+          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-06-advancing-computer-use-with-ironclad"
+        },
         {
           "title": "Our approach to EU text provenance rules",
           "url": "https://openai.com/index/eu-text-provenance",
@@ -577,32 +741,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-01-the-den-frees-up-10-15-hours-a-week"
-        },
-        {
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI",
-          "published_at": "2026-09-30T10:30:00Z",
-          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-30-disrupting-a-coordinated-model-distillation-campaign"
-        },
-        {
-          "title": "Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI",
-          "published_at": "2026-09-30T10:00:00Z",
-          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-09-30-helping-small-businesses-put-ai-to-work"
         }
       ]
     },
@@ -610,6 +748,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Expanding the Cyber Verification Program",
+          "url": "https://www.anthropic.com/news/cyber-verification-program",
+          "source": "Anthropic",
+          "published_at": "2026-10-06T00:00:00Z",
+          "summary": "Expanding the Cyber Verification Program",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
+        },
         {
           "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
           "url": "https://www.anthropic.com/news/claude-frontier-academy",
@@ -643,6 +794,19 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "source": "Google AI",
+          "published_at": "2026-10-07T12:00:00Z",
+          "summary": "Overview of Playground",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-07-introducing-playground-create-and-play-custom-games"
+        },
+        {
           "title": "The latest AI news we announced in September 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
           "source": "Google AI",
@@ -661,6 +825,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "source": "DeepMind",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-06-embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+        },
         {
           "title": "Gemini 4 Argon: our next era of frontier intelligence",
           "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
