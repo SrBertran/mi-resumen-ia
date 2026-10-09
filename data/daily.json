@@ -1,78 +1,182 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T13:46:51.505801Z",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T13:31:56.789233Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
-      "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
-      "source": "The Verge",
-      "published_at": "2026-10-08T13:22:35Z",
-      "summary": "The GTA VI leaks keep coming - and the latest is almost as long as the game's official \"extended look\" on Netflix. Only instead of showing off all the various gameplay details, this one is more of an \"extended look\" at J…",
+      "title": "Problemas en el horizonte: las ganancias anualizadas de OpenAI se quedan 20.000 millones de dólares por debajo de lo esperado",
+      "url": "https://www.xataka.com/empresas-y-economia/problemas-horizonte-ganancias-anualizadas-openai-se-quedan-20-000-millones-dolares-debajo-esperado",
+      "source": "Xataka",
+      "published_at": "2026-10-09T13:13:00Z",
+      "summary": "A Wall Street no le gustan las sorpresas, y basta con la confirmación de que una estimación se ha desviado mínimamente para que los inversores pierdan el sueño. Esta semana le ha tocado a OpenAI, y no por una buena razón…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-08-gta-vi-leaks-continue-with-a-lengthy-and"
+      "id": "xataka-2026-10-09-problemas-en-el-horizonte-las-ganancias-anualizadas-de"
     },
     {
-      "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
-      "url": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
+      "title": "Meta is banning TikTok ads across its platforms",
+      "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
       "source": "The Verge",
-      "published_at": "2026-10-08T13:00:00Z",
-      "summary": "Amazon's Fire tablets are notable for being dirt cheap. While they're great for kids, they don't offer a premium Android tablet experience. The company's new $499 Alexa Tablet 12 Pro is an attempt to build a device someo…",
+      "published_at": "2026-10-09T13:12:45Z",
+      "summary": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, wh…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-08-hands-on-with-amazon-8217-s-alexa-tablet-12"
+      "id": "theverge-2026-10-09-meta-is-banning-tiktok-ads-across-its-platforms"
     },
     {
-      "title": "Amazon’s Alexa Tablets are coming for the iPad",
-      "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+      "title": "The humble Playdate has become one of gaming’s best deals",
+      "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
       "source": "The Verge",
-      "published_at": "2026-10-08T13:00:00Z",
-      "summary": "Amazon is launching a new lineup of tablets that bear almost no resemblance to any tablet Amazon has ever launched before. They're not even called Fire, the name Amazon has used for its tablets for the last 15 years. The…",
+      "published_at": "2026-10-09T13:00:00Z",
+      "summary": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-08-amazon-s-alexa-tablets-are-coming-for-the"
+      "id": "theverge-2026-10-09-the-humble-playdate-has-become-one-of-gaming"
     },
     {
-      "title": "Joe Rogan and Spotify renew massive podcast deal",
-      "url": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
       "source": "The Verge",
-      "published_at": "2026-10-08T12:56:05Z",
-      "summary": "Spotify has renewed its licensing agreement with Joe Rogan, whose podcast remains the number one show on the platform - and in the world. As reported by The Wall Street Journal, the multi-year agreement is valued at arou…",
+      "published_at": "2026-10-09T09:48:26Z",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak …",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "theverge-2026-10-08-joe-rogan-and-spotify-renew-massive-podcast-deal"
+      "category": "investigación",
+      "id": "theverge-2026-10-09-openai-doubles-down-on-decision-to-fire-three"
     },
     {
-      "title": "Xbox is launching a new film and TV division",
-      "url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-      "source": "The Verge",
-      "published_at": "2026-10-08T12:01:12Z",
-      "summary": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. …",
+      "title": "Los riesgos de ciberseguridad en la era de la IA se han multiplicado por 10, según JPMorgan",
+      "url": "https://www.xataka.com/seguridad/riesgos-ciberseguridad-era-ia-se-han-multiplicado-10-jpmorgan",
+      "source": "Xataka",
+      "published_at": "2026-10-09T09:30:26Z",
+      "summary": "El nombre de Jamie Dimon puede que no os suene, pero se trata del consejero delegado de uno de los bancos más grandes del mundo: JPMorgan Chase. En una reciente entrevista en Bloomberg , Dimon ha reforzado el mensaje de …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-08-xbox-is-launching-a-new-film-and-tv"
+      "id": "xataka-2026-10-09-los-riesgos-de-ciberseguridad-en-la-era-de"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI",
+          "published_at": "2026-10-09T07:00:00Z",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-09-sophos-cuts-threat-investigation-time-by-96-with"
+        },
+        {
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T16:00:00Z",
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-how-oracle-turns-days-of-work-into-minutes"
+        },
+        {
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T12:00:00Z",
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-pollo-ai-turns-creative-ideas-into-campaigns-with"
+        },
+        {
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T12:00:00Z",
+          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-legalon-halves-codex-costs-while-maintaining-development-speed"
+        },
+        {
+          "title": "Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-disrupting-ai-enabled-false-front-operations"
+        },
+        {
+          "title": "Building on our commitment to American scientific discovery",
+          "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "Building on our commitment to American scientific discovery",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-building-on-our-commitment-to-american-scientific-discovery"
+        },
+        {
+          "title": "Introducing the Anthropic Cyber Mission",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "Introducing the Anthropic Cyber Mission",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-introducing-the-anthropic-cyber-mission"
+        },
+        {
+          "title": "2026 Usage Policy update",
+          "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "2026 Usage Policy update",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-2026-usage-policy-update"
+        },
         {
           "title": "Helping teens learn, plan, and shape the future of AI",
           "url": "https://openai.com/index/teens-learn-and-plan",
@@ -254,64 +358,25 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-10-02-the-latest-ai-news-we-announced-in-september"
-        },
-        {
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-02-chatham-scales-its-capital-markets-expertise-with-openai"
-        },
-        {
-          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-          "url": "https://www.anthropic.com/news/claude-frontier-academy",
-          "source": "Anthropic",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-02-anthropic-invests-100-million-to-train-10-000"
-        },
-        {
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI",
-          "published_at": "2026-10-01T17:00:00Z",
-          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-01-the-eternal-complement"
-        },
-        {
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "url": "https://openai.com/index/albertsons-reimagining-retail",
-          "source": "OpenAI",
-          "published_at": "2026-10-01T16:00:00Z",
-          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-01-how-albertsons-companies-is-reimagining-retail-from-the"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "The U.S. Nuclear Plant Fleet Is Leaning Into AI",
+          "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-08T14:28:17Z",
+          "summary": "If there is any place that would be off-limits to AI, the control room of a nuclear power plant certainly sounds like one. The nuclear industry is historically cautious and risk averse—understandable given the possible c…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-10-08-the-u-s-nuclear-plant-fleet-is-leaning"
+        },
         {
           "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
           "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
@@ -331,6 +396,19 @@
       "name": "Herramientas",
       "items": [
         {
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "source": "Hugging Face",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-08-the-model-that-didn-t-exist-so-you"
+        },
+        {
           "title": "Multimodal open d1 decision models for the edge",
           "url": "https://huggingface.co/blog/LiquidAI/open-d1",
           "source": "Hugging Face",
@@ -342,19 +420,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-07-multimodal-open-d1-decision-models-for-the-edge"
-        },
-        {
-          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face",
-          "published_at": "2026-10-07T12:45:31Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-07-one-model-family-two-gold-level-results-fine-tuning-nemotron"
         }
       ]
     },
@@ -362,88 +427,179 @@
       "name": "General",
       "items": [
         {
-          "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
-          "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-          "source": "The Verge",
-          "published_at": "2026-10-08T11:30:00Z",
-          "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange tim…",
+          "title": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
+          "url": "https://www.xataka.com/basics/microsoft-tiene-su-propio-ccleaner-para-windows-hace-anos-ahora-quiere-que-haga-mucho-que-limpiar-pc",
+          "source": "Xataka",
+          "published_at": "2026-10-09T07:30:27Z",
+          "summary": "Mantener limpio el sistema operativo es vital para que este no se desmadre. Lo suyo es dedicarle un tiempo cada pocas semanas a apretarle las tuercas al ordenador , tanto en hardware como en software. ¿No tienes ese tiem…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-08-cupertino-might-be-made-for-your-mom-but"
+          "id": "xataka-2026-10-09-microsoft-tiene-su-propio-ccleaner-para-windows-desde"
         },
         {
-          "title": "Muse es el nuevo agente IA de Meta, pero su comportamiento se parece más al de un agente del FBI",
+          "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "source": "The Verge",
+          "published_at": "2026-10-09T07:14:32Z",
+          "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Mi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-09-microsoft-365-family-subscribers-will-finally-be-able"
+        },
+        {
+          "title": "US plans livestream of execution by firing squad",
+          "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+          "source": "The Verge",
+          "published_at": "2026-10-08T22:32:04Z",
+          "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army majo…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-us-plans-livestream-of-execution-by-firing-squad"
+        },
+        {
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge",
+          "published_at": "2026-10-08T21:53:51Z",
+          "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our str…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-anthropic-launches-free-ai-security-scans-for-open-source"
+        },
+        {
+          "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+          "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+          "source": "The Verge",
+          "published_at": "2026-10-08T21:23:31Z",
+          "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-spacex-announces-plan-to-become-a-major-mobile"
+        },
+        {
+          "title": "Corea del Sur detecta indicios de IA en varios ciberataques a sus principales bancos",
+          "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+          "source": "Xataka",
+          "published_at": "2026-10-08T21:13:00Z",
+          "summary": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de información. Pero esas mismas capacidades también pueden ponerse…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-08-corea-del-sur-detecta-indicios-de-ia-en"
+        },
+        {
+          "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+          "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+          "source": "The Verge",
+          "published_at": "2026-10-08T21:01:18Z",
+          "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handh…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-amd-will-bring-fsr-4-to-handhelds-by"
+        },
+        {
+          "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+          "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+          "source": "The Verge",
+          "published_at": "2026-10-08T20:32:21Z",
+          "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-apple-will-reportedly-debut-its-first-touchscreen-macbook"
+        },
+        {
+          "title": "California is trying to shut down robot vs. human cage matches",
+          "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+          "source": "The Verge",
+          "published_at": "2026-10-08T20:06:56Z",
+          "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-08-california-is-trying-to-shut-down-robot-vs"
+        },
+        {
+          "title": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
+          "url": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
+          "source": "Xataka",
+          "published_at": "2026-10-08T20:00:27Z",
+          "summary": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos atravesarla. Parece una distinción demasiado sencilla como para tener …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-08-los-robots-no-siempre-saben-que-una-pared"
+        },
+        {
+          "title": "Alguien ha utilizado Opus 5.5 para vibecodear desde cero toda la suite de Adobe, Photoshop incluido",
+          "url": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
+          "source": "Xataka",
+          "published_at": "2026-10-08T17:30:00Z",
+          "summary": "Hay mucha gente que mantiene una relación tóxica con la suite de Adobe. Photoshop, Illustrator, InDesign y Premiere son aplicaciones esenciales en el flujo profesional, pero las &nbsp;decisiones comerciales más recientes…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-08-alguien-ha-utilizado-opus-5-5-para-vibecodear"
+        },
+        {
+          "title": "Sadya Nadella, CEO de Microsoft: \"Nuestro objetivo es llevar inteligencia gratis a cada hogar y a cada escritorio\"",
+          "url": "https://www.xataka.com/robotica-e-ia/gran-promesa-ia-local-microsoft-tokens-gratis-realidad-no-gratis-eso-no-importa",
+          "source": "Xataka",
+          "published_at": "2026-10-08T14:15:00Z",
+          "summary": "En julio de 1991 un chaval de 23 años, indio y con su pelo intacto , asistió a una conferencia de desarrolladores de Microsoft que le cambió la vida. Un año después Nadella estaba trabajando en Microsoft y el resto, como…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-08-sadya-nadella-ceo-de-microsoft-nuestro-objetivo-es"
+        },
+        {
+          "title": "El coste oculto de delegar tu vida en Muse es que Meta tenga aún más acceso a todos tus datos personales",
           "url": "https://www.xataka.com/servicios/muse-nuevo-agente-ia-meta-su-comportamiento-se-parece-al-agente-fbi",
           "source": "Xataka",
-          "published_at": "2026-10-08T06:00:26Z",
+          "published_at": "2026-10-08T06:00:00Z",
           "summary": "No ha pasado ni un mes desde que Meta lanzó Muse, pero ya estamos viendo que el nuevo agente IA de la compañía de Zuckerberg está generando más fricciones de las que a Meta le gustaría. La idea de la compañía es que lo u…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-08-muse-es-el-nuevo-agente-ia-de-meta"
-        },
-        {
-          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-          "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-          "source": "The Verge",
-          "published_at": "2026-10-07T22:01:00Z",
-          "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-07-bmw-s-ix4-suv-is-a-428-mile-defensive"
-        },
-        {
-          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-          "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-          "source": "The Verge",
-          "published_at": "2026-10-07T21:19:54Z",
-          "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-07-teenage-engineering-s-ceo-says-it-ll-stop"
-        },
-        {
-          "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
-          "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-          "source": "The Verge",
-          "published_at": "2026-10-07T20:44:34Z",
-          "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Google…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-07-android-8217-s-physical-navigation-buttons-are-back"
-        },
-        {
-          "title": "We found some great October Prime Day deals under $50",
-          "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
-          "source": "The Verge",
-          "published_at": "2026-10-07T20:30:00Z",
-          "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-07-we-found-some-great-october-prime-day-deals"
+          "id": "xataka-2026-10-08-el-coste-oculto-de-delegar-tu-vida-en"
         },
         {
           "title": "El Surface más ambicioso de Microsoft sumará su propio \"MagSafe\". Ahora también sabemos cuánto habrá que pagar",
           "url": "https://www.xataka.com/ordenadores/surface-ambicioso-microsoft-sumara-su-propio-magsafe-ahora-tambien-sabemos-cuanto-habra-que-pagar",
           "source": "Xataka",
-          "published_at": "2026-10-07T18:30:45Z",
+          "published_at": "2026-10-07T18:30:00Z",
           "summary": "Un portátil puede estar preparado para ejecutar modelos de IA en local y, aun así, seguir teniendo que resolver problemas mucho más cotidianos. Uno de ellos aparece en cuanto conectamos el cargador : un tirón accidental …",
           "why_it_matters": "",
           "tags": [
@@ -451,84 +607,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-07-el-surface-mas-ambicioso-de-microsoft-sumara-su"
-        },
-        {
-          "title": "Los bancos han descubierto que la IA no elimina la necesidad de empleados, así que ha creado una nueva profesión en Wall Street",
-          "url": "https://www.xataka.com/robotica-e-ia/wall-street-ha-descubierto-que-implantar-ia-no-consiste-despedir-empleados-sino-contratar-a-correctos",
-          "source": "Xataka",
-          "published_at": "2026-10-07T12:15:00Z",
-          "summary": "En Wall Street llevan meses afinando el discurso de la eficiencia para hacer más con menos . En esa liza entra en juego la inteligencia artificial que, en teoría, les iba a permitir reducir el número de analistas , gener…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-07-los-bancos-han-descubierto-que-la-ia-no"
-        },
-        {
-          "title": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
-          "source": "Xataka",
-          "published_at": "2026-10-07T11:00:00Z",
-          "summary": "Hace unos meses, OpenAI pareció poner un poco de orden. ChatGPT Work fusionó la experiencia de escritorio e integró Codex en la aplicación principal. Parecía el fin de la dispersión. Entonces llegó el DevDay de la semana…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-07-openai-todavia-no-sabe-que-forma-tendra-el"
-        },
-        {
-          "title": "Haces un pedido en tu tienda de ropa favorita, abres ChatGPT y descubres cómo te queda sin probártela",
-          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-quiere-convertirse-tu-probador-virtual-subes-foto-te-ensena-como-te-queda-ropa",
-          "source": "Xataka",
-          "published_at": "2026-10-07T07:00:00Z",
-          "summary": "Una de las desventajas de comprar ropa online es que no nos la podemos probar. Los procesos de devolución se han simplificado mucho, pero hasta que la prenda no llega no podemos saber cómo nos va a quedar. ChatGPT quiere…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-07-haces-un-pedido-en-tu-tienda-de-ropa"
-        },
-        {
-          "title": "Un investigador se ha cansado de los textos escritos con IA y ha creado un detector que promete un 98% de acierto",
-          "url": "https://www.xataka.com/servicios/alguien-ha-entrenado-modelo-ia-para-detectar-textos-escritos-ia-dice-tener-98-precision-tarea",
-          "source": "Xataka",
-          "published_at": "2026-10-07T06:00:00Z",
-          "summary": "Que estamos rodeados por texto escrito por una IA ya no sorprende a nadie. Los que queremos leer a personas vamos todo el día con el hacha levantada buscando indicios para comprobar si estamos leyendo a un humano o a un …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-07-un-investigador-se-ha-cansado-de-los-textos"
-        },
-        {
-          "title": "Mistral da su mayor salto hasta ahora con un modelo de pesos abiertos tan potente como cualquiera de China",
-          "url": "https://www.xataka.com/robotica-e-ia/mistral-da-su-mayor-salto-ahora-modelo-europeo-que-quiere-plantar-cara-al-dominio-eeuu-china",
-          "source": "Xataka",
-          "published_at": "2026-10-06T16:07:00Z",
-          "summary": "Si hemos seguido de cerca la evolución de la inteligencia artificial, hay un patrón que se repite una y otra vez: los grandes movimientos suelen llegar desde Estados Unidos o China . Son los dos polos desde los que hemos…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-06-mistral-da-su-mayor-salto-hasta-ahora-con"
-        },
-        {
-          "title": "Apple está empezando a cortar el acceso a los agentes de IA por motivos de seguridad",
-          "url": "https://www.xataka.com/servicios/apple-esta-empezando-a-cortar-acceso-a-agentes-ia-motivos-seguridad",
-          "source": "Xataka",
-          "published_at": "2026-10-06T15:01:22Z",
-          "summary": "Septiembre y octubre están siendo movidos en lo que respecta a las inteligencias artificiales metiendo las narices donde no deberían. Este verano, uno de los modelos de OpenAI se coló en instituciones oficiales, llegando…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-06-apple-esta-empezando-a-cortar-el-acceso-a"
         }
       ]
     }
@@ -565,6 +643,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI",
+          "published_at": "2026-10-09T07:00:00Z",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-09-sophos-cuts-threat-investigation-time-by-96-with"
+        },
+        {
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T16:00:00Z",
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-how-oracle-turns-days-of-work-into-minutes"
+        },
+        {
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T12:00:00Z",
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-pollo-ai-turns-creative-ideas-into-campaigns-with"
+        },
+        {
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T12:00:00Z",
+          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-legalon-halves-codex-costs-while-maintaining-development-speed"
+        },
+        {
+          "title": "Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-08-disrupting-ai-enabled-false-front-operations"
+        },
         {
           "title": "Helping teens learn, plan, and shape the future of AI",
           "url": "https://openai.com/index/teens-learn-and-plan",
@@ -694,45 +837,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-02-a-model-guide-for-the-gpt-6-family"
-        },
-        {
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-02-chatham-scales-its-capital-markets-expertise-with-openai"
-        },
-        {
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI",
-          "published_at": "2026-10-01T17:00:00Z",
-          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-01-the-eternal-complement"
-        },
-        {
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "url": "https://openai.com/index/albertsons-reimagining-retail",
-          "source": "OpenAI",
-          "published_at": "2026-10-01T16:00:00Z",
-          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-01-how-albertsons-companies-is-reimagining-retail-from-the"
         }
       ]
     },
@@ -740,6 +844,45 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Building on our commitment to American scientific discovery",
+          "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "Building on our commitment to American scientific discovery",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-building-on-our-commitment-to-american-scientific-discovery"
+        },
+        {
+          "title": "Introducing the Anthropic Cyber Mission",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "Introducing the Anthropic Cyber Mission",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-introducing-the-anthropic-cyber-mission"
+        },
+        {
+          "title": "2026 Usage Policy update",
+          "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+          "source": "Anthropic",
+          "published_at": "2026-10-08T00:00:00Z",
+          "summary": "2026 Usage Policy update",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-08-2026-usage-policy-update"
+        },
         {
           "title": "Expanding the Cyber Verification Program",
           "url": "https://www.anthropic.com/news/cyber-verification-program",
@@ -752,19 +895,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
-        },
-        {
-          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-          "url": "https://www.anthropic.com/news/claude-frontier-academy",
-          "source": "Anthropic",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-02-anthropic-invests-100-million-to-train-10-000"
         }
       ]
     },
