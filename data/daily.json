@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T13:09:45.182790Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:48:14.465540Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Vurt wants you to look at vertical videos as a genre of their own",
-      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
       "source": "The Verge",
-      "published_at": "2026-10-11T13:00:00Z",
-      "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok …",
+      "published_at": "2026-10-12T15:43:07Z",
+      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people asso…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-11-vurt-wants-you-to-look-at-vertical-videos"
+      "id": "theverge-2026-10-12-the-yandex-outage-probably-didn-t-blitz-russian"
     },
     {
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+      "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
       "source": "The Verge",
-      "published_at": "2026-10-11T13:00:00Z",
-      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub.…",
+      "published_at": "2026-10-12T15:00:00Z",
+      "summary": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console tha…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-11-what-to-expect-from-apple-s-welcome-home"
+      "id": "theverge-2026-10-12-mechanism-8217-s-first-switch-2-case-is"
     },
     {
-      "title": "Horror is big business",
-      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "title": "Android is the best and worst thing about Googlebooks",
+      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
       "source": "The Verge",
-      "published_at": "2026-10-11T12:00:00Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Su…",
+      "published_at": "2026-10-12T14:00:00Z",
+      "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Andro…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-11-horror-is-big-business"
+      "id": "theverge-2026-10-12-android-is-the-best-and-worst-thing-about"
     },
     {
-      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
-      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
       "source": "The Verge",
-      "published_at": "2026-10-11T12:00:00Z",
-      "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. However, buying it came with a high price a…",
+      "published_at": "2026-10-12T14:00:00Z",
+      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad av…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-11-why-the-leappad-couldn-8217-t-survive-the"
+      "id": "theverge-2026-10-12-no-man-s-sky-is-coming-to-the"
     },
     {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
       "source": "The Verge",
-      "published_at": "2026-10-11T11:00:00Z",
-      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run power…",
+      "published_at": "2026-10-12T13:13:53Z",
+      "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Lik…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-11-learning-to-use-local-ai-is-exciting-overwhelming"
+      "id": "theverge-2026-10-12-the-oneplus-16-is-the-company-s-most"
     }
   ],
   "sections": [
@@ -319,50 +319,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
-        },
-        {
-          "title": "Our approach to EU text provenance rules",
-          "url": "https://openai.com/index/eu-text-provenance",
-          "source": "OpenAI",
-          "published_at": "2026-10-05T15:00:00Z",
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-05-our-approach-to-eu-text-provenance-rules"
-        },
-        {
-          "title": "Building advertising for the way people use AI",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI",
-          "published_at": "2026-10-05T10:00:00Z",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-05-building-advertising-for-the-way-people-use-ai"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "China lleva años apostando por la IA y los humanoides. Ahora quiere evitar una carrera ciega de inversión",
-          "url": "https://www.xataka.com/robotica-e-ia/china-lleva-anos-apostando-ia-humanoides-ahora-quiere-evitar-carrera-ciega-inversion",
-          "source": "Xataka",
-          "published_at": "2026-10-09T18:30:26Z",
-          "summary": "Durante años, China ha convertido la inteligencia artificial y la robótica en dos de las grandes apuestas de su política industrial. Basta con mirar a los robots humanoides : cada vez más empresas trabajan en máquinas qu…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-10-09-china-lleva-anos-apostando-por-la-ia-y"
         }
       ]
     },
@@ -370,41 +326,127 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Master AI Chip Principles With New IEEE Design Program",
-          "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+          "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+          "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
           "source": "IEEE Spectrum",
-          "published_at": "2026-10-09T18:00:02Z",
-          "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “ Revisiting Edge AI: Opportunities and Challenges .” The article examines the rapid growth of e…",
+          "published_at": "2026-10-12T10:00:03Z",
+          "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why ad…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-10-09-master-ai-chip-principles-with-new-ieee-design"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face",
-          "published_at": "2026-10-09T15:20:29Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-09-impactful-scheduling-for-gpu-clusters"
+          "id": "ieee-2026-10-12-learning-to-play-like-a-pro-adaptive-motion"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "CMF’s first wireless speakers look like musical milk cartons",
+          "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+          "source": "The Verge",
+          "published_at": "2026-10-12T13:00:00Z",
+          "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's p…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-12-cmf-s-first-wireless-speakers-look-like-musical"
+        },
+        {
+          "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
+          "published_at": "2026-10-12T13:00:00Z",
+          "summary": "The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Wa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-12-the-fitbit-edge-is-for-folks-who-don"
+        },
+        {
+          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "source": "The Verge",
+          "published_at": "2026-10-12T13:00:00Z",
+          "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of runn…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-12-microsoft-s-new-ai-chip-makes-it-less"
+        },
+        {
+          "title": "Lo único que está construyendo Estados Unidos ahora mismo son centros de datos",
+          "url": "https://www.xataka.com/empresas-y-economia/unico-que-esta-construyendo-estados-unidos-ahora-centros-datos",
+          "source": "Xataka",
+          "published_at": "2026-10-12T12:00:27Z",
+          "summary": "La inteligencia artificial y todo lo que se mueve en torno a ella se ha convertido en una gran promesa en la que las big tech están vertiendo enormes cantidades de dinero. Y en el caso de Estados Unidos, la economía es c…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-12-lo-unico-que-esta-construyendo-estados-unidos-ahora"
+        },
+        {
+          "title": "How Apple can win the smart home",
+          "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
+          "source": "The Verge",
+          "published_at": "2026-10-12T12:00:00Z",
+          "summary": "This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home experience\" in New York City on Tuesday, October 13th, it does…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-12-how-apple-can-win-the-smart-home"
+        },
+        {
+          "title": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
+          "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+          "source": "Xataka",
+          "published_at": "2026-10-12T11:30:27Z",
+          "summary": "A principio de los años 80, los contables vieron amenazados sus puestos de trabajo por la llegada de una nueva herramienta que lo cambiaría todo: la hoja de cálculo. El trabajo que un empleado antes hacía a mano en un dí…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-12-la-gran-paradoja-de-la-ia-es-que"
+        },
+        {
+          "title": "Inside the mini factory where GM builds its EV future",
+          "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+          "source": "The Verge",
+          "published_at": "2026-10-12T11:00:00Z",
+          "summary": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, whi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-12-inside-the-mini-factory-where-gm-builds-its"
+        },
+        {
+          "title": "Ben Affleck tiene una nueva película en la que ha utilizado IA para \"muchas cosas\", pero no te va a decir cuáles",
+          "url": "https://www.xataka.com/cine-y-tv/ben-affleck-tiene-nueva-pelicula-que-ha-utilizado-ia-para-muchas-cosas-no-te-va-a-decir-cuales",
+          "source": "Xataka",
+          "published_at": "2026-10-12T09:00:27Z",
+          "summary": "Estamos en un punto en el que hay un acalorado debate sobre el uso de la IA. Hay muchas herramientas disponibles, lo que amplía los ámbitos en los que puede impactar, y el mundo del cine no se está quedando al margen. Ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-12-ben-affleck-tiene-una-nueva-pelicula-en-la"
+        },
         {
           "title": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
           "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
@@ -419,7 +461,7 @@
           "id": "xataka-2026-10-11-las-big-tech-quieren-que-todos-tengamos-nuestro"
         },
         {
-          "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+          "title": "\"Debemos asumir que todos los modelos de IA están comprometidos\" Satya Nadella, CEO de Microsoft, llama a usar un freno de emergencia",
           "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
           "source": "Xataka",
           "published_at": "2026-10-11T07:30:00Z",
@@ -429,124 +471,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-11-satya-nadella-ceo-de-microsoft-debemos-asumir-que"
-        },
-        {
-          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
-          "published_at": "2026-10-10T22:10:17Z",
-          "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-10-satya-nadella-says-we-should-assume-all-ai"
-        },
-        {
-          "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-          "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-          "source": "The Verge",
-          "published_at": "2026-10-10T18:52:07Z",
-          "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-10-distrokid-has-been-quietly-taking-down-songs-in"
-        },
-        {
-          "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-          "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-          "source": "The Verge",
-          "published_at": "2026-10-10T16:36:44Z",
-          "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-10-ledger-wallet-tampering-suspected-after-reports-of-crypto"
-        },
-        {
-          "title": "Las empresas de IA tienen tan claro que habrá una gran catástrofe en 2027 que ya preparan el día después",
-          "url": "https://www.xataka.com/servicios/empresas-ia-tienen-claro-que-habra-gran-catastrofe-2027-que-preparan-dia-despues",
-          "source": "Xataka",
-          "published_at": "2026-10-10T15:30:25Z",
-          "summary": "No pasa una semana sin que conozcamos algún ataque hecho con IA o alguna advertencia de sus dirigentes ante una amenaza en ciernes. O directamente, con alguna comunicación que, de forma directa o indirecta, advierta de s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-10-las-empresas-de-ia-tienen-tan-claro-que"
-        },
-        {
-          "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-          "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-          "source": "The Verge",
-          "published_at": "2026-10-10T15:00:00Z",
-          "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-10-k-pop-star-sunmi-loves-notion-and-ear-cleaning"
-        },
-        {
-          "title": "Anthropic is cutting off its internal evaluations from the internet",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-          "source": "The Verge",
-          "published_at": "2026-10-10T14:41:16Z",
-          "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-10-anthropic-is-cutting-off-its-internal-evaluations-from"
-        },
-        {
-          "title": "Endesa destapa fraude eléctrico en 16 restaurantes de Barcelona gracias a una IA y a la promoción de unos influencers",
-          "url": "https://www.xataka.com/magnet/16-restaurantes-barcelona-pagaban-a-influencers-para-promocionarse-endesa-uso-ia-para-investigar-sus-negocios-destapo-trama-fraude-electrico",
-          "source": "Xataka",
-          "published_at": "2026-10-09T18:00:27Z",
-          "summary": "Hay estrategias de marketing que salen caras, y luego está esta, que la han destapado de la forma más irónica posible. Según El Periódico , dieciséis restaurantes de Barcelona (varios de ellos buffets atiborrados de gent…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-09-endesa-destapa-fraude-electrico-en-16-restaurantes-de"
-        },
-        {
-          "title": "Google abre SynthID para comprobar si una imagen, vídeo o audio es IA o no, pero el problema es que es un placebo",
-          "url": "https://www.xataka.com/servicios/google-abre-synthid-para-comprobar-imagen-video-audio-ia-no-problema-que-placebo",
-          "source": "Xataka",
-          "published_at": "2026-10-09T16:30:27Z",
-          "summary": "Si las noticias falsas ya eran un problema , distribuidas sobre todo a través de redes como X o Facebook, con la llegada de la IA generativa y la capacidad de hacer imágenes que cada vez más difuminan la línea entre la r…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-09-google-abre-synthid-para-comprobar-si-una-imagen"
-        },
-        {
-          "title": "Problemas en el horizonte: las ganancias anualizadas de OpenAI se quedan 20.000 millones de dólares por debajo de lo esperado",
-          "url": "https://www.xataka.com/empresas-y-economia/problemas-horizonte-ganancias-anualizadas-openai-se-quedan-20-000-millones-dolares-debajo-esperado",
-          "source": "Xataka",
-          "published_at": "2026-10-09T13:13:00Z",
-          "summary": "A Wall Street no le gustan las sorpresas, y basta con la confirmación de que una estimación se ha desviado mínimamente para que los inversores pierdan el sueño. Esta semana le ha tocado a OpenAI, y no por una buena razón…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-09-problemas-en-el-horizonte-las-ganancias-anualizadas-de"
+          "id": "xataka-2026-10-11-debemos-asumir-que-todos-los-modelos-de-ia"
         }
       ]
     }
@@ -751,32 +676,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-06-advancing-computer-use-with-ironclad"
-        },
-        {
-          "title": "Our approach to EU text provenance rules",
-          "url": "https://openai.com/index/eu-text-provenance",
-          "source": "OpenAI",
-          "published_at": "2026-10-05T15:00:00Z",
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-05-our-approach-to-eu-text-provenance-rules"
-        },
-        {
-          "title": "Building advertising for the way people use AI",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI",
-          "published_at": "2026-10-05T10:00:00Z",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-05-building-advertising-for-the-way-people-use-ai"
         }
       ]
     },
