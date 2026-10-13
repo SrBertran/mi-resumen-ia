@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T15:48:14.465540Z",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T14:25:46.621841Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
       "source": "The Verge",
-      "published_at": "2026-10-12T15:43:07Z",
-      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people asso…",
+      "published_at": "2026-10-13T13:55:45Z",
+      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-12-the-yandex-outage-probably-didn-t-blitz-russian"
+      "id": "theverge-2026-10-13-dlss-5-gets-toned-down-for-its-hogwarts"
     },
     {
-      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-      "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+      "title": "Discovery Plus is getting more expensive",
+      "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
       "source": "The Verge",
-      "published_at": "2026-10-12T15:00:00Z",
-      "summary": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console tha…",
+      "published_at": "2026-10-13T13:52:18Z",
+      "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month. The …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-12-mechanism-8217-s-first-switch-2-case-is"
+      "id": "theverge-2026-10-13-discovery-plus-is-getting-more-expensive"
     },
     {
-      "title": "Android is the best and worst thing about Googlebooks",
-      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "source": "The Verge",
-      "published_at": "2026-10-12T14:00:00Z",
-      "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Andro…",
+      "title": "El riesgo de la IA no va a parecerse a Terminator. Se parecerá a lo que acaba de pasar en 500 supermercados franceses",
+      "url": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
+      "source": "Xataka",
+      "published_at": "2026-10-13T13:46:26Z",
+      "summary": "La noche del domingo al lunes, los frigoríficos de cientos de supermercados franceses se descongelaron a la vez . Alguien activó a distancia los ciclos de desescarche de sus controladores. El ataque alcanzó al menos 300 …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-12-android-is-the-best-and-worst-thing-about"
+      "id": "xataka-2026-10-13-el-riesgo-de-la-ia-no-va-a"
     },
     {
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "title": "Where to preorder the new Apple TV 4K",
+      "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
       "source": "The Verge",
-      "published_at": "2026-10-12T14:00:00Z",
-      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad av…",
+      "published_at": "2026-10-13T13:26:40Z",
+      "summary": "Apple debuted its latest Apple TV 4K - its first in four years - and it'll be available starting Friday, November 13th. It's powerful, with the A19 chip (the now-discontinued 2022 model has the A15 Bionic), and it featur…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-12-no-man-s-sky-is-coming-to-the"
+      "id": "theverge-2026-10-13-where-to-preorder-the-new-apple-tv-4k"
     },
     {
-      "title": "The OnePlus 16 is the company’s most interesting phone in years",
-      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "title": "Watch Apple’s reveal video for the HomeView",
+      "url": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch",
       "source": "The Verge",
-      "published_at": "2026-10-12T13:13:53Z",
-      "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Lik…",
+      "published_at": "2026-10-13T13:14:27Z",
+      "summary": "Apple just announced its long-rumored smart home hub, the HomeView, during its \"Welcome Home\" event taking place today. As part of the event, it showed a video featuring the new device, and if you want to see it for your…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-12-the-oneplus-16-is-the-company-s-most"
+      "id": "theverge-2026-10-13-watch-apple-s-reveal-video-for-the-homeview"
     }
   ],
   "sections": [
@@ -267,64 +267,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise"
-        },
-        {
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T12:00:00Z",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-how-jump-trading-is-scaling-quant-research-with"
-        },
-        {
-          "title": "Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T12:00:00Z",
-          "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-sharing-ai-progress-in-mathematics"
-        },
-        {
-          "title": "Advancing computer use with Ironclad",
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T10:00:00Z",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-advancing-computer-use-with-ironclad"
-        },
-        {
-          "title": "Expanding the Cyber Verification Program",
-          "url": "https://www.anthropic.com/news/cyber-verification-program",
-          "source": "Anthropic",
-          "published_at": "2026-10-06T00:00:00Z",
-          "summary": "Expanding the Cyber Verification Program",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Google Deepmind’s New Resident Philosopher Tackles AI Ethics",
+          "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-13T13:00:03Z",
+          "summary": "How should humans relate to generative AI ? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could …",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-10-13-google-deepmind-s-new-resident-philosopher-tackles-ai"
+        },
+        {
+          "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+          "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-12T18:00:02Z",
+          "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at A…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-10-12-meet-the-anthropic-engineer-keeping-its-ai-agent"
+        },
         {
           "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
           "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
@@ -344,43 +318,121 @@
       "name": "General",
       "items": [
         {
-          "title": "CMF’s first wireless speakers look like musical milk cartons",
-          "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+          "title": "Getty Images is going private after failed Shutterstock merger",
+          "url": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement",
           "source": "The Verge",
-          "published_at": "2026-10-12T13:00:00Z",
-          "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's p…",
+          "published_at": "2026-10-13T13:11:33Z",
+          "summary": "Getty Images intends to file for bankruptcy and go private as part of a restructuring agreement after its plans to merge with rival stock platform Shutterstock fell through earlier this year. On Monday, Getty announced i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-12-cmf-s-first-wireless-speakers-look-like-musical"
+          "id": "theverge-2026-10-13-getty-images-is-going-private-after-failed-shutterstock"
         },
         {
-          "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
+          "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
           "source": "The Verge",
-          "published_at": "2026-10-12T13:00:00Z",
-          "summary": "The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Wa…",
+          "published_at": "2026-10-13T13:00:00Z",
+          "summary": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announc…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-12-the-fitbit-edge-is-for-folks-who-don"
+          "id": "theverge-2026-10-13-the-new-apple-tv-4k-has-built-in-microphones"
         },
         {
-          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "title": "Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch",
+          "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
           "source": "The Verge",
-          "published_at": "2026-10-12T13:00:00Z",
-          "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of runn…",
+          "published_at": "2026-10-13T13:00:00Z",
+          "summary": "Apple is announcing the long-awaited HomePod Mini 2 with a new chip that can power Siri AI - but support for those new AI features won't be available at launch. The speaker is also getting a new sound glow feature that s…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-12-microsoft-s-new-ai-chip-makes-it-less"
+          "id": "theverge-2026-10-13-apple-announces-the-homepod-mini-2-but-it"
+        },
+        {
+          "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
+          "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
+          "source": "The Verge",
+          "published_at": "2026-10-13T13:00:00Z",
+          "summary": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use. The collection is something of a smart home star…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-13-the-new-apple-home-collection-includes-a-video"
+        },
+        {
+          "title": "Apple launches HomeView, its first smart display for the home",
+          "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+          "source": "The Verge",
+          "published_at": "2026-10-13T13:00:00Z",
+          "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-13-apple-launches-homeview-its-first-smart-display-for"
+        },
+        {
+          "title": "Elgato takes on DJI with a tiny wireless mic for creators on the go",
+          "url": "https://www.theverge.com/tech/1009752/elgato-wave-go-microphone-creators-pricing-release-date",
+          "source": "The Verge",
+          "published_at": "2026-10-13T13:00:00Z",
+          "summary": "Elgato already dominates the market for hardware built for creators that use powerful desktop PCs, and it's now turning its attention to creators on the go with its first wireless microphone. The $99.99 Wave Go clips ont…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-13-elgato-takes-on-dji-with-a-tiny-wireless"
+        },
+        {
+          "title": "Nvidia deja de fabricar la RTX 5090, la tarjeta más potente para jugadores, según una filtración",
+          "url": "https://www.xataka.com/componentes/nvidia-deja-fabricar-rtx-5090-tarjeta-potente-para-jugadores-filtracion-su-chip-ira-destinado-a-ia",
+          "source": "Xataka",
+          "published_at": "2026-10-13T10:45:00Z",
+          "summary": "Según varias filtraciones, Nvidia habría dejado de fabricar la GeForce RTX 5090 , su tarjeta gráfica para videojuegos más potente, incluidas las versiones \"D\" diseñadas para el mercado chino. A pesar de que la compañía a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-13-nvidia-deja-de-fabricar-la-rtx-5090-la"
+        },
+        {
+          "title": "Hace siete meses OpenAI mató su IA de generación de vídeo, pero ahora planea resucitar Sora como herramienta para Hollywood",
+          "url": "https://www.xataka.com/cine-y-tv/hace-siete-meses-openai-mato-su-ia-generacion-video-ahora-planean-resucitar-sora-como-herramienta-para-hollywood",
+          "source": "Xataka",
+          "published_at": "2026-10-13T10:30:00Z",
+          "summary": "Aunque ahora el nombre nos dé un poco igual, hubo un momento en el que 'Sora' era sinónimo de punta de lanza en la generación de vídeo por IA. El modelo de OpenAI encabezó la generación de vídeo por inteligencia artifici…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-13-hace-siete-meses-openai-mato-su-ia-de"
+        },
+        {
+          "title": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
+          "url": "https://www.xataka.com/robotica-e-ia/nvidia-tiene-motivos-para-preocuparse-microsoft-apuesta-su-propio-chip-maia-300-para-su-infraestructura-ia",
+          "source": "Xataka",
+          "published_at": "2026-10-12T21:51:01Z",
+          "summary": "Cada vez que utilizamos una herramienta de inteligencia artificial, hay una infraestructura trabajando para ofrecernos una respuesta. Detrás de buena parte de esa capacidad de procesamiento encontramos los aceleradores d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-12-nvidia-tiene-motivos-para-preocuparse-microsoft-apuesta-por"
         },
         {
           "title": "Lo único que está construyendo Estados Unidos ahora mismo son centros de datos",
@@ -396,19 +448,6 @@
           "id": "xataka-2026-10-12-lo-unico-que-esta-construyendo-estados-unidos-ahora"
         },
         {
-          "title": "How Apple can win the smart home",
-          "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
-          "source": "The Verge",
-          "published_at": "2026-10-12T12:00:00Z",
-          "summary": "This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home experience\" in New York City on Tuesday, October 13th, it does…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-12-how-apple-can-win-the-smart-home"
-        },
-        {
           "title": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
           "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
           "source": "Xataka",
@@ -422,19 +461,6 @@
           "id": "xataka-2026-10-12-la-gran-paradoja-de-la-ia-es-que"
         },
         {
-          "title": "Inside the mini factory where GM builds its EV future",
-          "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-          "source": "The Verge",
-          "published_at": "2026-10-12T11:00:00Z",
-          "summary": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, whi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-12-inside-the-mini-factory-where-gm-builds-its"
-        },
-        {
           "title": "Ben Affleck tiene una nueva película en la que ha utilizado IA para \"muchas cosas\", pero no te va a decir cuáles",
           "url": "https://www.xataka.com/cine-y-tv/ben-affleck-tiene-nueva-pelicula-que-ha-utilizado-ia-para-muchas-cosas-no-te-va-a-decir-cuales",
           "source": "Xataka",
@@ -446,32 +472,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-12-ben-affleck-tiene-una-nueva-pelicula-en-la"
-        },
-        {
-          "title": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
-          "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
-          "source": "Xataka",
-          "published_at": "2026-10-11T09:00:28Z",
-          "summary": "En enero escribimos que la IA más útil sería la que más nos vigilara, la que más supiese de nosotros. Nueve meses después, el asistente ya no solo ve lo que hacemos, también actúa por nosotros. El último en sumarse ha si…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-11-las-big-tech-quieren-que-todos-tengamos-nuestro"
-        },
-        {
-          "title": "\"Debemos asumir que todos los modelos de IA están comprometidos\" Satya Nadella, CEO de Microsoft, llama a usar un freno de emergencia",
-          "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
-          "source": "Xataka",
-          "published_at": "2026-10-11T07:30:00Z",
-          "summary": "\"Confiar en los modelos lo menos posible\". Satya Nadella ha hablado en Twitter y ha apostado por atar a la inteligencia artificial en corto: separar el suministro de inteligencia de la autoridad sobre ella. O lo que es l…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-11-debemos-asumir-que-todos-los-modelos-de-ia"
         }
       ]
     }
@@ -637,45 +637,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise"
-        },
-        {
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T12:00:00Z",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-how-jump-trading-is-scaling-quant-research-with"
-        },
-        {
-          "title": "Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T12:00:00Z",
-          "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-sharing-ai-progress-in-mathematics"
-        },
-        {
-          "title": "Advancing computer use with Ironclad",
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI",
-          "published_at": "2026-10-06T10:00:00Z",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-06-advancing-computer-use-with-ironclad"
         }
       ]
     },
@@ -721,19 +682,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-08-2026-usage-policy-update"
-        },
-        {
-          "title": "Expanding the Cyber Verification Program",
-          "url": "https://www.anthropic.com/news/cyber-verification-program",
-          "source": "Anthropic",
-          "published_at": "2026-10-06T00:00:00Z",
-          "summary": "Expanding the Cyber Verification Program",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-06-expanding-the-cyber-verification-program"
         }
       ]
     },
