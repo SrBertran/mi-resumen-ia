@@ -1,78 +1,143 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T11:47:21.089252Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T11:41:32.943039Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Los creadores de 'Fortnite' dicen que \"programar es difícil\", así que han pedido a la IA que les rehaga la Epic Store",
-      "url": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
+      "title": "Time is a-changin’: say goodbye to the leap second",
+      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "source": "The Verge",
+      "published_at": "2026-10-16T10:00:25Z",
+      "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-16-time-is-a-changin-say-goodbye-to-the-leap"
+    },
+    {
+      "title": "Epic despidió a más de mil empleados y ahora exige usar IA para desarrollar su ambicioso juego con Disney",
+      "url": "https://www.xataka.com/videojuegos/epic-despidio-a-mil-empleados-ahora-exige-usar-ia-para-desarrollar-su-ambicioso-juego-disney",
       "source": "Xataka",
-      "published_at": "2026-10-15T11:00:25Z",
-      "summary": "Me gustaría decir que esa frase es una licencia que me he tomado, pero realmente es algo literal. En un mensaje publicado ayer en la página de novedades de Epic Games, la compañía que ahora es la del 'Fortnite' y la del …",
+      "published_at": "2026-10-16T09:30:26Z",
+      "summary": "Después de despedir a más de 1.000 personas para recortar gastos, Epic Games ha dado nuevas directrices a quienes siguen en la empresa: la inteligencia artificial pasa a ser prioritaria. Esta medida no solo ha traído un …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-15-los-creadores-de-fortnite-dicen-que-programar-es"
+      "id": "xataka-2026-10-16-epic-despidio-a-mas-de-mil-empleados-y"
     },
     {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "source": "The Verge",
-      "published_at": "2026-10-15T11:00:00Z",
-      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-15-your-secrets-aren-t-safe-with-this-cute"
-    },
-    {
-      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "source": "The Verge",
-      "published_at": "2026-10-15T10:05:07Z",
-      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said i…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-15-big-walk-skipped-xbox-to-boycott-microsoft-s"
-    },
-    {
-      "title": "Una IA permite a la policía localizar tu casa con una sola foto del interior",
-      "url": "https://www.xataka.com/privacidad/ia-permite-a-policia-localizar-tu-casa-sola-foto-interior",
+      "title": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
+      "url": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
       "source": "Xataka",
-      "published_at": "2026-10-15T05:01:18Z",
-      "summary": "Graylark Technologies, la empresa detrás de Raven (anteriormente conocida como GeoSpy), ha añadido una función que permite a los que usan su herramienta subir una foto del interior de una casa y conseguir la dirección de…",
+      "published_at": "2026-10-16T09:00:27Z",
+      "summary": "Aunque no lo parezca por la cantidad de redes sociales que usamos en el día a día, vivimos en medio de una crisis global de desconexión. Y aunque parezca paradójico, los datos de la OMS sobre conexión social apuntan a qu…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-15-una-ia-permite-a-la-policia-localizar-tu"
+      "id": "xataka-2026-10-16-hablar-con-una-ia-cuando-te-sientes-solo"
     },
     {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "published_at": "2026-10-16T01:44:47Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-10-16-scaling-indic-pretraining-2-8-trillion-tokens-and"
+    },
+    {
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
       "source": "The Verge",
-      "published_at": "2026-10-14T22:53:31Z",
-      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal…",
+      "published_at": "2026-10-16T01:28:27Z",
+      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accel…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-14-mckinsey-is-making-job-applicants-spar-with-a"
+      "id": "theverge-2026-10-16-the-tesla-roadster-flew-drove-upside-down-and"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T19:00:00Z",
+          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-bringing-gpt-rosalind-to-academic-research-labs"
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "source": "DeepMind",
+          "published_at": "2026-10-15T16:08:03Z",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-15-accelerating-the-search-for-antimicrobial-peptides-with-google"
+        },
+        {
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T13:00:00Z",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-teaching-students-to-think-and-learn-through-questions"
+        },
+        {
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-sullivan-cromwell-brings-legal-expertise-into-agreement-review"
+        },
+        {
+          "title": "An update on independent evaluators",
+          "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+          "source": "Anthropic",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "An update on independent evaluators",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-15-an-update-on-independent-evaluators"
+        },
         {
           "title": "Amp puts AI agents to work beyond code with OpenAI models",
           "url": "https://openai.com/index/amp-beyond-coding",
@@ -241,71 +306,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-13-higgsfield-takes-ai-video-from-1-minute-to"
-        },
-        {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-09-asana-cuts-model-costs-76x-in-browser-tests"
-        },
-        {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-09-sophos-cuts-threat-investigation-time-by-96-with"
-        },
-        {
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T16:00:00Z",
-          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-how-oracle-turns-days-of-work-into-minutes"
-        },
-        {
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T12:00:00Z",
-          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-pollo-ai-turns-creative-ideas-into-campaigns-with"
-        },
-        {
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T12:00:00Z",
-          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-legalon-halves-codex-costs-while-maintaining-development-speed"
         }
       ]
     },
@@ -328,26 +328,65 @@
       ]
     },
     {
-      "name": "Investigación",
+      "name": "Regulación",
       "items": [
         {
-          "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
-          "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-13T13:00:03Z",
-          "summary": "How should humans relate to generative AI ? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could …",
+          "title": "Silicon Valley está abrazando el preparacionismo convencido de las catástrofes a las que nos conduce la IA",
+          "url": "https://www.xataka.com/robotica-e-ia/silicon-valley-tiene-claro-que-futuro-no-seran-300-supermercados-sino-todo-pais-eso-se-esta-volviendo-preparacionista",
+          "source": "Xataka",
+          "published_at": "2026-10-15T15:00:29Z",
+          "summary": "Pasamos por delante de los frigoríficos de los supermercados sin prestarles mucha atención. Nadie podía imaginar que un ataque a sus sistemas de gestión de temperatura pudiera encender las alarmas que ha encendido el inc…",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "regulación"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-10-13-google-deepmind-s-new-resident-philosopher-tackles-ai"
+          "category": "regulación",
+          "id": "xataka-2026-10-15-silicon-valley-esta-abrazando-el-preparacionismo-convencido-de"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face",
+          "published_at": "2026-10-15T20:34:01Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-15-granite-switch-4-1-chat-decisions-and-speech"
+        },
+        {
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-15-welcome-muse-spark-open-open-weight-frontier-multimodal-mixture-of-experts"
+        },
+        {
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-15-welcome-flux-3-image-klein-in-diffusers"
+        },
         {
           "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "url": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -360,19 +399,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-14-hiro-acev2-simulating-extreme-weather-at-3-km-resolution"
-        },
-        {
-          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-          "source": "Hugging Face",
-          "published_at": "2026-10-13T17:05:48Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-13-run-fast-private-agents-on-device-with-lfm2-5-24b-a2b"
         }
       ]
     },
@@ -380,95 +406,173 @@
       "name": "General",
       "items": [
         {
-          "title": "The best feature of Apple’s HomeView might be its simplicity",
-          "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "title": "Steam can now show game achievements in separate ‘sets’",
+          "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
           "source": "The Verge",
-          "published_at": "2026-10-14T22:00:02Z",
-          "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart d…",
+          "published_at": "2026-10-15T23:18:28Z",
+          "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-the-best-feature-of-apple-s-homeview-might"
+          "id": "theverge-2026-10-15-steam-can-now-show-game-achievements-in-separate"
         },
         {
-          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
           "source": "The Verge",
-          "published_at": "2026-10-14T21:11:28Z",
-          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel…",
+          "published_at": "2026-10-15T22:43:23Z",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-eight-states-sue-openai-saying-chatgpt-isn-8217"
+          "id": "theverge-2026-10-15-chatgpt-can-peek-at-your-chrome-tabs-now"
         },
         {
-          "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-          "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+          "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+          "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
           "source": "The Verge",
-          "published_at": "2026-10-14T20:03:43Z",
-          "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing …",
+          "published_at": "2026-10-15T22:35:55Z",
+          "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-microsoft-and-japan-took-down-a-cybercrime-network"
+          "id": "theverge-2026-10-15-sega-pulls-total-war-shogun-2-remaster-from"
         },
         {
-          "title": "The AI race is back on",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "title": "The tech backlash is now in theaters",
+          "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
           "source": "The Verge",
-          "published_at": "2026-10-14T19:06:03Z",
-          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite…",
+          "published_at": "2026-10-15T21:39:52Z",
+          "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Re…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-the-ai-race-is-back-on"
+          "id": "theverge-2026-10-15-the-tech-backlash-is-now-in-theaters"
         },
         {
-          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "title": "Trump posts AI-edited photo to brag about White House restoration work",
+          "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
           "source": "The Verge",
-          "published_at": "2026-10-14T18:47:54Z",
-          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among…",
+          "published_at": "2026-10-15T21:09:33Z",
+          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-now-that-character-ai-is-going-bankrupt-what"
+          "id": "theverge-2026-10-15-trump-posts-ai-edited-photo-to-brag-about-white"
         },
         {
-          "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-          "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+          "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+          "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
           "source": "The Verge",
-          "published_at": "2026-10-14T18:38:59Z",
-          "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote …",
+          "published_at": "2026-10-15T19:57:16Z",
+          "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-as-a-tv-enthusiast-i-was-hoping-for"
+          "id": "theverge-2026-10-15-bluesky-8217-s-ai-tool-now-lets-you"
         },
         {
-          "title": "YouTube sticks new labels on AI-generated songs",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "title": "Withings now charges $100 per year to sync your data to other apps",
+          "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
           "source": "The Verge",
-          "published_at": "2026-10-14T18:22:56Z",
-          "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply …",
+          "published_at": "2026-10-15T19:52:13Z",
+          "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. Accordi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-14-youtube-sticks-new-labels-on-ai-generated-songs"
+          "id": "theverge-2026-10-15-withings-now-charges-100-per-year-to-sync"
+        },
+        {
+          "title": "ChatGPT ya tenía algunas de las voces más naturales de la IA. GPT-Live-1.1 ahora va a por uno de sus puntos débiles",
+          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-tenia-algunas-voces-naturales-ia-gpt-live-1-1-ahora-va-a-uno-sus-puntos-debiles",
+          "source": "Xataka",
+          "published_at": "2026-10-15T19:30:40Z",
+          "summary": "Llevo bastante tiempo probando las voces de los asistentes de inteligencia artificial, y hay algo que siempre me ha llamado la atención: lo mucho que ha cambiado la experiencia de hablar con una máquina. Hoy tenemos prop…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-15-chatgpt-ya-tenia-algunas-de-las-voces-mas"
+        },
+        {
+          "title": "Nvidia se ha propuesto diversificar su apuesta por la IA: ha donado 250 millones de dólares a Reino Unido y más de 2.000 millones en Europa",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-ha-propuesto-diversificar-su-apuesta-ia-ha-donado-250-millones-dolares-a-reino-unido-2-000-millones-europa",
+          "source": "Xataka",
+          "published_at": "2026-10-15T18:16:25Z",
+          "summary": "Nvidia quiere echar sus huevos de la IA en todas las cestas posibles. El último ejemplo ha ocurrido esta misma semana, donde su CEO, Jensen Huang, anunció una donación de capacidad de cálculo valorada en unos 250 millone…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-15-nvidia-se-ha-propuesto-diversificar-su-apuesta-por"
+        },
+        {
+          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "source": "The Verge",
+          "published_at": "2026-10-15T18:15:36Z",
+          "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-15-meta-and-apple-team-up-to-make-muse"
+        },
+        {
+          "title": "Nvidia quiere que RTX Spark marque un antes y un después en el PC: después de verlo en acción, no parece una locura",
+          "url": "https://www.xataka.com/ordenadores/nvidia-quiere-que-rtx-spark-marque-antes-despues-pc-despues-verlo-accion-no-parece-locura",
+          "source": "Xataka",
+          "published_at": "2026-10-15T13:00:00Z",
+          "summary": "Durante 1.000 años, las Murallas Teodosianas de Constantinopla aguantaron todo tipo de ataques. Sin embargo, en 1453 un ingeniero llamado Orbán acabó creando un monstruoso cañón que las derribó. El sultán otomano Mehmed …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-15-nvidia-quiere-que-rtx-spark-marque-un-antes"
+        },
+        {
+          "title": "Epic le ha pedido a la IA que rehaga toda la interfaz de su tienda porque \"programar es difícil\"",
+          "url": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
+          "source": "Xataka",
+          "published_at": "2026-10-15T11:00:00Z",
+          "summary": "Me gustaría decir que esa frase es una licencia que me he tomado, pero realmente es algo literal. En un mensaje publicado ayer en la página de novedades de Epic Games, la compañía que ahora es la del 'Fortnite' y la del …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-15-epic-le-ha-pedido-a-la-ia-que"
+        },
+        {
+          "title": "Con una fotografía de tu lavadora, una IA ya puede enviarle tu ubicación a la policía en Estados Unidos",
+          "url": "https://www.xataka.com/privacidad/ia-permite-a-policia-localizar-tu-casa-sola-foto-interior",
+          "source": "Xataka",
+          "published_at": "2026-10-15T05:00:00Z",
+          "summary": "Graylark Technologies, la empresa detrás de Raven (anteriormente conocida como GeoSpy), ha añadido una función que permite a los que usan su herramienta subir una foto del interior de una casa y conseguir la dirección de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-15-con-una-fotografia-de-tu-lavadora-una-ia"
         },
         {
           "title": "Google quiere que las apps que creas con IA vivan en la Play Store, aunque solo las uses tú",
@@ -482,84 +586,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-14-google-quiere-que-las-apps-que-creas-con"
-        },
-        {
-          "title": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
-          "url": "https://www.xataka.com/robotica-e-ia/todas-empresas-ia-quieren-crear-sus-propios-chips-asi-que-nvidia-quiere-ahora-tener-su-propia-ia",
-          "source": "Xataka",
-          "published_at": "2026-10-14T13:00:30Z",
-          "summary": "Nvidia se ha convertido en el pegamento de la IA por su tecnología, pero también por sus inversiones . El gigante estadounidense ha logrado que sus chips sean los más deseados en la fase de entrenamiento de la inteligenc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-14-todas-las-empresas-de-ia-quieren-crear-sus"
-        },
-        {
-          "title": "Brad Smith, presidente de Microsoft: \"Ahora mismo, tu lavadora está sujeta a más normas de seguridad que la IA\"",
-          "url": "https://www.xataka.com/empresas-y-economia/tu-lavadora-esta-sujeta-a-reglas-seguridad-que-ia-brad-smith-presidente-microsoft-pide-frenar-salvaje-oeste-ia",
-          "source": "Xataka",
-          "published_at": "2026-10-14T10:00:00Z",
-          "summary": "Brad Smith, presidente de Microsoft, ha prestado declaración recientemente sobre cómo está el panorama de la IA en términos de regulación. La cosa no está para tirar cohetes, y el propio Smith sostiene que hasta un cartó…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-14-brad-smith-presidente-de-microsoft-ahora-mismo-tu"
-        },
-        {
-          "title": "Gemini 4 Argon es la nueva bestia de Google para el trabajo pesado: código, ciencia, finanzas y ciberseguridad",
-          "url": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
-          "source": "Xataka",
-          "published_at": "2026-10-13T16:48:00Z",
-          "summary": "Imaginemos que encargamos a una inteligencia artificial una tarea que no puede resolverse con una sola respuesta: revisar miles de líneas de código, detectar qué partes ralentizan un programa y proponer cambios sin alter…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-13-gemini-4-argon-es-la-nueva-bestia-de"
-        },
-        {
-          "title": "PcComponentes ha encontrado una forma de exprimir el auge de la IA sin necesidad de apostarlo todo al hardware",
-          "url": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
-          "source": "Xataka",
-          "published_at": "2026-10-13T16:30:00Z",
-          "summary": "En 1984, Michael Dell se dedicaba a mejorar el rendimiento de los PC de sus compañeros de su residencia universitaria de Texas. Pero lo que realmente le ha convertido en la cuarta mayor fortuna del mundo, con un patrimon…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-13-pccomponentes-ha-encontrado-una-forma-de-exprimir-el"
-        },
-        {
-          "title": "Si creías que una demo no costaba dinero, que se lo digan a estos desarrolladores de Steam: les cuesta mil dólares diarios",
-          "url": "https://www.xataka.com/aplicaciones/demo-gratis-steam-usa-tanta-ia-que-sus-autores-han-tenido-que-pedir-credito-para-pagar-facturas",
-          "source": "Xataka",
-          "published_at": "2026-10-13T15:30:00Z",
-          "summary": "¿Quién no se ha bajado alguna vez la demo de algún juego? Es una manera perfecta de saber cómo es la experiencia antes de pagarla, por eso las demos son una gran herramienta de marketing para los desarrolladores. Pero ¿q…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-13-si-creias-que-una-demo-no-costaba-dinero"
-        },
-        {
-          "title": "Meta presenta Muse Wonder y Muse Wonder Full, sus modelos de IA más punteros para ponerse en la frontera de la tecnología",
-          "url": "https://www.xataka.com/robotica-e-ia/meta-presenta-muse-wonder-muse-wonder-full-sus-modelos-ia-punteros-objetivo-hacer-frente-a-mejores-openai-anthropic",
-          "source": "Xataka",
-          "published_at": "2026-10-13T15:20:00Z",
-          "summary": "Meta ha lanzado este lunes Muse Wonder y Muse Wonder Full, los primeros modelos de sus “Superintelligence Labs” que, según la compañía , se colocan a la vanguardia junto con los mejores modelos de OpenAI y Anthropic. Lle…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-13-meta-presenta-muse-wonder-y-muse-wonder-full"
         }
       ]
     }
@@ -596,6 +622,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T19:00:00Z",
+          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-bringing-gpt-rosalind-to-academic-research-labs"
+        },
+        {
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T13:00:00Z",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-teaching-students-to-think-and-learn-through-questions"
+        },
+        {
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "source": "OpenAI",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-15-sullivan-cromwell-brings-legal-expertise-into-agreement-review"
+        },
         {
           "title": "Amp puts AI agents to work beyond code with OpenAI models",
           "url": "https://openai.com/index/amp-beyond-coding",
@@ -673,71 +738,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-13-higgsfield-takes-ai-video-from-1-minute-to"
-        },
-        {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-09-asana-cuts-model-costs-76x-in-browser-tests"
-        },
-        {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-09-sophos-cuts-threat-investigation-time-by-96-with"
-        },
-        {
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T16:00:00Z",
-          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-how-oracle-turns-days-of-work-into-minutes"
-        },
-        {
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T12:00:00Z",
-          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-pollo-ai-turns-creative-ideas-into-campaigns-with"
-        },
-        {
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI",
-          "published_at": "2026-10-08T12:00:00Z",
-          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-08-legalon-halves-codex-costs-while-maintaining-development-speed"
         }
       ]
     },
@@ -745,6 +745,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "An update on independent evaluators",
+          "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+          "source": "Anthropic",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "An update on independent evaluators",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-15-an-update-on-independent-evaluators"
+        },
         {
           "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
           "url": "https://www.anthropic.com/news/singapore-office-opening",
@@ -796,6 +809,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "source": "DeepMind",
+          "published_at": "2026-10-15T16:08:03Z",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-15-accelerating-the-search-for-antimicrobial-peptides-with-google"
+        },
         {
           "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
           "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
