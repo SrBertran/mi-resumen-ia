@@ -1,78 +1,117 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T11:41:32.943039Z",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:00:50.267257Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Time is a-changin’: say goodbye to the leap second",
-      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-      "source": "The Verge",
-      "published_at": "2026-10-16T10:00:25Z",
-      "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-16-time-is-a-changin-say-goodbye-to-the-leap"
-    },
-    {
-      "title": "Epic despidió a más de mil empleados y ahora exige usar IA para desarrollar su ambicioso juego con Disney",
-      "url": "https://www.xataka.com/videojuegos/epic-despidio-a-mil-empleados-ahora-exige-usar-ia-para-desarrollar-su-ambicioso-juego-disney",
+      "title": "Rusia puso motores a reacción a sus drones para volar a 600 km/h: la respuesta de Ucrania ha sido darle ojos y cerebro a una ametralladora",
+      "url": "https://www.xataka.com/magnet/rusia-puso-motores-a-reaccion-a-sus-drones-para-volar-a-600-km-h-respuesta-ucrania-ha-sido-darle-ojos-cerebro-a-ametralladora",
       "source": "Xataka",
-      "published_at": "2026-10-16T09:30:26Z",
-      "summary": "Después de despedir a más de 1.000 personas para recortar gastos, Epic Games ha dado nuevas directrices a quienes siguen en la empresa: la inteligencia artificial pasa a ser prioritaria. Esta medida no solo ha traído un …",
+      "published_at": "2026-10-17T10:30:08Z",
+      "summary": "Rusia ha encontrado una forma de complicar todavía más la defensa aérea de Ucrania: sustituir las hélices de algunos de sus drones de ataque por pequeños motores a reacción capaces de impulsarlos a velocidades cercanas a…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-16-epic-despidio-a-mas-de-mil-empleados-y"
+      "id": "xataka-2026-10-17-rusia-puso-motores-a-reaccion-a-sus-drones"
     },
     {
-      "title": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
-      "url": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
+      "title": "Zhang Yiming, el dueño de TikTok ha duplicado su fortuna. Su secreto: la IA, claro",
+      "url": "https://www.xataka.com/robotica-e-ia/zhang-yiming-dueno-tiktok-ha-duplicado-su-fortuna-su-secreto-ia-claro",
       "source": "Xataka",
-      "published_at": "2026-10-16T09:00:27Z",
-      "summary": "Aunque no lo parezca por la cantidad de redes sociales que usamos en el día a día, vivimos en medio de una crisis global de desconexión. Y aunque parezca paradójico, los datos de la OMS sobre conexión social apuntan a qu…",
+      "published_at": "2026-10-17T09:00:04Z",
+      "summary": "El nombre de Zhang Yiming probablemente no te suene de nada. Sin embargo, es probable que sí lo haga la empresa que fundó y convirtió en su principal fuente de ingresos: ByteDance, empresa propietaria de TikTok . Zhang Y…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-16-hablar-con-una-ia-cuando-te-sientes-solo"
+      "id": "xataka-2026-10-17-zhang-yiming-el-dueno-de-tiktok-ha-duplicado"
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "published_at": "2026-10-16T01:44:47Z",
-      "summary": "Qué pasó: (resumen pendiente)",
+      "title": "ChatGPT sigue siendo el rey, pero ya no es tan intocable: así ha cambiado el mapa de la IA en un año",
+      "url": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
+      "source": "Xataka",
+      "published_at": "2026-10-17T08:00:04Z",
+      "summary": "En noviembre de 2022 llegó ChatGPT y puso todo patas arriba . OpenAI fue la primera, pero no tardaron en aparecer rivales y arrancó una carrera feroz por tener la mejor IA posible, con entrenamientos masivos y métodos di…",
       "why_it_matters": "",
       "tags": [
-        "herramientas"
+        "ia"
       ],
-      "category": "herramientas",
-      "id": "huggingface-2026-10-16-scaling-indic-pretraining-2-8-trillion-tokens-and"
+      "category": "general",
+      "id": "xataka-2026-10-17-chatgpt-sigue-siendo-el-rey-pero-ya-no"
     },
     {
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
       "source": "The Verge",
-      "published_at": "2026-10-16T01:28:27Z",
-      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accel…",
+      "published_at": "2026-10-16T23:36:26Z",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-16-the-tesla-roadster-flew-drove-upside-down-and"
+      "id": "theverge-2026-10-16-all-the-news-about-the-iphone-duo"
+    },
+    {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "published_at": "2026-10-16T22:51:22Z",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-16-apple-8217-s-updated-app-store-rules-go"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T19:00:00Z",
+          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
+        },
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-stack-overflow-for-agents-triples-signups-with-chatgpt"
+        },
+        {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "url": "https://openai.com/index/benefit-street-partners",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
+        },
         {
           "title": "Bringing GPT-Rosalind to academic research labs",
           "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -310,44 +349,52 @@
       ]
     },
     {
-      "name": "Negocio",
+      "name": "Investigación",
       "items": [
         {
-          "title": "Instinct y Muse querían ocuparse de nuestras compras, pero se han topado con un obstáculo inesperado: las tiendas tienen puertas",
-          "url": "https://www.xataka.com/robotica-e-ia/instinct-muse-prometian-acceder-a-tiendas-comprar-nosotros-problema-que-tiendas-estan-bloqueando",
-          "source": "Xataka",
-          "published_at": "2026-10-14T13:30:00Z",
-          "summary": "Los agentes de IA nos prometieron un mundo en el que bastaba abrir un chat directo con una IA a la que le podríamos pedir que hiciera todos los recados de la casa, como cuando de niños nos mandaban a por el pan o a compr…",
+          "title": "Simulation App Speeds Up Electric Truck Battery Design",
+          "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-16T16:49:18Z",
+          "summary": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cro…",
           "why_it_matters": "",
           "tags": [
-            "negocio"
+            "investigación"
           ],
-          "category": "negocio",
-          "id": "xataka-2026-10-14-instinct-y-muse-querian-ocuparse-de-nuestras-compras"
-        }
-      ]
-    },
-    {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "Silicon Valley está abrazando el preparacionismo convencido de las catástrofes a las que nos conduce la IA",
-          "url": "https://www.xataka.com/robotica-e-ia/silicon-valley-tiene-claro-que-futuro-no-seran-300-supermercados-sino-todo-pais-eso-se-esta-volviendo-preparacionista",
-          "source": "Xataka",
-          "published_at": "2026-10-15T15:00:29Z",
-          "summary": "Pasamos por delante de los frigoríficos de los supermercados sin prestarles mucha atención. Nadie podía imaginar que un ataque a sus sistemas de gestión de temperatura pudiera encender las alarmas que ha encendido el inc…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-10-15-silicon-valley-esta-abrazando-el-preparacionismo-convencido-de"
+          "category": "investigación",
+          "id": "ieee-2026-10-16-simulation-app-speeds-up-electric-truck-battery-design"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "source": "Hugging Face",
+          "published_at": "2026-10-16T01:44:47Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-16-scaling-indic-pretraining-2-8-trillion-tokens-and"
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-16-welcome-beam-a-501b-open-model-you-can"
+        },
         {
           "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
           "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -360,45 +407,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-15-granite-switch-4-1-chat-decisions-and-speech"
-        },
-        {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open",
-          "source": "Hugging Face",
-          "published_at": "2026-10-15T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-15-welcome-muse-spark-open-open-weight-frontier-multimodal-mixture-of-experts"
-        },
-        {
-          "title": "Welcome FLUX.3 Image Klein in Diffusers",
-          "url": "https://huggingface.co/blog/flux-3",
-          "source": "Hugging Face",
-          "published_at": "2026-10-15T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-15-welcome-flux-3-image-klein-in-diffusers"
-        },
-        {
-          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "source": "Hugging Face",
-          "published_at": "2026-10-14T16:12:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-14-hiro-acev2-simulating-extreme-weather-at-3-km-resolution"
         }
       ]
     },
@@ -406,186 +414,199 @@
       "name": "General",
       "items": [
         {
-          "title": "Steam can now show game achievements in separate ‘sets’",
-          "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-          "source": "The Verge",
-          "published_at": "2026-10-15T23:18:28Z",
-          "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-steam-can-now-show-game-achievements-in-separate"
-        },
-        {
-          "title": "ChatGPT can peek at your Chrome tabs now",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-          "source": "The Verge",
-          "published_at": "2026-10-15T22:43:23Z",
-          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-chatgpt-can-peek-at-your-chrome-tabs-now"
-        },
-        {
-          "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-          "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-          "source": "The Verge",
-          "published_at": "2026-10-15T22:35:55Z",
-          "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-sega-pulls-total-war-shogun-2-remaster-from"
-        },
-        {
-          "title": "The tech backlash is now in theaters",
-          "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-          "source": "The Verge",
-          "published_at": "2026-10-15T21:39:52Z",
-          "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Re…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-the-tech-backlash-is-now-in-theaters"
-        },
-        {
-          "title": "Trump posts AI-edited photo to brag about White House restoration work",
-          "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-          "source": "The Verge",
-          "published_at": "2026-10-15T21:09:33Z",
-          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-trump-posts-ai-edited-photo-to-brag-about-white"
-        },
-        {
-          "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-          "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-          "source": "The Verge",
-          "published_at": "2026-10-15T19:57:16Z",
-          "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-bluesky-8217-s-ai-tool-now-lets-you"
-        },
-        {
-          "title": "Withings now charges $100 per year to sync your data to other apps",
-          "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
-          "source": "The Verge",
-          "published_at": "2026-10-15T19:52:13Z",
-          "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. Accordi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-15-withings-now-charges-100-per-year-to-sync"
-        },
-        {
-          "title": "ChatGPT ya tenía algunas de las voces más naturales de la IA. GPT-Live-1.1 ahora va a por uno de sus puntos débiles",
-          "url": "https://www.xataka.com/robotica-e-ia/chatgpt-tenia-algunas-voces-naturales-ia-gpt-live-1-1-ahora-va-a-uno-sus-puntos-debiles",
+          "title": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
+          "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos",
           "source": "Xataka",
-          "published_at": "2026-10-15T19:30:40Z",
-          "summary": "Llevo bastante tiempo probando las voces de los asistentes de inteligencia artificial, y hay algo que siempre me ha llamado la atención: lo mucho que ha cambiado la experiencia de hablar con una máquina. Hoy tenemos prop…",
+          "published_at": "2026-10-16T21:54:26Z",
+          "summary": "En el desarrollo de software, cambiar algo para mejorarlo siempre abre la posibilidad de estropear otra cosa. Hasta un ajuste pequeño puede alterar el comportamiento de un programa, de modo que proponer una modificación …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-15-chatgpt-ya-tenia-algunas-de-las-voces-mas"
+          "id": "xataka-2026-10-16-los-agentes-de-ia-estan-aprendiendo-a-mejorar"
         },
         {
-          "title": "Nvidia se ha propuesto diversificar su apuesta por la IA: ha donado 250 millones de dólares a Reino Unido y más de 2.000 millones en Europa",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-ha-propuesto-diversificar-su-apuesta-ia-ha-donado-250-millones-dolares-a-reino-unido-2-000-millones-europa",
-          "source": "Xataka",
-          "published_at": "2026-10-15T18:16:25Z",
-          "summary": "Nvidia quiere echar sus huevos de la IA en todas las cestas posibles. El último ejemplo ha ocurrido esta misma semana, donde su CEO, Jensen Huang, anunció una donación de capacidad de cálculo valorada en unos 250 millone…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-15-nvidia-se-ha-propuesto-diversificar-su-apuesta-por"
-        },
-        {
-          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+          "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
           "source": "The Verge",
-          "published_at": "2026-10-15T18:15:36Z",
-          "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop …",
+          "published_at": "2026-10-16T20:50:27Z",
+          "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-15-meta-and-apple-team-up-to-make-muse"
+          "id": "theverge-2026-10-16-we-can-finally-hear-some-of-wu-tang-clan"
         },
         {
-          "title": "Nvidia quiere que RTX Spark marque un antes y un después en el PC: después de verlo en acción, no parece una locura",
-          "url": "https://www.xataka.com/ordenadores/nvidia-quiere-que-rtx-spark-marque-antes-despues-pc-despues-verlo-accion-no-parece-locura",
-          "source": "Xataka",
-          "published_at": "2026-10-15T13:00:00Z",
-          "summary": "Durante 1.000 años, las Murallas Teodosianas de Constantinopla aguantaron todo tipo de ataques. Sin embargo, en 1453 un ingeniero llamado Orbán acabó creando un monstruoso cañón que las derribó. El sultán otomano Mehmed …",
+          "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+          "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+          "source": "The Verge",
+          "published_at": "2026-10-16T20:49:04Z",
+          "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technolog…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-15-nvidia-quiere-que-rtx-spark-marque-un-antes"
+          "id": "theverge-2026-10-16-tesla-driver-says-he-was-asleep-and-using"
         },
         {
-          "title": "Epic le ha pedido a la IA que rehaga toda la interfaz de su tienda porque \"programar es difícil\"",
-          "url": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
-          "source": "Xataka",
-          "published_at": "2026-10-15T11:00:00Z",
-          "summary": "Me gustaría decir que esa frase es una licencia que me he tomado, pero realmente es algo literal. En un mensaje publicado ayer en la página de novedades de Epic Games, la compañía que ahora es la del 'Fortnite' y la del …",
+          "title": "Why Apple is finally making its own smart home devices",
+          "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+          "source": "The Verge",
+          "published_at": "2026-10-16T18:30:27Z",
+          "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-15-epic-le-ha-pedido-a-la-ia-que"
+          "id": "theverge-2026-10-16-why-apple-is-finally-making-its-own-smart"
         },
         {
-          "title": "Con una fotografía de tu lavadora, una IA ya puede enviarle tu ubicación a la policía en Estados Unidos",
-          "url": "https://www.xataka.com/privacidad/ia-permite-a-policia-localizar-tu-casa-sola-foto-interior",
+          "title": "OpenAI pidió a una IA que terminara una tarea de programación. Acabó entrando en una cartera ajena para conseguirlo",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-pidio-a-ia-que-terminara-tarea-programacion-acabo-entrando-cartera-ajena-para-conseguirlo",
           "source": "Xataka",
-          "published_at": "2026-10-15T05:00:00Z",
-          "summary": "Graylark Technologies, la empresa detrás de Raven (anteriormente conocida como GeoSpy), ha añadido una función que permite a los que usan su herramienta subir una foto del interior de una casa y conseguir la dirección de…",
+          "published_at": "2026-10-16T18:30:26Z",
+          "summary": "Hasta hace no tanto, hablar de agentes de inteligencia artificial parecía hablar de una tecnología del futuro. Hoy, sin embargo, ya podemos delegarles tareas que van mucho más allá de responder preguntas: buscar informac…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-15-con-una-fotografia-de-tu-lavadora-una-ia"
+          "id": "xataka-2026-10-16-openai-pidio-a-una-ia-que-terminara-una"
         },
         {
-          "title": "Google quiere que las apps que creas con IA vivan en la Play Store, aunque solo las uses tú",
-          "url": "https://www.xataka.com/aplicaciones/google-quiere-que-apps-que-creas-ia-vivan-play-store-solo-uses-tu",
-          "source": "Xataka",
-          "published_at": "2026-10-14T14:16:27Z",
-          "summary": "Google está reservando un rinconcito de su Google Play para que puedas subir a la plataforma las apps que crees con ayuda de la IA. Y es que tal y como han informado en su blog oficial, a partir de esta semana, cualquier…",
+          "title": "The new Apple TV 4K just got its first (very small) discount",
+          "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-10-16T16:02:22Z",
+          "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-14-google-quiere-que-las-apps-que-creas-con"
+          "id": "theverge-2026-10-16-the-new-apple-tv-4k-just-got-its"
+        },
+        {
+          "title": "Apple&#8217;s HomeView has an app problem",
+          "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+          "source": "The Verge",
+          "published_at": "2026-10-16T15:38:17Z",
+          "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always conne…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-16-apple-8217-s-homeview-has-an-app-problem"
+        },
+        {
+          "title": "Getty es la primera gran empresa del pasado en caer por culpa de la IA: si otras no aprenden, no será la última",
+          "url": "https://www.xataka.com/empresas-y-economia/getty-primera-gran-empresa-pasado-caer-culpa-ia-otras-no-aprenden-no-sera-ultima",
+          "source": "Xataka",
+          "published_at": "2026-10-16T15:30:29Z",
+          "summary": "Seguro que alguna vez has visto una imagen con la marca de agua de 'Getty'. Se trata de la mayor licenciataria de fotos y vídeos de archivo del mundo, una empresa que gestiona una de las colecciones más apabullantes del …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-16-getty-es-la-primera-gran-empresa-del-pasado"
+        },
+        {
+          "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+          "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+          "source": "The Verge",
+          "published_at": "2026-10-16T15:08:38Z",
+          "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-16-analogue-is-re-releasing-its-snes-and-genesis-consoles"
+        },
+        {
+          "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+          "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+          "source": "The Verge",
+          "published_at": "2026-10-16T15:02:23Z",
+          "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-16-a-fake-whatsapp-clone-is-showing-up-before"
+        },
+        {
+          "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+          "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+          "source": "The Verge",
+          "published_at": "2026-10-16T15:00:00Z",
+          "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-16-a-week-with-rtx-spark-everything-we-ve"
+        },
+        {
+          "title": "Han pillado a una flota de agentes de IA rebeldes campando por internet. Por primera vez, han sido creados y activados en China",
+          "url": "https://www.xataka.com/robotica-e-ia/han-pillado-a-flota-agentes-ia-rebeldes-campando-internet-primera-vez-han-sido-creados-activados-china",
+          "source": "Xataka",
+          "published_at": "2026-10-16T14:00:28Z",
+          "summary": "Por primera vez, unos investigadores especializados en ciberseguridad han capturado a un grupo de agentes de IA autónomos merodeando por internet que habían sido desplegados desde infraestructura china. Durante diez días…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-16-han-pillado-a-una-flota-de-agentes-de"
+        },
+        {
+          "title": "ASUS ProArt P16 (RTX Spark), análisis: Nvidia ha metido una pequeña fábrica de tokens en un portátil",
+          "url": "https://www.xataka.com/analisis/asus-proart-p16-rtx-spark-analisis-review-caracteristicas-precio-especificaciones",
+          "source": "Xataka",
+          "published_at": "2026-10-16T13:00:29Z",
+          "summary": "Soplan nuevos aires en la industria de los PCs y los portátiles. Tras décadas de dominio imperial de la arquitectura x86, Nvidia quiere darle la vuelta a la tortilla con sus nuevos chips ARM, los RTX Spark . Viene avisan…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-16-asus-proart-p16-rtx-spark-analisis-nvidia-ha"
+        },
+        {
+          "title": "Epic despidió a más de mil empleados y ahora exige usar IA para desarrollar su ambicioso juego con Disney",
+          "url": "https://www.xataka.com/videojuegos/epic-despidio-a-mil-empleados-ahora-exige-usar-ia-para-desarrollar-su-ambicioso-juego-disney",
+          "source": "Xataka",
+          "published_at": "2026-10-16T09:30:26Z",
+          "summary": "Después de despedir a más de 1.000 personas para recortar gastos, Epic Games ha dado nuevas directrices a quienes siguen en la empresa: la inteligencia artificial pasa a ser prioritaria. Esta medida no solo ha traído un …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-16-epic-despidio-a-mas-de-mil-empleados-y"
+        },
+        {
+          "title": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
+          "url": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
+          "source": "Xataka",
+          "published_at": "2026-10-16T09:00:27Z",
+          "summary": "Aunque no lo parezca por la cantidad de redes sociales que usamos en el día a día, vivimos en medio de una crisis global de desconexión. Y aunque parezca paradójico, los datos de la OMS sobre conexión social apuntan a qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-16-hablar-con-una-ia-cuando-te-sientes-solo"
         }
       ]
     }
@@ -622,6 +643,45 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T19:00:00Z",
+          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
+        },
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-stack-overflow-for-agents-triples-signups-with-chatgpt"
+        },
+        {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "url": "https://openai.com/index/benefit-street-partners",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
+        },
         {
           "title": "Bringing GPT-Rosalind to academic research labs",
           "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
