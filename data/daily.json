@@ -1,78 +1,91 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T13:43:32.673966Z",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T11:53:16.246906Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Amazon se ha convertido en el mejor ejemplo del impacto de la IA en el empleo: ni se crea ni se destruye, se desplaza",
-      "url": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
+      "title": "La última sensación viral de la IA es eliminar anuncios y bloatware de las Smart TV: he \"tontificado\" mi Chromecast y es maravilloso",
+      "url": "https://www.xataka.com/televisores/ultima-sensacion-viral-ia-eliminar-anuncios-bloatware-smart-tv-he-tontificado-mi-chromecast-maravilloso",
       "source": "Xataka",
-      "published_at": "2026-10-19T13:15:53Z",
-      "summary": "Sam Altman ya puso sobre la mesa que la IA estaba siendo una de las mejores excusas de las grandes tecnológicas para justificar las rondas de despidos que se han venido produciendo en 2026. Sin embargo, durante una entre…",
+      "published_at": "2026-10-20T11:15:00Z",
+      "summary": "El domingo por la tarde, como quien no quiere la cosa, veo un tuit curioso de Monos Estocásticos. En él citaban otro tuit de un usuario llamado @gathint con un descubrimiento llamativo . Ese usuario (o usuaria) había \" v…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-19-amazon-se-ha-convertido-en-el-mejor-ejemplo"
+      "id": "xataka-2026-10-20-la-ultima-sensacion-viral-de-la-ia-es"
     },
     {
-      "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-      "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
       "source": "The Verge",
-      "published_at": "2026-10-19T13:00:00Z",
-      "summary": "Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various health metrics across your a…",
+      "published_at": "2026-10-20T10:16:47Z",
+      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-19-wyze-moved-the-screen-on-its-new-smart"
+      "id": "theverge-2026-10-20-some-google-home-speakers-caught-downloading-hundreds-of"
     },
     {
-      "title": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
-      "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
-      "source": "Xataka",
-      "published_at": "2026-10-19T12:47:54Z",
-      "summary": "Anthropic ha estado presentando entre bambalinas un borrador de proyecto de ley sobre la seguridad de los modelos de IA más punteros en el Capitolio, según el medio Politico . Desde luego no es frecuente que un laborator…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-19-50-muertos-o-1-000-millones-de-dolares"
-    },
-    {
-      "title": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
-      "url": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
-      "source": "Xataka",
-      "published_at": "2026-10-19T12:31:53Z",
-      "summary": "El pasado 12 de octubre, Meta realizó una de las apuestas más arriesgadas de la compañía. Zuckerberg presentó Muse Wonder , el primer modelo de IA de vanguardia con aspiraciones de competir de tú a tú, por fin , en la li…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-19-susan-li-cfo-de-meta-sobre-el-futuro"
-    },
-    {
-      "title": "Vibe coding is turning the music gear world upside down",
-      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
       "source": "The Verge",
-      "published_at": "2026-10-19T12:30:00Z",
-      "summary": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of …",
+      "published_at": "2026-10-20T04:00:00Z",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security P…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-19-vibe-coding-is-turning-the-music-gear-world"
+      "id": "theverge-2026-10-20-baseus-new-security-camera-has-a-spotlight-that"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": "Qué pasó: (resumen pendiente)",
+      "why_it_matters": "",
+      "tags": [
+        "herramientas"
+      ],
+      "category": "herramientas",
+      "id": "huggingface-2026-10-20-mps-in-pytorch-2-15"
+    },
+    {
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "source": "The Verge",
+      "published_at": "2026-10-19T22:30:42Z",
+      "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in Ameri…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-19-elon-musk-s-proposed-spacex-stock-giveaway-would"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI",
+          "published_at": "2026-10-19T12:00:00Z",
+          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
+        },
         {
           "title": "Investing in the public benefit",
           "url": "https://www.anthropic.com/news/public-benefit-fund",
@@ -380,124 +393,194 @@
       ]
     },
     {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face",
+          "published_at": "2026-10-19T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-19-torchneuron-running-hf-models-on-aws-trainium-is"
+        }
+      ]
+    },
+    {
       "name": "General",
       "items": [
         {
-          "title": "Democrats think cracking down on AI could give them an edge",
-          "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+          "title": "The fossil fuel comeback is here",
+          "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
           "source": "The Verge",
-          "published_at": "2026-10-19T12:00:00Z",
-          "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at leas…",
+          "published_at": "2026-10-19T21:48:01Z",
+          "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-19-democrats-think-cracking-down-on-ai-could-give"
+          "id": "theverge-2026-10-19-the-fossil-fuel-comeback-is-here"
         },
         {
-          "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-          "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
           "source": "The Verge",
-          "published_at": "2026-10-19T11:00:00Z",
-          "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talkin…",
+          "published_at": "2026-10-19T21:28:20Z",
+          "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-19-the-maeving-rm2-is-high-style-electric-riding-with"
+          "id": "theverge-2026-10-19-coreweave-8217-s-debt-is-becoming-the-whole"
         },
         {
-          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+          "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+          "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
           "source": "The Verge",
-          "published_at": "2026-10-18T22:20:53Z",
-          "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not sha…",
+          "published_at": "2026-10-19T21:00:17Z",
+          "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors lo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-18-a-savannah-police-officer-gave-her-flock-login"
+          "id": "theverge-2026-10-19-i-tried-a-99-plug-that-promises-to"
         },
         {
-          "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-          "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-          "source": "The Verge",
-          "published_at": "2026-10-18T19:30:00Z",
-          "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-18-mister-organ-is-one-of-the-most-unsettling"
-        },
-        {
-          "title": "A woman was arrested in Philly for blocking a delivery robot",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-          "source": "The Verge",
-          "published_at": "2026-10-18T18:28:10Z",
-          "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of hu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-18-a-woman-was-arrested-in-philly-for-blocking"
-        },
-        {
-          "title": "Video game ownership bill introduced in Congress",
-          "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-          "source": "The Verge",
-          "published_at": "2026-10-18T16:27:51Z",
-          "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that gu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-18-video-game-ownership-bill-introduced-in-congress"
-        },
-        {
-          "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-          "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-18T15:00:00Z",
-          "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz ver…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-18-lenovo-s-fast-comfy-steamos-handheld-is-hundreds"
-        },
-        {
-          "title": "J Mascis has nothing better to do",
-          "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-          "source": "The Verge",
-          "published_at": "2026-10-18T14:00:00Z",
-          "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Ma…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-18-j-mascis-has-nothing-better-to-do"
-        },
-        {
-          "title": "Un experimento puso a dos asistentes virtuales a compartir cerebro y tareas. Sus recompensas contaron una historia diferente",
-          "url": "https://www.xataka.com/robotica-e-ia/decimos-que-genero-ia-nos-da-igual-que-llega-momento-pagarle",
+          "title": "Las ofertas de trabajo en ciberseguridad caen un 26% en EEUU, las de ciberseguridad aplicada a IA suben un 268%",
+          "url": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
           "source": "Xataka",
-          "published_at": "2026-10-18T06:00:00Z",
-          "summary": "La IA suele tener voz de mujer. Desde la primera Siri hasta la actual Alexa, pasando por el GPS: los asistentes virtuales han adoptado tradicionalmente voces femeninas por defecto. No es casualidad, hay razones psicológi…",
+          "published_at": "2026-10-19T19:00:00Z",
+          "summary": "Imaginemos una empresa que comienza a incorporar inteligencia artificial a sus servicios. Además de proteger sus sistemas habituales, ahora debe prestar atención a los datos que utilizan sus modelos, las personas que pue…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-18-un-experimento-puso-a-dos-asistentes-virtuales-a"
+          "id": "xataka-2026-10-19-las-ofertas-de-trabajo-en-ciberseguridad-caen-un"
+        },
+        {
+          "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+          "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+          "source": "The Verge",
+          "published_at": "2026-10-19T18:52:41Z",
+          "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-19-sony-s-best-noise-canceling-earbuds-are-nearly-100"
+        },
+        {
+          "title": "En Extremadura ya hay \"perros-robot\" patrullando los viñedos, recopilando datos y ayudando a los agricultores",
+          "url": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
+          "source": "Xataka",
+          "published_at": "2026-10-19T17:00:00Z",
+          "summary": "Un pequeño amigo artificial de cuatro patas ha aterrizado en tierras extremeñas. Y es que el proyecto denominado como ‘AGRHOUND’ está probando perros robots para que puedan aprender a caminar entre viñedos y túneles de b…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-19-en-extremadura-ya-hay-perros-robot-patrullando-los-vinedos"
+        },
+        {
+          "title": "La solución de Anthropic a la supuesta amenaza existencial que la IA plantea es regalar el 5% de sus acciones a la humanidad",
+          "url": "https://www.xataka.com/empresas-y-economia/anthropic-propone-destinar-5-sus-acciones-a-fondo-que-podria-abordar-impacto-laboral-ia",
+          "source": "Xataka",
+          "published_at": "2026-10-19T16:17:00Z",
+          "summary": "Una de las grandes incógnitas que a día de hoy todavía no hemos despejado es hasta qué punto afectará la llegada de la IA al mercado laboral . Existen estudio y conclusiones de todo tipo: desde las que apuntan a una dest…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-19-la-solucion-de-anthropic-a-la-supuesta-amenaza"
+        },
+        {
+          "title": "Apple teases MacBook Pro event next week",
+          "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+          "source": "The Verge",
+          "published_at": "2026-10-19T16:04:29Z",
+          "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomber…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-19-apple-teases-macbook-pro-event-next-week"
+        },
+        {
+          "title": "Amazon is funding a new nuclear plant in Indiana",
+          "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+          "source": "The Verge",
+          "published_at": "2026-10-19T15:44:20Z",
+          "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed G…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-19-amazon-is-funding-a-new-nuclear-plant-in"
+        },
+        {
+          "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+          "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-10-19T14:41:48Z",
+          "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-19-apple-s-last-gen-mac-mini-with-the-m4"
+        },
+        {
+          "title": "Amazon está demostrando en tiempo real que la IA ni crea ni destruye empleo, simplemente lo desplaza",
+          "url": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
+          "source": "Xataka",
+          "published_at": "2026-10-19T13:15:00Z",
+          "summary": "Sam Altman ya puso sobre la mesa que la IA estaba siendo una de las mejores excusas de las grandes tecnológicas para justificar las rondas de despidos que se han venido produciendo en 2026. Sin embargo, durante una entre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-19-amazon-esta-demostrando-en-tiempo-real-que-la"
+        },
+        {
+          "title": "Anthropic se abre a que el Gobierno bloquee sus modelos IA si se estima el riesgo de 50 muertes o 1.000 millones de dólares en daños",
+          "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
+          "source": "Xataka",
+          "published_at": "2026-10-19T12:45:00Z",
+          "summary": "Anthropic ha estado presentando entre bambalinas un borrador de proyecto de ley sobre la seguridad de los modelos de IA más punteros en el Capitolio, según el medio Politico . Desde luego no es frecuente que un laborator…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-19-anthropic-se-abre-a-que-el-gobierno-bloquee"
+        },
+        {
+          "title": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
+          "url": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
+          "source": "Xataka",
+          "published_at": "2026-10-19T12:31:53Z",
+          "summary": "El pasado 12 de octubre, Meta realizó una de las apuestas más arriesgadas de la compañía. Zuckerberg presentó Muse Wonder , el primer modelo de IA de vanguardia con aspiraciones de competir de tú a tú, por fin , en la li…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-19-susan-li-cfo-de-meta-sobre-el-futuro"
         }
       ]
     }
@@ -534,6 +617,19 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI",
+          "published_at": "2026-10-19T12:00:00Z",
+          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
+        },
         {
           "title": "How Itaú is building generative AI for its entire customer base",
           "url": "https://openai.com/index/itau-generative-ai",
