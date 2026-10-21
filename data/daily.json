@@ -1,78 +1,117 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T11:53:16.246906Z",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T12:05:34.827305Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "La última sensación viral de la IA es eliminar anuncios y bloatware de las Smart TV: he \"tontificado\" mi Chromecast y es maravilloso",
-      "url": "https://www.xataka.com/televisores/ultima-sensacion-viral-ia-eliminar-anuncios-bloatware-smart-tv-he-tontificado-mi-chromecast-maravilloso",
-      "source": "Xataka",
-      "published_at": "2026-10-20T11:15:00Z",
-      "summary": "El domingo por la tarde, como quien no quiere la cosa, veo un tuit curioso de Monos Estocásticos. En él citaban otro tuit de un usuario llamado @gathint con un descubrimiento llamativo . Ese usuario (o usuaria) había \" v…",
+      "title": "Could Treating AI as Conscious Make It More Dangerous?",
+      "url": "https://spectrum.ieee.org/ai-model-welfare",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-21T12:00:02Z",
+      "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompt…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "investigación"
       ],
-      "category": "general",
-      "id": "xataka-2026-10-20-la-ultima-sensacion-viral-de-la-ia-es"
+      "category": "investigación",
+      "id": "ieee-2026-10-21-could-treating-ai-as-conscious-make-it-more"
     },
     {
-      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-      "source": "The Verge",
-      "published_at": "2026-10-20T10:16:47Z",
-      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-20-some-google-home-speakers-caught-downloading-hundreds-of"
-    },
-    {
-      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-      "source": "The Verge",
-      "published_at": "2026-10-20T04:00:00Z",
-      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security P…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-20-baseus-new-security-camera-has-a-spotlight-that"
-    },
-    {
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
       "source": "Hugging Face",
-      "published_at": "2026-10-20T00:00:00Z",
+      "published_at": "2026-10-21T10:59:42Z",
       "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
         "herramientas"
       ],
       "category": "herramientas",
-      "id": "huggingface-2026-10-20-mps-in-pytorch-2-15"
+      "id": "huggingface-2026-10-21-announcing-simready-central-an-open-library-of-simulation-ready"
     },
     {
-      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
-      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
-      "source": "The Verge",
-      "published_at": "2026-10-19T22:30:42Z",
-      "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in Ameri…",
+      "title": "Amazon duplica su apuesta por la nuclear y anuncia una nueva central en Indiana para sus centros de datos",
+      "url": "https://www.xataka.com/empresas-y-economia/amazon-ha-encontrado-solucion-al-colosal-consumo-sus-centros-datos-para-ia-12-reactores-nucleares-smr-antigua-central-carbon",
+      "source": "Xataka",
+      "published_at": "2026-10-21T05:01:35Z",
+      "summary": "Amazon ha acordado ayudar a pagar el desarrollo de una central nuclear de 960 megavatios en Indiana, y sería el primer cliente en comprar su energía. El proyecto, anunciado el lunes junto a la empresa X-energy y American…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-19-elon-musk-s-proposed-spacex-stock-giveaway-would"
+      "id": "xataka-2026-10-21-amazon-duplica-su-apuesta-por-la-nuclear-y"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI",
+      "published_at": "2026-10-21T04:00:00Z",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing …",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "googleai-2026-10-21-southeast-asia-s-digital-economy-to-hit-368"
+    },
+    {
+      "title": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "source": "The Verge",
+      "published_at": "2026-10-21T00:00:56Z",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-21-youtube-might-be-testing-hiding-the-dislike-button"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T10:00:00Z",
+          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-franchisee-reconciles-cash-in-94-less-time-with"
+        },
+        {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T07:00:00Z",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-terminal-x-matches-senior-investor-judgment-88-6"
+        },
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
+        },
         {
           "title": "Advancing coding in low‑resource programming languages",
           "url": "https://openai.com/index/low-resource-programming-languages",
@@ -91,7 +130,7 @@
           "url": "https://www.anthropic.com/news/public-benefit-fund",
           "source": "Anthropic",
           "published_at": "2026-10-18T00:00:00Z",
-          "summary": "Investing in the public benefit",
+          "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
           "why_it_matters": "",
           "tags": [
             "producto"
@@ -113,19 +152,6 @@
           "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
         },
         {
-          "title": "Benefit Street Partners answers questions faster with Codex",
-          "url": "https://openai.com/index/benefit-street-partners",
-          "source": "OpenAI",
-          "published_at": "2026-10-16T00:00:00Z",
-          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
-        },
-        {
           "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
           "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
           "source": "OpenAI",
@@ -137,6 +163,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-16-stack-overflow-for-agents-triples-signups-with-chatgpt"
+        },
+        {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "url": "https://openai.com/index/benefit-street-partners",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
         },
         {
           "title": "Bringing GPT-Rosalind to academic research labs",
@@ -195,200 +234,31 @@
           "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
           "source": "Anthropic",
           "published_at": "2026-10-15T00:00:00Z",
-          "summary": "An update on independent evaluators",
+          "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, includi…",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-15-an-update-on-independent-evaluators"
-        },
-        {
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T12:00:00Z",
-          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-amp-puts-ai-agents-to-work-beyond-code"
-        },
-        {
-          "title": "SentinelOne cuts malware analysis from weeks to hours",
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T12:00:00Z",
-          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-sentinelone-cuts-malware-analysis-from-weeks-to-hours"
-        },
-        {
-          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "url": "https://openai.com/index/third-moment-research",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T07:00:00Z",
-          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-how-third-moment-research-runs-10-000-agents"
-        },
-        {
-          "title": "How Block is building AI-powered security with OpenAI technology",
-          "url": "https://openai.com/index/block-ai-powered-security",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T07:00:00Z",
-          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-how-block-is-building-ai-powered-security-with-openai"
-        },
-        {
-          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-          "source": "DeepMind",
-          "published_at": "2026-10-14T02:00:14Z",
-          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-14-google-deepmind-and-singapore-government-collaborate-to-build"
-        },
-        {
-          "title": "The EU’s next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-the-eu-s-next-chapter-in-ai-is"
-        },
-        {
-          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "url": "https://www.anthropic.com/news/singapore-office-opening",
-          "source": "Anthropic",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-14-anthropic-opens-singapore-office-and-signs-mou-with"
-        },
-        {
-          "title": "Preparing for the 2026 US midterms",
-          "url": "https://www.anthropic.com/news/2026-us-midterms",
-          "source": "Anthropic",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "Preparing for the 2026 US midterms",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-14-preparing-for-the-2026-us-midterms"
-        },
-        {
-          "title": "Developing Gemini 4 Argon responsibly and safely",
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T19:43:07Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-developing-gemini-4-argon-responsibly-and-safely"
-        },
-        {
-          "title": "Gemini 4 Argon for Robotics",
-          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T16:01:58Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-gemini-4-argon-for-robotics"
-        },
-        {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T16:01:52Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-gemini-4-argon-built-to-solve-your-hardest"
-        },
-        {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "source": "Google AI",
-          "published_at": "2026-10-13T16:00:00Z",
-          "summary": "TBD",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-10-13-gemini-4-argon-built-to-solve-your-hardest"
-        },
-        {
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "source": "OpenAI",
-          "published_at": "2026-10-13T12:00:00Z",
-          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-13-higgsfield-takes-ai-video-from-1-minute-to"
         }
       ]
     },
     {
-      "name": "Investigación",
+      "name": "Regulación",
       "items": [
         {
-          "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-          "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-19T10:00:04Z",
-          "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and i…",
+          "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+          "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+          "source": "The Verge",
+          "published_at": "2026-10-20T22:20:11Z",
+          "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fr…",
           "why_it_matters": "",
           "tags": [
-            "investigación"
+            "regulación"
           ],
-          "category": "investigación",
-          "id": "ieee-2026-10-19-edge-ai-for-smart-cities-from-insight-to"
+          "category": "regulación",
+          "id": "theverge-2026-10-20-trump-is-giving-nick-shirley-10-000-and"
         }
       ]
     },
@@ -396,17 +266,69 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
           "source": "Hugging Face",
-          "published_at": "2026-10-19T00:00:00Z",
+          "published_at": "2026-10-20T16:09:19Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-10-19-torchneuron-running-hf-models-on-aws-trainium-is"
+          "id": "huggingface-2026-10-20-fairstress-a-deeper-evaluation-of-fairness-in-llm"
+        },
+        {
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face",
+          "published_at": "2026-10-20T15:19:48Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-20-altk-evolve-how-learned-memory-tops-the-t2-bench-leaderboard"
+        },
+        {
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "source": "Hugging Face",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-20-hugging-face-torchtpu-tpus-natively"
+        },
+        {
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "source": "Hugging Face",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-20-anylanguagemodel-1-0-one-year-of-local-models"
+        },
+        {
+          "title": "MPS in PyTorch 2.15",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "source": "Hugging Face",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-20-mps-in-pytorch-2-15"
         }
       ]
     },
@@ -414,43 +336,160 @@
       "name": "General",
       "items": [
         {
-          "title": "The fossil fuel comeback is here",
-          "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
           "source": "The Verge",
-          "published_at": "2026-10-19T21:48:01Z",
-          "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with m…",
+          "published_at": "2026-10-20T23:04:19Z",
+          "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-19-the-fossil-fuel-comeback-is-here"
+          "id": "theverge-2026-10-20-judge-dismisses-sam-altman-s-sister-s-sexual"
         },
         {
-          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+          "title": "Google’s more personalized Gemini AI is heading to your car",
+          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
           "source": "The Verge",
-          "published_at": "2026-10-19T21:28:20Z",
-          "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath …",
+          "published_at": "2026-10-20T22:11:34Z",
+          "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-19-coreweave-8217-s-debt-is-becoming-the-whole"
+          "id": "theverge-2026-10-20-google-s-more-personalized-gemini-ai-is-heading"
         },
         {
-          "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-          "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
           "source": "The Verge",
-          "published_at": "2026-10-19T21:00:17Z",
-          "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors lo…",
+          "published_at": "2026-10-20T21:30:24Z",
+          "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-19-i-tried-a-99-plug-that-promises-to"
+          "id": "theverge-2026-10-20-tesla-and-spacex-are-discussing-a-possible-merger"
+        },
+        {
+          "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+          "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+          "source": "The Verge",
+          "published_at": "2026-10-20T21:02:53Z",
+          "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt wou…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-20-spacex-will-try-catching-starship-and-its-booster"
+        },
+        {
+          "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+          "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+          "source": "The Verge",
+          "published_at": "2026-10-20T20:52:07Z",
+          "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going for…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-20-netflix-is-telling-investors-not-to-worry-even"
+        },
+        {
+          "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+          "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+          "source": "The Verge",
+          "published_at": "2026-10-20T20:32:09Z",
+          "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-20-snap-is-paying-robert-downey-jr-to-do"
+        },
+        {
+          "title": "SpaceX says big AI growth fueled revenue jump",
+          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+          "source": "The Verge",
+          "published_at": "2026-10-20T20:26:58Z",
+          "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" W…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-20-spacex-says-big-ai-growth-fueled-revenue-jump"
+        },
+        {
+          "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+          "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+          "source": "The Verge",
+          "published_at": "2026-10-20T20:26:04Z",
+          "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-20-oura-adds-two-new-cardiovascular-health-tracking-features"
+        },
+        {
+          "title": "Menos de 100 caracteres, 1.200 webs atacadas y más de 100 comprometidas: así está cambiando la IA la ciberseguridad",
+          "url": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
+          "source": "Xataka",
+          "published_at": "2026-10-20T19:31:40Z",
+          "summary": "Durante años hemos asumido que la ciberseguridad era una carrera de fondo: alguien encontraba una vulnerabilidad, otro intentaba cerrarla y, entre medias, hacían falta tiempo, conocimientos y bastante trabajo humano para…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-20-menos-de-100-caracteres-1-200-webs-atacadas"
+        },
+        {
+          "title": "EEUU ordena eliminar DeepSeek de todos los sistemas de sus agencias civiles federales",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-ordena-eliminar-deepseek-sistemas-sus-agencias-civiles-federales-veto-va-todavia-alla",
+          "source": "Xataka",
+          "published_at": "2026-10-20T17:00:00Z",
+          "summary": "DeepSeek lleva meses en el centro de una disputa que va mucho más allá de quién tiene el modelo de inteligencia artificial más capaz o más barato. Desde que irrumpió con R1 , la compañía china ha quedado bajo el escrutin…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-20-eeuu-ordena-eliminar-deepseek-de-todos-los-sistemas"
+        },
+        {
+          "title": "Google DeepMind presume de haber batido a Minecraft con agentes controlados por Gemini 4 Argon en apenas 27 horas",
+          "url": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
+          "source": "Xataka",
+          "published_at": "2026-10-20T13:01:42Z",
+          "summary": "'Minecraft' no es sólo uno de los juegos más exitosos de la historia y una base genial tanto para divertirse como para aprender. El título de Mojang lleva años usándose para medir de qué son capaces los modelos de inteli…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-20-google-deepmind-presume-de-haber-batido-a-minecraft"
+        },
+        {
+          "title": "He usado la IA para \"tontificar\" a mi tele. Paradójicamente, ahora funciona mucho mejor",
+          "url": "https://www.xataka.com/televisores/ultima-sensacion-viral-ia-eliminar-anuncios-bloatware-smart-tv-he-tontificado-mi-chromecast-maravilloso",
+          "source": "Xataka",
+          "published_at": "2026-10-20T11:15:00Z",
+          "summary": "El domingo por la tarde, como quien no quiere la cosa, veo un tuit curioso de Monos Estocásticos. En él citaban otro tuit de un usuario llamado @gathint con un descubrimiento llamativo . Ese usuario (o usuaria) había \" v…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-20-he-usado-la-ia-para-tontificar-a-mi"
         },
         {
           "title": "Las ofertas de trabajo en ciberseguridad caen un 26% en EEUU, las de ciberseguridad aplicada a IA suben un 268%",
@@ -464,19 +503,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-19-las-ofertas-de-trabajo-en-ciberseguridad-caen-un"
-        },
-        {
-          "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
-          "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
-          "source": "The Verge",
-          "published_at": "2026-10-19T18:52:41Z",
-          "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-19-sony-s-best-noise-canceling-earbuds-are-nearly-100"
         },
         {
           "title": "En Extremadura ya hay \"perros-robot\" patrullando los viñedos, recopilando datos y ayudando a los agricultores",
@@ -505,45 +531,6 @@
           "id": "xataka-2026-10-19-la-solucion-de-anthropic-a-la-supuesta-amenaza"
         },
         {
-          "title": "Apple teases MacBook Pro event next week",
-          "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-          "source": "The Verge",
-          "published_at": "2026-10-19T16:04:29Z",
-          "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomber…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-19-apple-teases-macbook-pro-event-next-week"
-        },
-        {
-          "title": "Amazon is funding a new nuclear plant in Indiana",
-          "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-          "source": "The Verge",
-          "published_at": "2026-10-19T15:44:20Z",
-          "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed G…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-19-amazon-is-funding-a-new-nuclear-plant-in"
-        },
-        {
-          "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-          "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-19T14:41:48Z",
-          "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newe…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-19-apple-s-last-gen-mac-mini-with-the-m4"
-        },
-        {
           "title": "Amazon está demostrando en tiempo real que la IA ni crea ni destruye empleo, simplemente lo desplaza",
           "url": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
           "source": "Xataka",
@@ -568,19 +555,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-19-anthropic-se-abre-a-que-el-gobierno-bloquee"
-        },
-        {
-          "title": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
-          "url": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
-          "source": "Xataka",
-          "published_at": "2026-10-19T12:31:53Z",
-          "summary": "El pasado 12 de octubre, Meta realizó una de las apuestas más arriesgadas de la compañía. Zuckerberg presentó Muse Wonder , el primer modelo de IA de vanguardia con aspiraciones de competir de tú a tú, por fin , en la li…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-19-susan-li-cfo-de-meta-sobre-el-futuro"
         }
       ]
     }
@@ -618,6 +592,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T10:00:00Z",
+          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-franchisee-reconciles-cash-in-94-less-time-with"
+        },
+        {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T07:00:00Z",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-terminal-x-matches-senior-investor-judgment-88-6"
+        },
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "source": "OpenAI",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
+        },
+        {
           "title": "Advancing coding in low‑resource programming languages",
           "url": "https://openai.com/index/low-resource-programming-languages",
           "source": "OpenAI",
@@ -644,19 +657,6 @@
           "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
         },
         {
-          "title": "Benefit Street Partners answers questions faster with Codex",
-          "url": "https://openai.com/index/benefit-street-partners",
-          "source": "OpenAI",
-          "published_at": "2026-10-16T00:00:00Z",
-          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
-        },
-        {
           "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
           "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
           "source": "OpenAI",
@@ -668,6 +668,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-16-stack-overflow-for-agents-triples-signups-with-chatgpt"
+        },
+        {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "url": "https://openai.com/index/benefit-street-partners",
+          "source": "OpenAI",
+          "published_at": "2026-10-16T00:00:00Z",
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-16-benefit-street-partners-answers-questions-faster-with-codex"
         },
         {
           "title": "Bringing GPT-Rosalind to academic research labs",
@@ -707,84 +720,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-15-sullivan-cromwell-brings-legal-expertise-into-agreement-review"
-        },
-        {
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T12:00:00Z",
-          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-amp-puts-ai-agents-to-work-beyond-code"
-        },
-        {
-          "title": "SentinelOne cuts malware analysis from weeks to hours",
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T12:00:00Z",
-          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-sentinelone-cuts-malware-analysis-from-weeks-to-hours"
-        },
-        {
-          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "url": "https://openai.com/index/third-moment-research",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T07:00:00Z",
-          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-how-third-moment-research-runs-10-000-agents"
-        },
-        {
-          "title": "How Block is building AI-powered security with OpenAI technology",
-          "url": "https://openai.com/index/block-ai-powered-security",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T07:00:00Z",
-          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-how-block-is-building-ai-powered-security-with-openai"
-        },
-        {
-          "title": "The EU’s next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "OpenAI",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-14-the-eu-s-next-chapter-in-ai-is"
-        },
-        {
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "source": "OpenAI",
-          "published_at": "2026-10-13T12:00:00Z",
-          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-13-higgsfield-takes-ai-video-from-1-minute-to"
         }
       ]
     },
@@ -797,7 +732,7 @@
           "url": "https://www.anthropic.com/news/public-benefit-fund",
           "source": "Anthropic",
           "published_at": "2026-10-18T00:00:00Z",
-          "summary": "Investing in the public benefit",
+          "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
           "why_it_matters": "",
           "tags": [
             "producto"
@@ -810,39 +745,13 @@
           "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
           "source": "Anthropic",
           "published_at": "2026-10-15T00:00:00Z",
-          "summary": "An update on independent evaluators",
+          "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, includi…",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-15-an-update-on-independent-evaluators"
-        },
-        {
-          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "url": "https://www.anthropic.com/news/singapore-office-opening",
-          "source": "Anthropic",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-14-anthropic-opens-singapore-office-and-signs-mou-with"
-        },
-        {
-          "title": "Preparing for the 2026 US midterms",
-          "url": "https://www.anthropic.com/news/2026-us-midterms",
-          "source": "Anthropic",
-          "published_at": "2026-10-14T00:00:00Z",
-          "summary": "Preparing for the 2026 US midterms",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-14-preparing-for-the-2026-us-midterms"
         }
       ]
     },
@@ -851,17 +760,17 @@
       "name": "Google AI",
       "items": [
         {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
           "source": "Google AI",
-          "published_at": "2026-10-13T16:00:00Z",
-          "summary": "TBD",
+          "published_at": "2026-10-21T04:00:00Z",
+          "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing …",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-10-13-gemini-4-argon-built-to-solve-your-hardest"
+          "id": "googleai-2026-10-21-southeast-asia-s-digital-economy-to-hit-368"
         }
       ]
     },
@@ -881,58 +790,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-10-15-accelerating-the-search-for-antimicrobial-peptides-with-google"
-        },
-        {
-          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-          "source": "DeepMind",
-          "published_at": "2026-10-14T02:00:14Z",
-          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-14-google-deepmind-and-singapore-government-collaborate-to-build"
-        },
-        {
-          "title": "Developing Gemini 4 Argon responsibly and safely",
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T19:43:07Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-developing-gemini-4-argon-responsibly-and-safely"
-        },
-        {
-          "title": "Gemini 4 Argon for Robotics",
-          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T16:01:58Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-gemini-4-argon-for-robotics"
-        },
-        {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-          "source": "DeepMind",
-          "published_at": "2026-10-13T16:01:52Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-13-gemini-4-argon-built-to-solve-your-hardest"
         }
       ]
     }
