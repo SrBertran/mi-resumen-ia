@@ -1,78 +1,104 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:52:08.832286Z",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T11:20:04.565207Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Mientras Amazon cierra la puerta a los agentes de IA, la mayor cadena de supermercados de EEUU la abre de par en par",
-      "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+      "title": "Según Pangram, 'Donde el agua trabaja' de David Silva Rojas es IA al 99%. El problema es el de siempre: que una IA no es infalible",
+      "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
       "source": "Xataka",
-      "published_at": "2026-10-23T11:30:11Z",
-      "summary": "Vamos a tener que acostumbrarnos a los agentes de IA . En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y c…",
+      "published_at": "2026-10-24T10:00:00Z",
+      "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En s…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-23-mientras-amazon-cierra-la-puerta-a-los-agentes"
+      "id": "xataka-2026-10-24-segun-pangram-donde-el-agua-trabaja-de-david"
     },
     {
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
-      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "source": "The Verge",
-      "published_at": "2026-10-23T10:58:03Z",
-      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's…",
+      "published_at": "2026-10-23T21:39:26Z",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been a…",
       "why_it_matters": "",
       "tags": [
-        "negocio"
+        "ia"
       ],
-      "category": "negocio",
-      "id": "theverge-2026-10-23-startup-equips-genetically-enhanced-dogs-with-palmer-luckey"
+      "category": "general",
+      "id": "theverge-2026-10-23-xbox-s-first-chief-operating-officer-is-out"
     },
     {
-      "title": "No, the iPhone Duo isn’t a small phone",
-      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
       "source": "The Verge",
-      "published_at": "2026-10-23T10:00:00Z",
-      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" the…",
+      "published_at": "2026-10-23T21:11:07Z",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-no-the-iphone-duo-isn-t-a-small"
+      "id": "theverge-2026-10-23-openai-now-trains-its-frontier-ai-models-with"
     },
     {
-      "title": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
-      "url": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
-      "source": "Xataka",
-      "published_at": "2026-10-23T08:39:17Z",
-      "summary": "La mecha la prendió el Sindicato de Inquilinas, que lleva años trabajando para frenar desahucios como el de Maricarmen, una mujer de 87 años desalojada el 23 de septiembre del piso de Retiro donde vivía desde los 17. El …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-23-almeida-esta-revisando-videos-de-sol-frame-a"
-    },
-    {
-      "title": "Etsy is cracking down on AI slop listings",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
       "source": "The Verge",
-      "published_at": "2026-10-23T00:09:58Z",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-gene…",
+      "published_at": "2026-10-23T19:35:15Z",
+      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netfl…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-etsy-is-cracking-down-on-ai-slop-listings"
+      "id": "theverge-2026-10-23-abandoned-popcorn-time-apps-had-to-be-disabled"
+    },
+    {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge",
+      "published_at": "2026-10-23T19:32:39Z",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-23-jack-dorsey-s-block-made-an-ai-model"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI",
+          "published_at": "2026-10-23T17:00:00Z",
+          "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-23-rapidly-scaling-online-storage-to-serve-over-1"
+        },
+        {
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI",
+          "published_at": "2026-10-23T10:00:00Z",
+          "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-23-securing-our-frontier-model-training-environment"
+        },
         {
           "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -371,25 +397,43 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-18-investing-in-the-public-benefit"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "url": "https://openai.com/index/itau-generative-ai",
-          "source": "OpenAI",
-          "published_at": "2026-10-16T19:00:00Z",
-          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
+          "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+          "source": "Xataka",
+          "published_at": "2026-10-23T11:30:00Z",
+          "summary": "Vamos a tener que acostumbrarnos a los agentes de IA . En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y c…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
+          "category": "negocio",
+          "id": "xataka-2026-10-23-al-contrario-que-amazon-el-mayor-supermercado-de"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "source": "Hugging Face",
+          "published_at": "2026-10-23T16:15:50Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-10-23-litpivot-developing-research-ideas-through-dynamic-contextualization-within"
+        },
         {
           "title": "Why Engineers Should Brave Capitol Hill",
           "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
@@ -402,38 +446,25 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-10-22-why-engineers-should-brave-capitol-hill"
-        },
-        {
-          "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-          "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-21T13:00:02Z",
-          "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-21-how-wikipedia-s-editors-keep-the-online-encyclopedia"
-        },
-        {
-          "title": "Could Treating AI as Conscious Make It More Dangerous?",
-          "url": "https://spectrum.ieee.org/ai-model-welfare",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-21T12:00:02Z",
-          "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompt…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-21-could-treating-ai-as-conscious-make-it-more"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "source": "Hugging Face",
+          "published_at": "2026-10-23T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-23-does-your-model-run-on-aws-trainium-look"
+        },
         {
           "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -446,84 +477,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-22-turning-database-grading-into-rl-rewards-post-training-agents"
-        },
-        {
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "source": "Hugging Face",
-          "published_at": "2026-10-22T16:11:31Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-22-olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole"
-        },
-        {
-          "title": "Ensemble forecasting with IBM Granite time-series models",
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face",
-          "published_at": "2026-10-22T07:51:31Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-22-ensemble-forecasting-with-ibm-granite-time-series-models"
-        },
-        {
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "source": "Hugging Face",
-          "published_at": "2026-10-21T18:26:30Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-21-nvidia-kumo-relational-outperforms-supervised-machine-learning-on"
-        },
-        {
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "source": "Hugging Face",
-          "published_at": "2026-10-21T17:35:36Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-21-how-specializing-the-vocabulary-of-slms-can-cut"
-        },
-        {
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-          "source": "Hugging Face",
-          "published_at": "2026-10-21T16:04:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-21-profiling-torchneuron-part-1-system-level-profiling-on-aws"
-        },
-        {
-          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "source": "Hugging Face",
-          "published_at": "2026-10-21T14:58:18Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-21-granite-speech-5-0-transcribe-translate-and-attribute"
         }
       ]
     },
@@ -531,95 +484,147 @@
       "name": "General",
       "items": [
         {
-          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-          "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-          "source": "The Verge",
-          "published_at": "2026-10-22T23:02:43Z",
-          "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires…",
+          "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+          "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+          "source": "Xataka",
+          "published_at": "2026-10-23T19:30:07Z",
+          "summary": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mira…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-spotify-says-yes-it-is-busting-people-for"
+          "id": "xataka-2026-10-23-ibm-tiene-unas-cifras-que-desafian-a-los"
         },
         {
-          "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-          "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+          "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-22T23:00:00Z",
-          "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reac…",
+          "published_at": "2026-10-23T18:43:30Z",
+          "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-the-next-gen-xbox-won-t-cost-you-1"
+          "id": "theverge-2026-10-23-soundcore-s-latest-noise-crushing-headphones-are-on-sale"
         },
         {
-          "title": "Canva’s first AI image model plans designs before generating them",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-          "source": "The Verge",
-          "published_at": "2026-10-22T21:51:25Z",
-          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that all…",
+          "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
+          "url": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
+          "source": "Xataka",
+          "published_at": "2026-10-23T18:32:14Z",
+          "summary": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a nuestras cuentas. Simplemente abrimos el móvil y seguimos adel…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-canva-s-first-ai-image-model-plans-designs"
+          "id": "xataka-2026-10-23-van-a-empeorar-mucho-mas-jason-clinton-subdirector"
         },
         {
-          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-          "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+          "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+          "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-22T21:30:39Z",
-          "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's …",
+          "published_at": "2026-10-23T17:55:03Z",
+          "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes se…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-pc-shipments-dropped-over-20-percent-in-q3"
+          "id": "theverge-2026-10-23-fi-s-gps-equipped-dog-trackers-are-on-sale"
         },
         {
-          "title": "Fall 2026 earnings watch",
-          "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+          "title": "Elon Musk’s dangerous grip on outer space",
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
           "source": "The Verge",
-          "published_at": "2026-10-22T21:15:16Z",
-          "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins a…",
+          "published_at": "2026-10-23T17:35:15Z",
+          "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, whi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-fall-2026-earnings-watch"
+          "id": "theverge-2026-10-23-elon-musk-s-dangerous-grip-on-outer-space"
         },
         {
-          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-          "source": "The Verge",
-          "published_at": "2026-10-22T20:32:05Z",
-          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"Thi…",
+          "title": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
+          "url": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
+          "source": "Xataka",
+          "published_at": "2026-10-23T17:30:08Z",
+          "summary": "Cuando hacemos una búsqueda en Google, lo primero que nos aparece es un resumen generado por IA relacionado con esa búsqueda. Este resumen, denominado AI Overviews , generalmente comparte también una serie de enlaces par…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-meta-8217-s-ai-could-still-scrape-news"
+          "id": "xataka-2026-10-23-alemania-pone-en-aprietos-el-modo-ia-de"
         },
         {
-          "title": "Meta turns Muse sharing back on",
-          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+          "title": "The iPhone Duo should have been an iPad",
+          "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
           "source": "The Verge",
-          "published_at": "2026-10-22T20:24:04Z",
-          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's interna…",
+          "published_at": "2026-10-23T17:00:18Z",
+          "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smar…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-22-meta-turns-muse-sharing-back-on"
+          "id": "theverge-2026-10-23-the-iphone-duo-should-have-been-an-ipad"
+        },
+        {
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "source": "The Verge",
+          "published_at": "2026-10-23T16:52:55Z",
+          "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-23-now-google-says-it-might-use-your-gmail"
+        },
+        {
+          "title": "The first broken iPhone Duos are here",
+          "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+          "source": "The Verge",
+          "published_at": "2026-10-23T16:37:03Z",
+          "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some k…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-23-the-first-broken-iphone-duos-are-here"
+        },
+        {
+          "title": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
+          "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
+          "source": "Xataka",
+          "published_at": "2026-10-23T15:00:11Z",
+          "summary": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados. El fundador de la empre…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-23-la-carrera-entre-china-y-eeuu-por-los"
+        },
+        {
+          "title": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
+          "url": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
+          "source": "Xataka",
+          "published_at": "2026-10-23T08:39:17Z",
+          "summary": "La mecha la prendió el Sindicato de Inquilinas, que lleva años trabajando para frenar desahucios como el de Maricarmen, una mujer de 87 años desalojada el 23 de septiembre del piso de Retiro donde vivía desde los 17. El …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-23-almeida-esta-revisando-videos-de-sol-frame-a"
         },
         {
           "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
@@ -659,71 +664,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-22-los-agentes-de-ia-ya-se-mueven-por"
-        },
-        {
-          "title": "Gemini se vuelve \"personal\" en el coche: tendrá acceso a tu Gmail, Calendar y Maps mientras conduces",
-          "url": "https://www.xataka.com/robotica-e-ia/gemini-se-vuelve-personal-coche-tendra-acceso-a-tu-gmail-calendar-maps-conduces",
-          "source": "Xataka",
-          "published_at": "2026-10-22T14:30:11Z",
-          "summary": "Google se está poniendo las pilas con Gemini en el coche, permitiendo que el asistentede IA pueda ahora inspeccionartus datosen servicios comoGmail, Calendar, Fotos, Maps, YouTube y Search para respondertodo tipo depregu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-gemini-se-vuelve-personal-en-el-coche-tendra"
-        },
-        {
-          "title": "A OpenAI y Anthropic les han adelantado por la derecha en los agentes de IA. Por WhatsApp, concretamente",
-          "url": "https://www.xataka.com/robotica-e-ia/a-openai-anthropic-les-han-adelantado-derecha-agentes-ia-whatsapp-concretamente",
-          "source": "Xataka",
-          "published_at": "2026-10-22T12:16:11Z",
-          "summary": "Anthropic ha presentado Claude Duet , un agente proactivo en versión preliminar para profesionales y pymes. Llega seis semanas después de Muse, de Meta, y tres después de Dots, de OpenAI . Los dos laboratorios de referen…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-a-openai-y-anthropic-les-han-adelantado-por"
-        },
-        {
-          "title": "Lo que ha sucedido con PHP nos avisa: tenemos un problema grave con el software antiguo que sostiene internet",
-          "url": "https://www.xataka.com/servicios/que-ha-sucedido-php-nos-avisa-tenemos-problema-grave-software-antiguo-que-sostiene-internet",
-          "source": "Xataka",
-          "published_at": "2026-10-22T10:30:12Z",
-          "summary": "La infraestructura que sostiene internet está envejeciendo. Es natural que sea así, pero lo que hace apenas tres años no habríamos podido anticipar es que la llegada de los modelos de inteligencia artificial (IA) de fron…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-lo-que-ha-sucedido-con-php-nos-avisa"
-        },
-        {
-          "title": "SpaceX ya gana más con IA que con cohetes: el 52% de sus ingresos vienen de la IA",
-          "url": "https://www.xataka.com/empresas-y-economia/spacex-gana-ia-que-cohetes-52-sus-ingresos-vienen-ia",
-          "source": "Xataka",
-          "published_at": "2026-10-22T03:01:38Z",
-          "summary": "La división de IA en SpaceX, ahora rebautizada como “Super Intelligence”, ha sido la gran protagonista en los resultados financieros del último trimestre de la empresa. Y es que por primera vez, ha sido la división que m…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-spacex-ya-gana-mas-con-ia-que-con"
-        },
-        {
-          "title": "Cómo saber si una web está afectada por la vulnerabilidad de PHP con la herramienta que OpenAI ha publicado",
-          "url": "https://www.xataka.com/seguridad/como-saber-web-esta-afectada-vulnerabilidad-php-herramienta-que-openai-ha-publicado",
-          "source": "Xataka",
-          "published_at": "2026-10-21T18:29:00Z",
-          "summary": "Las dos vulnerabilidades críticas detectadas en PHP han llevado a administradores y organizaciones de distintos países a revisar servidores y aplicar actualizaciones con urgencia. Algunas webs incluso han optado por desc…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-21-como-saber-si-una-web-esta-afectada-por"
         }
       ]
     }
@@ -760,6 +700,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI",
+          "published_at": "2026-10-23T17:00:00Z",
+          "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-23-rapidly-scaling-online-storage-to-serve-over-1"
+        },
+        {
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI",
+          "published_at": "2026-10-23T10:00:00Z",
+          "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-23-securing-our-frontier-model-training-environment"
+        },
         {
           "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -980,19 +946,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
-        },
-        {
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "url": "https://openai.com/index/itau-generative-ai",
-          "source": "OpenAI",
-          "published_at": "2026-10-16T19:00:00Z",
-          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-16-how-itau-is-building-generative-ai-for-its"
         }
       ]
     },
