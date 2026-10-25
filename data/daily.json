@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T11:20:04.565207Z",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T11:50:58.142037Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Según Pangram, 'Donde el agua trabaja' de David Silva Rojas es IA al 99%. El problema es el de siempre: que una IA no es infalible",
-      "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+      "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+      "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
       "source": "Xataka",
-      "published_at": "2026-10-24T10:00:00Z",
-      "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En s…",
+      "published_at": "2026-10-25T10:30:00Z",
+      "summary": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X ) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-24-segun-pangram-donde-el-agua-trabaja-de-david"
+      "id": "xataka-2026-10-25-dinamarca-tiene-un-plan-contra-los-deepfakes-blindar"
     },
     {
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "source": "The Verge",
-      "published_at": "2026-10-23T21:39:26Z",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been a…",
+      "published_at": "2026-10-24T21:29:12Z",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-xbox-s-first-chief-operating-officer-is-out"
+      "id": "theverge-2026-10-24-blue-planet-iii-is-keeping-the-rough-edges"
     },
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "source": "The Verge",
-      "published_at": "2026-10-23T21:11:07Z",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can …",
+      "published_at": "2026-10-24T18:32:21Z",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-openai-now-trains-its-frontier-ai-models-with"
+      "id": "theverge-2026-10-24-pennsylvania-will-require-labels-on-ai-generated-ads"
     },
     {
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "source": "The Verge",
-      "published_at": "2026-10-23T19:35:15Z",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netfl…",
+      "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+      "source": "Xataka",
+      "published_at": "2026-10-24T16:30:10Z",
+      "summary": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-abandoned-popcorn-time-apps-had-to-be-disabled"
+      "id": "xataka-2026-10-24-la-ia-ya-esta-cambiando-la-prediccion-del"
     },
     {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
       "source": "The Verge",
-      "published_at": "2026-10-23T19:32:39Z",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt…",
+      "published_at": "2026-10-24T15:00:00Z",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-23-jack-dorsey-s-block-made-an-ai-model"
+      "id": "theverge-2026-10-24-fielded-is-obsessed-with-scammers-and-unhinged-japanese"
     }
   ],
   "sections": [
@@ -384,37 +384,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
-        },
-        {
-          "title": "Investing in the public benefit",
-          "url": "https://www.anthropic.com/news/public-benefit-fund",
-          "source": "Anthropic",
-          "published_at": "2026-10-18T00:00:00Z",
-          "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-18-investing-in-the-public-benefit"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
-          "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-          "source": "Xataka",
-          "published_at": "2026-10-23T11:30:00Z",
-          "summary": "Vamos a tener que acostumbrarnos a los agentes de IA . En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y c…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "xataka-2026-10-23-al-contrario-que-amazon-el-mayor-supermercado-de"
         }
       ]
     },
@@ -433,56 +402,116 @@
           ],
           "category": "investigación",
           "id": "huggingface-2026-10-23-litpivot-developing-research-ideas-through-dynamic-contextualization-within"
-        },
-        {
-          "title": "Why Engineers Should Brave Capitol Hill",
-          "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-22T13:00:02Z",
-          "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 202…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-22-why-engineers-should-brave-capitol-hill"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face",
-          "published_at": "2026-10-23T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-23-does-your-model-run-on-aws-trainium-look"
-        },
-        {
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face",
-          "published_at": "2026-10-22T22:24:34Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-22-turning-database-grading-into-rl-rewards-post-training-agents"
         }
       ]
     },
     {
       "name": "General",
       "items": [
+        {
+          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+          "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-10-24T15:00:00Z",
+          "summary": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and vari…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-lg-s-brilliant-c6-oled-tv-is-already"
+        },
+        {
+          "title": "What to expect from Apple’s ‘Pro and tell’ event",
+          "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+          "source": "The Verge",
+          "published_at": "2026-10-24T14:15:00Z",
+          "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-what-to-expect-from-apple-s-pro-and"
+        },
+        {
+          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+          "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+          "source": "The Verge",
+          "published_at": "2026-10-24T14:00:00Z",
+          "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I wa…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-i-hope-apple-s-touchscreen-macbook-takes-some"
+        },
+        {
+          "title": "Lee Chang Dong ponders the ethics of the camera",
+          "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+          "source": "The Verge",
+          "published_at": "2026-10-24T12:30:00Z",
+          "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-lee-chang-dong-ponders-the-ethics-of-the"
+        },
+        {
+          "title": "Laika has spent 20 years building up to Wildwood",
+          "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+          "source": "The Verge",
+          "published_at": "2026-10-24T12:00:00Z",
+          "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-laika-has-spent-20-years-building-up-to"
+        },
+        {
+          "title": "It’s time to find a new browser",
+          "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+          "source": "The Verge",
+          "published_at": "2026-10-24T12:00:00Z",
+          "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-24-it-s-time-to-find-a-new-browser"
+        },
+        {
+          "title": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. El problema es el de siempre: no hay detector infalible",
+          "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+          "source": "Xataka",
+          "published_at": "2026-10-24T10:00:00Z",
+          "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-24-pangram-ve-un-99-de-ia-en-la"
+        },
+        {
+          "title": "Xbox’s first chief operating officer is out after just a few months",
+          "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+          "source": "The Verge",
+          "published_at": "2026-10-23T21:39:26Z",
+          "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-23-xbox-s-first-chief-operating-officer-is-out"
+        },
         {
           "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
           "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
@@ -495,19 +524,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-23-ibm-tiene-unas-cifras-que-desafian-a-los"
-        },
-        {
-          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-          "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-23T18:43:30Z",
-          "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-soundcore-s-latest-noise-crushing-headphones-are-on-sale"
         },
         {
           "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
@@ -523,32 +539,6 @@
           "id": "xataka-2026-10-23-van-a-empeorar-mucho-mas-jason-clinton-subdirector"
         },
         {
-          "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-          "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-23T17:55:03Z",
-          "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes se…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-fi-s-gps-equipped-dog-trackers-are-on-sale"
-        },
-        {
-          "title": "Elon Musk’s dangerous grip on outer space",
-          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-          "source": "The Verge",
-          "published_at": "2026-10-23T17:35:15Z",
-          "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, whi…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-elon-musk-s-dangerous-grip-on-outer-space"
-        },
-        {
           "title": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
           "url": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
           "source": "Xataka",
@@ -562,45 +552,6 @@
           "id": "xataka-2026-10-23-alemania-pone-en-aprietos-el-modo-ia-de"
         },
         {
-          "title": "The iPhone Duo should have been an iPad",
-          "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-          "source": "The Verge",
-          "published_at": "2026-10-23T17:00:18Z",
-          "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smar…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-the-iphone-duo-should-have-been-an-ipad"
-        },
-        {
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-          "source": "The Verge",
-          "published_at": "2026-10-23T16:52:55Z",
-          "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-now-google-says-it-might-use-your-gmail"
-        },
-        {
-          "title": "The first broken iPhone Duos are here",
-          "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-          "source": "The Verge",
-          "published_at": "2026-10-23T16:37:03Z",
-          "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some k…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-the-first-broken-iphone-duos-are-here"
-        },
-        {
           "title": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
           "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
           "source": "Xataka",
@@ -612,58 +563,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-10-23-la-carrera-entre-china-y-eeuu-por-los"
-        },
-        {
-          "title": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
-          "url": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
-          "source": "Xataka",
-          "published_at": "2026-10-23T08:39:17Z",
-          "summary": "La mecha la prendió el Sindicato de Inquilinas, que lleva años trabajando para frenar desahucios como el de Maricarmen, una mujer de 87 años desalojada el 23 de septiembre del piso de Retiro donde vivía desde los 17. El …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-23-almeida-esta-revisando-videos-de-sol-frame-a"
-        },
-        {
-          "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
-          "url": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
-          "source": "Xataka",
-          "published_at": "2026-10-22T19:00:11Z",
-          "summary": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos aquí es el hecho de decidir cuál es el mejor tratamiento que …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-una-simple-foto-del-rostro-puede-dar-pistas"
-        },
-        {
-          "title": "Anthropic muestra el efecto de la IA en el empleo junior: del 27% al 9% de nuevas contrataciones",
-          "url": "https://www.xataka.com/robotica-e-ia/anthropic-muestra-efecto-ia-empleo-junior-27-al-9-nuevas-contrataciones",
-          "source": "Xataka",
-          "published_at": "2026-10-22T18:16:11Z",
-          "summary": "Que la IA va a marcar un antes y un después en todos los estratos del mercado laboral ya nadie lo duda. Pero ante la falta de datos concluyentes sobre el efecto de esta tecnología en la destrucción de empleos, hay voces …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-anthropic-muestra-el-efecto-de-la-ia-en"
-        },
-        {
-          "title": "Los agentes de IA ya se mueven por cuentas bancarias y algunas entidades de EEUU se preparan para lo peor",
-          "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-se-mueven-cuentas-bancarias-algunas-entidades-eeuu-se-preparan-para-peor",
-          "source": "Xataka",
-          "published_at": "2026-10-22T17:34:07Z",
-          "summary": "Agentes, agentes y más agentes. Estos sistemas de inteligencia artificial capaces de ejecutar tareas con cierto grado de autonomía están apareciendo en servicios, aplicaciones y herramientas que utilizamos cada día. Y ah…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-22-los-agentes-de-ia-ya-se-mueven-por"
         }
       ]
     }
@@ -991,19 +890,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-21-physicist-christopher-stubbs-joins-anthropic-s-long-term-benefit"
-        },
-        {
-          "title": "Investing in the public benefit",
-          "url": "https://www.anthropic.com/news/public-benefit-fund",
-          "source": "Anthropic",
-          "published_at": "2026-10-18T00:00:00Z",
-          "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-18-investing-in-the-public-benefit"
         }
       ]
     },
