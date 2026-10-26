@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T11:50:58.142037Z",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T13:21:58.136913Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-      "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "source": "The Verge",
+      "published_at": "2026-10-26T13:15:00Z",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing d…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-26-can-ai-help-solve-the-cobol-code-crisis"
+    },
+    {
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "source": "The Verge",
+      "published_at": "2026-10-26T13:05:03Z",
+      "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. It starts at $699 for the Wi-Fi-only model, and $849 for W…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-26-apple-updates-the-ipad-mini-with-a-larger"
+    },
+    {
+      "title": "Tras gastar cientos de miles de millones de dólares en tarjetas de Nvidia, los hiperescaladores tienen la mitad guardadas en cajas",
+      "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
       "source": "Xataka",
-      "published_at": "2026-10-25T10:30:00Z",
-      "summary": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X ) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden…",
+      "published_at": "2026-10-26T12:33:25Z",
+      "summary": "Cuando hablamos de hiperescaladores, nos referimos a las grandes 'nubes' como Microsoft, Amazon, Google o Meta. Estas empresas llevan meses multiplicando su inversión en infraestructura de IA y Nvidia ha convertido esa i…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-25-dinamarca-tiene-un-plan-contra-los-deepfakes-blindar"
+      "id": "xataka-2026-10-26-tras-gastar-cientos-de-miles-de-millones-de"
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "published_at": "2026-10-24T21:29:12Z",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-24-blue-planet-iii-is-keeping-the-rough-edges"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
-      "published_at": "2026-10-24T18:32:21Z",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-24-pennsylvania-will-require-labels-on-ai-generated-ads"
-    },
-    {
-      "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+      "title": "Quién vigila al vigilante: los límites de Pangram como árbitro de lo que es IA y lo que no",
+      "url": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
       "source": "Xataka",
-      "published_at": "2026-10-24T16:30:10Z",
-      "summary": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific…",
+      "published_at": "2026-10-26T11:35:29Z",
+      "summary": "El 23 de octubre, El País publicó que el detector Pangram atribuye a una IA el 99% de ‘ Donde el agua trabaja ’, ganadora de un premio cuyas bases prohibían usar IA. El autor lo niega y la editorial suspendió las present…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-24-la-ia-ya-esta-cambiando-la-prediccion-del"
+      "id": "xataka-2026-10-26-quien-vigila-al-vigilante-los-limites-de-pangram"
     },
     {
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "title": "The city that fought Flock",
+      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
       "source": "The Verge",
-      "published_at": "2026-10-24T15:00:00Z",
-      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project …",
+      "published_at": "2026-10-26T10:00:00Z",
+      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his con…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-24-fielded-is-obsessed-with-scammers-and-unhinged-japanese"
+      "id": "theverge-2026-10-26-the-city-that-fought-flock"
     }
   ],
   "sections": [
@@ -371,19 +371,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
-        },
-        {
-          "title": "Advancing coding in low‑resource programming languages",
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI",
-          "published_at": "2026-10-19T12:00:00Z",
-          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
         }
       ]
     },
@@ -391,17 +378,35 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "url": "https://huggingface.co/blog/allenai/litpivot",
-          "source": "Hugging Face",
-          "published_at": "2026-10-23T16:15:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
+          "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+          "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-25T12:00:02Z",
+          "summary": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be presen…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "huggingface-2026-10-23-litpivot-developing-research-ideas-through-dynamic-contextualization-within"
+          "id": "ieee-2026-10-25-poetry-for-engineers-of-code-and-shortleaf-pine"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
+        {
+          "title": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+          "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
+          "source": "Xataka",
+          "published_at": "2026-10-25T17:30:11Z",
+          "summary": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API ce…",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "xataka-2026-10-25-joe-tsai-presidente-de-alibaba-la-unica-forma"
         }
       ]
     },
@@ -409,160 +414,121 @@
       "name": "General",
       "items": [
         {
-          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-          "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
           "source": "The Verge",
-          "published_at": "2026-10-24T15:00:00Z",
-          "summary": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and vari…",
+          "published_at": "2026-10-25T21:40:27Z",
+          "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-lg-s-brilliant-c6-oled-tv-is-already"
+          "id": "theverge-2026-10-25-ifixit-8217-s-look-inside-the-iphone-duo"
         },
         {
-          "title": "What to expect from Apple’s ‘Pro and tell’ event",
-          "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+          "title": "Scott Walker’s The Drift will get under your skin",
+          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
           "source": "The Verge",
-          "published_at": "2026-10-24T14:15:00Z",
-          "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
+          "published_at": "2026-10-25T21:08:09Z",
+          "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-what-to-expect-from-apple-s-pro-and"
+          "id": "theverge-2026-10-25-scott-walker-s-the-drift-will-get-under"
         },
         {
-          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-          "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
           "source": "The Verge",
-          "published_at": "2026-10-24T14:00:00Z",
-          "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I wa…",
+          "published_at": "2026-10-25T20:16:19Z",
+          "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-i-hope-apple-s-touchscreen-macbook-takes-some"
+          "id": "theverge-2026-10-25-a-youtuber-dissected-an-iphone-duo-and-thinks"
         },
         {
-          "title": "Lee Chang Dong ponders the ethics of the camera",
-          "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+          "title": "Zen Browser is the Arc replacement I was looking for",
+          "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
           "source": "The Verge",
-          "published_at": "2026-10-24T12:30:00Z",
-          "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the…",
+          "published_at": "2026-10-25T19:24:50Z",
+          "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted it…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-lee-chang-dong-ponders-the-ethics-of-the"
+          "id": "theverge-2026-10-25-zen-browser-is-the-arc-replacement-i-was"
         },
         {
-          "title": "Laika has spent 20 years building up to Wildwood",
-          "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
           "source": "The Verge",
-          "published_at": "2026-10-24T12:00:00Z",
-          "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a …",
+          "published_at": "2026-10-25T17:00:00Z",
+          "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-laika-has-spent-20-years-building-up-to"
+          "id": "theverge-2026-10-25-this-switch-2-sequel-accessory-was-a-few"
         },
         {
-          "title": "It’s time to find a new browser",
-          "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
           "source": "The Verge",
-          "published_at": "2026-10-24T12:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read…",
+          "published_at": "2026-10-25T16:20:17Z",
+          "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-24-it-s-time-to-find-a-new-browser"
+          "id": "theverge-2026-10-25-now-you-can-watch-instagram-reels-on-your"
         },
         {
-          "title": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. El problema es el de siempre: no hay detector infalible",
-          "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "published_at": "2026-10-25T13:25:32Z",
+          "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-25-r-opensource-just-banned-ai-non-english-speakers-and"
+        },
+        {
+          "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+          "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
           "source": "Xataka",
-          "published_at": "2026-10-24T10:00:00Z",
-          "summary": "La novela ' Donde el agua trabaja ' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat , dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En s…",
+          "published_at": "2026-10-25T10:30:00Z",
+          "summary": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X ) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-24-pangram-ve-un-99-de-ia-en-la"
+          "id": "xataka-2026-10-25-dinamarca-tiene-un-plan-contra-los-deepfakes-blindar"
         },
         {
-          "title": "Xbox’s first chief operating officer is out after just a few months",
-          "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-          "source": "The Verge",
-          "published_at": "2026-10-23T21:39:26Z",
-          "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-23-xbox-s-first-chief-operating-officer-is-out"
-        },
-        {
-          "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-          "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+          "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
           "source": "Xataka",
-          "published_at": "2026-10-23T19:30:07Z",
-          "summary": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mira…",
+          "published_at": "2026-10-24T16:30:10Z",
+          "summary": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-23-ibm-tiene-unas-cifras-que-desafian-a-los"
-        },
-        {
-          "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
-          "url": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
-          "source": "Xataka",
-          "published_at": "2026-10-23T18:32:14Z",
-          "summary": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a nuestras cuentas. Simplemente abrimos el móvil y seguimos adel…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-23-van-a-empeorar-mucho-mas-jason-clinton-subdirector"
-        },
-        {
-          "title": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
-          "url": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
-          "source": "Xataka",
-          "published_at": "2026-10-23T17:30:08Z",
-          "summary": "Cuando hacemos una búsqueda en Google, lo primero que nos aparece es un resumen generado por IA relacionado con esa búsqueda. Este resumen, denominado AI Overviews , generalmente comparte también una serie de enlaces par…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-23-alemania-pone-en-aprietos-el-modo-ia-de"
-        },
-        {
-          "title": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
-          "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
-          "source": "Xataka",
-          "published_at": "2026-10-23T15:00:11Z",
-          "summary": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados. El fundador de la empre…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-23-la-carrera-entre-china-y-eeuu-por-los"
+          "id": "xataka-2026-10-24-la-ia-ya-esta-cambiando-la-prediccion-del"
         }
       ]
     }
@@ -832,19 +798,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
-        },
-        {
-          "title": "Advancing coding in low‑resource programming languages",
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI",
-          "published_at": "2026-10-19T12:00:00Z",
-          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-19-advancing-coding-in-low-resource-programming-languages"
         }
       ]
     },
