@@ -1,78 +1,182 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T13:21:58.136913Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T12:29:21.234078Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Can AI help solve the COBOL code crisis?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
       "source": "The Verge",
-      "published_at": "2026-10-26T13:15:00Z",
-      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing d…",
+      "published_at": "2026-10-27T11:00:00Z",
+      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-26-can-ai-help-solve-the-cobol-code-crisis"
+      "id": "theverge-2026-10-27-sterling-anderson-doesn-t-think-humanoid-robots-should"
     },
     {
-      "title": "Apple updates the iPad Mini with a larger OLED display",
-      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
       "source": "The Verge",
-      "published_at": "2026-10-26T13:05:03Z",
-      "summary": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. It starts at $699 for the Wi-Fi-only model, and $849 for W…",
+      "published_at": "2026-10-27T10:00:00Z",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-26-apple-updates-the-ipad-mini-with-a-larger"
+      "id": "theverge-2026-10-27-data-center-backlash-is-uniting-america"
     },
     {
-      "title": "Tras gastar cientos de miles de millones de dólares en tarjetas de Nvidia, los hiperescaladores tienen la mitad guardadas en cajas",
-      "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
-      "source": "Xataka",
-      "published_at": "2026-10-26T12:33:25Z",
-      "summary": "Cuando hablamos de hiperescaladores, nos referimos a las grandes 'nubes' como Microsoft, Amazon, Google o Meta. Estas empresas llevan meses multiplicando su inversión en infraestructura de IA y Nvidia ha convertido esa i…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-26-tras-gastar-cientos-de-miles-de-millones-de"
-    },
-    {
-      "title": "Quién vigila al vigilante: los límites de Pangram como árbitro de lo que es IA y lo que no",
-      "url": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
-      "source": "Xataka",
-      "published_at": "2026-10-26T11:35:29Z",
-      "summary": "El 23 de octubre, El País publicó que el detector Pangram atribuye a una IA el 99% de ‘ Donde el agua trabaja ’, ganadora de un premio cuyas bases prohibían usar IA. El autor lo niega y la editorial suspendió las present…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-26-quien-vigila-al-vigilante-los-limites-de-pangram"
-    },
-    {
-      "title": "The city that fought Flock",
-      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
       "source": "The Verge",
-      "published_at": "2026-10-26T10:00:00Z",
-      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his con…",
+      "published_at": "2026-10-27T09:54:22Z",
+      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-26-the-city-that-fought-flock"
+      "id": "theverge-2026-10-27-acer-is-bringing-a-predator-gaming-handheld-to"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "published_at": "2026-10-26T23:34:58Z",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, a…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-26-openai-announces-three-big-science-discoveries-and-a"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "published_at": "2026-10-26T22:00:00Z",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "why_it_matters": "",
+      "tags": [
+        "producto"
+      ],
+      "category": "lanzamientos",
+      "id": "openai-2026-10-26-greptile-takes-bug-detection-beyond-code-review-with"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "source": "Google AI",
+          "published_at": "2026-10-26T16:00:00Z",
+          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-26-our-newest-ai-quest-mapping-the-human-brain"
+        },
+        {
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T14:30:00Z",
+          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-working-with-academic-communities-to-build-scientific-understanding"
+        },
+        {
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T13:45:00Z",
+          "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-gpt-6-1-sol-helps-coderabbit-strengthen-security-across"
+        },
+        {
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T10:00:00Z",
+          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-chatgpt-s-expanding-world-of-work"
+        },
+        {
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T07:00:00Z",
+          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-how-fanatics-and-openai-streamline-the-fan-experience"
+        },
+        {
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+          "url": "https://openai.com/index/openai-cut-incident-investigation",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T07:00:00Z",
+          "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-how-ultrafast-cut-incident-investigation-from-hours-to"
+        },
+        {
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T00:00:00Z",
+          "summary": "Bringing fast and capable computer use to everyone",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-introducing-gpt-6-1-terra"
+        },
+        {
+          "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "source": "Anthropic",
+          "published_at": "2026-10-26T00:00:00Z",
+          "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-26-anthropic-files-s-1-with-the-sec-for-proposed"
+        },
         {
           "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
           "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -332,45 +436,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-21-physicist-christopher-stubbs-joins-anthropic-s-long-term-benefit"
-        },
-        {
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T10:00:00Z",
-          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-franchisee-reconciles-cash-in-94-less-time-with"
-        },
-        {
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T07:00:00Z",
-          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-terminal-x-matches-senior-investor-judgment-88-6"
-        },
-        {
-          "title": "OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T00:00:00Z",
-          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
         }
       ]
     },
@@ -378,17 +443,17 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
-          "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+          "title": "IEEE Xplore Digital Library Adds AI Assistant",
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
           "source": "IEEE Spectrum",
-          "published_at": "2026-10-25T12:00:02Z",
-          "summary": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be presen…",
+          "published_at": "2026-10-26T18:00:03Z",
+          "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , jou…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-10-25-poetry-for-engineers-of-code-and-shortleaf-pine"
+          "id": "ieee-2026-10-26-ieee-xplore-digital-library-adds-ai-assistant"
         }
       ]
     },
@@ -414,121 +479,160 @@
       "name": "General",
       "items": [
         {
-          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+          "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-25T21:40:27Z",
-          "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repa…",
+          "published_at": "2026-10-26T21:56:36Z",
+          "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-25-ifixit-8217-s-look-inside-the-iphone-duo"
+          "id": "theverge-2026-10-26-samsung-s-switch-2-ready-microsd-express-card-is"
         },
         {
-          "title": "Scott Walker’s The Drift will get under your skin",
-          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
           "source": "The Verge",
-          "published_at": "2026-10-25T21:08:09Z",
-          "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing…",
+          "published_at": "2026-10-26T21:45:31Z",
+          "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-25-scott-walker-s-the-drift-will-get-under"
+          "id": "theverge-2026-10-26-anthropic-is-burning-gas-to-feed-the-ai"
         },
         {
-          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-          "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+          "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
           "source": "The Verge",
-          "published_at": "2026-10-25T20:16:19Z",
-          "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on…",
+          "published_at": "2026-10-26T18:51:06Z",
+          "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-25-a-youtuber-dissected-an-iphone-duo-and-thinks"
+          "id": "theverge-2026-10-26-iphone-duo-now-supports-apple-pencil-with-ios"
         },
         {
-          "title": "Zen Browser is the Arc replacement I was looking for",
-          "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-          "source": "The Verge",
-          "published_at": "2026-10-25T19:24:50Z",
-          "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted it…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-25-zen-browser-is-the-arc-replacement-i-was"
-        },
-        {
-          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-          "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-          "source": "The Verge",
-          "published_at": "2026-10-25T17:00:00Z",
-          "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-25-this-switch-2-sequel-accessory-was-a-few"
-        },
-        {
-          "title": "Now you can watch Instagram Reels on your Apple TV",
-          "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-          "source": "The Verge",
-          "published_at": "2026-10-25T16:20:17Z",
-          "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-25-now-you-can-watch-instagram-reels-on-your"
-        },
-        {
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "published_at": "2026-10-25T13:25:32Z",
-          "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-25-r-opensource-just-banned-ai-non-english-speakers-and"
-        },
-        {
-          "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-          "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+          "title": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
+          "url": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
           "source": "Xataka",
-          "published_at": "2026-10-25T10:30:00Z",
-          "summary": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X ) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden…",
+          "published_at": "2026-10-26T18:33:23Z",
+          "summary": "Se está gastando mucho en IA. Muchísimo. Y son precisamente las cuatro grandes tecnológicas (Meta, Microsoft, Amazon y Google) las que están al frente de ese gasto . Tanto es así, que Microsoft ya ha empezado a dar los p…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-25-dinamarca-tiene-un-plan-contra-los-deepfakes-blindar"
+          "id": "xataka-2026-10-26-con-190-000-millones-de-dolares-en-gasto"
         },
         {
-          "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
-          "source": "Xataka",
-          "published_at": "2026-10-24T16:30:10Z",
-          "summary": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific…",
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "source": "The Verge",
+          "published_at": "2026-10-26T18:22:06Z",
+          "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-24-la-ia-ya-esta-cambiando-la-prediccion-del"
+          "id": "theverge-2026-10-26-the-nba-s-response-to-gambling-scandals-is"
+        },
+        {
+          "title": "Elon Musk, CEO de SpaceX: \"Las neoclouds van a experimentar muertes y consolidaciones a nivel extremo\"",
+          "url": "https://www.xataka.com/empresas-y-economia/elon-musk-cree-que-carrera-ia-se-cobrara-nuevas-victimas-neoclouds",
+          "source": "Xataka",
+          "published_at": "2026-10-26T18:00:00Z",
+          "summary": "Durante los últimos años hemos visto cómo la carrera por la inteligencia artificial convertía las GPUs en uno de los recursos más codiciados de la industria tecnológica. Pero conseguir esos chips era solo el principio: h…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-26-elon-musk-ceo-de-spacex-las-neoclouds-van"
+        },
+        {
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "source": "The Verge",
+          "published_at": "2026-10-26T17:30:55Z",
+          "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-26-the-realreal-won-t-let-ai-agents-hog"
+        },
+        {
+          "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+          "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+          "source": "The Verge",
+          "published_at": "2026-10-26T17:28:07Z",
+          "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an is…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-26-apple-acknowledges-iphone-duo-display-8216-issue-8217"
+        },
+        {
+          "title": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
+          "url": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
+          "source": "Xataka",
+          "published_at": "2026-10-26T16:31:27Z",
+          "summary": "Ver un unicornio es más sencillo que encontrarse con una Nvidia RTX 5090 . Diría que hasta es más probable tocar un billete de 500 euros: las tarjetas gráficas de alta capacidad se han puesto inacanzables. Mientras las t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-26-las-rtx-5090-se-fabricaron-para-jugar-en"
+        },
+        {
+          "title": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
+          "url": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
+          "source": "Xataka",
+          "published_at": "2026-10-26T14:45:00Z",
+          "summary": "Llevamos todo 2026 hablando de que uno de los puntos clave de la industria de la IA lo marcará el momento en el que OpenAI y Anthropic salgan a bolsa y, al menos en el caso de la segunda, las cosas ya están en marcha. Co…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-26-anthropic-acaba-de-dar-uno-de-los-pasos"
+        },
+        {
+          "title": "Los hiperescaladores tienen miles de tarjetas de Nvidia guardadas en sus cajas porque no tienen dónde enchufarlas",
+          "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
+          "source": "Xataka",
+          "published_at": "2026-10-26T12:30:00Z",
+          "summary": "Cuando hablamos de hiperescaladores, nos referimos a las grandes 'nubes' como Microsoft, Amazon, Google o Meta. Estas empresas llevan meses multiplicando su inversión en infraestructura de IA y Nvidia ha convertido esa i…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-26-los-hiperescaladores-tienen-miles-de-tarjetas-de-nvidia"
+        },
+        {
+          "title": "¿Es Pangram el árbitro de la IA que la industria literaria necesita? Un autor peruano lo está descubriendo en su carnes",
+          "url": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
+          "source": "Xataka",
+          "published_at": "2026-10-26T11:35:00Z",
+          "summary": "El 23 de octubre, El País publicó que el detector Pangram atribuye a una IA el 99% de ‘ Donde el agua trabaja ’, ganadora de un premio cuyas bases prohibían usar IA. El autor lo niega y la editorial suspendió las present…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-26-es-pangram-el-arbitro-de-la-ia-que"
         }
       ]
     }
@@ -565,6 +669,97 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T22:00:00Z",
+          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-greptile-takes-bug-detection-beyond-code-review-with"
+        },
+        {
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T14:30:00Z",
+          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-working-with-academic-communities-to-build-scientific-understanding"
+        },
+        {
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T13:45:00Z",
+          "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-gpt-6-1-sol-helps-coderabbit-strengthen-security-across"
+        },
+        {
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T10:00:00Z",
+          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-chatgpt-s-expanding-world-of-work"
+        },
+        {
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T07:00:00Z",
+          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-how-fanatics-and-openai-streamline-the-fan-experience"
+        },
+        {
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+          "url": "https://openai.com/index/openai-cut-incident-investigation",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T07:00:00Z",
+          "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-how-ultrafast-cut-incident-investigation-from-hours-to"
+        },
+        {
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI",
+          "published_at": "2026-10-26T00:00:00Z",
+          "summary": "Bringing fast and capable computer use to everyone",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-26-introducing-gpt-6-1-terra"
+        },
         {
           "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
           "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -759,45 +954,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-21-democratic-governance-of-frontier-ai-part-ii-empowering"
-        },
-        {
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T10:00:00Z",
-          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-franchisee-reconciles-cash-in-94-less-time-with"
-        },
-        {
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T07:00:00Z",
-          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-terminal-x-matches-senior-investor-judgment-88-6"
-        },
-        {
-          "title": "OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI",
-          "published_at": "2026-10-20T00:00:00Z",
-          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-20-openai-acquires-orchestra-bio"
         }
       ]
     },
@@ -805,6 +961,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "source": "Anthropic",
+          "published_at": "2026-10-26T00:00:00Z",
+          "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-26-anthropic-files-s-1-with-the-sec-for-proposed"
+        },
         {
           "title": "Open call for guest investigators in the life sciences",
           "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
@@ -850,6 +1019,19 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "source": "Google AI",
+          "published_at": "2026-10-26T16:00:00Z",
+          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-10-26-our-newest-ai-quest-mapping-the-human-brain"
+        },
         {
           "title": "Southeast Asia’s digital economy to hit $368 billion",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
