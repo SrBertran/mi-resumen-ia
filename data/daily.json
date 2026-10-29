@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T13:17:19.823093Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T06:39:10.157624Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-      "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-      "source": "The Verge",
-      "published_at": "2026-10-28T13:00:00Z",
-      "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 mill…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-28-tiktok-is-going-after-yelp-and-google-maps"
-    },
-    {
-      "title": "Inside Amazon’s Echo hardware event",
-      "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-      "source": "The Verge",
-      "published_at": "2026-10-28T12:46:42Z",
-      "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's fir…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-28-inside-amazon-s-echo-hardware-event"
-    },
-    {
-      "title": "Bruselas plantea un \"matiz\" al RGPD y abre la puerta a entrenar a la IA con datos obtenidos sin consentimiento",
-      "url": "https://www.xataka.com/legislacion-y-derechos/consejo-ue-propone-ligero-matiz-al-rgpd-que-se-pueda-entrenar-ia-tus-datos-pedir-permiso",
+      "title": "Una popular salsa picante China tiene ingresos récord gracias a la IA. Y también una enorme crisis reputacional",
+      "url": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
       "source": "Xataka",
-      "published_at": "2026-10-28T12:45:00Z",
-      "summary": "Aunque estemos todo el día con la palabra \"IA\" en la boca, en Europa hay ciertas aplicaciones y servicios a los que la Unión les había dado con la puerta en las narices. Sin embargo, una propuesta para reformar el RGPD (…",
+      "published_at": "2026-10-29T06:01:27Z",
+      "summary": "Cuando una empresa saca pecho de que la IA le funciona y, a la vez, de que ha tenido su mejor año, no debería extrañarle de que alguien sume uno más uno. Eso es lo que le ha pasado a Lao Gan Ma, la exitosa marca china de…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-10-28-bruselas-plantea-un-matiz-al-rgpd-y-abre"
+      "id": "xataka-2026-10-29-una-popular-salsa-picante-china-tiene-ingresos-record"
     },
     {
-      "title": "\"La IA no va a meterse debajo de las casas para instalar tuberías\": en EEUU y Francia los oficios manuales están al alza",
-      "url": "https://www.xataka.com/empresas-y-economia/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-eeuu-francia-oficios-manuales-estan-al-alza",
-      "source": "Xataka",
-      "published_at": "2026-10-28T12:30:00Z",
-      "summary": "En las últimas décadas, el mensaje para millones de jóvenes fue el mismo: estudiar una carrera universitaria era la mejor forma de asegurarse un buen futuro laboral. La irrupción de la inteligencia artificial está empeza…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-10-28-la-ia-no-va-a-meterse-debajo-de"
-    },
-    {
-      "title": "Almost all of Amazon’s new Echo gear is available now",
-      "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
       "source": "The Verge",
-      "published_at": "2026-10-28T12:29:52Z",
-      "summary": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The…",
+      "published_at": "2026-10-29T02:22:46Z",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-28-almost-all-of-amazon-s-new-echo-gear"
+      "id": "theverge-2026-10-29-anduril-now-says-its-bluechip-laptop-will-meet"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "published_at": "2026-10-28T23:05:39Z",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-28-adam-mosseri-says-negativity-around-ai-is-going"
+    },
+    {
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "source": "The Verge",
+      "published_at": "2026-10-28T21:57:45Z",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees,…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-28-a-hacker-stole-more-than-40-000-dhs"
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "published_at": "2026-10-28T21:34:04Z",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-28-akai-is-embracing-vibe-coded-mods-with-an-open-source"
     }
   ],
   "sections": [
@@ -74,8 +74,47 @@
       "name": "Lanzamientos",
       "items": [
         {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "source": "DeepMind",
+          "published_at": "2026-10-28T17:00:58Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-28-gemini-4-carbon-our-next-frontier-model"
+        },
+        {
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI",
+          "published_at": "2026-10-28T13:15:00Z",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-28-openai-and-servicenow-expand-partnership-across-enterprise-workflows"
+        },
+        {
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI",
+          "published_at": "2026-10-28T10:00:00Z",
+          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-28-the-future-of-the-firm"
+        },
+        {
           "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "url": "https://openai.com/index/legora",
           "source": "OpenAI",
           "published_at": "2026-10-28T09:30:00Z",
           "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -85,6 +124,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-28-legora-is-building-the-agentic-operating-system-for"
+        },
+        {
+          "title": "AI for Science expands to foundations and research institutions",
+          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "source": "Anthropic",
+          "published_at": "2026-10-28T00:00:00Z",
+          "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-28-ai-for-science-expands-to-foundations-and-research"
         },
         {
           "title": "Genie 4: A new generation of world simulation",
@@ -358,90 +410,43 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-10-22-beyond-tree-cover-mapping-the-world-s-forest"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "What FDE means at OpenAI",
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T06:00:00Z",
-          "summary": "What forward deployed engineering means at OpenAI",
+          "title": "Google says its investments in AI are driving more searches",
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "source": "The Verge",
+          "published_at": "2026-10-28T20:22:26Z",
+          "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-what-fde-means-at-openai"
-        },
-        {
-          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-uber-brings-chatgpt-work-to-all-employees-with"
-        },
-        {
-          "title": "Open call for guest investigators in the life sciences",
-          "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-          "source": "Anthropic",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-22-open-call-for-guest-investigators-in-the-life"
-        },
-        {
-          "title": "Donating Agent Skills to the Agentic AI Foundation",
-          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-          "source": "Anthropic",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code,…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-22-donating-agent-skills-to-the-agentic-ai-foundation"
-        },
-        {
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI",
-          "published_at": "2026-10-21T21:00:00Z",
-          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-21-broad-access-through-consistent-standards"
-        },
-        {
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI",
-          "published_at": "2026-10-21T17:00:00Z",
-          "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-21-how-at-t-is-rethinking-in-house-legal-work"
+          "category": "negocio",
+          "id": "theverge-2026-10-28-google-says-its-investments-in-ai-are-driving"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Systems Thinking Is Vital in the Age of AI",
+          "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-10-28T18:00:02Z",
+          "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, gen…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-10-28-systems-thinking-is-vital-in-the-age-of"
+        },
         {
           "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
           "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
@@ -480,25 +485,25 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-10-27-i-used-ai-to-fake-a-scientific-paper"
-        },
-        {
-          "title": "IEEE Xplore Digital Library Adds AI Assistant",
-          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-26T18:00:03Z",
-          "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , jou…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-26-ieee-xplore-digital-library-adds-ai-assistant"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hugging Face",
+          "published_at": "2026-10-28T14:58:17Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-28-nvidia-nemotron-3-5-transcribe-and-granary-v2"
+        },
         {
           "title": "Build specialized multimodal models with LFM3",
           "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -518,147 +523,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Everything announced at Amazon&#8217;s October 2026 hardware launch",
-          "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+          "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
           "source": "The Verge",
-          "published_at": "2026-10-28T12:20:40Z",
-          "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is s…",
+          "published_at": "2026-10-28T21:16:18Z",
+          "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-everything-announced-at-amazon-8217-s-october-2026"
+          "id": "theverge-2026-10-28-readwise-is-taking-on-kindle-and-kobo-for"
         },
         {
-          "title": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
-          "url": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
           "source": "The Verge",
-          "published_at": "2026-10-28T12:08:15Z",
-          "summary": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of…",
+          "published_at": "2026-10-28T20:20:00Z",
+          "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has inc…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-amazon-8217-s-new-echo-line-is-here"
+          "id": "theverge-2026-10-28-microsoft-reveals-strong-cloud-growth-amid-financial-reporting"
         },
         {
-          "title": "Voters in Texas agree: They hate data centers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
           "source": "The Verge",
-          "published_at": "2026-10-28T12:00:00Z",
-          "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's …",
+          "published_at": "2026-10-28T20:12:44Z",
+          "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-voters-in-texas-agree-they-hate-data-centers"
+          "id": "theverge-2026-10-28-apple-charges-14-549-for-a-fully-specced"
         },
         {
-          "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
-          "url": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
           "source": "The Verge",
-          "published_at": "2026-10-28T12:00:00Z",
-          "summary": "Amazon's screen-equipped smart speakers have long been able to display your family's photos, but its new Alexa Photo Frame is purpose-built for that task. It's designed to compete with other digital picture frames from c…",
+          "published_at": "2026-10-28T20:03:00Z",
+          "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-amazon-s-first-digital-picture-frame-lets-you"
+          "id": "theverge-2026-10-28-google-launches-gemini-4-carbon-with-a-significant"
         },
         {
-          "title": "How a grocery merger could expand a surveillance network",
-          "url": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+          "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+          "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
           "source": "The Verge",
-          "published_at": "2026-10-28T12:00:00Z",
-          "summary": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns tha…",
+          "published_at": "2026-10-28T19:37:31Z",
+          "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US gover…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-how-a-grocery-merger-could-expand-a-surveillance"
+          "id": "theverge-2026-10-28-foreign-gadget-bans-all-the-news-about-the"
         },
         {
-          "title": "Amazon’s new Echo Studio speaker has a camera",
-          "url": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
-          "source": "The Verge",
-          "published_at": "2026-10-28T12:00:00Z",
-          "summary": "Amazon is giving its premium smart speaker a camera. The new Echo Studio with Home Camera, announced today as part of Amazon's big blast of announcements, has a built-in camera for monitoring a room while you're away, sh…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-28-amazon-s-new-echo-studio-speaker-has-a"
-        },
-        {
-          "title": "Our first look at Amazon’s big new Echo Show 16",
-          "url": "https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles",
-          "source": "The Verge",
-          "published_at": "2026-10-28T12:00:00Z",
-          "summary": "Amazon's latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive. Announced today, the Echo Show 16 costs $499.99 (wall mount included) and is available to preorder now. There's a Nanomatte display …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-28-our-first-look-at-amazon-s-big-new"
-        },
-        {
-          "title": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
-          "url": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
+          "title": "Bruselas plantea un \"matiz\" al RGPD y abre la puerta a entrenar a la IA con datos obtenidos sin consentimiento",
+          "url": "https://www.xataka.com/legislacion-y-derechos/consejo-ue-propone-ligero-matiz-al-rgpd-que-se-pueda-entrenar-ia-tus-datos-pedir-permiso",
           "source": "Xataka",
-          "published_at": "2026-10-26T18:33:23Z",
-          "summary": "Se está gastando mucho en IA. Muchísimo. Y son precisamente las cuatro grandes tecnológicas (Meta, Microsoft, Amazon y Google) las que están al frente de ese gasto . Tanto es así, que Microsoft ya ha empezado a dar los p…",
+          "published_at": "2026-10-28T12:45:00Z",
+          "summary": "Aunque estemos todo el día con la palabra \"IA\" en la boca, en Europa hay ciertas aplicaciones y servicios a los que la Unión les había dado con la puerta en las narices. Sin embargo, una propuesta para reformar el RGPD (…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-26-con-190-000-millones-de-dolares-en-gasto"
+          "id": "xataka-2026-10-28-bruselas-plantea-un-matiz-al-rgpd-y-abre"
         },
         {
-          "title": "Elon Musk, CEO de SpaceX: \"Las neoclouds van a experimentar muertes y consolidaciones a nivel extremo\"",
-          "url": "https://www.xataka.com/empresas-y-economia/elon-musk-cree-que-carrera-ia-se-cobrara-nuevas-victimas-neoclouds",
+          "title": "\"La IA no va a meterse debajo de las casas para instalar tuberías\": en EEUU y Francia los oficios manuales están al alza",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-eeuu-francia-oficios-manuales-estan-al-alza",
           "source": "Xataka",
-          "published_at": "2026-10-26T18:00:00Z",
-          "summary": "Durante los últimos años hemos visto cómo la carrera por la inteligencia artificial convertía las GPUs en uno de los recursos más codiciados de la industria tecnológica. Pero conseguir esos chips era solo el principio: h…",
+          "published_at": "2026-10-28T12:30:00Z",
+          "summary": "En las últimas décadas, el mensaje para millones de jóvenes fue el mismo: estudiar una carrera universitaria era la mejor forma de asegurarse un buen futuro laboral. La irrupción de la inteligencia artificial está empeza…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-10-26-elon-musk-ceo-de-spacex-las-neoclouds-van"
-        },
-        {
-          "title": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
-          "url": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
-          "source": "Xataka",
-          "published_at": "2026-10-26T16:31:27Z",
-          "summary": "Ver un unicornio es más sencillo que encontrarse con una Nvidia RTX 5090 . Diría que hasta es más probable tocar un billete de 500 euros: las tarjetas gráficas de alta capacidad se han puesto inacanzables. Mientras las t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-26-las-rtx-5090-se-fabricaron-para-jugar-en"
-        },
-        {
-          "title": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
-          "url": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
-          "source": "Xataka",
-          "published_at": "2026-10-26T14:45:00Z",
-          "summary": "Llevamos todo 2026 hablando de que uno de los puntos clave de la industria de la IA lo marcará el momento en el que OpenAI y Anthropic salgan a bolsa y, al menos en el caso de la segunda, las cosas ya están en marcha. Co…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-26-anthropic-acaba-de-dar-uno-de-los-pasos"
+          "id": "xataka-2026-10-28-la-ia-no-va-a-meterse-debajo-de"
         }
       ]
     }
@@ -696,8 +649,34 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI",
+          "published_at": "2026-10-28T13:15:00Z",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-28-openai-and-servicenow-expand-partnership-across-enterprise-workflows"
+        },
+        {
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI",
+          "published_at": "2026-10-28T10:00:00Z",
+          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-28-the-future-of-the-firm"
+        },
+        {
           "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "url": "https://openai.com/index/legora",
           "source": "OpenAI",
           "published_at": "2026-10-28T09:30:00Z",
           "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -902,58 +881,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-22-build-more-responsive-apps-with-the-decisions-api"
-        },
-        {
-          "title": "What FDE means at OpenAI",
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T06:00:00Z",
-          "summary": "What forward deployed engineering means at OpenAI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-what-fde-means-at-openai"
-        },
-        {
-          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-uber-brings-chatgpt-work-to-all-employees-with"
-        },
-        {
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI",
-          "published_at": "2026-10-21T21:00:00Z",
-          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-21-broad-access-through-consistent-standards"
-        },
-        {
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI",
-          "published_at": "2026-10-21T17:00:00Z",
-          "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-21-how-at-t-is-rethinking-in-house-legal-work"
         }
       ]
     },
@@ -961,6 +888,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "AI for Science expands to foundations and research institutions",
+          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "source": "Anthropic",
+          "published_at": "2026-10-28T00:00:00Z",
+          "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-10-28-ai-for-science-expands-to-foundations-and-research"
+        },
         {
           "title": "Early progress on accelerating drug development with Claude",
           "url": "https://www.anthropic.com/research/early-progress-drug-development",
@@ -999,32 +939,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-26-anthropic-files-s-1-with-the-sec-for-proposed"
-        },
-        {
-          "title": "Open call for guest investigators in the life sciences",
-          "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-          "source": "Anthropic",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-22-open-call-for-guest-investigators-in-the-life"
-        },
-        {
-          "title": "Donating Agent Skills to the Agentic AI Foundation",
-          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-          "source": "Anthropic",
-          "published_at": "2026-10-22T00:00:00Z",
-          "summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code,…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-22-donating-agent-skills-to-the-agentic-ai-foundation"
         }
       ]
     },
@@ -1051,6 +965,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "source": "DeepMind",
+          "published_at": "2026-10-28T17:00:58Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-28-gemini-4-carbon-our-next-frontier-model"
+        },
         {
           "title": "Genie 4: A new generation of world simulation",
           "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
