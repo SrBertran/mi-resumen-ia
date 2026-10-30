@@ -1,78 +1,117 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T06:39:10.157624Z",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T06:39:27.919466Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Una popular salsa picante China tiene ingresos récord gracias a la IA. Y también una enorme crisis reputacional",
-      "url": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+      "source": "The Verge",
+      "published_at": "2026-10-29T23:57:18Z",
+      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning t…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-29-the-director-of-obsession-put-a-new-horror"
+    },
+    {
+      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "source": "The Verge",
+      "published_at": "2026-10-29T23:42:21Z",
+      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-29-intel-says-it-8217-s-selling-every-affordable"
+    },
+    {
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "source": "The Verge",
+      "published_at": "2026-10-29T22:19:32Z",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnin…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-10-29-reddit-s-ceo-says-google-s-ai-mode"
+    },
+    {
+      "title": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
+      "url": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
       "source": "Xataka",
-      "published_at": "2026-10-29T06:01:27Z",
-      "summary": "Cuando una empresa saca pecho de que la IA le funciona y, a la vez, de que ha tenido su mejor año, no debería extrañarle de que alguien sume uno más uno. Eso es lo que le ha pasado a Lao Gan Ma, la exitosa marca china de…",
+      "published_at": "2026-10-29T20:30:00Z",
+      "summary": "Estamos acostumbrados a hablar de la inteligencia artificial en términos de plo que puede hacer por nosotros: escribir una función, corregir un error o ayudarnos a terminar una aplicación. Sin embargo, cada vez que ese t…",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "xataka-2026-10-29-una-popular-salsa-picante-china-tiene-ingresos-record"
+      "category": "herramientas",
+      "id": "xataka-2026-10-29-github-ha-tenido-que-hacer-algo-a-gran"
     },
     {
-      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "title": "Patrick Stewart has died at age 86",
+      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
       "source": "The Verge",
-      "published_at": "2026-10-29T02:22:46Z",
-      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin…",
+      "published_at": "2026-10-29T20:10:02Z",
+      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poigna…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-10-29-anduril-now-says-its-bluechip-laptop-will-meet"
-    },
-    {
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "source": "The Verge",
-      "published_at": "2026-10-28T23:05:39Z",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-28-adam-mosseri-says-negativity-around-ai-is-going"
-    },
-    {
-      "title": "A hacker stole more than 40,000 DHS employee records",
-      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-      "source": "The Verge",
-      "published_at": "2026-10-28T21:57:45Z",
-      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees,…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-28-a-hacker-stole-more-than-40-000-dhs"
-    },
-    {
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "source": "The Verge",
-      "published_at": "2026-10-28T21:34:04Z",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-10-28-akai-is-embracing-vibe-coded-mods-with-an-open-source"
+      "id": "theverge-2026-10-29-patrick-stewart-has-died-at-age-86"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T17:00:00Z",
+          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-an-updated-model-spec-for-more-capable-and"
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T09:00:00Z",
+          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-how-we-detect-frontier-model-misalignment"
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T07:00:00Z",
+          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
+        },
         {
           "title": "Gemini 4 Carbon: Our next frontier model",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -358,76 +397,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-23-securing-our-frontier-model-training-environment"
-        },
-        {
-          "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-          "url": "https://openai.com/index/anima",
-          "source": "OpenAI",
-          "published_at": "2026-10-23T00:00:00Z",
-          "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-23-anima-helps-clinics-cut-call-waits-by-75"
-        },
-        {
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-10-23T00:00:00Z",
-          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-23-openai-and-poland-s-nask-partner-to-advance"
-        },
-        {
-          "title": "Build more responsive apps with the Decisions API",
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T19:00:00Z",
-          "summary": "Fast, focused, low-cost decisions for any application.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-build-more-responsive-apps-with-the-decisions-api"
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "source": "DeepMind",
-          "published_at": "2026-10-22T14:30:24Z",
-          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-22-beyond-tree-cover-mapping-the-world-s-forest"
-        }
-      ]
-    },
-    {
-      "name": "Negocio",
-      "items": [
-        {
-          "title": "Google says its investments in AI are driving more searches",
-          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-          "source": "The Verge",
-          "published_at": "2026-10-28T20:22:26Z",
-          "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc…",
-          "why_it_matters": "",
-          "tags": [
-            "negocio"
-          ],
-          "category": "negocio",
-          "id": "theverge-2026-10-28-google-says-its-investments-in-ai-are-driving"
         }
       ]
     },
@@ -446,51 +415,64 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-10-28-systems-thinking-is-vital-in-the-age-of"
-        },
-        {
-          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-          "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-27T16:14:39Z",
-          "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on in…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-27-your-robot-s-safety-functions-already-work-what"
-        },
-        {
-          "title": "Can we trust LLMs to judge whether a research idea is novel?",
-          "url": "https://huggingface.co/blog/allenai/novelty-bench",
-          "source": "Hugging Face",
-          "published_at": "2026-10-27T16:12:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-10-27-can-we-trust-llms-to-judge-whether-a"
-        },
-        {
-          "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-          "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-10-27T13:00:03Z",
-          "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-10-27-i-used-ai-to-fake-a-scientific-paper"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face",
+          "published_at": "2026-10-29T13:37:07Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-29-granite-switch-4-1-1----update-models"
+        },
+        {
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "source": "Hugging Face",
+          "published_at": "2026-10-29T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-29-announcing-project-protostar-making-publicly-funded-science-ai-ready"
+        },
+        {
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "source": "Hugging Face",
+          "published_at": "2026-10-29T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-29-welcome-le-chonk-mistral-large-4-on-hugging"
+        },
+        {
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face",
+          "published_at": "2026-10-29T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-10-29-introducing-anyspeechrecognizer-and-anydecisionmodel-open-models-for-speech"
+        },
         {
           "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
@@ -503,19 +485,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-10-28-nvidia-nemotron-3-5-transcribe-and-granary-v2"
-        },
-        {
-          "title": "Build specialized multimodal models with LFM3",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face",
-          "published_at": "2026-10-27T17:16:52Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-10-27-build-specialized-multimodal-models-with-lfm3"
         }
       ]
     },
@@ -523,69 +492,173 @@
       "name": "General",
       "items": [
         {
-          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-          "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+          "title": "Reddit will force everyone to log in",
+          "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
           "source": "The Verge",
-          "published_at": "2026-10-28T21:16:18Z",
-          "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's …",
+          "published_at": "2026-10-29T20:07:00Z",
+          "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a w…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-readwise-is-taking-on-kindle-and-kobo-for"
+          "id": "theverge-2026-10-29-reddit-will-force-everyone-to-log-in"
         },
         {
-          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "title": "Rivian’s R2 is officially its best-selling vehicle",
+          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
           "source": "The Verge",
-          "published_at": "2026-10-28T20:20:00Z",
-          "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has inc…",
+          "published_at": "2026-10-29T20:02:00Z",
+          "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outs…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-microsoft-reveals-strong-cloud-growth-amid-financial-reporting"
+          "id": "theverge-2026-10-29-rivian-s-r2-is-officially-its-best-selling-vehicle"
         },
         {
-          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+          "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+          "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
           "source": "The Verge",
-          "published_at": "2026-10-28T20:12:44Z",
-          "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $…",
+          "published_at": "2026-10-29T19:19:28Z",
+          "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coal…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-apple-charges-14-549-for-a-fully-specced"
+          "id": "theverge-2026-10-29-gm-to-pay-220-million-to-resolve-claims"
         },
         {
-          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
           "source": "The Verge",
-          "published_at": "2026-10-28T20:03:00Z",
-          "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi…",
+          "published_at": "2026-10-29T18:45:31Z",
+          "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-google-launches-gemini-4-carbon-with-a-significant"
+          "id": "theverge-2026-10-29-you-can-generate-and-edit-google-docs-files"
         },
         {
-          "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-          "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+          "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
+          "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-28T19:37:31Z",
-          "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US gover…",
+          "published_at": "2026-10-29T18:18:36Z",
+          "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, t…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-10-28-foreign-gadget-bans-all-the-news-about-the"
+          "id": "theverge-2026-10-29-ikea-8217-s-colorful-donut-shaped-smart-lamp-is"
+        },
+        {
+          "title": "Apple’s new laptop supports one of the coolest features for color pros",
+          "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+          "source": "The Verge",
+          "published_at": "2026-10-29T17:48:09Z",
+          "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-10-29-apple-s-new-laptop-supports-one-of-the"
+        },
+        {
+          "title": "La IA ya empieza a dejar huella en el paro español. Los más expuestos: programadores y diseñadores",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
+          "source": "Xataka",
+          "published_at": "2026-10-29T17:15:28Z",
+          "summary": "Cuando una pared cede, el primer aviso casi nunca es un derrumbe inmediato. Suele ser una fina grieta en la pintura apenas perceptible, a menos que la estés buscando. Con la IA y el empleo pasa algo parecido: tres años p…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-la-ia-ya-empieza-a-dejar-huella-en"
+        },
+        {
+          "title": "Una empresa está creando el Tesla de las excavadoras: IA física y hasta arriba de sensores para levantar los centros de datos",
+          "url": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
+          "source": "Xataka",
+          "published_at": "2026-10-29T15:31:28Z",
+          "summary": "Excavar terreno para una carretera, una fábrica o un centro de datos parece un trabajo seguro para un humano porque se sigue dependiendo de una persona a los mandos del aparato. Sin embargo, una startup de San Francisco …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-una-empresa-esta-creando-el-tesla-de-las"
+        },
+        {
+          "title": "OpenAI ya supone el 11% de los ingresos de Microsoft. Y eso es una buena y una mala noticia",
+          "url": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
+          "source": "Xataka",
+          "published_at": "2026-10-29T14:15:29Z",
+          "summary": "Microsoft ha cerrado su primer trimestre fiscal de 2027 con mayor beneficio, más crecimiento en Azure y un flujo de caja que muchas grandes tecnologías envidiarían ante un enorme gasto en IA . Estas buenas cifras, eviden…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-openai-ya-supone-el-11-de-los-ingresos"
+        },
+        {
+          "title": "Una ingeniera de Amazon preguntó a ChatGPT cómo dejar su medicación de epilepsia. La IA le diseñó un calendario de 25 días que ha terminado en tragedia",
+          "url": "https://www.xataka.com/robotica-e-ia/ingeniera-amazon-pregunto-a-chatgpt-como-dejar-su-medicacion-epilepsia-ia-le-diseno-calendario-25-dias-que-ha-terminado-tragedia",
+          "source": "Xataka",
+          "published_at": "2026-10-29T13:31:30Z",
+          "summary": "Bowen Wan tenía 31 años, trabajaba como ingeniera de software en Amazon y sufría una epilepsia grave. En enero de 2026, ante la posibilidad de perder su empleo y su derecho a permanecer en Estados Unidos, recurrió a Chat…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-una-ingeniera-de-amazon-pregunto-a-chatgpt-como"
+        },
+        {
+          "title": "Entrenar grandes modelos exige cada vez más hardware. China responde con un superclúster de 100.000 tarjetas nacionales",
+          "url": "https://www.xataka.com/robotica-e-ia/entrenar-grandes-modelos-exige-cada-vez-hardware-china-responde-supercluster-100-000-tarjetas-nacionales",
+          "source": "Xataka",
+          "published_at": "2026-10-29T09:31:26Z",
+          "summary": "Hace unos meses tuvimos ocasión de contar las proezas del Sugon 8000 , un superclúster con unas 100.000 tarjetas gráficas, todas ellas diseñadas y fabricadas en China. El sistema se encuentra en Zhengzhou, en la provinci…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-entrenar-grandes-modelos-exige-cada-vez-mas-hardware"
+        },
+        {
+          "title": "La memoria se convierte en el cuello de botella (y en el gran negocio) de la IA: SK Hynix incrementa un 632% su beneficio operativo",
+          "url": "https://www.xataka.com/empresas-y-economia/memoria-se-convierte-cuello-botella-gran-negocio-ia-sk-hynix-incrementa-632-su-beneficio-operativo",
+          "source": "Xataka",
+          "published_at": "2026-10-29T06:31:28Z",
+          "summary": "SK Hynix acaba de registrar el trimestre más importante de su historia, todo mientras afirma que la escasez de memoria está lejos de terminar . El beneficio operativo de julio a septiembre alcanzó los 83,33 billones de w…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-la-memoria-se-convierte-en-el-cuello-de"
+        },
+        {
+          "title": "La adictiva salsa china picante se enfrenta a un problema: sus empleados ahora son IA, o eso le recriminan",
+          "url": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
+          "source": "Xataka",
+          "published_at": "2026-10-29T06:00:00Z",
+          "summary": "Cuando una empresa saca pecho de que la IA le funciona y, a la vez, de que ha tenido su mejor año, no debería extrañarle de que alguien sume uno más uno. Eso es lo que le ha pasado a Lao Gan Ma, la exitosa marca china de…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-10-29-la-adictiva-salsa-china-picante-se-enfrenta-a"
         },
         {
           "title": "Bruselas plantea un \"matiz\" al RGPD y abre la puerta a entrenar a la IA con datos obtenidos sin consentimiento",
@@ -649,6 +722,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T17:00:00Z",
+          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-an-updated-model-spec-for-more-capable-and"
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T09:00:00Z",
+          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-how-we-detect-frontier-model-misalignment"
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "source": "OpenAI",
+          "published_at": "2026-10-29T07:00:00Z",
+          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
+        },
+        {
           "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
           "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "source": "OpenAI",
@@ -842,45 +954,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-23-securing-our-frontier-model-training-environment"
-        },
-        {
-          "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-          "url": "https://openai.com/index/anima",
-          "source": "OpenAI",
-          "published_at": "2026-10-23T00:00:00Z",
-          "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-23-anima-helps-clinics-cut-call-waits-by-75"
-        },
-        {
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-10-23T00:00:00Z",
-          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-23-openai-and-poland-s-nask-partner-to-advance"
-        },
-        {
-          "title": "Build more responsive apps with the Decisions API",
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI",
-          "published_at": "2026-10-22T19:00:00Z",
-          "summary": "Fast, focused, low-cost decisions for any application.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-22-build-more-responsive-apps-with-the-decisions-api"
         }
       ]
     },
@@ -990,19 +1063,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-10-27-genie-4-a-new-generation-of-world-simulation"
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "source": "DeepMind",
-          "published_at": "2026-10-22T14:30:24Z",
-          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-22-beyond-tree-cover-mapping-the-world-s-forest"
         }
       ]
     }
