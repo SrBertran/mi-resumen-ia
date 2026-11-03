@@ -1,78 +1,195 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:42:40.821269Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:35:04.588494Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Jackery made its portable power stations even smaller",
-      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
       "source": "The Verge",
-      "published_at": "2026-11-02T05:00:00Z",
-      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it…",
+      "published_at": "2026-11-02T22:56:11Z",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as pos…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-02-jackery-made-its-portable-power-stations-even-smaller"
+      "id": "theverge-2026-11-02-apple-is-not-able-to-predict-when-it"
     },
     {
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
       "source": "The Verge",
-      "published_at": "2026-11-01T21:09:21Z",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in t…",
+      "published_at": "2026-11-02T22:02:36Z",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iP…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-01-nasa-hopes-the-commercial-space-industry-can-help"
+      "id": "theverge-2026-11-02-apple-set-an-iphone-sales-record-even-without"
     },
     {
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
       "source": "The Verge",
-      "published_at": "2026-11-01T19:58:02Z",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock i…",
+      "published_at": "2026-11-02T21:04:20Z",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will c…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-01-flock-keeps-ignoring-requests-to-cancel-its-contracts"
+      "id": "theverge-2026-11-02-meta-will-end-quest-2-os-updates-in"
     },
     {
-      "title": "Apple’s HomeView could add security camera features",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
       "source": "The Verge",
-      "published_at": "2026-11-01T17:16:07Z",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, …",
+      "published_at": "2026-11-02T20:37:49Z",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufactur…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-01-apple-s-homeview-could-add-security-camera-features"
+      "id": "theverge-2026-11-02-one-of-google-s-android-partners-turned-1"
     },
     {
-      "title": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
-      "url": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
-      "source": "Xataka",
-      "published_at": "2026-11-01T16:31:27Z",
-      "summary": "Harto de ver cómo la gente tiraba basura en las carreteras, un desarrollador de software se las ha ingeniado para convertir su móvil en un monitor de basura inteligente para carreteras. Con ayuda de un soporte para coloc…",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "source": "The Verge",
+      "published_at": "2026-11-02T20:03:52Z",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help stee…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-11-01-harto-de-la-basura-en-las-carreteras-un"
+      "id": "theverge-2026-11-02-bmw-is-taking-on-tesla-s-fsd-with"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+          "title": "The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "source": "Google AI",
+          "published_at": "2026-11-02T17:45:00Z",
+          "summary": "Animated carousel of images from AI posts in October",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-02-the-latest-ai-news-we-announced-in-october"
+        },
+        {
+          "title": "Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T15:30:00Z",
+          "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-scaling-git-at-openai"
+        },
+        {
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T15:00:00Z",
+          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-introducing-the-grid-protectors-program"
+        },
+        {
+          "title": "LifeVal",
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T09:00:00Z",
+          "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-lifeval"
+        },
+        {
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
+        },
+        {
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
+        },
+        {
+          "title": "Speeding up planning decisions with AI",
+          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "source": "DeepMind",
+          "published_at": "2026-10-30T14:18:30Z",
+          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-30-speeding-up-planning-decisions-with-ai"
+        },
         {
           "title": "Making it easier for websites to express AI training preferences",
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -267,136 +384,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-27-openai-expands-partnership-with-oracle-to-bring-its"
-        },
-        {
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-27-how-check-point-accelerates-vulnerability-research-with-daybreak"
-        },
-        {
-          "title": "Early progress on accelerating drug development with Claude",
-          "url": "https://www.anthropic.com/research/early-progress-drug-development",
-          "source": "Anthropic",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-27-early-progress-on-accelerating-drug-development-with-claude"
-        },
-        {
-          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-          "source": "Anthropic",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-27-expanding-our-partnership-with-gsa-to-bring-claude"
-        },
-        {
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T22:00:00Z",
-          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-greptile-takes-bug-detection-beyond-code-review-with"
-        },
-        {
-          "title": "Our newest AI Quest: Mapping the human brain",
-          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-          "source": "Google AI",
-          "published_at": "2026-10-26T16:00:00Z",
-          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-10-26-our-newest-ai-quest-mapping-the-human-brain"
-        },
-        {
-          "title": "Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T14:30:00Z",
-          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-working-with-academic-communities-to-build-scientific-understanding"
-        },
-        {
-          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T13:45:00Z",
-          "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-gpt-6-1-sol-helps-coderabbit-strengthen-security-across"
-        },
-        {
-          "title": "ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T10:00:00Z",
-          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-chatgpt-s-expanding-world-of-work"
-        },
-        {
-          "title": "How Fanatics and OpenAI streamline the fan experience",
-          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T07:00:00Z",
-          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-how-fanatics-and-openai-streamline-the-fan-experience"
-        },
-        {
-          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "url": "https://openai.com/index/openai-cut-incident-investigation",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T07:00:00Z",
-          "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-how-ultrafast-cut-incident-investigation-from-hours-to"
         }
       ]
     },
@@ -422,30 +409,186 @@
       "name": "General",
       "items": [
         {
-          "title": "A fully playable version of Portal prequel F-Stop leaked",
-          "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-          "source": "The Verge",
-          "published_at": "2026-11-01T16:19:21Z",
-          "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map…",
+          "title": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
+          "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+          "source": "Xataka",
+          "published_at": "2026-11-02T20:01:24Z",
+          "summary": "Nos hemos acostumbrado a utilizar la inteligencia artificial para tareas tan cotidianas como resolver una duda o traducir un texto. Lo hacemos desde el móvil o el ordenador, sin detenernos demasiado en los enormes recurs…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-01-a-fully-playable-version-of-portal-prequel-f-stop"
+          "id": "xataka-2026-11-02-google-ha-dado-un-paso-clave-hacia-los"
         },
         {
-          "title": "North Korea linked to massive Binance crypto heist",
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+          "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-01T14:33:11Z",
-          "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack conve…",
+          "published_at": "2026-11-02T19:24:09Z",
+          "summary": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-01-north-korea-linked-to-massive-binance-crypto-heist"
+          "id": "theverge-2026-11-02-the-apple-watch-ultra-4-is-100-off"
+        },
+        {
+          "title": "Ford promises not to sell your driving habits to data brokers",
+          "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+          "source": "The Verge",
+          "published_at": "2026-11-02T19:05:46Z",
+          "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-02-ford-promises-not-to-sell-your-driving-habits"
+        },
+        {
+          "title": "Shigeru Miyamoto, padre de Super Mario y Zelda: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\"",
+          "url": "https://www.xataka.com/robotica-e-ia/shigeru-miyamoto-padre-super-mario-zelda-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
+          "source": "Xataka",
+          "published_at": "2026-11-02T19:01:26Z",
+          "summary": "El creador de 'Super Mario' y 'The Legend of Zelda' tiene 73 años y ha vivido unas cuantas revoluciones tecnológicas. Por eso cuando le preguntaron por su opinión sobre la IA generativa su respuesta fue de todo menos dra…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-shigeru-miyamoto-padre-de-super-mario-y-zelda"
+        },
+        {
+          "title": "Anthropic clamps down on Claude’s AI video game clones",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "source": "The Verge",
+          "published_at": "2026-11-02T18:56:02Z",
+          "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-02-anthropic-clamps-down-on-claude-s-ai-video"
+        },
+        {
+          "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+          "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+          "source": "The Verge",
+          "published_at": "2026-11-02T18:43:24Z",
+          "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Ch…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-02-xbox-8217-s-former-coo-has-serious-concerns"
+        },
+        {
+          "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "source": "The Verge",
+          "published_at": "2026-11-02T18:01:30Z",
+          "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-02-openai-pitches-data-center-power-plants-as-a"
+        },
+        {
+          "title": "OpenAI combinará Chat y Work. Y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
+          "source": "Xataka",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "Durante mucho tiempo, nuestra principal preocupación al abrir ChatGPT era conseguir una buena respuesta. Ahora hay otra pregunta que empieza a acompañar a quienes lo utilizan para algo más que conversar: cuánto margen qu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-openai-combinara-chat-y-work-y-hara-realidad"
+        },
+        {
+          "title": "Google por fin te da la respuesta a la primera. Y ese es justo su problema",
+          "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
+          "source": "Xataka",
+          "published_at": "2026-11-02T16:30:00Z",
+          "summary": "Que todas las empresas se han volcado en la IA no es algo que a estas alturas nos sorprenda, ya que basta con abrir casi cualquier app, servicio o plataforma para ver que está ahí. Los chatbots son omnipresentes, las her…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-google-por-fin-te-da-la-respuesta-a"
+        },
+        {
+          "title": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
+          "url": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
+          "source": "Xataka",
+          "published_at": "2026-11-02T15:01:27Z",
+          "summary": "Los inversores se han vuelto mucho más exigentes a la hora de prestar dinero a la IA , según el WSJ . Las más afectadas son empresas como CoreWeave, Nebius y Nscale, que se endeudan para construir centros de datos y alqu…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-el-nuevo-cuello-de-botella-de-la-ia"
+        },
+        {
+          "title": "Sam Altman, CEO de ChatGPT: \"Es bastante terrible que la gente tenga memoria RAM en su PC utilizándose sólo el 5 % del tiempo\"",
+          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ceo-chatgpt-bastante-terrible-que-gente-tenga-memoria-ram-su-pc-utilizandose-solo-5-tiempo",
+          "source": "Xataka",
+          "published_at": "2026-11-02T12:31:30Z",
+          "summary": "John Collison es el cofundador de la plataforma Stripe y tiene un podcast llamado Cheeky Pint en el que altos mandos de empresas tecnológicas pasan a hablar de sus cosas. Un ejemplo reciente es el de Susan Li, CFO de Met…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-sam-altman-ceo-de-chatgpt-es-bastante-terrible"
+        },
+        {
+          "title": "Tener tu propia IA en casa se está volviendo un lujo. Y a OpenAI no le viene nada mal",
+          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
+          "source": "Xataka",
+          "published_at": "2026-11-02T11:45:00Z",
+          "summary": "Llevo bastante tiempo detrás de una tarjeta gráfica potente no solo para subir de calidad mis juegos en el PC, también para tener un banco de pruebas para IA local. Y es imposible. Se me antojó una RTX 5090 , después fui…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-tener-tu-propia-ia-en-casa-se-esta"
+        },
+        {
+          "title": "Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro",
+          "url": "https://www.xataka.com/moviles/alguien-ha-conseguido-que-parecia-imposible-redmi-note-12-ejecutando-ios-ayuda-claude-claro",
+          "source": "Xataka",
+          "published_at": "2026-11-02T11:01:28Z",
+          "summary": "A lo largo de todos estos años hemos visto mil y un ejemplos de modders intentando ejecutar iOS en teléfonos Android y viceversa. Han sido proyectos que, en su mayoría, han acabado en balde, pero en un contexto en el que…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-02-alguien-ha-conseguido-lo-que-parecia-imposible-un"
+        },
+        {
+          "title": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
+          "url": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
+          "source": "Xataka",
+          "published_at": "2026-11-01T16:31:27Z",
+          "summary": "Harto de ver cómo la gente tiraba basura en las carreteras, un desarrollador de software se las ha ingeniado para convertir su móvil en un monitor de basura inteligente para carreteras. Con ayuda de un soporte para coloc…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-01-harto-de-la-basura-en-las-carreteras-un"
         },
         {
           "title": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
@@ -459,110 +602,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-01-china-ofrece-sueldos-de-un-millon-de-yuanes"
-        },
-        {
-          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-          "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-          "source": "The Verge",
-          "published_at": "2026-11-01T14:00:00Z",
-          "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-01-homepod-mini-2-first-look-three-things-i"
-        },
-        {
-          "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
-          "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
-          "source": "Xataka",
-          "published_at": "2026-11-01T13:01:28Z",
-          "summary": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-01-hasta-ahora-las-apps-de-siempre-solo-podian"
-        },
-        {
-          "title": "New Zelda and GTA represent a games industry that no longer exists",
-          "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-          "source": "The Verge",
-          "published_at": "2026-11-01T13:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-01-new-zelda-and-gta-represent-a-games-industry"
-        },
-        {
-          "title": "Prop 45 in California could be hiding a loophole for data centers",
-          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-          "source": "The Verge",
-          "published_at": "2026-11-01T13:00:00Z",
-          "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-01-prop-45-in-california-could-be-hiding-a"
-        },
-        {
-          "title": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
-          "url": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
-          "source": "Xataka",
-          "published_at": "2026-11-01T11:01:26Z",
-          "summary": "Pocas veces me ha parecido tan útil un agente como cuando lo he utilizado para que me resolviera tareas que a mí me resultan imposibles. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-01-llevo-anos-queriendo-dar-de-baja-mi-moto"
-        },
-        {
-          "title": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
-          "url": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
-          "source": "Xataka",
-          "published_at": "2026-11-01T10:01:31Z",
-          "summary": "Los folletos de salida a bolsa AKA \" prospectos\" en España, S-1 en Estados Unidos, son un peñazo porque deben serlo. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón. A…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-01-el-negocio-que-anthropic-promete-a-sus-inversores"
-        },
-        {
-          "title": "Get in the spooky spirit with these horrors from YouTube",
-          "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-          "source": "The Verge",
-          "published_at": "2026-10-31T21:06:58Z",
-          "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. The…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-10-31-get-in-the-spooky-spirit-with-these-horrors"
-        },
-        {
-          "title": "Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al humano y no mirar atrás\"",
-          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-fundador-microsoft-consiste-contratar-al-robot-despedir-al-humano-no-mirar-atras",
-          "source": "Xataka",
-          "published_at": "2026-10-31T11:01:28Z",
-          "summary": "Este verano Bill Gates vaticinó algo: la adopción de la IA en el mercado laboral va a ser algo \"muy turbulento\" para lo que no estamos preparados . El cofundador de Microsoft se ha mostrado proclive a que se ponga impues…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-10-31-bill-gates-fundador-de-microsoft-consiste-en-contratar"
         }
       ]
     }
@@ -599,6 +638,97 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+          "title": "Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T15:30:00Z",
+          "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-scaling-git-at-openai"
+        },
+        {
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T15:00:00Z",
+          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-introducing-the-grid-protectors-program"
+        },
+        {
+          "title": "LifeVal",
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T09:00:00Z",
+          "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-lifeval"
+        },
+        {
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
+        },
+        {
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
+        },
         {
           "title": "Making it easier for websites to express AI training preferences",
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -754,97 +884,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-27-openai-expands-partnership-with-oracle-to-bring-its"
-        },
-        {
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-27-how-check-point-accelerates-vulnerability-research-with-daybreak"
-        },
-        {
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T22:00:00Z",
-          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-greptile-takes-bug-detection-beyond-code-review-with"
-        },
-        {
-          "title": "Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T14:30:00Z",
-          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-working-with-academic-communities-to-build-scientific-understanding"
-        },
-        {
-          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T13:45:00Z",
-          "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-gpt-6-1-sol-helps-coderabbit-strengthen-security-across"
-        },
-        {
-          "title": "ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T10:00:00Z",
-          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-chatgpt-s-expanding-world-of-work"
-        },
-        {
-          "title": "How Fanatics and OpenAI streamline the fan experience",
-          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T07:00:00Z",
-          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-how-fanatics-and-openai-streamline-the-fan-experience"
-        },
-        {
-          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "url": "https://openai.com/index/openai-cut-incident-investigation",
-          "source": "OpenAI",
-          "published_at": "2026-10-26T07:00:00Z",
-          "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-26-how-ultrafast-cut-incident-investigation-from-hours-to"
         }
       ]
     },
@@ -864,32 +903,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-10-28-ai-for-science-expands-to-foundations-and-research"
-        },
-        {
-          "title": "Early progress on accelerating drug development with Claude",
-          "url": "https://www.anthropic.com/research/early-progress-drug-development",
-          "source": "Anthropic",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-27-early-progress-on-accelerating-drug-development-with-claude"
-        },
-        {
-          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-          "source": "Anthropic",
-          "published_at": "2026-10-27T00:00:00Z",
-          "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-10-27-expanding-our-partnership-with-gsa-to-bring-claude"
         }
       ]
     },
@@ -898,17 +911,17 @@
       "name": "Google AI",
       "items": [
         {
-          "title": "Our newest AI Quest: Mapping the human brain",
-          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "title": "The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
           "source": "Google AI",
-          "published_at": "2026-10-26T16:00:00Z",
-          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "published_at": "2026-11-02T17:45:00Z",
+          "summary": "Animated carousel of images from AI posts in October",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "googleai-2026-10-26-our-newest-ai-quest-mapping-the-human-brain"
+          "id": "googleai-2026-11-02-the-latest-ai-news-we-announced-in-october"
         }
       ]
     },
@@ -916,6 +929,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Speeding up planning decisions with AI",
+          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "source": "DeepMind",
+          "published_at": "2026-10-30T14:18:30Z",
+          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-10-30-speeding-up-planning-decisions-with-ai"
+        },
         {
           "title": "Gemini 4 Carbon: Our next frontier model",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
