@@ -1,78 +1,143 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T06:35:33.606094Z",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T06:35:35.720136Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "source": "The Verge",
-      "published_at": "2026-11-04T01:15:34Z",
-      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predictin…",
+      "title": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea",
+      "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
+      "source": "Xataka",
+      "published_at": "2026-11-05T06:01:22Z",
+      "summary": "Anthropic presentó hace unos días el formulario que describe su negocio, finanzas y riesgos ante su inminente salida a bolsa , una que promete hacer historia en cuanto a valoración de mercado. La SEC (el regulador bursát…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-04-amd-rides-data-center-riches-to-8216-largest"
+      "id": "xataka-2026-11-05-no-todos-los-tokens-que-producen-los-modelos"
     },
     {
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
       "source": "The Verge",
-      "published_at": "2026-11-04T01:02:53Z",
-      "summary": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after t…",
+      "published_at": "2026-11-05T05:00:00Z",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. B…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-04-all-the-news-about-the-legend-of-zelda"
+      "id": "theverge-2026-11-05-nintendo-s-designers-strove-for-elegance-when-remaking"
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
       "source": "The Verge",
-      "published_at": "2026-11-04T00:42:10Z",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today …",
+      "published_at": "2026-11-05T00:25:12Z",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-04-the-biggest-modding-site-in-pc-gaming-is"
+      "id": "theverge-2026-11-05-x-says-its-updated-web-app-is-way"
     },
     {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "published_at": "2026-11-03T23:37:45Z",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the mar…",
+      "title": "Tencent acaba de lanzar una nueva IA. Lo interesante no es solo lo que sabe hacer, sino lo que ha decidido no enseñarle",
+      "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
+      "source": "Xataka",
+      "published_at": "2026-11-04T22:55:00Z",
+      "summary": "Hay conocimientos que pueden servir tanto para resolver un problema como para provocarlo. Todo depende de quién los utilice, con qué intención y en qué circunstancias. Esta distinción, que podemos reconocer fácilmente en…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-03-please-stop-asking-me-when-the-ai-bubble"
+      "id": "xataka-2026-11-04-tencent-acaba-de-lanzar-una-nueva-ia-lo"
     },
     {
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
       "source": "The Verge",
-      "published_at": "2026-11-03T22:59:36Z",
-      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to …",
+      "published_at": "2026-11-04T22:42:15Z",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-03-canva-is-announcing-changes-and-layoffs-affecting-22"
+      "id": "theverge-2026-11-04-qualcomm-is-betting-big-on-data-centers-as"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T14:30:00Z",
+          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-openai-to-acquire-pierre-computer-company-inc"
+        },
+        {
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T08:00:00Z",
+          "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-a-thousand-fewer-paths-to-root"
+        },
+        {
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T07:00:00Z",
+          "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-daybreak-red-is-now-available-in-aws-govcloud"
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T00:00:00Z",
+          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-introducing-images-2-6"
+        },
+        {
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T00:00:00Z",
+          "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol"
+        },
         {
           "title": "Agentic cheminformatics with Google Antigravity",
           "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -217,19 +282,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
-        },
-        {
           "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
           "url": "https://openai.com/index/dan-driscoll-joins-openai",
           "source": "OpenAI",
@@ -241,6 +293,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
+        },
+        {
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
         },
         {
           "title": "Speeding up planning decisions with AI",
@@ -332,84 +397,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
-        },
-        {
-          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-          "url": "https://openai.com/index/credit-saison",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T00:00:00Z",
-          "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-credit-saison-achieves-954-roi-in-a-chatgpt"
-        },
-        {
-          "title": "Evernote turns AI-driven discovery into paid subscriptions",
-          "url": "https://openai.com/ads/customers/evernote",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T19:40:49Z",
-          "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-evernote-turns-ai-driven-discovery-into-paid-subscriptions"
-        },
-        {
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "source": "DeepMind",
-          "published_at": "2026-10-28T17:00:58Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-28-gemini-4-carbon-our-next-frontier-model"
-        },
-        {
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T13:15:00Z",
-          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-openai-and-servicenow-expand-partnership-across-enterprise-workflows"
-        },
-        {
-          "title": "The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T10:00:00Z",
-          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-the-future-of-the-firm"
-        },
-        {
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T09:30:00Z",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-legora-is-building-the-agentic-operating-system-for"
         }
       ]
     },
@@ -435,6 +422,19 @@
       "name": "Herramientas",
       "items": [
         {
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face",
+          "published_at": "2026-11-04T17:50:10Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-04-dharma-field-extractor-any-document-in-structured-fields"
+        },
+        {
           "title": "StateBench: Testing how language models track state changes over long documents",
           "url": "https://huggingface.co/blog/allenai/statebench",
           "source": "Hugging Face",
@@ -459,32 +459,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-03-palette-teaching-a-small-model-to-build-decks"
-        },
-        {
-          "title": "CWE-bench v2: More coverage, quality, and transparency",
-          "url": "https://huggingface.co/blog/cwe-bench",
-          "source": "Hugging Face",
-          "published_at": "2026-11-03T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-03-cwe-bench-v2-more-coverage-quality-and-transparency"
-        },
-        {
-          "title": "Transformers Model Integration Contracts",
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face",
-          "published_at": "2026-11-03T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-03-transformers-model-integration-contracts"
         }
       ]
     },
@@ -492,69 +466,134 @@
       "name": "General",
       "items": [
         {
-          "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-          "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+          "title": "17 better ways Elon Musk could have wasted $446 million",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
           "source": "The Verge",
-          "published_at": "2026-11-03T22:20:50Z",
-          "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the …",
+          "published_at": "2026-11-04T21:45:00Z",
+          "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-03-sonos-adds-new-presets-and-prepares-for-the"
+          "id": "theverge-2026-11-04-17-better-ways-elon-musk-could-have-wasted"
         },
         {
-          "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-          "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+          "title": "How I learned to love an obnoxious phone grip",
+          "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
           "source": "The Verge",
-          "published_at": "2026-11-03T22:15:33Z",
-          "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for rev…",
+          "published_at": "2026-11-04T21:30:00Z",
+          "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-03-valve-is-making-changes-to-deal-with-a"
+          "id": "theverge-2026-11-04-how-i-learned-to-love-an-obnoxious-phone"
         },
         {
-          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+          "title": "Bose’s QuietComfort Headphones are more than half off",
+          "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-03T22:04:02Z",
-          "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with o…",
+          "published_at": "2026-11-04T21:13:11Z",
+          "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-03-binance-says-hackers-used-fake-job-interviews-and"
+          "id": "theverge-2026-11-04-bose-s-quietcomfort-headphones-are-more-than-half"
         },
         {
-          "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-          "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
           "source": "The Verge",
-          "published_at": "2026-11-03T21:21:04Z",
-          "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are m…",
+          "published_at": "2026-11-04T20:23:24Z",
+          "summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-03-here-s-what-it-s-like-to-use"
+          "id": "theverge-2026-11-04-gemini-for-home-now-plugs-into-at-038"
         },
         {
-          "title": "Those Jeff Bezos hair transplant photos are very fake",
-          "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+          "title": "Google’s Pixel 11 phones are up to 27 percent off",
+          "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-03T21:01:07Z",
-          "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men c…",
+          "published_at": "2026-11-04T19:00:00Z",
+          "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-03-those-jeff-bezos-hair-transplant-photos-are-very"
+          "id": "theverge-2026-11-04-google-s-pixel-11-phones-are-up-to"
+        },
+        {
+          "title": "Xbox previews two new ways to control cloud games",
+          "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+          "source": "The Verge",
+          "published_at": "2026-11-04T19:00:00Z",
+          "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phon…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-04-xbox-previews-two-new-ways-to-control-cloud"
+        },
+        {
+          "title": "Nothing teases a screen-free AI device ahead of launch next month",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+          "source": "The Verge",
+          "published_at": "2026-11-04T18:26:07Z",
+          "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He did…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-04-nothing-teases-a-screen-free-ai-device-ahead-of"
+        },
+        {
+          "title": "EEUU tuvo una idea hace 20 años para matar a los mosquitos. China la acaba de hacer realidad con una torreta láser automática para pulverizarlos",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-tuvo-idea-hace-20-anos-para-aniquilar-a-mosquitos-china-acaba-convertir-realidad-torreta-laser-ia",
+          "source": "Xataka",
+          "published_at": "2026-11-04T12:31:51Z",
+          "summary": "Hace casi dos décadas, un grupo de ingenieros estadounidenses tuvo una idea que parecía sacada de la ciencia ficción: construir un sistema capaz de identificar mosquitos en pleno vuelo y derribarlos con disparos láser. E…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-04-eeuu-tuvo-una-idea-hace-20-anos-para"
+        },
+        {
+          "title": "Google sacrificó su buscador para ganar la carrera de la IA y ahora corre el riesgo de quedarse sin ninguna de las dos cosas",
+          "url": "https://www.xataka.com/servicios/google-esta-financiando-futuro-ia-negocio-que-amenaza-destruir-su-buscador-clasico",
+          "source": "Xataka",
+          "published_at": "2026-11-04T09:30:00Z",
+          "summary": "Buena parte del negocio sobre el que se ha afianzado el crecimiento de Google en las últimas dos décadas se basa en un mecanismo muy simple. Tú escribes una duda en tu navegador, y el buscador te enseña una lista de enla…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-04-google-sacrifico-su-buscador-para-ganar-la-carrera"
+        },
+        {
+          "title": "China está viviendo su particular explosión de la burbuja IA: si llega a Occidente, no va a ser bonito",
+          "url": "https://www.xataka.com/empresas-y-economia/china-esta-experimentando-parecido-que-hemos-vivido-ahora-a-estallido-burbuja-ia",
+          "source": "Xataka",
+          "published_at": "2026-11-04T08:00:00Z",
+          "summary": "El cierre de octubre ha sido extremadamente movido. A nthropic por fin publicó sus documentos de cara a una futura salida a bolsa y, mientras tanto, vimos cómo las principales tecnológicas mundiales se tambaleaban, con G…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-04-china-esta-viviendo-su-particular-explosion-de-la"
         },
         {
           "title": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
@@ -581,110 +620,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-03-una-ia-ha-mejorado-a-otra-de-la"
-        },
-        {
-          "title": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
-          "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
-          "source": "Xataka",
-          "published_at": "2026-11-02T20:01:24Z",
-          "summary": "Nos hemos acostumbrado a utilizar la inteligencia artificial para tareas tan cotidianas como resolver una duda o traducir un texto. Lo hacemos desde el móvil o el ordenador, sin detenernos demasiado en los enormes recurs…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-google-ha-dado-un-paso-clave-hacia-los"
-        },
-        {
-          "title": "Shigeru Miyamoto, padre de Super Mario y Zelda: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\"",
-          "url": "https://www.xataka.com/robotica-e-ia/shigeru-miyamoto-padre-super-mario-zelda-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
-          "source": "Xataka",
-          "published_at": "2026-11-02T19:01:26Z",
-          "summary": "El creador de 'Super Mario' y 'The Legend of Zelda' tiene 73 años y ha vivido unas cuantas revoluciones tecnológicas. Por eso cuando le preguntaron por su opinión sobre la IA generativa su respuesta fue de todo menos dra…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-shigeru-miyamoto-padre-de-super-mario-y-zelda"
-        },
-        {
-          "title": "OpenAI combinará Chat y Work y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
-          "source": "Xataka",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "Durante mucho tiempo, nuestra principal preocupación al abrir ChatGPT era conseguir una buena respuesta. Ahora hay otra pregunta que empieza a acompañar a quienes lo utilizan para algo más que conversar: cuánto margen qu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-openai-combinara-chat-y-work-y-hara-realidad"
-        },
-        {
-          "title": "Google por fin te da la respuesta que buscas a la primera. Y ese es exactamente el origen de sus problemas",
-          "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
-          "source": "Xataka",
-          "published_at": "2026-11-02T16:30:00Z",
-          "summary": "Que todas las empresas se han volcado en la IA no es algo que a estas alturas nos sorprenda, ya que basta con abrir casi cualquier app, servicio o plataforma para ver que está ahí. Los chatbots son omnipresentes, las her…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-google-por-fin-te-da-la-respuesta-que"
-        },
-        {
-          "title": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
-          "url": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
-          "source": "Xataka",
-          "published_at": "2026-11-02T15:01:27Z",
-          "summary": "Los inversores se han vuelto mucho más exigentes a la hora de prestar dinero a la IA , según el WSJ . Las más afectadas son empresas como CoreWeave, Nebius y Nscale, que se endeudan para construir centros de datos y alqu…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-el-nuevo-cuello-de-botella-de-la-ia"
-        },
-        {
-          "title": "Sam Altman, CEO de ChatGPT: \"Es bastante terrible que la gente tenga memoria RAM en su PC utilizándose sólo el 5 % del tiempo\"",
-          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ceo-chatgpt-bastante-terrible-que-gente-tenga-memoria-ram-su-pc-utilizandose-solo-5-tiempo",
-          "source": "Xataka",
-          "published_at": "2026-11-02T12:31:30Z",
-          "summary": "John Collison es el cofundador de la plataforma Stripe y tiene un podcast llamado Cheeky Pint en el que altos mandos de empresas tecnológicas pasan a hablar de sus cosas. Un ejemplo reciente es el de Susan Li, CFO de Met…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-sam-altman-ceo-de-chatgpt-es-bastante-terrible"
-        },
-        {
-          "title": "Tener tu propia IA en casa se está volviendo un lujo. Y a OpenAI no le viene nada mal",
-          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
-          "source": "Xataka",
-          "published_at": "2026-11-02T11:45:00Z",
-          "summary": "Llevo bastante tiempo detrás de una tarjeta gráfica potente no solo para subir de calidad mis juegos en el PC, también para tener un banco de pruebas para IA local. Y es imposible. Se me antojó una RTX 5090 , después fui…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-tener-tu-propia-ia-en-casa-se-esta"
-        },
-        {
-          "title": "Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro",
-          "url": "https://www.xataka.com/moviles/alguien-ha-conseguido-que-parecia-imposible-redmi-note-12-ejecutando-ios-ayuda-claude-claro",
-          "source": "Xataka",
-          "published_at": "2026-11-02T11:01:28Z",
-          "summary": "A lo largo de todos estos años hemos visto mil y un ejemplos de modders intentando ejecutar iOS en teléfonos Android y viceversa. Han sido proyectos que, en su mayoría, han acabado en balde, pero en un contexto en el que…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-02-alguien-ha-conseguido-lo-que-parecia-imposible-un"
         }
       ]
     }
@@ -721,6 +656,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T14:30:00Z",
+          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-openai-to-acquire-pierre-computer-company-inc"
+        },
+        {
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T08:00:00Z",
+          "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-a-thousand-fewer-paths-to-root"
+        },
+        {
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T07:00:00Z",
+          "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-daybreak-red-is-now-available-in-aws-govcloud"
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T00:00:00Z",
+          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-introducing-images-2-6"
+        },
+        {
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI",
+          "published_at": "2026-11-04T00:00:00Z",
+          "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-04-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol"
+        },
         {
           "title": "Accelerating engineering for the physical world",
           "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
@@ -839,19 +839,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
-        },
-        {
           "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
           "url": "https://openai.com/index/dan-driscoll-joins-openai",
           "source": "OpenAI",
@@ -863,6 +850,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
+        },
+        {
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
         },
         {
           "title": "Making it easier for websites to express AI training preferences",
@@ -941,71 +941,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
-        },
-        {
-          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-          "url": "https://openai.com/index/credit-saison",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T00:00:00Z",
-          "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-credit-saison-achieves-954-roi-in-a-chatgpt"
-        },
-        {
-          "title": "Evernote turns AI-driven discovery into paid subscriptions",
-          "url": "https://openai.com/ads/customers/evernote",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T19:40:49Z",
-          "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-evernote-turns-ai-driven-discovery-into-paid-subscriptions"
-        },
-        {
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T13:15:00Z",
-          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-openai-and-servicenow-expand-partnership-across-enterprise-workflows"
-        },
-        {
-          "title": "The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T10:00:00Z",
-          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-the-future-of-the-firm"
-        },
-        {
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora",
-          "source": "OpenAI",
-          "published_at": "2026-10-28T09:30:00Z",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-28-legora-is-building-the-agentic-operating-system-for"
         }
       ]
     },
@@ -1076,19 +1011,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-10-30-speeding-up-planning-decisions-with-ai"
-        },
-        {
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "source": "DeepMind",
-          "published_at": "2026-10-28T17:00:58Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-28-gemini-4-carbon-our-next-frontier-model"
         }
       ]
     }
