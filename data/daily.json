@@ -1,78 +1,195 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:35:35.720136Z",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T06:35:50.046203Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea",
-      "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
-      "source": "Xataka",
-      "published_at": "2026-11-05T06:01:22Z",
-      "summary": "Anthropic presentó hace unos días el formulario que describe su negocio, finanzas y riesgos ante su inminente salida a bolsa , una que promete hacer historia en cuanto a valoración de mercado. La SEC (el regulador bursát…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-11-05-no-todos-los-tokens-que-producen-los-modelos"
-    },
-    {
-      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
       "source": "The Verge",
-      "published_at": "2026-11-05T05:00:00Z",
-      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. B…",
+      "published_at": "2026-11-06T00:37:56Z",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-05-nintendo-s-designers-strove-for-elegance-when-remaking"
+      "id": "theverge-2026-11-06-openai-is-stepping-back-from-ndas-for-data"
     },
     {
-      "title": "X says its updated web app is way faster",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
       "source": "The Verge",
-      "published_at": "2026-11-05T00:25:12Z",
-      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection…",
+      "published_at": "2026-11-06T00:06:12Z",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-05-x-says-its-updated-web-app-is-way"
+      "id": "theverge-2026-11-06-airbnb-is-working-on-an-ai-travel-agent"
     },
     {
-      "title": "Tencent acaba de lanzar una nueva IA. Lo interesante no es solo lo que sabe hacer, sino lo que ha decidido no enseñarle",
-      "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
-      "source": "Xataka",
-      "published_at": "2026-11-04T22:55:00Z",
-      "summary": "Hay conocimientos que pueden servir tanto para resolver un problema como para provocarlo. Todo depende de quién los utilice, con qué intención y en qué circunstancias. Esta distinción, que podemos reconocer fácilmente en…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "xataka-2026-11-04-tencent-acaba-de-lanzar-una-nueva-ia-lo"
-    },
-    {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
       "source": "The Verge",
-      "published_at": "2026-11-04T22:42:15Z",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in…",
+      "published_at": "2026-11-05T23:45:10Z",
+      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-04-qualcomm-is-betting-big-on-data-centers-as"
+      "id": "theverge-2026-11-05-the-new-york-times-is-in-talks-to"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "source": "The Verge",
+      "published_at": "2026-11-05T23:17:10Z",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the E…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-05-t-mobile-owner-on-elon-musk-launching-a-wireless"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge",
+      "published_at": "2026-11-05T22:26:50Z",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-05-perplexity-launches-its-own-take-on-ai-agents"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Cult.fit builds operational muscle with Codex",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T20:00:00Z",
+          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-cult-fit-builds-operational-muscle-with-codex"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "source": "DeepMind",
+          "published_at": "2026-11-05T17:05:16Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
+        },
+        {
+          "title": "Australian universities are creating AI-native graduates",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T17:00:00Z",
+          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-australian-universities-are-creating-ai-native-graduates"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "Google AI",
+          "published_at": "2026-11-05T17:00:00Z",
+          "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
+        },
+        {
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T09:00:00Z",
+          "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity"
+        },
+        {
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T08:00:00Z",
+          "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-merge-builds-product-and-business-tools-with-openai"
+        },
+        {
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T02:00:00Z",
+          "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-setting-a-new-standard-for-responsible-ai-infrastructure"
+        },
+        {
+          "title": "Flipsnack grows product signups with conversion optimization",
+          "url": "https://openai.com/ads/customers/flipsnack",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T00:45:15Z",
+          "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-flipsnack-grows-product-signups-with-conversion-optimization"
+        },
+        {
+          "title": "Franklin Templeton uses OpenAI to support investment research",
+          "url": "https://openai.com/index/franklin-templeton",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T00:00:00Z",
+          "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-franklin-templeton-uses-openai-to-support-investment-research"
+        },
         {
           "title": "OpenAI to acquire Pierre Computer Company, Inc.",
           "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -204,19 +321,6 @@
           "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
         },
         {
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
-        },
-        {
           "title": "Rewarding defenders with bigger bug bounties",
           "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI",
@@ -228,6 +332,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
         },
         {
           "title": "The latest AI news we announced in October 2026",
@@ -282,19 +399,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-          "url": "https://openai.com/index/dan-driscoll-joins-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
-        },
-        {
           "title": "Qodo builds context into AI code review with Codex",
           "url": "https://openai.com/index/qodo-codex-plugin",
           "source": "OpenAI",
@@ -306,6 +410,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
+        },
+        {
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
         },
         {
           "title": "Speeding up planning decisions with AI",
@@ -345,58 +462,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-30-community-safety-report-and-new-protections-for-teens"
-        },
-        {
-          "title": "Fair use benefits everyone",
-          "url": "https://openai.com/index/fair-use-benefits-everyone",
-          "source": "OpenAI",
-          "published_at": "2026-10-30T00:00:00Z",
-          "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-30-fair-use-benefits-everyone"
-        },
-        {
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T17:00:00Z",
-          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-an-updated-model-spec-for-more-capable-and"
-        },
-        {
-          "title": "How we detect frontier model misalignment",
-          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T09:00:00Z",
-          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-how-we-detect-frontier-model-misalignment"
-        },
-        {
-          "title": "How Ropes & Gray is developing AI for transactional diligence",
-          "url": "https://openai.com/index/ropes-gray-ai-diligence",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T07:00:00Z",
-          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
         }
       ]
     },
@@ -404,23 +469,49 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
-          "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+          "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+          "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
           "source": "IEEE Spectrum",
-          "published_at": "2026-11-03T14:30:02Z",
-          "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how thi…",
+          "published_at": "2026-11-05T15:00:03Z",
+          "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law ,…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-11-03-how-a-kenyan-startup-is-rethinking-ai-for"
+          "id": "ieee-2026-11-05-ai-text-watermarking-may-not-be-able-to"
+        },
+        {
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "url": "https://huggingface.co/blog/phonon-tts",
+          "source": "Hugging Face",
+          "published_at": "2026-11-05T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "huggingface-2026-11-05-a-closer-look-at-phonon-tts-launching-high-quality"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face",
+          "published_at": "2026-11-05T19:35:16Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-05-new-nvidia-cosmos-3-open-models-for-interactive"
+        },
         {
           "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -433,32 +524,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-04-dharma-field-extractor-any-document-in-structured-fields"
-        },
-        {
-          "title": "StateBench: Testing how language models track state changes over long documents",
-          "url": "https://huggingface.co/blog/allenai/statebench",
-          "source": "Hugging Face",
-          "published_at": "2026-11-03T17:15:21Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-03-statebench-testing-how-language-models-track-state-changes"
-        },
-        {
-          "title": "Palette: teaching a small model to build decks in your design language",
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "source": "Hugging Face",
-          "published_at": "2026-11-03T16:35:36Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-03-palette-teaching-a-small-model-to-build-decks"
         }
       ]
     },
@@ -466,95 +531,147 @@
       "name": "General",
       "items": [
         {
-          "title": "17 better ways Elon Musk could have wasted $446 million",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+          "title": "Salon is shutting down after 31 years",
+          "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
           "source": "The Verge",
-          "published_at": "2026-11-04T21:45:00Z",
-          "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known…",
+          "published_at": "2026-11-05T22:08:14Z",
+          "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent di…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-17-better-ways-elon-musk-could-have-wasted"
+          "id": "theverge-2026-11-05-salon-is-shutting-down-after-31-years"
         },
         {
-          "title": "How I learned to love an obnoxious phone grip",
-          "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+          "title": "The midterms proved once and for all that X is not real life",
+          "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
           "source": "The Verge",
-          "published_at": "2026-11-04T21:30:00Z",
-          "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12…",
+          "published_at": "2026-11-05T21:55:00Z",
+          "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-how-i-learned-to-love-an-obnoxious-phone"
+          "id": "theverge-2026-11-05-the-midterms-proved-once-and-for-all-that"
         },
         {
-          "title": "Bose’s QuietComfort Headphones are more than half off",
-          "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+          "title": "Blue Origin’s next launch now won’t happen until 2027",
+          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
           "source": "The Verge",
-          "published_at": "2026-11-04T21:13:11Z",
-          "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, m…",
+          "published_at": "2026-11-05T20:47:14Z",
+          "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-bose-s-quietcomfort-headphones-are-more-than-half"
+          "id": "theverge-2026-11-05-blue-origin-s-next-launch-now-won-t"
         },
         {
-          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-          "source": "The Verge",
-          "published_at": "2026-11-04T20:23:24Z",
-          "summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini…",
+          "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
+          "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
+          "source": "Xataka",
+          "published_at": "2026-11-05T19:43:00Z",
+          "summary": "La alegría ha durado poco en Wall Street. Apenas un día después de que las bolsas estadounidenses celebraran los resultados de las elecciones legislativas con importantes subidas, el panorama ha cambiado por completo. Lo…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-gemini-for-home-now-plugs-into-at-038"
+          "id": "xataka-2026-11-05-hundimiento-historico-de-la-bolsa-estadounidense-las-grandes"
         },
         {
-          "title": "Google’s Pixel 11 phones are up to 27 percent off",
-          "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+          "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+          "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-04T19:00:00Z",
-          "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11…",
+          "published_at": "2026-11-05T19:12:58Z",
+          "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest w…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-google-s-pixel-11-phones-are-up-to"
+          "id": "theverge-2026-11-05-samsung-s-galaxy-z-fold-8-is-300"
         },
         {
-          "title": "Xbox previews two new ways to control cloud games",
-          "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+          "title": "Muse has a voice mode now",
+          "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
           "source": "The Verge",
-          "published_at": "2026-11-04T19:00:00Z",
-          "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phon…",
+          "published_at": "2026-11-05T19:03:04Z",
+          "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-xbox-previews-two-new-ways-to-control-cloud"
+          "id": "theverge-2026-11-05-muse-has-a-voice-mode-now"
         },
         {
-          "title": "Nothing teases a screen-free AI device ahead of launch next month",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-          "source": "The Verge",
-          "published_at": "2026-11-04T18:26:07Z",
-          "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He did…",
+          "title": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
+          "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
+          "source": "Xataka",
+          "published_at": "2026-11-05T13:46:34Z",
+          "summary": "Apple quiere que sus usuarios usen todo el rato la nueva Siri AI en sus dispositivos. Apple lo vende como su gran remontada en IA. Pero de puertas para adentro, alguien ha mirado el Excel (o Numbers, en su caso) de gasto…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-04-nothing-teases-a-screen-free-ai-device-ahead-of"
+          "id": "xataka-2026-11-05-apple-quiere-que-siri-ia-este-en-todas"
+        },
+        {
+          "title": "Anthropic toma medidas drásticas contra los clones de videojuegos de IA hechos con Claude",
+          "url": "https://www.xataka.com/videojuegos/anthropic-toma-medidas-drasticas-clones-videojuegos-ia-hechos-claude-esta-ver-que-sirva-para-algo",
+          "source": "Xataka",
+          "published_at": "2026-11-05T13:00:35Z",
+          "summary": "El mundo de los videojuegos está viviendo una revolución debido a la IA. Muchos grandes estudios la usan, con &nbsp;exponentes tan extremos como una Epic Games que hasta &nbsp;se ha vibecodeado la tienda , pero lo que la…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-05-anthropic-toma-medidas-drasticas-contra-los-clones-de"
+        },
+        {
+          "title": "Las escuelas de EEUU quieren un Google sin IA, pero se enfrentan a un dilema: o aceptan sus resúmenes con IA o se quedan sin buscador",
+          "url": "https://www.xataka.com/empresas-y-economia/escuelas-eeuu-quieren-google-ia-se-enfrentan-a-dilema-aceptan-sus-resumenes-ia-se-quedan-buscador",
+          "source": "Xataka",
+          "published_at": "2026-11-05T12:46:32Z",
+          "summary": "Estos días ha habido cierta polémica en Estados Unidos acerca de una serie de cambios que Google quiere introducir en torno al uso de su IA en los centros educativos del país. Y es que tal y como compartía la compañía, d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-05-las-escuelas-de-eeuu-quieren-un-google-sin"
+        },
+        {
+          "title": "Dario Amodei, CEO de Anthropic: “no todos los tokens que producen los modelos valen lo mismo”",
+          "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
+          "source": "Xataka",
+          "published_at": "2026-11-05T06:00:00Z",
+          "summary": "Anthropic presentó hace unos días el formulario que describe su negocio, finanzas y riesgos ante su inminente salida a bolsa , una que promete hacer historia en cuanto a valoración de mercado. La SEC (el regulador bursát…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-05-dario-amodei-ceo-de-anthropic-no-todos-los"
+        },
+        {
+          "title": "La nueva IA de Tencent ha decidido hacer algo novedoso en el entrenamiento de modelos: ponerle límites",
+          "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
+          "source": "Xataka",
+          "published_at": "2026-11-04T22:55:00Z",
+          "summary": "Hay conocimientos que pueden servir tanto para resolver un problema como para provocarlo. Todo depende de quién los utilice, con qué intención y en qué circunstancias. Esta distinción, que podemos reconocer fácilmente en…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-04-la-nueva-ia-de-tencent-ha-decidido-hacer"
         },
         {
           "title": "EEUU tuvo una idea hace 20 años para matar a los mosquitos. China la acaba de hacer realidad con una torreta láser automática para pulverizarlos",
@@ -594,32 +711,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-04-china-esta-viviendo-su-particular-explosion-de-la"
-        },
-        {
-          "title": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
-          "url": "https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor",
-          "source": "Xataka",
-          "published_at": "2026-11-03T15:15:28Z",
-          "summary": "Anthropic, la empresa de Claude , ha desvelado sus resultados del tercer trimestre a pocas semanas de salir a bolsa . Ha ingresado 17.000 millones de dólares y acumula compromisos de gasto por unos 895.400 millones, sobr…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-03-anthropic-ya-ingresa-17-000-millones-al-trimestre"
-        },
-        {
-          "title": "Una IA ha mejorado a otra de la forma más inesperada: recortándole lo que le estorbaba",
-          "url": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-mejor-a-otra-ia-metodo-inesperado-recortarle-que-le-estorbaba",
-          "source": "Xataka",
-          "published_at": "2026-11-03T11:00:00Z",
-          "summary": "Conseguir un nuevo modelo de lenguaje no es una tarea trivial. Este proceso abarca un largo plan de entrenamiento y altas capacidades de cómputo hasta afinar el LLM y conseguir que pueda procesar las consultas y resolver…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-03-una-ia-ha-mejorado-a-otra-de-la"
         }
       ]
     }
@@ -656,6 +747,97 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Cult.fit builds operational muscle with Codex",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T20:00:00Z",
+          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-cult-fit-builds-operational-muscle-with-codex"
+        },
+        {
+          "title": "Australian universities are creating AI-native graduates",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T17:00:00Z",
+          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-australian-universities-are-creating-ai-native-graduates"
+        },
+        {
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T09:00:00Z",
+          "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity"
+        },
+        {
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T08:00:00Z",
+          "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-merge-builds-product-and-business-tools-with-openai"
+        },
+        {
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T02:00:00Z",
+          "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-setting-a-new-standard-for-responsible-ai-infrastructure"
+        },
+        {
+          "title": "Flipsnack grows product signups with conversion optimization",
+          "url": "https://openai.com/ads/customers/flipsnack",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T00:45:15Z",
+          "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-flipsnack-grows-product-signups-with-conversion-optimization"
+        },
+        {
+          "title": "Franklin Templeton uses OpenAI to support investment research",
+          "url": "https://openai.com/index/franklin-templeton",
+          "source": "OpenAI",
+          "published_at": "2026-11-05T00:00:00Z",
+          "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-05-franklin-templeton-uses-openai-to-support-investment-research"
+        },
         {
           "title": "OpenAI to acquire Pierre Computer Company, Inc.",
           "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -774,19 +956,6 @@
           "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
         },
         {
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
-        },
-        {
           "title": "Rewarding defenders with bigger bug bounties",
           "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI",
@@ -798,6 +967,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
         },
         {
           "title": "Scaling Git at OpenAI",
@@ -839,19 +1021,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-          "url": "https://openai.com/index/dan-driscoll-joins-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
-        },
-        {
           "title": "Qodo builds context into AI code review with Codex",
           "url": "https://openai.com/index/qodo-codex-plugin",
           "source": "OpenAI",
@@ -863,6 +1032,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
+        },
+        {
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
         },
         {
           "title": "Making it easier for websites to express AI training preferences",
@@ -889,58 +1071,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-10-30-community-safety-report-and-new-protections-for-teens"
-        },
-        {
-          "title": "Fair use benefits everyone",
-          "url": "https://openai.com/index/fair-use-benefits-everyone",
-          "source": "OpenAI",
-          "published_at": "2026-10-30T00:00:00Z",
-          "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-30-fair-use-benefits-everyone"
-        },
-        {
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T17:00:00Z",
-          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-an-updated-model-spec-for-more-capable-and"
-        },
-        {
-          "title": "How we detect frontier model misalignment",
-          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T09:00:00Z",
-          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-how-we-detect-frontier-model-misalignment"
-        },
-        {
-          "title": "How Ropes & Gray is developing AI for transactional diligence",
-          "url": "https://openai.com/index/ropes-gray-ai-diligence",
-          "source": "OpenAI",
-          "published_at": "2026-10-29T07:00:00Z",
-          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-29-how-ropes-gray-is-developing-ai-for-transactional"
         }
       ]
     },
@@ -968,6 +1098,19 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "Google AI",
+          "published_at": "2026-11-05T17:00:00Z",
+          "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
+        },
+        {
           "title": "The latest AI news we announced in October 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
           "source": "Google AI",
@@ -986,6 +1129,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "source": "DeepMind",
+          "published_at": "2026-11-05T17:05:16Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
+        },
         {
           "title": "Agentic cheminformatics with Google Antigravity",
           "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
