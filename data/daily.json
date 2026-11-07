@@ -1,78 +1,104 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T06:35:50.046203Z",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T06:32:44.531277Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "source": "The Verge",
-      "published_at": "2026-11-06T00:37:56Z",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that…",
+      "published_at": "2026-11-06T23:46:18Z",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-06-openai-is-stepping-back-from-ndas-for-data"
+      "id": "theverge-2026-11-06-openai-valued-at-1-25-trillion-as-rival"
     },
     {
-      "title": "Airbnb is working on an AI travel agent",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "source": "The Verge",
-      "published_at": "2026-11-06T00:06:12Z",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple,…",
+      "published_at": "2026-11-06T23:00:44Z",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about Ameri…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-06-airbnb-is-working-on-an-ai-travel-agent"
+      "id": "theverge-2026-11-06-china-reportedly-recruited-ai-exec-to-spy-on"
     },
     {
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
       "source": "The Verge",
-      "published_at": "2026-11-05T23:45:10Z",
-      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment…",
+      "published_at": "2026-11-06T22:45:43Z",
+      "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-05-the-new-york-times-is-in-talks-to"
+      "id": "theverge-2026-11-06-starlink-mobile-all-the-news-on-spacex-8217"
     },
     {
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-11-05T23:17:10Z",
-      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the E…",
+      "published_at": "2026-11-06T21:50:32Z",
+      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated f…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-05-t-mobile-owner-on-elon-musk-launching-a-wireless"
+      "id": "theverge-2026-11-06-kpop-demon-hunters-on-4k-blu-ray-costs-less"
     },
     {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "source": "The Verge",
-      "published_at": "2026-11-05T22:26:50Z",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory…",
+      "title": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
+      "url": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
+      "source": "Xataka",
+      "published_at": "2026-11-06T20:31:05Z",
+      "summary": "India lleva años consolidando su posición en la industria tecnológica mundial, especialmente en el desarrollo de software y la prestación de servicios informáticos. Sin embargo, cuando miramos hacia la infraestructura qu…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-05-perplexity-launches-its-own-take-on-ai-agents"
+      "id": "xataka-2026-11-06-india-anuncia-planes-para-desarrollar-gpu-nacionales-en"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI",
+          "published_at": "2026-11-06T08:00:00Z",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-06-partnering-with-hacktron-to-find-vulnerabilities-in-openai"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-06-measuring-how-ai-agents-handle-everyday-wet-lab-science"
+        },
         {
           "title": "Cult.fit builds operational muscle with Codex",
           "url": "https://openai.com/index/cultfit-builds-with-codex",
@@ -321,19 +347,6 @@
           "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
         },
         {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
-        },
-        {
           "title": "Preparing our next security sprint to harden OpenAI",
           "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI",
@@ -345,6 +358,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+          "title": "Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
         },
         {
           "title": "The latest AI news we announced in October 2026",
@@ -399,19 +425,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
-        },
-        {
           "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
           "url": "https://openai.com/index/dan-driscoll-joins-openai",
           "source": "OpenAI",
@@ -425,43 +438,17 @@
           "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
         },
         {
-          "title": "Speeding up planning decisions with AI",
-          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-          "source": "DeepMind",
-          "published_at": "2026-10-30T14:18:30Z",
-          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-30-speeding-up-planning-decisions-with-ai"
-        },
-        {
-          "title": "Making it easier for websites to express AI training preferences",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
           "source": "OpenAI",
-          "published_at": "2026-10-30T09:30:00Z",
-          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-10-30-making-it-easier-for-websites-to-express-ai"
-        },
-        {
-          "title": "Community safety report and new protections for teens",
-          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "source": "OpenAI",
-          "published_at": "2026-10-30T09:00:00Z",
-          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-30-community-safety-report-and-new-protections-for-teens"
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
         }
       ]
     },
@@ -480,25 +467,38 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-11-05-ai-text-watermarking-may-not-be-able-to"
-        },
-        {
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "url": "https://huggingface.co/blog/phonon-tts",
-          "source": "Hugging Face",
-          "published_at": "2026-11-05T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "huggingface-2026-11-05-a-closer-look-at-phonon-tts-launching-high-quality"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "source": "Hugging Face",
+          "published_at": "2026-11-06T14:00:48Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-06-toyblocks-a-controlled-world-for-robot-learning-and"
+        },
+        {
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-06-egyptian-and-nigerian-english-join-the-open-asr"
+        },
         {
           "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
           "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -511,19 +511,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-05-new-nvidia-cosmos-3-open-models-for-interactive"
-        },
-        {
-          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-          "source": "Hugging Face",
-          "published_at": "2026-11-04T17:50:10Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-04-dharma-field-extractor-any-document-in-structured-fields"
         }
       ]
     },
@@ -531,43 +518,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Salon is shutting down after 31 years",
-          "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+          "title": "All the latest updates on AI data centers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
           "source": "The Verge",
-          "published_at": "2026-11-05T22:08:14Z",
-          "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent di…",
+          "published_at": "2026-11-06T20:02:22Z",
+          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-05-salon-is-shutting-down-after-31-years"
+          "id": "theverge-2026-11-06-all-the-latest-updates-on-ai-data-centers"
         },
         {
-          "title": "The midterms proved once and for all that X is not real life",
-          "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+          "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-05T21:55:00Z",
-          "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and m…",
+          "published_at": "2026-11-06T19:47:02Z",
+          "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, includ…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-05-the-midterms-proved-once-and-for-all-that"
+          "id": "theverge-2026-11-06-shure-s-popular-podcasting-and-streaming-mic-is"
         },
         {
-          "title": "Blue Origin’s next launch now won’t happen until 2027",
-          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+          "title": "Lame-duck Congress might actually do something: speed up energy projects",
+          "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
           "source": "The Verge",
-          "published_at": "2026-11-05T20:47:14Z",
-          "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion …",
+          "published_at": "2026-11-06T18:42:30Z",
+          "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clea…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-05-blue-origin-s-next-launch-now-won-t"
+          "id": "theverge-2026-11-06-lame-duck-congress-might-actually-do-something-speed-up"
+        },
+        {
+          "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "source": "The Verge",
+          "published_at": "2026-11-06T18:10:10Z",
+          "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-06-meta-8217-s-muse-ai-can-create-custom"
+        },
+        {
+          "title": "Amazon is now making a Melania Trump TV series",
+          "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+          "source": "The Verge",
+          "published_at": "2026-11-06T17:56:58Z",
+          "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on Nove…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-06-amazon-is-now-making-a-melania-trump-tv"
+        },
+        {
+          "title": "Just about anyone can rent access to White House IP addresses",
+          "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+          "source": "The Verge",
+          "published_at": "2026-11-06T17:40:06Z",
+          "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's accordi…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-06-just-about-anyone-can-rent-access-to-white"
+        },
+        {
+          "title": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
+          "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
+          "source": "Xataka",
+          "published_at": "2026-11-06T15:31:07Z",
+          "summary": "Estos días se ha hablado bastante de las neoclouds, pero estas últimas horas, con el guantazo que se han pegado las empresas relacionadas con la IA , la conversación ha subido de tono. El motivo es que, el mismo día en e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-06-se-han-evaporado-2-5-billones-de-dolares"
+        },
+        {
+          "title": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
+          "url": "https://www.xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
+          "source": "Xataka",
+          "published_at": "2026-11-06T15:01:11Z",
+          "summary": "Si la IA sabe de todo, y se supone que da mejores consejos que muchos humanos... ¿por qué no preguntarle cómo sacarle más ventaja a nuestro dinero? No es algo extraño, ya que las dudas monetarias son uno de los tipos de …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-06-claude-ya-puede-decirte-en-que-se-te"
+        },
+        {
+          "title": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\"",
+          "url": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
+          "source": "Xataka",
+          "published_at": "2026-11-06T11:01:08Z",
+          "summary": "Los modelos de inteligencia artificial son cada vez más capaces y se está viendo que se usan para atacar dispositivos que, hasta ahora, no estaban en el punto de mira bien por pereza o por los motivos que fueran. Esto pr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-06-en-medio-de-una-crisis-de-ciberseguridad-openai"
         },
         {
           "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
@@ -583,43 +648,17 @@
           "id": "xataka-2026-11-05-hundimiento-historico-de-la-bolsa-estadounidense-las-grandes"
         },
         {
-          "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-          "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-11-05T19:12:58Z",
-          "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest w…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-05-samsung-s-galaxy-z-fold-8-is-300"
-        },
-        {
-          "title": "Muse has a voice mode now",
-          "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-          "source": "The Verge",
-          "published_at": "2026-11-05T19:03:04Z",
-          "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-05-muse-has-a-voice-mode-now"
-        },
-        {
-          "title": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
+          "title": "En un movimiento cada vez más familiar, Apple ha empezado a reducir el gasto de tokens IA de sus empleados a 200 dólares diarios",
           "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
           "source": "Xataka",
-          "published_at": "2026-11-05T13:46:34Z",
+          "published_at": "2026-11-05T13:45:00Z",
           "summary": "Apple quiere que sus usuarios usen todo el rato la nueva Siri AI en sus dispositivos. Apple lo vende como su gran remontada en IA. Pero de puertas para adentro, alguien ha mirado el Excel (o Numbers, en su caso) de gasto…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-05-apple-quiere-que-siri-ia-este-en-todas"
+          "id": "xataka-2026-11-05-en-un-movimiento-cada-vez-mas-familiar-apple"
         },
         {
           "title": "Anthropic toma medidas drásticas contra los clones de videojuegos de IA hechos con Claude",
@@ -635,82 +674,17 @@
           "id": "xataka-2026-11-05-anthropic-toma-medidas-drasticas-contra-los-clones-de"
         },
         {
-          "title": "Las escuelas de EEUU quieren un Google sin IA, pero se enfrentan a un dilema: o aceptan sus resúmenes con IA o se quedan sin buscador",
+          "title": "En Estados Unidos, Google está dejando sin su buscador a las escuelas que rechazan utilizar sus herramientas IA",
           "url": "https://www.xataka.com/empresas-y-economia/escuelas-eeuu-quieren-google-ia-se-enfrentan-a-dilema-aceptan-sus-resumenes-ia-se-quedan-buscador",
           "source": "Xataka",
-          "published_at": "2026-11-05T12:46:32Z",
+          "published_at": "2026-11-05T12:45:00Z",
           "summary": "Estos días ha habido cierta polémica en Estados Unidos acerca de una serie de cambios que Google quiere introducir en torno al uso de su IA en los centros educativos del país. Y es que tal y como compartía la compañía, d…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-05-las-escuelas-de-eeuu-quieren-un-google-sin"
-        },
-        {
-          "title": "Dario Amodei, CEO de Anthropic: “no todos los tokens que producen los modelos valen lo mismo”",
-          "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
-          "source": "Xataka",
-          "published_at": "2026-11-05T06:00:00Z",
-          "summary": "Anthropic presentó hace unos días el formulario que describe su negocio, finanzas y riesgos ante su inminente salida a bolsa , una que promete hacer historia en cuanto a valoración de mercado. La SEC (el regulador bursát…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-05-dario-amodei-ceo-de-anthropic-no-todos-los"
-        },
-        {
-          "title": "La nueva IA de Tencent ha decidido hacer algo novedoso en el entrenamiento de modelos: ponerle límites",
-          "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
-          "source": "Xataka",
-          "published_at": "2026-11-04T22:55:00Z",
-          "summary": "Hay conocimientos que pueden servir tanto para resolver un problema como para provocarlo. Todo depende de quién los utilice, con qué intención y en qué circunstancias. Esta distinción, que podemos reconocer fácilmente en…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-04-la-nueva-ia-de-tencent-ha-decidido-hacer"
-        },
-        {
-          "title": "EEUU tuvo una idea hace 20 años para matar a los mosquitos. China la acaba de hacer realidad con una torreta láser automática para pulverizarlos",
-          "url": "https://www.xataka.com/robotica-e-ia/eeuu-tuvo-idea-hace-20-anos-para-aniquilar-a-mosquitos-china-acaba-convertir-realidad-torreta-laser-ia",
-          "source": "Xataka",
-          "published_at": "2026-11-04T12:31:51Z",
-          "summary": "Hace casi dos décadas, un grupo de ingenieros estadounidenses tuvo una idea que parecía sacada de la ciencia ficción: construir un sistema capaz de identificar mosquitos en pleno vuelo y derribarlos con disparos láser. E…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-04-eeuu-tuvo-una-idea-hace-20-anos-para"
-        },
-        {
-          "title": "Google sacrificó su buscador para ganar la carrera de la IA y ahora corre el riesgo de quedarse sin ninguna de las dos cosas",
-          "url": "https://www.xataka.com/servicios/google-esta-financiando-futuro-ia-negocio-que-amenaza-destruir-su-buscador-clasico",
-          "source": "Xataka",
-          "published_at": "2026-11-04T09:30:00Z",
-          "summary": "Buena parte del negocio sobre el que se ha afianzado el crecimiento de Google en las últimas dos décadas se basa en un mecanismo muy simple. Tú escribes una duda en tu navegador, y el buscador te enseña una lista de enla…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-04-google-sacrifico-su-buscador-para-ganar-la-carrera"
-        },
-        {
-          "title": "China está viviendo su particular explosión de la burbuja IA: si llega a Occidente, no va a ser bonito",
-          "url": "https://www.xataka.com/empresas-y-economia/china-esta-experimentando-parecido-que-hemos-vivido-ahora-a-estallido-burbuja-ia",
-          "source": "Xataka",
-          "published_at": "2026-11-04T08:00:00Z",
-          "summary": "El cierre de octubre ha sido extremadamente movido. A nthropic por fin publicó sus documentos de cara a una futura salida a bolsa y, mientras tanto, vimos cómo las principales tecnológicas mundiales se tambaleaban, con G…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-04-china-esta-viviendo-su-particular-explosion-de-la"
+          "id": "xataka-2026-11-05-en-estados-unidos-google-esta-dejando-sin-su"
         }
       ]
     }
@@ -747,6 +721,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI",
+          "published_at": "2026-11-06T08:00:00Z",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-06-partnering-with-hacktron-to-find-vulnerabilities-in-openai"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-06-measuring-how-ai-agents-handle-everyday-wet-lab-science"
+        },
         {
           "title": "Cult.fit builds operational muscle with Codex",
           "url": "https://openai.com/index/cultfit-builds-with-codex",
@@ -956,19 +956,6 @@
           "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
         },
         {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
-        },
-        {
           "title": "Preparing our next security sprint to harden OpenAI",
           "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI",
@@ -980,6 +967,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+          "title": "Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "source": "OpenAI",
+          "published_at": "2026-11-02T18:00:00Z",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
         },
         {
           "title": "Scaling Git at OpenAI",
@@ -1021,19 +1021,6 @@
           "id": "openai-2026-11-02-lifeval"
         },
         {
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T00:00:00Z",
-          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
-        },
-        {
           "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
           "url": "https://openai.com/index/dan-driscoll-joins-openai",
           "source": "OpenAI",
@@ -1047,30 +1034,17 @@
           "id": "openai-2026-11-02-openai-appoints-dan-driscoll-as-senior-counselor-for"
         },
         {
-          "title": "Making it easier for websites to express AI training preferences",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
           "source": "OpenAI",
-          "published_at": "2026-10-30T09:30:00Z",
-          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "published_at": "2026-11-02T00:00:00Z",
+          "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-10-30-making-it-easier-for-websites-to-express-ai"
-        },
-        {
-          "title": "Community safety report and new protections for teens",
-          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "source": "OpenAI",
-          "published_at": "2026-10-30T09:00:00Z",
-          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-10-30-community-safety-report-and-new-protections-for-teens"
+          "id": "openai-2026-11-02-qodo-builds-context-into-ai-code-review-with"
         }
       ]
     },
@@ -1154,19 +1128,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-11-03-agentic-cheminformatics-with-google-antigravity"
-        },
-        {
-          "title": "Speeding up planning decisions with AI",
-          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-          "source": "DeepMind",
-          "published_at": "2026-10-30T14:18:30Z",
-          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-10-30-speeding-up-planning-decisions-with-ai"
         }
       ]
     }
