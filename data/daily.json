@@ -1,78 +1,143 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T06:43:38.401014Z",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T06:35:16.816442Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "source": "The Verge",
-      "published_at": "2026-11-08T22:54:50Z",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing t…",
+      "published_at": "2026-11-10T00:28:49Z",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-08-here-s-the-full-text-of-jensen-huang"
+      "id": "theverge-2026-11-10-david-ellison-says-ai-could-be-the-biggest"
     },
     {
-      "title": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
-      "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:51:58Z",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-09-what-could-china-get-from-jensen-huang"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:47:46Z",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-09-here-s-what-trump-said-he-knew-about"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:07:59Z",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-09-everything-we-know-so-far-about-the-nvidia"
+    },
+    {
+      "title": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
       "source": "Xataka",
-      "published_at": "2026-11-08T22:46:00Z",
-      "summary": "Una confesión personal y una investigación por posible espionaje chino han colocado a Jensen Huang en el centro de una noticia inesperada. El cofundador y CEO de Nvidia ha reconocido públicamente su infidelidad en un men…",
+      "published_at": "2026-11-09T21:57:57Z",
+      "summary": "Que un modelo de inteligencia artificial sea capaz de resolver problemas extraordinariamente complejos no significa que todas sus capacidades estén al alcance de cualquiera. La diferencia puede estar en el precio, pero t…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-11-08-debo-una-disculpa-a-mi-familia-jensen-huang"
-    },
-    {
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "source": "The Verge",
-      "published_at": "2026-11-08T22:37:22Z",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at …",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-11-08-soul-glo-s-diaspora-problems-is-a-hardcore"
-    },
-    {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "published_at": "2026-11-08T20:52:05Z",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-11-08-epic-games-launcher-is-coming-to-steamos"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge",
-      "published_at": "2026-11-08T20:22:39Z",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c…",
-      "why_it_matters": "",
-      "tags": [
-        "ia"
-      ],
-      "category": "general",
-      "id": "theverge-2026-11-08-nvidia-is-investigating-jensen-huang-s-relationship-with"
+      "id": "xataka-2026-11-09-anthropic-acaba-de-lanzar-sus-dos-modelos-de"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T19:00:00Z",
+          "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-chatgpt-enterprise-now-available-in-aws-marketplace"
+        },
+        {
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T13:00:00Z",
+          "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-control-room-a-central-system-to-track-and"
+        },
+        {
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T08:00:00Z",
+          "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-coderabbit-scales-agentic-software-development-and-ships-20x"
+        },
+        {
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T08:00:00Z",
+          "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-kuken-industries-searches-70-years-of-drawings-in"
+        },
+        {
+          "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Anthropic",
+          "published_at": "2026-11-09T00:00:00Z",
+          "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-11-09-introducing-claude-fable-5-2-and-claude-mythos"
+        },
         {
           "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
           "url": "https://openai.com/index/partnering-with-hacktron",
@@ -332,97 +397,55 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-03-heimstaden-is-changing-residential-real-estate-management-with"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Investigación",
+      "items": [
         {
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T00:00:00Z",
-          "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+          "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+          "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-11-09T16:25:06Z",
+          "summary": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk asse…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "investigación"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
-        },
+          "category": "investigación",
+          "id": "ieee-2026-11-09-ai-agents-are-testing-the-limits-of-zero-trust"
+        }
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "items": [
         {
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "source": "Hugging Face",
+          "published_at": "2026-11-09T15:05:57Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
+          "category": "herramientas",
+          "id": "huggingface-2026-11-09-nemotron-personas-finance-japan-a-synthetic-dataset-capturing-japan-s-demographics"
         },
         {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face",
+          "published_at": "2026-11-09T12:34:29Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "herramientas"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
-        },
-        {
-          "title": "The latest AI news we announced in October 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-          "source": "Google AI",
-          "published_at": "2026-11-02T17:45:00Z",
-          "summary": "Animated carousel of images from AI posts in October",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-02-the-latest-ai-news-we-announced-in-october"
-        },
-        {
-          "title": "Scaling Git at OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T15:30:00Z",
-          "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-scaling-git-at-openai"
-        },
-        {
-          "title": "Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T15:00:00Z",
-          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-introducing-the-grid-protectors-program"
-        },
-        {
-          "title": "LifeVal",
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T09:00:00Z",
-          "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-lifeval"
+          "category": "herramientas",
+          "id": "huggingface-2026-11-09-your-experts-have-partners-there-s-hope-for"
         }
       ]
     },
@@ -430,56 +453,160 @@
       "name": "General",
       "items": [
         {
-          "title": "Apple is racing to make Siri more agentic",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+          "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-08T19:18:19Z",
-          "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de…",
+          "published_at": "2026-11-09T21:43:41Z",
+          "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-08-apple-is-racing-to-make-siri-more-agentic"
+          "id": "theverge-2026-11-09-msi-s-refurbished-qd-oled-gaming-monitor-is-on"
         },
         {
-          "title": "Elvis and Eminem rights holders are suing Suno",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "title": "The global pledge to use AI for climate good is a cruel joke",
+          "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
           "source": "The Verge",
-          "published_at": "2026-11-08T17:23:19Z",
-          "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music …",
+          "published_at": "2026-11-09T21:13:16Z",
+          "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-08-elvis-and-eminem-rights-holders-are-suing-suno"
+          "id": "theverge-2026-11-09-the-global-pledge-to-use-ai-for-climate"
         },
         {
-          "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
           "source": "The Verge",
-          "published_at": "2026-11-08T16:00:00Z",
-          "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which fe…",
+          "published_at": "2026-11-09T19:09:58Z",
+          "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-08-apple-s-m5-macbook-air-is-down-to"
+          "id": "theverge-2026-11-09-apple-s-50-intelligence-usage-packs-extend-access"
         },
         {
-          "title": "Chatbots might be coming to Apple’s HomeView",
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
           "source": "The Verge",
-          "published_at": "2026-11-08T15:00:30Z",
-          "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under …",
+          "published_at": "2026-11-09T19:00:00Z",
+          "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-08-chatbots-might-be-coming-to-apple-s-homeview"
+          "id": "theverge-2026-11-09-anthropic-launches-new-claude-fable-and-mythos-5"
+        },
+        {
+          "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+          "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-11-09T18:35:25Z",
+          "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-09-you-can-grab-three-months-of-game-pass"
+        },
+        {
+          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "source": "The Verge",
+          "published_at": "2026-11-09T18:07:23Z",
+          "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it ha…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-09-instagram-s-effect-builder-makes-new-filters-from"
+        },
+        {
+          "title": "Quería quitar las aplicaciones que Android no me deja borrar. Así que le pedí a la IA mi propio desinstalador: en media hora lo tenía",
+          "url": "https://www.xataka.com/robotica-e-ia/queria-quitar-aplicaciones-que-android-no-me-deja-borrar-asi-que-le-pedi-a-ia-mi-propio-desinstalador-media-hora-tenia",
+          "source": "Xataka",
+          "published_at": "2026-11-09T16:31:07Z",
+          "summary": "Cada vez que compro un móvil, o analizo uno, este viene con un buen montón de aplicaciones que no necesito . La primera configuración suele ser larga, porque me dedico a iniciar sesiones, ordenar los escritorios y siempr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-queria-quitar-las-aplicaciones-que-android-no-me"
+        },
+        {
+          "title": "El empleo en programación y consultoría informática marca máximo histórico en la EPA: por ahora no llega la temida caída por la IA",
+          "url": "https://www.xataka.com/empresas-y-economia/empleo-programacion-consultoria-informatica-marca-maximo-historico-epa-ahora-no-llega-temida-caida-ia",
+          "source": "Xataka",
+          "published_at": "2026-11-09T14:31:05Z",
+          "summary": "Que la IA va a suponer un cambio de paradigma en el mercado laboral a nivel global no es ningún secreto. Distintos estudios apuntan a que se producirá un desplazamiento masivo de puestos de trabajo (no siempre una destru…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-el-empleo-en-programacion-y-consultoria-informatica-marca"
+        },
+        {
+          "title": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+          "url": "https://www.xataka.com/robotica-e-ia/puerto-hong-kong-esperan-600-000-chips-avanzados-nvidia-portazo-chino-a-exportaciones-eeuu",
+          "source": "Xataka",
+          "published_at": "2026-11-09T14:01:08Z",
+          "summary": "No están siendo los mejores días para una Nvidia que lleva meses de escalada gracias a su papel en la industria de la IA. La compañía liderada por Jensen Huang protagonizó uno de los batacazos del cierre de bolsa del 5 d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-en-un-puerto-de-hong-kong-esperan-600"
+        },
+        {
+          "title": "Anthropic pidió frenar el desarrollo de la IA, pero su IA está avanzando el doble de rápido que el año pasado",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-pidio-frenar-desarrollo-ia-su-ia-esta-avanzando-doble-rapido-que-ano-pasado",
+          "source": "Xataka",
+          "published_at": "2026-11-09T12:31:03Z",
+          "summary": "A mediados de septiembre, Dario Amodei , CEO de Anthropic, lanzó un curioso mensaje : nos estamos pasando de frenada con la IA. Ya en su día comentamos que quizá no era una llamada a la responsabilidad, sino a relajar un…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-anthropic-pidio-frenar-el-desarrollo-de-la-ia"
+        },
+        {
+          "title": "Claude Code guardaba tu correo para saber quién eres. Algunas webs acabaron recibiéndolo",
+          "url": "https://www.xataka.com/robotica-e-ia/claude-code-guardaba-tu-correo-para-saber-quien-eres-algunas-webs-acabaron-recibiendolo",
+          "source": "Xataka",
+          "published_at": "2026-11-09T11:01:07Z",
+          "summary": "Iniciar una herramienta con el correo electrónico es lo habitual, ya que, como ocurre en el caso de Claude Code , este lo necesita para identificar la cuenta. Lo esperable es que dicho correo se utilice solo como identif…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-claude-code-guardaba-tu-correo-para-saber-quien"
+        },
+        {
+          "title": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
+          "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
+          "source": "Xataka",
+          "published_at": "2026-11-08T22:46:00Z",
+          "summary": "Una confesión personal y una investigación por posible espionaje chino han colocado a Jensen Huang en el centro de una noticia inesperada. El cofundador y CEO de Nvidia ha reconocido públicamente su infidelidad en un men…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-08-debo-una-disculpa-a-mi-familia-jensen-huang"
         },
         {
           "title": "El mando de mi tele tiene botones que no utilizo. Le he pedido a la IA que los cambie por las apps que sí uso",
@@ -493,71 +620,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-08-el-mando-de-mi-tele-tiene-botones-que"
-        },
-        {
-          "title": "There’s no slowing down media’s pivot-to-video 2.0",
-          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "source": "The Verge",
-          "published_at": "2026-11-08T13:00:00Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-08-there-s-no-slowing-down-media-s-pivot-to-video"
-        },
-        {
-          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-          "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-          "source": "The Verge",
-          "published_at": "2026-11-07T17:00:00Z",
-          "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-07-the-uv-tracking-gem-made-me-rethink-how-sunlight"
-        },
-        {
-          "title": "La fiebre de la IA está creando otro problema, necesitamos toneladas de metal para poder darle electricidad",
-          "url": "https://www.xataka.com/energia/fiebre-ia-esta-creando-otro-problema-necesitamos-toneladas-metal-para-poder-darle-electricidad",
-          "source": "Xataka",
-          "published_at": "2026-11-07T13:31:06Z",
-          "summary": "Vivimos en un mundo cada vez más interdependiente. Y un buen ejemplo es el impacto que está teniendo el auge de la inteligencia artificial sobre el mercado mundial de los metales básicos. La expansión de esta tecnología,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-07-la-fiebre-de-la-ia-esta-creando-otro"
-        },
-        {
-          "title": "Lituania tiene 2,9 millones de habitantes pero compite con China fabricando láseres para chips de IA en serie",
-          "url": "https://www.xataka.com/componentes/lituania-tiene-2-9-millones-habitantes-compite-china-fabricando-laseres-para-chips-ia-serie",
-          "source": "Xataka",
-          "published_at": "2026-11-07T13:01:09Z",
-          "summary": "Hace unos días la empresa LITILIT inauguró en Vilna (Lituania) una fábrica de láseres de femtosegundo que, según la compañía , tiene la mayor capacidad potencial del mundo de producción de láseres de femtosegundo. Así, p…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-07-lituania-tiene-2-9-millones-de-habitantes-pero"
-        },
-        {
-          "title": "Creíamos que la IA iba a escribir por nosotros, pero donde ChatGPT está creciendo más en España es como buscador",
-          "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-ia-iba-a-escribir-nosotros-donde-chagpt-esta-creciendo-espana-como-buscador",
-          "source": "Xataka",
-          "published_at": "2026-11-07T09:00:00Z",
-          "summary": "¿Tú para qué usas ChatGPT? Si me preguntas a mí, te diré que para casi todo: desde preguntarle por qué me ha salido una uña torcida a un mail en inglés rápido pasando por la generación de una imagen o que me revise un te…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-07-creiamos-que-la-ia-iba-a-escribir-por"
         }
       ]
     }
@@ -594,6 +656,58 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T19:00:00Z",
+          "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-chatgpt-enterprise-now-available-in-aws-marketplace"
+        },
+        {
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T13:00:00Z",
+          "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-control-room-a-central-system-to-track-and"
+        },
+        {
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T08:00:00Z",
+          "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-coderabbit-scales-agentic-software-development-and-ships-20x"
+        },
+        {
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI",
+          "published_at": "2026-11-09T08:00:00Z",
+          "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-09-kuken-industries-searches-70-years-of-drawings-in"
+        },
         {
           "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
           "url": "https://openai.com/index/partnering-with-hacktron",
@@ -814,84 +928,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-03-heimstaden-is-changing-residential-real-estate-management-with"
-        },
-        {
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T00:00:00Z",
-          "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs"
-        },
-        {
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-preparing-our-next-security-sprint-to-harden-openai"
-        },
-        {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T18:00:00Z",
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-rewarding-defenders-with-bigger-bug-bounties"
-        },
-        {
-          "title": "Scaling Git at OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T15:30:00Z",
-          "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-scaling-git-at-openai"
-        },
-        {
-          "title": "Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T15:00:00Z",
-          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-introducing-the-grid-protectors-program"
-        },
-        {
-          "title": "LifeVal",
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI",
-          "published_at": "2026-11-02T09:00:00Z",
-          "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-02-lifeval"
         }
       ]
     },
@@ -900,17 +936,17 @@
       "name": "Anthropic",
       "items": [
         {
-          "title": "AI for Science expands to foundations and research institutions",
-          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
           "source": "Anthropic",
-          "published_at": "2026-10-28T00:00:00Z",
-          "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+          "published_at": "2026-11-09T00:00:00Z",
+          "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "anthropic-2026-10-28-ai-for-science-expands-to-foundations-and-research"
+          "id": "anthropic-2026-11-09-introducing-claude-fable-5-2-and-claude-mythos"
         }
       ]
     },
@@ -930,19 +966,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
-        },
-        {
-          "title": "The latest AI news we announced in October 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-          "source": "Google AI",
-          "published_at": "2026-11-02T17:45:00Z",
-          "summary": "Animated carousel of images from AI posts in October",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-02-the-latest-ai-news-we-announced-in-october"
         }
       ]
     },
