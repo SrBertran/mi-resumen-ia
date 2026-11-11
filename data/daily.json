@@ -1,78 +1,234 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T06:35:16.816442Z",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:36:05.083226Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "published_at": "2026-11-10T00:28:49Z",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E…",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T00:00:00Z",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-10-david-ellison-says-ai-could-be-the-biggest"
+      "category": "lanzamientos",
+      "id": "openai-2026-11-12-gilbert-tobin-rethinks-the-business-of-law-with"
     },
     {
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "published_at": "2026-11-09T23:51:58Z",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N…",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "published_at": "2026-11-11T08:00:00Z",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-09-what-could-china-get-from-jensen-huang"
+      "category": "lanzamientos",
+      "id": "openai-2026-11-11-chatgpt-plus-for-veterans-and-servicemembers"
     },
     {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "source": "The Verge",
-      "published_at": "2026-11-09T23:47:46Z",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had …",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "published_at": "2026-11-11T05:01:16Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-09-here-s-what-trump-said-he-knew-about"
+      "category": "herramientas",
+      "id": "huggingface-2026-11-11-botpsy-on-device-personal-assistant-with-a-sub-billion-parameter-agentic"
     },
     {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
       "source": "The Verge",
-      "published_at": "2026-11-09T23:07:59Z",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since …",
+      "published_at": "2026-11-11T00:34:24Z",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-09-everything-we-know-so-far-about-the-nvidia"
+      "id": "theverge-2026-11-11-microsoft-s-dlss-competitor-is-out-for-the"
     },
     {
-      "title": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
-      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
-      "source": "Xataka",
-      "published_at": "2026-11-09T21:57:57Z",
-      "summary": "Que un modelo de inteligencia artificial sea capaz de resolver problemas extraordinariamente complejos no significa que todas sus capacidades estén al alcance de cualquiera. La diferencia puede estar en el precio, pero t…",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "published_at": "2026-11-10T22:00:00Z",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you ca…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "xataka-2026-11-09-anthropic-acaba-de-lanzar-sus-dos-modelos-de"
+      "id": "theverge-2026-11-10-the-vr-disney-plus-app-on-meta-quest"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T19:00:00Z",
+          "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-gemini-intelligence-new-features-on-more-devices"
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T16:03:47Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-gemini-4-carbon-is-now-available"
+        },
+        {
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T14:00:00Z",
+          "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-we-re-bringing-adobe-s-creative-and-productivity"
+        },
+        {
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T13:00:00Z",
+          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-google-cloud-launches-gemini-for-healthcare"
+        },
+        {
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T12:02:28Z",
+          "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-introducing-alphaproof-code-a-breakthrough-in-verifying-complex"
+        },
+        {
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T12:00:00Z",
+          "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-helping-caregivers-use-ai-in-everyday-life"
+        },
+        {
+          "title": "Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T10:00:00Z",
+          "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-introducing-businesses-in-chatgpt"
+        },
+        {
+          "title": "Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T09:00:00Z",
+          "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-closing-the-ai-guidance-gap-in-education"
+        },
+        {
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T07:00:00Z",
+          "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-work-at-the-frontier-ai-s-effect-on"
+        },
+        {
+          "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+          "url": "https://openai.com/index/cogent-security",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-cogent-and-openai-build-cyber-defense-factories-for"
+        },
+        {
+          "title": "Anthropic launches roadshow for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "source": "Anthropic",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-11-10-anthropic-launches-roadshow-for-proposed-initial-public-offering"
+        },
+        {
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "source": "DeepMind",
+          "published_at": "2026-11-09T19:51:47Z",
+          "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-09-gemini-robotics-2-5-accelerates-real-world-general-dexterity"
+        },
         {
           "title": "ChatGPT Enterprise now available in AWS Marketplace",
           "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -319,84 +475,37 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-04-daybreak-red-is-now-available-in-aws-govcloud"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Negocio",
+      "items": [
         {
-          "title": "Introducing Images 2.6",
-          "url": "https://openai.com/index/introducing-images-2-6",
-          "source": "OpenAI",
-          "published_at": "2026-11-04T00:00:00Z",
-          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+          "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+          "source": "The Verge",
+          "published_at": "2026-11-10T21:40:31Z",
+          "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native pri…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-04-introducing-images-2-6"
+          "category": "negocio",
+          "id": "theverge-2026-11-10-oura-is-acquiring-medical-ai-chatbot-startup-counsel"
         },
         {
-          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "url": "https://openai.com/index/devrev-enterprise-self-service",
-          "source": "OpenAI",
-          "published_at": "2026-11-04T00:00:00Z",
-          "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "title": "Una startup paga 20 dólares la hora por pasear perros robot",
+          "url": "https://www.xataka.com/robotica-e-ia/startup-paga-20-dolares-hora-pasear-perros-robot",
+          "source": "Xataka",
+          "published_at": "2026-11-10T06:30:00Z",
+          "summary": "Una startup de San Francisco ha estado pagando a la gente para que pasee perros robot por la ciudad, tal y como cuentan desde el New York Times. Por muy extraño que parezca, lo cierto es que dice mucho de en qué nivel no…",
           "why_it_matters": "",
           "tags": [
-            "producto"
+            "negocio"
           ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-04-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol"
-        },
-        {
-          "title": "Agentic cheminformatics with Google Antigravity",
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-          "source": "DeepMind",
-          "published_at": "2026-11-03T17:01:49Z",
-          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-03-agentic-cheminformatics-with-google-antigravity"
-        },
-        {
-          "title": "Accelerating engineering for the physical world",
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T12:00:00Z",
-          "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-accelerating-engineering-for-the-physical-world"
-        },
-        {
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T08:00:00Z",
-          "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-how-cisco-defends-at-machine-speed-with-openai"
-        },
-        {
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "url": "https://openai.com/index/heimstaden",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T08:00:00Z",
-          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-heimstaden-is-changing-residential-real-estate-management-with"
+          "category": "negocio",
+          "id": "xataka-2026-11-10-una-startup-paga-20-dolares-la-hora-por"
         }
       ]
     },
@@ -421,6 +530,45 @@
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Pulsar “Sí, y no vuelvas a preguntar” en Claude Code parecía inofensivo. Ha acabado filtrando miles de contraseñas en GitHub",
+          "url": "https://www.xataka.com/robotica-e-ia/pulsar-no-vuelvas-a-preguntar-claude-code-parecia-inofensivo-ha-acabado-filtrando-miles-contrasenas-github",
+          "source": "Xataka",
+          "published_at": "2026-11-10T14:31:51Z",
+          "summary": "Si en algo son característicos los modelos de IA generativa es en su persistencia preguntando. Porque no pueden terminar una intervención sin decirte: \"¿Quieres que haga algo más?\". Lo llevan en su ADN, los LLM son siste…",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "xataka-2026-11-10-pulsar-si-y-no-vuelvas-a-preguntar-en"
+        },
+        {
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-10-pay-for-hugging-face-hub-with-your-google"
+        },
+        {
+          "title": "Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
+          "source": "Hugging Face",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-10-decision-models-in-hugging-face"
+        },
         {
           "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
           "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -453,82 +601,147 @@
       "name": "General",
       "items": [
         {
-          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-          "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+          "title": "Sony cancels live-service shooter Fairgames",
+          "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
           "source": "The Verge",
-          "published_at": "2026-11-09T21:43:41Z",
-          "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $…",
+          "published_at": "2026-11-10T21:06:12Z",
+          "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some pla…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-msi-s-refurbished-qd-oled-gaming-monitor-is-on"
+          "id": "theverge-2026-11-10-sony-cancels-live-service-shooter-fairgames"
         },
         {
-          "title": "The global pledge to use AI for climate good is a cruel joke",
-          "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+          "title": "The PlayStation Plus PC app is shutting down next month",
+          "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
           "source": "The Verge",
-          "published_at": "2026-11-09T21:13:16Z",
-          "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer …",
+          "published_at": "2026-11-10T19:40:52Z",
+          "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-the-global-pledge-to-use-ai-for-climate"
+          "id": "theverge-2026-11-10-the-playstation-plus-pc-app-is-shutting-down"
         },
         {
-          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "title": "Starlink Mini 2 adds a swappable battery",
+          "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
           "source": "The Verge",
-          "published_at": "2026-11-09T19:09:58Z",
-          "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49…",
+          "published_at": "2026-11-10T19:19:12Z",
+          "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who share…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-apple-s-50-intelligence-usage-packs-extend-access"
+          "id": "theverge-2026-11-10-starlink-mini-2-adds-a-swappable-battery"
         },
         {
-          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "title": "The US is winning the AI race. Jensen Huang could have blown it",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
           "source": "The Verge",
-          "published_at": "2026-11-09T19:00:00Z",
-          "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, …",
+          "published_at": "2026-11-10T19:04:05Z",
+          "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-anthropic-launches-new-claude-fable-and-mythos-5"
+          "id": "theverge-2026-11-10-the-us-is-winning-the-ai-race-jensen"
         },
         {
-          "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-          "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+          "title": "Google’s Pixel Tag tracker is now available",
+          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
           "source": "The Verge",
-          "published_at": "2026-11-09T18:35:25Z",
-          "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch…",
+          "published_at": "2026-11-10T19:00:00Z",
+          "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-you-can-grab-three-months-of-game-pass"
+          "id": "theverge-2026-11-10-google-s-pixel-tag-tracker-is-now-available"
         },
         {
-          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "title": "Google is making Pixel HiLight slightly more useful",
+          "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
           "source": "The Verge",
-          "published_at": "2026-11-09T18:07:23Z",
-          "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it ha…",
+          "published_at": "2026-11-10T19:00:00Z",
+          "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-09-instagram-s-effect-builder-makes-new-filters-from"
+          "id": "theverge-2026-11-10-google-is-making-pixel-hilight-slightly-more-useful"
+        },
+        {
+          "title": "One of our favorite multi-filament 3D printers is $100 off",
+          "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-11-10T18:42:03Z",
+          "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-10-one-of-our-favorite-multi-filament-3d-printers-is"
+        },
+        {
+          "title": "Anthropic ha descubierto lo que mi madre ya sabía: la IA cuida mejor las cosas cuando cree que son suyas",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-descubierto-que-mi-madre-sabia-cuidas-mejor-cosas-cuando-crees-que-tuyas-a-su-ia-le-pasa-codigo",
+          "source": "Xataka",
+          "published_at": "2026-11-10T16:31:47Z",
+          "summary": "No es que tuviese demasiadas cosas cuando era pequeño, en mi familia nos apretábamos el cinturón. Por eso cuidaba cada juguete como si fuera un tesoro, porque realmente era tal que así: si rompía algo, me quedaba sin jug…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-10-anthropic-ha-descubierto-lo-que-mi-madre-ya"
+        },
+        {
+          "title": "Google tuvo el mejor modelo de IA durante trece días. Anthropic se lo quitó y la respuesta ha tardado 24 horas",
+          "url": "https://www.xataka.com/robotica-e-ia/google-tuvo-mejor-modelo-ia-durante-trece-dias-anthropic-se-quito-respuesta-ha-tardado-24-horas",
+          "source": "Xataka",
+          "published_at": "2026-11-10T16:01:49Z",
+          "summary": "La guerra por conseguir el mejor modelo de IA es una pelea constante entre las grandes empresas que mueven el cotarro. Google es un peso pesado del segmento, por más que sus modelos hayan quedado ligeramente por detrás d…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-10-google-tuvo-el-mejor-modelo-de-ia-durante"
+        },
+        {
+          "title": "Google ya no quiere un solo chip de IA que haga de todo: lanza dos nuevas TPU especializadas para plantar cara a Nvidia",
+          "url": "https://www.xataka.com/componentes/google-no-quiere-solo-chip-ia-que-haga-todo-lanza-dos-nuevas-tpu-especializadas-para-plantar-cara-a-nvidia",
+          "source": "Xataka",
+          "published_at": "2026-11-10T14:00:00Z",
+          "summary": "Google está ampliando su familia de procesadores de IA de diseño propio con dos nuevas variantes, una diseñada para computación que requiera proteger datos sensibles y la otra para cargas de trabajo exigentes en memoria.…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-10-google-ya-no-quiere-un-solo-chip-de"
+        },
+        {
+          "title": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
+          "source": "Xataka",
+          "published_at": "2026-11-09T21:57:00Z",
+          "summary": "Que un modelo de inteligencia artificial sea capaz de resolver problemas extraordinariamente complejos no significa que todas sus capacidades estén al alcance de cualquiera. La diferencia puede estar en el precio, pero t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-09-anthropic-acaba-de-lanzar-sus-dos-modelos-de"
         },
         {
           "title": "Quería quitar las aplicaciones que Android no me deja borrar. Así que le pedí a la IA mi propio desinstalador: en media hora lo tenía",
@@ -581,45 +794,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-09-anthropic-pidio-frenar-el-desarrollo-de-la-ia"
-        },
-        {
-          "title": "Claude Code guardaba tu correo para saber quién eres. Algunas webs acabaron recibiéndolo",
-          "url": "https://www.xataka.com/robotica-e-ia/claude-code-guardaba-tu-correo-para-saber-quien-eres-algunas-webs-acabaron-recibiendolo",
-          "source": "Xataka",
-          "published_at": "2026-11-09T11:01:07Z",
-          "summary": "Iniciar una herramienta con el correo electrónico es lo habitual, ya que, como ocurre en el caso de Claude Code , este lo necesita para identificar la cuenta. Lo esperable es que dicho correo se utilice solo como identif…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-09-claude-code-guardaba-tu-correo-para-saber-quien"
-        },
-        {
-          "title": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
-          "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
-          "source": "Xataka",
-          "published_at": "2026-11-08T22:46:00Z",
-          "summary": "Una confesión personal y una investigación por posible espionaje chino han colocado a Jensen Huang en el centro de una noticia inesperada. El cofundador y CEO de Nvidia ha reconocido públicamente su infidelidad en un men…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-08-debo-una-disculpa-a-mi-familia-jensen-huang"
-        },
-        {
-          "title": "El mando de mi tele tiene botones que no utilizo. Le he pedido a la IA que los cambie por las apps que sí uso",
-          "url": "https://www.xataka.com/robotica-e-ia/mando-mi-tele-tiene-botones-que-no-utilizo-le-he-pedido-a-ia-que-cambie-apps-que-uso",
-          "source": "Xataka",
-          "published_at": "2026-11-08T13:01:14Z",
-          "summary": "Con la llegada de la inteligencia a las Smart TVs también aterrizaron mandos para los que hay que hacer un máster si quieres entenderlos por completo. Supongo que por eso colocaron botones directos a Netflix y compañía ,…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-08-el-mando-de-mi-tele-tiene-botones-que"
         }
       ]
     }
@@ -656,6 +830,97 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI",
+          "published_at": "2026-11-12T00:00:00Z",
+          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-12-gilbert-tobin-rethinks-the-business-of-law-with"
+        },
+        {
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI",
+          "published_at": "2026-11-11T08:00:00Z",
+          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-11-chatgpt-plus-for-veterans-and-servicemembers"
+        },
+        {
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T12:00:00Z",
+          "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-helping-caregivers-use-ai-in-everyday-life"
+        },
+        {
+          "title": "Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T10:00:00Z",
+          "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-introducing-businesses-in-chatgpt"
+        },
+        {
+          "title": "Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T09:00:00Z",
+          "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-closing-the-ai-guidance-gap-in-education"
+        },
+        {
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T07:00:00Z",
+          "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-work-at-the-frontier-ai-s-effect-on"
+        },
+        {
+          "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+          "url": "https://openai.com/index/cogent-security",
+          "source": "OpenAI",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-10-cogent-and-openai-build-cyber-defense-factories-for"
+        },
         {
           "title": "ChatGPT Enterprise now available in AWS Marketplace",
           "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -863,71 +1128,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-04-daybreak-red-is-now-available-in-aws-govcloud"
-        },
-        {
-          "title": "Introducing Images 2.6",
-          "url": "https://openai.com/index/introducing-images-2-6",
-          "source": "OpenAI",
-          "published_at": "2026-11-04T00:00:00Z",
-          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-04-introducing-images-2-6"
-        },
-        {
-          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "url": "https://openai.com/index/devrev-enterprise-self-service",
-          "source": "OpenAI",
-          "published_at": "2026-11-04T00:00:00Z",
-          "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-04-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol"
-        },
-        {
-          "title": "Accelerating engineering for the physical world",
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T12:00:00Z",
-          "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-accelerating-engineering-for-the-physical-world"
-        },
-        {
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T08:00:00Z",
-          "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-how-cisco-defends-at-machine-speed-with-openai"
-        },
-        {
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "url": "https://openai.com/index/heimstaden",
-          "source": "OpenAI",
-          "published_at": "2026-11-03T08:00:00Z",
-          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-03-heimstaden-is-changing-residential-real-estate-management-with"
         }
       ]
     },
@@ -935,6 +1135,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic launches roadshow for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "source": "Anthropic",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-11-10-anthropic-launches-roadshow-for-proposed-initial-public-offering"
+        },
         {
           "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -955,6 +1168,45 @@
       "name": "Google AI",
       "items": [
         {
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T19:00:00Z",
+          "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-gemini-intelligence-new-features-on-more-devices"
+        },
+        {
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T14:00:00Z",
+          "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-we-re-bringing-adobe-s-creative-and-productivity"
+        },
+        {
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "source": "Google AI",
+          "published_at": "2026-11-10T13:00:00Z",
+          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-10-google-cloud-launches-gemini-for-healthcare"
+        },
+        {
           "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
           "source": "Google AI",
@@ -974,6 +1226,45 @@
       "name": "DeepMind",
       "items": [
         {
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T16:03:47Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-gemini-4-carbon-is-now-available"
+        },
+        {
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T12:02:28Z",
+          "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-introducing-alphaproof-code-a-breakthrough-in-verifying-complex"
+        },
+        {
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "source": "DeepMind",
+          "published_at": "2026-11-09T19:51:47Z",
+          "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-09-gemini-robotics-2-5-accelerates-real-world-general-dexterity"
+        },
+        {
           "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
           "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
           "source": "DeepMind",
@@ -985,19 +1276,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-11-05-gemini-omni-1-2-flash-fast-and-cost-effective"
-        },
-        {
-          "title": "Agentic cheminformatics with Google Antigravity",
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-          "source": "DeepMind",
-          "published_at": "2026-11-03T17:01:49Z",
-          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-03-agentic-cheminformatics-with-google-antigravity"
         }
       ]
     }
