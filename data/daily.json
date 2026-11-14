@@ -1,78 +1,104 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T06:36:15.063439Z",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T06:33:31.312369Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
       "source": "The Verge",
-      "published_at": "2026-11-13T00:46:07Z",
-      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump i…",
+      "published_at": "2026-11-14T01:53:04Z",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-13-donald-trump-really-wants-tim-cook-to-run"
+      "id": "theverge-2026-11-14-faa-lifts-nationwide-ground-stop-that-blocked-takeoffs"
     },
     {
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "source": "The Verge",
-      "published_at": "2026-11-13T00:11:44Z",
-      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just da…",
+      "published_at": "2026-11-13T23:49:11Z",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-13-xbox-announces-wolfenstein-3"
+      "id": "theverge-2026-11-13-amazon-has-a-plan-to-index-the-world"
     },
     {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "source": "The Verge",
-      "published_at": "2026-11-12T23:43:22Z",
-      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story…",
+      "published_at": "2026-11-13T20:45:10Z",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-12-whoop-launched-a-social-network-where-every-user"
+      "id": "theverge-2026-11-13-chatgpt-wallet-lets-openai-s-dots-agents-make"
     },
     {
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-11-12T23:30:52Z",
-      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Ga…",
+      "published_at": "2026-11-13T20:30:00Z",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for ju…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-12-humble-bundle-redesign-removes-two-factor-verification-from-settings"
+      "id": "theverge-2026-11-13-cmf-s-milk-carton-shaped-bluetooth-speaker-is-down"
     },
     {
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-11-12T23:24:13Z",
-      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 3…",
+      "published_at": "2026-11-13T19:14:38Z",
+      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your dig…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-12-microsoft-outlook-is-still-down"
+      "id": "theverge-2026-11-13-here-s-how-you-can-save-on-your"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI",
+          "published_at": "2026-11-13T15:00:00Z",
+          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-13-introducing-chatgpt-wallet"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI",
+          "published_at": "2026-11-13T08:00:00Z",
+          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
+        },
         {
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "url": "https://openai.com/business/customer-stories/amplitude",
@@ -319,6 +345,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-10-helping-caregivers-use-ai-in-everyday-life"
+        },
+        {
+          "title": "Opening the datasets behind our AI weather models",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T11:13:04Z",
+          "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-opening-the-datasets-behind-our-ai-weather-models"
         },
         {
           "title": "Introducing Businesses in ChatGPT",
@@ -475,19 +514,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-11-09-introducing-claude-fable-5-2-and-claude-mythos"
-        },
-        {
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI",
-          "published_at": "2026-11-06T08:00:00Z",
-          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-06-partnering-with-hacktron-to-find-vulnerabilities-in-openai"
         }
       ]
     },
@@ -495,36 +521,62 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "When Does It Actually Make Sense to Put AI Into Products?",
-          "url": "https://spectrum.ieee.org/human-centered-ai-product-design",
+          "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+          "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
           "source": "IEEE Spectrum",
-          "published_at": "2026-11-11T14:00:02Z",
-          "summary": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add AI, you should. Smart-vision toothbrushes , mood-reading household robots , and a host…",
+          "published_at": "2026-11-13T19:00:03Z",
+          "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing in…",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-11-11-when-does-it-actually-make-sense-to-put"
-        },
-        {
-          "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
-          "url": "https://spectrum.ieee.org/national-science-foundation-x-labs",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-11T13:00:03Z",
-          "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technologi…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-11-nsf-s-x-labs-program-draws-support-from-charities"
+          "id": "ieee-2026-11-13-how-microcredentials-help-engineers-build-trustworthy-ai"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face",
+          "published_at": "2026-11-13T18:00:39Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-13-build-a-robot-pick-and-place-simulation-with-simready-assets"
+        },
+        {
+          "title": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face",
+          "published_at": "2026-11-13T17:02:35Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-13-xybench-helping-with-the-problem-behind-the-question"
+        },
+        {
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face",
+          "published_at": "2026-11-13T14:05:22Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-13-llama-cpp-v1-0-0-a-stronger-foundation"
+        },
         {
           "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
           "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -537,19 +589,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-12-llmon-an-llm-native-markup-language-now-in-granite"
-        },
-        {
-          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face",
-          "published_at": "2026-11-12T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-12-the-definitive-fine-tuning-guide-for-3d-generation-models"
         }
       ]
     },
@@ -557,69 +596,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-          "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+          "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+          "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
           "source": "The Verge",
-          "published_at": "2026-11-12T23:00:00Z",
-          "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xb…",
+          "published_at": "2026-11-13T18:10:41Z",
+          "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-12-xbox-owners-are-getting-more-customizations-for-backgrounds"
+          "id": "theverge-2026-11-13-you-can-adjust-the-position-of-the-trackball"
         },
         {
-          "title": "Google’s new Gemini model is better at understanding complicated questions",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "title": "Jensen Huang was reckless with the environment, too",
+          "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
           "source": "The Verge",
-          "published_at": "2026-11-12T21:55:32Z",
-          "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do…",
+          "published_at": "2026-11-13T17:44:22Z",
+          "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-inten…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-12-google-s-new-gemini-model-is-better-at"
+          "id": "theverge-2026-11-13-jensen-huang-was-reckless-with-the-environment-too"
         },
         {
-          "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-          "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+          "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+          "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
           "source": "The Verge",
-          "published_at": "2026-11-12T21:45:00Z",
-          "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q…",
+          "published_at": "2026-11-13T17:12:56Z",
+          "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wa…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-12-it-s-a-mistake-reactions-from-tech-leaders"
+          "id": "theverge-2026-11-13-the-smallest-version-of-camp-snap-s-retro"
         },
         {
-          "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-          "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+          "title": "The new Apple TV has a YouTube problem",
+          "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
           "source": "The Verge",
-          "published_at": "2026-11-12T21:28:53Z",
-          "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color,…",
+          "published_at": "2026-11-13T16:55:57Z",
+          "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-12-the-oura-ring-4-is-almost-as-good"
+          "id": "theverge-2026-11-13-the-new-apple-tv-has-a-youtube-problem"
         },
         {
-          "title": "Here are the 25 original Xbox games you can now play on PC",
-          "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+          "title": "Microsoft&#8217;s massive Outlook outage might be over",
+          "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
           "source": "The Verge",
-          "published_at": "2026-11-12T21:00:00Z",
-          "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you hav…",
+          "published_at": "2026-11-13T16:17:11Z",
+          "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-12-here-are-the-25-original-xbox-games-you"
+          "id": "theverge-2026-11-13-microsoft-8217-s-massive-outlook-outage-might-be"
+        },
+        {
+          "title": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
+          "url": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
+          "source": "Xataka",
+          "published_at": "2026-11-13T11:57:28Z",
+          "summary": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’ . A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que s…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-13-las-gafas-inteligentes-siguen-dejando-dudas-en-materia"
+        },
+        {
+          "title": "Google cree haber dado con el santo grial de la IA: Gemini 4 Hydrogen es rápido, bueno y (casi) barato",
+          "url": "https://www.xataka.com/robotica-e-ia/google-cree-haber-dado-santo-grial-ia-gemini-4-hydrogen-rapido-bueno-casi-barato",
+          "source": "Xataka",
+          "published_at": "2026-11-13T11:31:27Z",
+          "summary": "Puede que la actualidad tecnológica esté centrada en Nvidia y Don Huang , pero, en segundo plano, la tensión por ganar la guerra de modelos sigue burbujeando. Si hace poco Google llevó su mejor LLM al público tras la sal…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-13-google-cree-haber-dado-con-el-santo-grial"
+        },
+        {
+          "title": "Claude también se cae en todo el mundo y se suma al caos de Outlook y Teams",
+          "url": "https://www.xataka.com/seguridad/claude-tambien-se-cae-todo-mundo-se-suma-al-caos-outlook-teams",
+          "source": "Xataka",
+          "published_at": "2026-11-13T10:22:00Z",
+          "summary": "Actualización : el servicio de Claude se ha restablecido y funciona correctamente. Puede que en algunas regiones todavía existan problemas de funcionamiento.&nbsp; El asistente de inteligencia artificial de Anthropic, Cl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-13-claude-tambien-se-cae-en-todo-el-mundo"
+        },
+        {
+          "title": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
+          "url": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
+          "source": "Xataka",
+          "published_at": "2026-11-13T10:01:28Z",
+          "summary": "' GTA VI ' encamina la recta final del lanzamiento en PS5 y Xbox Series y ni Rockstar ni Take-Two han dado fecha ni ventana para una versión de PC . Excepto en casos como 'GTA V', Rockstar suele tardar unos siete meses e…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-13-ex-de-rockstar-sobre-gta-vi-en-pc"
         },
         {
           "title": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
@@ -646,19 +737,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-12-blue-quiere-que-dejes-el-iphone-por-un"
-        },
-        {
-          "title": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
-          "url": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
-          "source": "Xataka",
-          "published_at": "2026-11-11T15:01:51Z",
-          "summary": "Lo que conocíamos tradicionalmente como ingeniero de software ahora es una etiqueta que abarca muchos más espacios que antes. Y es que ante el vertiginoso ritmo de la IA, es una posición que ya mira hacia direcciones muy…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-11-el-trabajo-de-moda-en-ingenieria-de-software"
         }
       ]
     }
@@ -695,6 +773,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI",
+          "published_at": "2026-11-13T15:00:00Z",
+          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-13-introducing-chatgpt-wallet"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI",
+          "published_at": "2026-11-13T08:00:00Z",
+          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
+        },
         {
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "url": "https://openai.com/business/customer-stories/amplitude",
@@ -915,19 +1019,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-09-kuken-industries-searches-70-years-of-drawings-in"
-        },
-        {
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI",
-          "published_at": "2026-11-06T08:00:00Z",
-          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-06-partnering-with-hacktron-to-find-vulnerabilities-in-openai"
         }
       ]
     },
@@ -1115,6 +1206,19 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-11-10-introducing-alphaproof-code-a-breakthrough-in-verifying-complex"
+        },
+        {
+          "title": "Opening the datasets behind our AI weather models",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "source": "DeepMind",
+          "published_at": "2026-11-10T11:13:04Z",
+          "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-10-opening-the-datasets-behind-our-ai-weather-models"
         },
         {
           "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
