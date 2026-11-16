@@ -1,72 +1,72 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T06:34:46.637436Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:52:02.071416Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
       "source": "The Verge",
-      "published_at": "2026-11-14T21:44:44Z",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its …",
+      "published_at": "2026-11-16T01:26:56Z",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-14-watch-spacex-successfully-execute-the-first-chopstick-catch"
+      "id": "theverge-2026-11-16-apple-s-new-study-looks-to-improve-the"
     },
     {
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "source": "The Verge",
-      "published_at": "2026-11-14T19:47:40Z",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix …",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "published_at": "2026-11-15T22:00:01Z",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-14-magic-the-gathering-is-getting-a-netflix-animated"
+      "category": "lanzamientos",
+      "id": "openai-2026-11-15-a-step-toward-defining-the-standard-model-on"
     },
     {
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "source": "The Verge",
-      "published_at": "2026-11-14T17:44:28Z",
-      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA fa…",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "published_at": "2026-11-15T22:00:00Z",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "producto"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-14-work-to-replace-old-copper-wire-led-to"
+      "category": "lanzamientos",
+      "id": "openai-2026-11-15-our-new-blog-for-science"
     },
     {
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
       "source": "The Verge",
-      "published_at": "2026-11-14T15:00:00Z",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come …",
+      "published_at": "2026-11-15T21:49:22Z",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &#38; Ladders ra…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-14-here-are-our-favorite-deals-from-rei-s"
+      "id": "theverge-2026-11-15-listen-to-this-armand-hammer-s-snakes-038"
     },
     {
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
       "source": "The Verge",
-      "published_at": "2026-11-14T15:00:00Z",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known fi…",
+      "published_at": "2026-11-15T21:05:02Z",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-14-the-openai-board-member-who-fired-sam-altman"
+      "id": "theverge-2026-11-15-vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
     }
   ],
   "sections": [
@@ -501,81 +501,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-09-kuken-industries-searches-70-years-of-drawings-in"
-        },
-        {
-          "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "Anthropic",
-          "published_at": "2026-11-09T00:00:00Z",
-          "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-11-09-introducing-claude-fable-5-2-and-claude-mythos"
-        }
-      ]
-    },
-    {
-      "name": "Investigación",
-      "items": [
-        {
-          "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-          "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-13T19:00:03Z",
-          "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing in…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-13-how-microcredentials-help-engineers-build-trustworthy-ai"
-        }
-      ]
-    },
-    {
-      "name": "Herramientas",
-      "items": [
-        {
-          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face",
-          "published_at": "2026-11-13T18:00:39Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-13-build-a-robot-pick-and-place-simulation-with-simready-assets"
-        },
-        {
-          "title": "XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face",
-          "published_at": "2026-11-13T17:02:35Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-13-xybench-helping-with-the-problem-behind-the-question"
-        },
-        {
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face",
-          "published_at": "2026-11-13T14:05:22Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-13-llama-cpp-v1-0-0-a-stronger-foundation"
         }
       ]
     },
@@ -583,30 +508,121 @@
       "name": "General",
       "items": [
         {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
           "source": "The Verge",
-          "published_at": "2026-11-14T14:18:36Z",
-          "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"…",
+          "published_at": "2026-11-15T20:43:49Z",
+          "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-14-tesla-is-inviting-some-people-to-buy-a"
+          "id": "theverge-2026-11-15-jensen-huang-might-be-plotting-a-return-and"
         },
         {
-          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-          "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
           "source": "The Verge",
-          "published_at": "2026-11-14T14:00:00Z",
-          "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size ga…",
+          "published_at": "2026-11-15T19:15:43Z",
+          "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-14-this-tiny-gamepad-with-dual-analog-thumbsticks-pushes"
+          "id": "theverge-2026-11-15-congress-wants-to-tighten-export-rules-on-ai"
+        },
+        {
+          "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+          "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-11-15T17:00:00Z",
+          "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-15-fanttik-s-s1-pro-electric-screwdriver-is-40"
+        },
+        {
+          "title": "Apple’s first smart glasses are coming together",
+          "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+          "source": "The Verge",
+          "published_at": "2026-11-15T16:59:16Z",
+          "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. Th…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-15-apple-s-first-smart-glasses-are-coming-together"
+        },
+        {
+          "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+          "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+          "source": "The Verge",
+          "published_at": "2026-11-15T16:00:00Z",
+          "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitt…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-15-rachelle-hampton-won-t-admit-how-long-she"
+        },
+        {
+          "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+          "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-11-15T14:00:00Z",
+          "summary": "LG&#8217;s B6E was already one of the most affordable OLED TVs you could buy, but it&#8217;s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, Novembe…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-15-lg-s-budget-friendly-b6e-oled-tv-is-up"
+        },
+        {
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+          "source": "The Verge",
+          "published_at": "2026-11-15T13:57:30Z",
+          "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others wou…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-15-the-sony-aibo-was-a-robot-revolution-dressed"
+        },
+        {
+          "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+          "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+          "source": "Xataka",
+          "published_at": "2026-11-15T11:01:22Z",
+          "summary": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-15-nvidia-se-esta-planteando-una-decision-radical-para"
+        },
+        {
+          "title": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
+          "url": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
+          "source": "Xataka",
+          "published_at": "2026-11-15T10:01:25Z",
+          "summary": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla. Si escribe como una persona, si tiende a darnos la razón y …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-15-la-ia-mas-rentable-de-2027-no-va"
         },
         {
           "title": "Noruega tiene 3.500 robots con IA armados con láser cazando piojos en sus granjas de salmón",
@@ -620,97 +636,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-14-noruega-tiene-3-500-robots-con-ia-armados"
-        },
-        {
-          "title": "A gadget to make your dumb house smarter",
-          "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-          "source": "The Verge",
-          "published_at": "2026-11-14T13:00:00Z",
-          "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-14-a-gadget-to-make-your-dumb-house-smarter"
-        },
-        {
-          "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-          "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-          "source": "The Verge",
-          "published_at": "2026-11-14T12:00:00Z",
-          "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-14-jensen-huang-and-the-decline-of-the-visionary"
-        },
-        {
-          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "source": "The Verge",
-          "published_at": "2026-11-14T01:53:04Z",
-          "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-14-faa-lifts-nationwide-ground-stop-that-blocked-takeoffs"
-        },
-        {
-          "title": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
-          "url": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
-          "source": "Xataka",
-          "published_at": "2026-11-13T11:57:28Z",
-          "summary": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’ . A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-13-las-gafas-inteligentes-siguen-dejando-dudas-en-materia"
-        },
-        {
-          "title": "Google cree haber dado con el santo grial de la IA: Gemini 4 Hydrogen es rápido, bueno y (casi) barato",
-          "url": "https://www.xataka.com/robotica-e-ia/google-cree-haber-dado-santo-grial-ia-gemini-4-hydrogen-rapido-bueno-casi-barato",
-          "source": "Xataka",
-          "published_at": "2026-11-13T11:31:27Z",
-          "summary": "Puede que la actualidad tecnológica esté centrada en Nvidia y Don Huang , pero, en segundo plano, la tensión por ganar la guerra de modelos sigue burbujeando. Si hace poco Google llevó su mejor LLM al público tras la sal…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-13-google-cree-haber-dado-con-el-santo-grial"
-        },
-        {
-          "title": "Claude también se cae en todo el mundo y se suma al caos de Outlook y Teams",
-          "url": "https://www.xataka.com/seguridad/claude-tambien-se-cae-todo-mundo-se-suma-al-caos-outlook-teams",
-          "source": "Xataka",
-          "published_at": "2026-11-13T10:22:00Z",
-          "summary": "Actualización : el servicio de Claude se ha restablecido y funciona correctamente. Puede que en algunas regiones todavía existan problemas de funcionamiento.&nbsp; El asistente de inteligencia artificial de Anthropic, Cl…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-13-claude-tambien-se-cae-en-todo-el-mundo"
-        },
-        {
-          "title": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
-          "url": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
-          "source": "Xataka",
-          "published_at": "2026-11-13T10:01:28Z",
-          "summary": "' GTA VI ' encamina la recta final del lanzamiento en PS5 y Xbox Series y ni Rockstar ni Take-Two han dado fecha ni ventana para una versión de PC . Excepto en casos como 'GTA V', Rockstar suele tardar unos siete meses e…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-13-ex-de-rockstar-sobre-gta-vi-en-pc"
         }
       ]
     }
@@ -747,6 +672,32 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI",
+          "published_at": "2026-11-15T22:00:01Z",
+          "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-15-a-step-toward-defining-the-standard-model-on"
+        },
+        {
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI",
+          "published_at": "2026-11-15T22:00:00Z",
+          "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-15-our-new-blog-for-science"
+        },
         {
           "title": "Introducing ChatGPT Wallet",
           "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -1012,19 +963,6 @@
           ],
           "category": "lanzamientos",
           "id": "anthropic-2026-11-10-anthropic-launches-roadshow-for-proposed-initial-public-offering"
-        },
-        {
-          "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "Anthropic",
-          "published_at": "2026-11-09T00:00:00Z",
-          "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-11-09-introducing-claude-fable-5-2-and-claude-mythos"
         }
       ]
     },
