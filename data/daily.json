@@ -1,78 +1,182 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T06:37:11.916709Z",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T06:37:10.573425Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "source": "The Verge",
-      "published_at": "2026-11-19T01:39:45Z",
-      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments…",
+      "published_at": "2026-11-19T22:31:41Z",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-elon-musk-tries-to-explain-what-8217-s"
+      "id": "theverge-2026-11-19-apple-is-hiring-engineers-to-build-its-own"
     },
     {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
       "source": "The Verge",
-      "published_at": "2026-11-18T23:18:35Z",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea…",
+      "published_at": "2026-11-19T21:59:35Z",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-18-the-nation-s-largest-school-districts-consider-ditching"
+      "id": "theverge-2026-11-19-a-brief-history-of-nvidia-s-recent-stock"
     },
     {
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
       "source": "The Verge",
-      "published_at": "2026-11-18T22:05:48Z",
-      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republica…",
+      "published_at": "2026-11-19T21:12:06Z",
+      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-18-democrats-skip-a-vote-on-adding-brendan-carr"
+      "id": "theverge-2026-11-19-meta-now-sells-3d-movies-on-quest-vr"
     },
     {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "DeepMind",
-      "published_at": "2026-11-18T21:35:43Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "producto"
-      ],
-      "category": "lanzamientos",
-      "id": "deepmind-2026-11-18-introducing-gemini-4-neon"
-    },
-    {
-      "title": "Absolute Batman can save DC Studios",
-      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "title": "Meta’s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
       "source": "The Verge",
-      "published_at": "2026-11-18T21:20:00Z",
-      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like …",
+      "published_at": "2026-11-19T20:22:17Z",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-18-absolute-batman-can-save-dc-studios"
+      "id": "theverge-2026-11-19-meta-s-muse-charm-might-cost-300"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "published_at": "2026-11-19T20:05:06Z",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G…",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-19-google-is-putting-ai-chats-right-on-the"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "Google AI",
+          "published_at": "2026-11-19T18:00:00Z",
+          "summary": "Gemini spark on a space background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-19-introducing-tool-retrieval-in-the-gemini-api"
+        },
+        {
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+          "source": "Google AI",
+          "published_at": "2026-11-19T17:00:00Z",
+          "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-19-walter-isaacson-on-curiosity-and-creativity-in-the"
+        },
+        {
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T08:00:00Z",
+          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-deploying-daybreak-red"
+        },
+        {
+          "title": "See PR scans in action",
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-see-pr-scans-in-action"
+        },
+        {
+          "title": "Explore the Codex Security Plugin",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
+        },
+        {
+          "title": "Get started with Daybreak Blue",
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-get-started-with-daybreak-blue"
+        },
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "source": "DeepMind",
+          "published_at": "2026-11-18T21:35:43Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-18-introducing-gemini-4-neon"
+        },
         {
           "title": "Genie 4 is now available",
           "url": "https://deepmind.google/blog/genie-4-is-now-available/",
@@ -165,19 +269,6 @@
           "id": "openai-2026-11-18-managing-frontier-ai-risk-from-training-to-deployment"
         },
         {
-          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T00:00:00Z",
-          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-le-groupe-figaro-and-openai-partner-to-bring"
-        },
-        {
           "title": "Advancing chip design with OpenAI models",
           "url": "https://openai.com/index/advancing-chip-design-with-our-models",
           "source": "OpenAI",
@@ -189,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-18-advancing-chip-design-with-openai-models"
+        },
+        {
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-11-18T00:00:00Z",
+          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-18-le-groupe-figaro-and-openai-partner-to-bring"
         },
         {
           "title": "Anthropic prices initial public offering",
@@ -256,19 +360,6 @@
           "id": "openai-2026-11-17-strengthening-nato-and-allied-cyber-defenses-with-ai"
         },
         {
-          "title": "Astra for Law leads in legal intelligence",
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI",
-          "published_at": "2026-11-17T00:00:00Z",
-          "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
-        },
-        {
           "title": "Introducing OpenAI for Chile",
           "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI",
@@ -280,6 +371,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-17-introducing-openai-for-chile"
+        },
+        {
+          "title": "Astra for Law leads in legal intelligence",
+          "url": "https://openai.com/index/astra-law-6-2",
+          "source": "OpenAI",
+          "published_at": "2026-11-17T00:00:00Z",
+          "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
         },
         {
           "title": "Broadening access to AI for scientists",
@@ -475,51 +579,38 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
-        },
-        {
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI",
-          "published_at": "2026-11-12T20:00:00Z",
-          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-12-how-amplitude-ships-product-improvements-in-1-2-days"
-        },
-        {
-          "title": "Introducing Gemini 4 Hydrogen",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "source": "DeepMind",
-          "published_at": "2026-11-12T18:00:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-12-introducing-gemini-4-hydrogen"
-        },
-        {
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "source": "Google AI",
-          "published_at": "2026-11-12T18:00:00Z",
-          "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-12-google-search-gets-a-major-upgrade-with-gemini"
         }
       ]
     },
     {
       "name": "Investigación",
       "items": [
+        {
+          "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+          "url": "https://spectrum.ieee.org/ai-agent-manager",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-11-19T15:00:03Z",
+          "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to h…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-11-19-meet-shepherd-the-meta-agent-keeping-rogue-ai-in"
+        },
+        {
+          "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+          "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-11-19T12:00:03Z",
+          "summary": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic resear…",
+          "why_it_matters": "",
+          "tags": [
+            "investigación"
+          ],
+          "category": "investigación",
+          "id": "ieee-2026-11-19-why-a-computer-scientist-thinks-superintelligence-won-t"
+        },
         {
           "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
           "url": "https://spectrum.ieee.org/enormous-theorem-ai",
@@ -545,45 +636,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-11-18-will-ai-coding-eat-video-game-engines"
-        },
-        {
-          "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-          "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-17T19:00:03Z",
-          "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-17-ieee-celebrates-10-years-of-incorporating-ethics-into"
-        },
-        {
-          "title": "AI Is Giving Optical Computing Another Shot",
-          "url": "https://spectrum.ieee.org/optical-computing-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-17T14:00:03Z",
-          "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing indu…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-17-ai-is-giving-optical-computing-another-shot"
-        },
-        {
-          "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-          "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-17T11:00:04Z",
-          "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) …",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-17-understand-how-satellite-links-shape-iot-device-design"
         }
       ]
     },
@@ -628,32 +680,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-18-time-series-models-in-the-streamhouse-a-new-frontier"
-        },
-        {
-          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-          "url": "https://huggingface.co/blog/moe-expert-streaming",
-          "source": "Hugging Face",
-          "published_at": "2026-11-18T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-18-180b-parameters-32gb-of-ram-pushing-moe-inference"
-        },
-        {
-          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-          "url": "https://huggingface.co/blog/rumble-2-flash",
-          "source": "Hugging Face",
-          "published_at": "2026-11-18T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-18-rumble-2-flash-an-open-0-5b-speech-model-for"
         }
       ]
     },
@@ -661,147 +687,95 @@
       "name": "General",
       "items": [
         {
-          "title": "Trump’s latest land grab is an AI hub in the Philippines",
-          "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+          "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
           "source": "The Verge",
-          "published_at": "2026-11-18T19:40:36Z",
-          "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and P…",
+          "published_at": "2026-11-19T19:40:28Z",
+          "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-18-trump-s-latest-land-grab-is-an-ai"
+          "id": "theverge-2026-11-19-fcc-greenlights-rule-allowing-prisons-to-jam-cellphone"
         },
         {
-          "title": "Nvidia’s rise, visualized",
-          "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+          "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+          "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-18T19:30:00Z",
-          "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to …",
+          "published_at": "2026-11-19T19:35:52Z",
+          "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-gener…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-18-nvidia-s-rise-visualized"
+          "id": "theverge-2026-11-19-sony-s-wh-1000xm5-are-cheaper-than-ever-for"
         },
         {
-          "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-          "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+          "title": "You can now buy a Steam Machine without getting on a waitlist",
+          "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
           "source": "The Verge",
-          "published_at": "2026-11-18T19:30:00Z",
-          "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions…",
+          "published_at": "2026-11-19T19:33:22Z",
+          "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-18-sony-s-impressive-bravia-8-ii-oled-hits"
+          "id": "theverge-2026-11-19-you-can-now-buy-a-steam-machine-without"
         },
         {
-          "title": "Instagram now lets you edit your stories after you post them",
-          "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+          "title": "Some creators are skeptical of Instagram’s new affiliate program",
+          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
           "source": "The Verge",
-          "published_at": "2026-11-18T19:29:10Z",
-          "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagra…",
+          "published_at": "2026-11-19T19:12:30Z",
+          "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-18-instagram-now-lets-you-edit-your-stories-after"
+          "id": "theverge-2026-11-19-some-creators-are-skeptical-of-instagram-s-new"
         },
         {
-          "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-          "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+          "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+          "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
           "source": "The Verge",
-          "published_at": "2026-11-18T19:11:50Z",
-          "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000…",
+          "published_at": "2026-11-19T18:33:08Z",
+          "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pi…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-18-the-leaked-lenovo-legion-go-beam-could-be"
+          "id": "theverge-2026-11-19-sonos-is-taking-up-to-30-percent-off"
         },
         {
-          "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-          "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-          "source": "The Verge",
-          "published_at": "2026-11-18T19:07:29Z",
-          "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-18-tech-lawsuits-defined-2026----and-lawmakers-want"
-        },
-        {
-          "title": "Pusieron a unos agentes de IA a jugar al Minecraft y crearon algo para lo que no estaban diseñadas: la burocracia",
-          "url": "https://www.xataka.com/robotica-e-ia/pusieron-a-unos-agentes-ia-a-jugar-al-minecraft-crearon-algo-no-estaban-disenadas-burocracia",
+          "title": "Amazon y Google son accionistas, proveedores y canal de venta de Anthropic. Todo a la vez",
+          "url": "https://www.xataka.com/empresas-y-economia/amazon-google-accionistas-proveedores-canal-venta-anthropic-todo-a-vez",
           "source": "Xataka",
-          "published_at": "2026-11-17T17:01:22Z",
-          "summary": "La psicología del juego estudia cómo el acto de jugar influye en el desarrollo cognitivo, emocional, social y neurológico del ser humano. Por eso, el juego es uno de los entornos preferidos por los investigadores de IA p…",
+          "published_at": "2026-11-19T16:01:18Z",
+          "summary": "Anthropic sale por fin a bolsa en el Nasdaq, y su folleto de salida a bolsa, el S-1, ha puesto cifras a una relación muy peculiar. Amazon y Google... Son sus accionistas. También le venden la computación. Y también gesti…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-17-pusieron-a-unos-agentes-de-ia-a-jugar"
+          "id": "xataka-2026-11-19-amazon-y-google-son-accionistas-proveedores-y-canal"
         },
         {
-          "title": "He convertido una presentación en una web con Gemini Notebook. Solo tuve que pedírselo",
-          "url": "https://www.xataka.com/robotica-e-ia/he-convertido-presentacion-web-gemini-notebook-solo-tuve-que-pedirselo",
+          "title": "Gemini 4 Neon jubila a su “abuelo”: el nieto hace casi lo mismo, tres veces más rápido y por menos dinero",
+          "url": "https://www.xataka.com/robotica-e-ia/google-quiere-que-gemini-4-neon-sea-tu-modelo-para-casi-todo-rapido-que-carbon-barato-tarea",
           "source": "Xataka",
-          "published_at": "2026-11-17T16:45:24Z",
-          "summary": "Los cuadernos de Gemini son una de las mejores funciones de la IA si necesitas trabajar sobre tus propios documentos . He usado Gemini Notebook (el antiguo NotebookLM, que Google rebautizó en julio ) para documentos de e…",
+          "published_at": "2026-11-19T10:15:00Z",
+          "summary": "Que el ritmo no pare, como cantaría Patricia Manterola: tenemos nuevo modelo de IA peleando por hacerse con el pastel de los LLM de vanguardia. Y forma parte de la nueva familia Gemini 4 : Neon se une a los ya estrenados…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-17-he-convertido-una-presentacion-en-una-web-con"
-        },
-        {
-          "title": "Nvidia es el Super Glue de la industria de la IA. Sin Huang al frente, temen que sea pegamento de barra",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-super-glue-industria-ia-huang-al-frente-temen-que-sea-pegamento-barra",
-          "source": "Xataka",
-          "published_at": "2026-11-17T15:31:21Z",
-          "summary": "Nvidia no sólo vende los chips con los que se entrena la IA. Estos últimos años, y gracias a un muy buen ojo por parte de su &nbsp;exCEO Jensen Huang para adelantarse al futuro, la compañía ha avalado, comprado capacidad…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-17-nvidia-es-el-super-glue-de-la-industria"
-        },
-        {
-          "title": "Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486 con MS-DOS. Lo ha programado otra IA",
-          "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-modelo-ia-que-disquete-funciona-486-ms-dos-ha-programado-otra-ia",
-          "source": "Xataka",
-          "published_at": "2026-11-17T13:01:26Z",
-          "summary": "Lo de ejecutar modelos de lenguaje en local es una cosa; hacerlo en un hardware antiquísimo es otra completamente distinta y muchos aficionados lo han convertido prácticamente en un deporte. Un usuario de Reddit compartí…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-17-alguien-ha-creado-un-modelo-de-ia-que"
-        },
-        {
-          "title": "Google tiene una idea para que programar con IA gaste menos: que el modelo caro solo piense y el barato haga el trabajo",
-          "url": "https://www.xataka.com/robotica-e-ia/google-tiene-idea-programar-ia-gaste-que-modelo-caro-solo-piense-barato-haga-trabajo",
-          "source": "Xataka",
-          "published_at": "2026-11-17T08:01:25Z",
-          "summary": "Las herramientas de programación tienen un selector de modelos para elegir uno u otro según la tarea. ¿Un programa sencillo? Suele servir con lo más básico. Que, de rebote, es también lo más rápido y económico. ¿Quieres …",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-17-google-tiene-una-idea-para-que-programar-con"
+          "id": "xataka-2026-11-19-gemini-4-neon-jubila-a-su-abuelo-el"
         }
       ]
     }
@@ -838,6 +812,71 @@
       "id": "openai",
       "name": "OpenAI",
       "items": [
+        {
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T08:00:00Z",
+          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-deploying-daybreak-red"
+        },
+        {
+          "title": "See PR scans in action",
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-see-pr-scans-in-action"
+        },
+        {
+          "title": "Explore the Codex Security Plugin",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
+        },
+        {
+          "title": "Get started with Daybreak Blue",
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-get-started-with-daybreak-blue"
+        },
         {
           "title": "The Silent Consensus",
           "url": "https://openai.com/index/the-silent-consensus",
@@ -904,19 +943,6 @@
           "id": "openai-2026-11-18-managing-frontier-ai-risk-from-training-to-deployment"
         },
         {
-          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T00:00:00Z",
-          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-le-groupe-figaro-and-openai-partner-to-bring"
-        },
-        {
           "title": "Advancing chip design with OpenAI models",
           "url": "https://openai.com/index/advancing-chip-design-with-our-models",
           "source": "OpenAI",
@@ -928,6 +954,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-18-advancing-chip-design-with-openai-models"
+        },
+        {
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "source": "OpenAI",
+          "published_at": "2026-11-18T00:00:00Z",
+          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-18-le-groupe-figaro-and-openai-partner-to-bring"
         },
         {
           "title": "Introducing GPT-6.2 Astra and Sol",
@@ -969,19 +1008,6 @@
           "id": "openai-2026-11-17-strengthening-nato-and-allied-cyber-defenses-with-ai"
         },
         {
-          "title": "Astra for Law leads in legal intelligence",
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI",
-          "published_at": "2026-11-17T00:00:00Z",
-          "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
-        },
-        {
           "title": "Introducing OpenAI for Chile",
           "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI",
@@ -993,6 +1019,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-17-introducing-openai-for-chile"
+        },
+        {
+          "title": "Astra for Law leads in legal intelligence",
+          "url": "https://openai.com/index/astra-law-6-2",
+          "source": "OpenAI",
+          "published_at": "2026-11-17T00:00:00Z",
+          "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
         },
         {
           "title": "Broadening access to AI for scientists",
@@ -1175,45 +1214,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
-        },
-        {
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI",
-          "published_at": "2026-11-12T20:00:00Z",
-          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-12-how-amplitude-ships-product-improvements-in-1-2-days"
-        },
-        {
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI",
-          "published_at": "2026-11-12T12:00:00Z",
-          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-12-gondola-doubles-revenue-as-its-team-builds-more"
-        },
-        {
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI",
-          "published_at": "2026-11-12T09:30:00Z",
-          "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-12-holiday-extras-is-rethinking-what-it-can-build"
         }
       ]
     },
@@ -1240,6 +1240,32 @@
       "id": "googleai",
       "name": "Google AI",
       "items": [
+        {
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "Google AI",
+          "published_at": "2026-11-19T18:00:00Z",
+          "summary": "Gemini spark on a space background",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-19-introducing-tool-retrieval-in-the-gemini-api"
+        },
+        {
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+          "source": "Google AI",
+          "published_at": "2026-11-19T17:00:00Z",
+          "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "googleai-2026-11-19-walter-isaacson-on-curiosity-and-creativity-in-the"
+        },
         {
           "title": "The Gemini app is now available on lower-memory Android devices.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -1278,19 +1304,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-11-16-new-ask-maps-features-to-help-with-holiday"
-        },
-        {
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "source": "Google AI",
-          "published_at": "2026-11-12T18:00:00Z",
-          "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-12-google-search-gets-a-major-upgrade-with-gemini"
         }
       ]
     },
@@ -1323,19 +1336,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-11-18-genie-4-is-now-available"
-        },
-        {
-          "title": "Introducing Gemini 4 Hydrogen",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "source": "DeepMind",
-          "published_at": "2026-11-12T18:00:50Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-12-introducing-gemini-4-hydrogen"
         }
       ]
     }
