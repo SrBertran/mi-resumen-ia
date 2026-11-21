@@ -1,78 +1,130 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T06:37:10.573425Z",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T06:35:26.215667Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
       "source": "The Verge",
-      "published_at": "2026-11-19T22:31:41Z",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,…",
+      "published_at": "2026-11-20T20:43:52Z",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"i…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-apple-is-hiring-engineers-to-build-its-own"
+      "id": "theverge-2026-11-20-youtube-is-reportedly-preparing-to-settle-social-media"
     },
     {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "source": "The Verge",
-      "published_at": "2026-11-19T21:59:35Z",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe…",
+      "published_at": "2026-11-20T19:35:06Z",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It …",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-a-brief-history-of-nvidia-s-recent-stock"
+      "id": "theverge-2026-11-20-rockstar-says-gta-vi-made-3-79-billion"
     },
     {
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-11-19T21:12:06Z",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide…",
+      "published_at": "2026-11-20T19:15:00Z",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-meta-now-sells-3d-movies-on-quest-vr"
+      "id": "theverge-2026-11-20-eufy-s-omni-c28-is-53-percent-off"
     },
     {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge",
-      "published_at": "2026-11-19T20:22:17Z",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai…",
+      "published_at": "2026-11-20T18:50:19Z",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-meta-s-muse-charm-might-cost-300"
+      "id": "theverge-2026-11-20-trump-threatens-tremendous-tax-for-moving-ai-data"
     },
     {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
       "source": "The Verge",
-      "published_at": "2026-11-19T20:05:06Z",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G…",
+      "published_at": "2026-11-20T18:15:00Z",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-19-google-is-putting-ai-chats-right-on-the"
+      "id": "theverge-2026-11-20-multiplying-your-switch-2-s-storage-costs-less"
     }
   ],
   "sections": [
     {
       "name": "Lanzamientos",
       "items": [
+        {
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T10:00:00Z",
+          "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-combatting-adversarial-distillation"
+        },
+        {
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-hebbia-sees-improvements-in-financial-research-with-gpt-6"
+        },
+        {
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-can-ai-help-scientists-identify-promising-drug-candidates"
+        },
+        {
+          "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+          "url": "https://www.anthropic.com/news/ipo-close",
+          "source": "Anthropic",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-11-20-anthropic-announces-closing-of-initial-public-offering-including"
+        },
         {
           "title": "Introducing Tool Retrieval in the Gemini API",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
@@ -113,17 +165,17 @@
           "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
         },
         {
-          "title": "Deploying Daybreak Red",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "title": "Explore the Codex Security Plugin",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
           "source": "OpenAI",
           "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
           "why_it_matters": "",
           "tags": [
             "producto"
           ],
           "category": "lanzamientos",
-          "id": "openai-2026-11-19-deploying-daybreak-red"
+          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
         },
         {
           "title": "See PR scans in action",
@@ -139,19 +191,6 @@
           "id": "openai-2026-11-19-see-pr-scans-in-action"
         },
         {
-          "title": "Explore the Codex Security Plugin",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
-        },
-        {
           "title": "Get started with Daybreak Blue",
           "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
           "source": "OpenAI",
@@ -163,6 +202,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-19-get-started-with-daybreak-blue"
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-deploying-daybreak-red"
         },
         {
           "title": "Introducing Gemini 4 Neon",
@@ -217,19 +269,6 @@
           "id": "openai-2026-11-18-the-silent-consensus"
         },
         {
-          "title": "Research acceleration: The jagged frontier",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
-        },
-        {
           "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
           "url": "https://openai.com/business/customer-stories/sumitomo-life",
           "source": "OpenAI",
@@ -241,6 +280,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-18-how-sumitomo-life-s-leaders-helped-teams-adopt"
+        },
+        {
+          "title": "Research acceleration: The jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "source": "OpenAI",
+          "published_at": "2026-11-18T08:00:00Z",
+          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
         },
         {
           "title": "Inside the Codex sandbox",
@@ -360,19 +412,6 @@
           "id": "openai-2026-11-17-strengthening-nato-and-allied-cyber-defenses-with-ai"
         },
         {
-          "title": "Introducing OpenAI for Chile",
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI",
-          "published_at": "2026-11-17T00:00:00Z",
-          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-17-introducing-openai-for-chile"
-        },
-        {
           "title": "Astra for Law leads in legal intelligence",
           "url": "https://openai.com/index/astra-law-6-2",
           "source": "OpenAI",
@@ -384,6 +423,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
+        },
+        {
+          "title": "Introducing OpenAI for Chile",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "source": "OpenAI",
+          "published_at": "2026-11-17T00:00:00Z",
+          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-17-introducing-openai-for-chile"
         },
         {
           "title": "Broadening access to AI for scientists",
@@ -553,32 +605,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-15-our-new-blog-for-science"
-        },
-        {
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI",
-          "published_at": "2026-11-13T15:00:00Z",
-          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-13-introducing-chatgpt-wallet"
-        },
-        {
-          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "url": "https://openai.com/business/customer-stories/shield",
-          "source": "OpenAI",
-          "published_at": "2026-11-13T08:00:00Z",
-          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
         }
       ]
     },
@@ -610,32 +636,6 @@
           ],
           "category": "investigación",
           "id": "ieee-2026-11-19-why-a-computer-scientist-thinks-superintelligence-won-t"
-        },
-        {
-          "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
-          "url": "https://spectrum.ieee.org/enormous-theorem-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-18T13:00:03Z",
-          "summary": "As Axiom Math ’s AI swarm was putting the final touches on the automatic verification of 15,000-page proof of the Classification of Finite Simple Groups (CFSG) , colloquially referred to as the ‘enormous theorem’, on Sun…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-18-startup-makes-headway-towards-formalizing-all-of-math"
-        },
-        {
-          "title": "Will AI Coding Eat Video Game Engines?",
-          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-18T12:00:03Z",
-          "summary": "When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding in September, its game KinForge went down with it. KinForge was an online game built in Unreal Engine 5.7 and designed to run on servers hosted by A…",
-          "why_it_matters": "",
-          "tags": [
-            "investigación"
-          ],
-          "category": "investigación",
-          "id": "ieee-2026-11-18-will-ai-coding-eat-video-game-engines"
         }
       ]
     },
@@ -643,43 +643,30 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "url": "https://huggingface.co/blog/inkling2mini",
           "source": "Hugging Face",
-          "published_at": "2026-11-18T19:54:56Z",
+          "published_at": "2026-11-20T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-11-18-daisyrose-27b-pushing-the-frontier-of-post-training-efficiency"
+          "id": "huggingface-2026-11-20-welcome-inkling-2-mini-cutting-edge-performance-for-your"
         },
         {
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
           "source": "Hugging Face",
-          "published_at": "2026-11-18T18:53:43Z",
+          "published_at": "2026-11-20T00:00:00Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-11-18-why-your-fine-tuning-job-takes-longer-than-the"
-        },
-        {
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face",
-          "published_at": "2026-11-18T15:00:23Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-18-time-series-models-in-the-streamhouse-a-new-frontier"
+          "id": "huggingface-2026-11-20-introducing-harness-adapters-adapt-your-favorite-model-to"
         }
       ]
     },
@@ -687,82 +674,95 @@
       "name": "General",
       "items": [
         {
-          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-          "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+          "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+          "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
           "source": "The Verge",
-          "published_at": "2026-11-19T19:40:28Z",
-          "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us…",
+          "published_at": "2026-11-20T18:00:00Z",
+          "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-19-fcc-greenlights-rule-allowing-prisons-to-jam-cellphone"
+          "id": "theverge-2026-11-20-google-says-it-s-going-to-shut-off"
         },
         {
-          "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-          "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+          "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+          "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
           "source": "The Verge",
-          "published_at": "2026-11-19T19:35:52Z",
-          "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-gener…",
+          "published_at": "2026-11-20T17:33:59Z",
+          "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-19-sony-s-wh-1000xm5-are-cheaper-than-ever-for"
+          "id": "theverge-2026-11-20-here-are-the-apple-deals-actually-worth-picking"
         },
         {
-          "title": "You can now buy a Steam Machine without getting on a waitlist",
-          "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+          "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+          "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
           "source": "The Verge",
-          "published_at": "2026-11-19T19:33:22Z",
-          "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase …",
+          "published_at": "2026-11-20T17:05:52Z",
+          "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-19-you-can-now-buy-a-steam-machine-without"
+          "id": "theverge-2026-11-20-teenage-engineering-s-first-cd-player-puts-the"
         },
         {
-          "title": "Some creators are skeptical of Instagram’s new affiliate program",
-          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
           "source": "The Verge",
-          "published_at": "2026-11-19T19:12:30Z",
-          "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to …",
+          "published_at": "2026-11-20T16:34:13Z",
+          "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the wor…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-19-some-creators-are-skeptical-of-instagram-s-new"
+          "id": "theverge-2026-11-20-anthropic-mathematician-claims-to-have-solved-prestigious-millennium"
         },
         {
-          "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-          "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+          "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+          "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
           "source": "The Verge",
-          "published_at": "2026-11-19T18:33:08Z",
-          "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pi…",
+          "published_at": "2026-11-20T16:22:15Z",
+          "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuos…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-19-sonos-is-taking-up-to-30-percent-off"
+          "id": "theverge-2026-11-20-boys-noize-turns-to-the-club-and-an"
         },
         {
-          "title": "Amazon y Google son accionistas, proveedores y canal de venta de Anthropic. Todo a la vez",
+          "title": "Dario Amodei, CEO de Anthropic: “La IA podría comprimir un siglo de progreso médico en una década”",
+          "url": "https://www.xataka.com/empresas-y-economia/dario-amodei-ceo-anthropic-ia-podria-comprimir-siglo-progreso-medico-decada",
+          "source": "Xataka",
+          "published_at": "2026-11-20T10:09:45Z",
+          "summary": "Anthropic ya cotiza en el Nasdaq habiendo conseguido la mayor salida a bolsa de una empresa en la historia. La acción cerró su primer día en 97,17 dólares , un 17 % por encima del precio de oferta de 83 dólares, tras abr…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-20-dario-amodei-ceo-de-anthropic-la-ia-podria"
+        },
+        {
+          "title": "El negocio circular de Anthropic: Amazon y Google son accionistas, proveedores y canal de venta a la vez",
           "url": "https://www.xataka.com/empresas-y-economia/amazon-google-accionistas-proveedores-canal-venta-anthropic-todo-a-vez",
           "source": "Xataka",
-          "published_at": "2026-11-19T16:01:18Z",
+          "published_at": "2026-11-19T16:00:00Z",
           "summary": "Anthropic sale por fin a bolsa en el Nasdaq, y su folleto de salida a bolsa, el S-1, ha puesto cifras a una relación muy peculiar. Amazon y Google... Son sus accionistas. También le venden la computación. Y también gesti…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-19-amazon-y-google-son-accionistas-proveedores-y-canal"
+          "id": "xataka-2026-11-19-el-negocio-circular-de-anthropic-amazon-y-google"
         },
         {
           "title": "Gemini 4 Neon jubila a su “abuelo”: el nieto hace casi lo mismo, tres veces más rápido y por menos dinero",
@@ -813,6 +813,45 @@
       "name": "OpenAI",
       "items": [
         {
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T10:00:00Z",
+          "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-combatting-adversarial-distillation"
+        },
+        {
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-hebbia-sees-improvements-in-financial-research-with-gpt-6"
+        },
+        {
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-20-can-ai-help-scientists-identify-promising-drug-candidates"
+        },
+        {
           "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "source": "OpenAI",
@@ -824,32 +863,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-deploying-daybreak-red"
-        },
-        {
-          "title": "See PR scans in action",
-          "url": "https://openai.com/business/learn/pr-scans-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-see-pr-scans-in-action"
         },
         {
           "title": "Explore the Codex Security Plugin",
@@ -865,6 +878,19 @@
           "id": "openai-2026-11-19-explore-the-codex-security-plugin"
         },
         {
+          "title": "See PR scans in action",
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-see-pr-scans-in-action"
+        },
+        {
           "title": "Get started with Daybreak Blue",
           "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
           "source": "OpenAI",
@@ -876,6 +902,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-19-get-started-with-daybreak-blue"
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "source": "OpenAI",
+          "published_at": "2026-11-19T00:00:00Z",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-19-deploying-daybreak-red"
         },
         {
           "title": "The Silent Consensus",
@@ -891,19 +930,6 @@
           "id": "openai-2026-11-18-the-silent-consensus"
         },
         {
-          "title": "Research acceleration: The jagged frontier",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
-        },
-        {
           "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
           "url": "https://openai.com/business/customer-stories/sumitomo-life",
           "source": "OpenAI",
@@ -915,6 +941,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-18-how-sumitomo-life-s-leaders-helped-teams-adopt"
+        },
+        {
+          "title": "Research acceleration: The jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "source": "OpenAI",
+          "published_at": "2026-11-18T08:00:00Z",
+          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
         },
         {
           "title": "Inside the Codex sandbox",
@@ -1008,19 +1047,6 @@
           "id": "openai-2026-11-17-strengthening-nato-and-allied-cyber-defenses-with-ai"
         },
         {
-          "title": "Introducing OpenAI for Chile",
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI",
-          "published_at": "2026-11-17T00:00:00Z",
-          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-17-introducing-openai-for-chile"
-        },
-        {
           "title": "Astra for Law leads in legal intelligence",
           "url": "https://openai.com/index/astra-law-6-2",
           "source": "OpenAI",
@@ -1032,6 +1058,19 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-17-astra-for-law-leads-in-legal-intelligence"
+        },
+        {
+          "title": "Introducing OpenAI for Chile",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "source": "OpenAI",
+          "published_at": "2026-11-17T00:00:00Z",
+          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "openai-2026-11-17-introducing-openai-for-chile"
         },
         {
           "title": "Broadening access to AI for scientists",
@@ -1188,32 +1227,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-15-our-new-blog-for-science"
-        },
-        {
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI",
-          "published_at": "2026-11-13T15:00:00Z",
-          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-13-introducing-chatgpt-wallet"
-        },
-        {
-          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "url": "https://openai.com/business/customer-stories/shield",
-          "source": "OpenAI",
-          "published_at": "2026-11-13T08:00:00Z",
-          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-13-shield-helps-technicians-hand-off-legacy-portal-work"
         }
       ]
     },
@@ -1221,6 +1234,19 @@
       "id": "anthropic",
       "name": "Anthropic",
       "items": [
+        {
+          "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+          "url": "https://www.anthropic.com/news/ipo-close",
+          "source": "Anthropic",
+          "published_at": "2026-11-20T00:00:00Z",
+          "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by…",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "anthropic-2026-11-20-anthropic-announces-closing-of-initial-public-offering-including"
+        },
         {
           "title": "Anthropic prices initial public offering",
           "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
