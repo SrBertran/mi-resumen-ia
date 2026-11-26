@@ -1,72 +1,72 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:38:43.725398Z",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:38:34.509940Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "source": "The Verge",
-      "published_at": "2026-11-25T01:00:00Z",
-      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that re…",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face",
+      "published_at": "2026-11-26T05:05:36Z",
+      "summary": "Qué pasó: (resumen pendiente)",
       "why_it_matters": "",
       "tags": [
-        "ia"
+        "herramientas"
       ],
-      "category": "general",
-      "id": "theverge-2026-11-25-us-financial-crimes-bureau-discloses-cybersecurity-incident"
+      "category": "herramientas",
+      "id": "huggingface-2026-11-26-building-on-nemotron-3-5-parse-open-data"
     },
     {
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
       "source": "The Verge",
-      "published_at": "2026-11-24T23:59:29Z",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi…",
+      "published_at": "2026-11-26T00:04:34Z",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-24-the-verge-s-2026-gift-guide-for-dads"
+      "id": "theverge-2026-11-26-now-google-s-familiar-faces-ai-feature-works"
     },
     {
-      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
       "source": "The Verge",
-      "published_at": "2026-11-24T23:25:46Z",
-      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to ex…",
+      "published_at": "2026-11-25T23:56:44Z",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-24-why-the-us-army-is-about-to-blow"
+      "id": "theverge-2026-11-25-amazon-loses-its-latest-attempt-to-get-out"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "source": "The Verge",
-      "published_at": "2026-11-24T22:23:27Z",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Ch…",
+      "published_at": "2026-11-25T21:51:26Z",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-24-huawei-found-guilty-of-stealing-trade-secrets"
+      "id": "theverge-2026-11-25-google-s-patent-for-custom-ai-video-feeds"
     },
     {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
       "source": "The Verge",
-      "published_at": "2026-11-24T21:39:14Z",
-      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown…",
+      "published_at": "2026-11-25T21:48:00Z",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-24-gta-vi-pc-recompilation-project-shut-down-by"
+      "id": "theverge-2026-11-25-the-verge-s-2026-holiday-gift-guide-for"
     }
   ],
   "sections": [
@@ -85,6 +85,19 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-11-24-how-gemini-is-changing-the-game-for-golden"
+        },
+        {
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+          "source": "DeepMind",
+          "published_at": "2026-11-24T13:07:53Z",
+          "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-24-from-spectrum-to-structure-identifying-molecules-with-mass"
         },
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -319,167 +332,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
-        },
-        {
-          "title": "See PR scans in action",
-          "url": "https://openai.com/business/learn/pr-scans-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-see-pr-scans-in-action"
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-deploying-daybreak-red"
-        },
-        {
-          "title": "Explore the Codex Security Plugin",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
-        },
-        {
-          "title": "Get started with Daybreak Blue",
-          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-get-started-with-daybreak-blue"
-        },
-        {
-          "title": "Introducing Gemini 4 Neon",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-          "source": "DeepMind",
-          "published_at": "2026-11-18T21:35:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-18-introducing-gemini-4-neon"
-        },
-        {
-          "title": "Genie 4 is now available",
-          "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-          "source": "DeepMind",
-          "published_at": "2026-11-18T18:13:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-18-genie-4-is-now-available"
-        },
-        {
-          "title": "The Gemini app is now available on lower-memory Android devices.",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-          "source": "Google AI",
-          "published_at": "2026-11-18T17:00:00Z",
-          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-18-the-gemini-app-is-now-available-on-lower-memory"
-        },
-        {
-          "title": "The Silent Consensus",
-          "url": "https://openai.com/index/the-silent-consensus",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T10:00:00Z",
-          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-the-silent-consensus"
-        },
-        {
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "url": "https://openai.com/business/customer-stories/sumitomo-life",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-how-sumitomo-life-s-leaders-helped-teams-adopt"
-        },
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
-        },
-        {
-          "title": "Inside the Codex sandbox",
-          "url": "https://openai.com/index/inside-the-codex-sandbox",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-inside-the-codex-sandbox"
-        }
-      ]
-    },
-    {
-      "name": "Regulación",
-      "items": [
-        {
-          "title": "Qué es Artex, la IA principal sospechosa del ciberataque a la Comisión Europea que tiene en alerta al FBI",
-          "url": "https://www.xataka.com/seguridad/que-artex-herramienta-ia-que-busca-fallos-seguridad-sola-que-preocupa-a-empresas-gobiernos",
-          "source": "Xataka",
-          "published_at": "2026-11-23T13:27:00Z",
-          "summary": "Con el avance de la IA generativa , son cada vez más los usuarios, empresas e instituciones que utilizan herramientas basadas en esta tecnología en sus procesos cotidianos. Sus virtudes también han destacado especialment…",
-          "why_it_matters": "",
-          "tags": [
-            "regulación"
-          ],
-          "category": "regulación",
-          "id": "xataka-2026-11-23-que-es-artex-la-ia-principal-sospechosa-del"
         }
       ]
     },
@@ -505,30 +357,43 @@
       "name": "Herramientas",
       "items": [
         {
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "title": "Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
           "source": "Hugging Face",
-          "published_at": "2026-11-24T16:34:13Z",
+          "published_at": "2026-11-25T18:52:55Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-11-24-microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac"
+          "id": "huggingface-2026-11-25-where-scientists-draw-the-line-on-ai-agents"
         },
         {
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "title": "An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
           "source": "Hugging Face",
-          "published_at": "2026-11-23T17:20:37Z",
+          "published_at": "2026-11-25T10:22:09Z",
           "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "herramientas"
           ],
           "category": "herramientas",
-          "id": "huggingface-2026-11-23-robotrack-point-tracking-for-real-world-robotic-manipulation"
+          "id": "huggingface-2026-11-25-an-indic-voice-agent-with-cuga"
+        },
+        {
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "source": "Hugging Face",
+          "published_at": "2026-11-25T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx"
         }
       ]
     },
@@ -536,69 +401,121 @@
       "name": "General",
       "items": [
         {
-          "title": "The Verge’s 2026 holiday gift guide for moms",
-          "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+          "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+          "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
           "source": "The Verge",
-          "published_at": "2026-11-24T21:09:59Z",
-          "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life?…",
+          "published_at": "2026-11-25T20:31:48Z",
+          "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platf…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-24-the-verge-s-2026-holiday-gift-guide-for"
+          "id": "theverge-2026-11-25-whatsapp-s-new-scheduled-messages-let-you-choose"
         },
         {
-          "title": "TikTok was down",
-          "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
           "source": "The Verge",
-          "published_at": "2026-11-24T20:27:27Z",
-          "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos somet…",
+          "published_at": "2026-11-25T19:45:51Z",
+          "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-24-tiktok-was-down"
+          "id": "theverge-2026-11-25-epa-reports-zero-airborne-lead-following-controlled-army"
         },
         {
-          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "title": "1Password breach leaked customer names and emails, but not passwords",
+          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
           "source": "The Verge",
-          "published_at": "2026-11-24T20:02:03Z",
-          "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job …",
+          "published_at": "2026-11-25T19:10:15Z",
+          "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-24-jensen-huang-reportedly-tells-nvidia-staff-it-8217"
+          "id": "theverge-2026-11-25-1password-breach-leaked-customer-names-and-emails-but"
         },
         {
-          "title": "The clock is running out for America’s most contentious spying law",
-          "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-          "source": "The Verge",
-          "published_at": "2026-11-24T20:00:00Z",
-          "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. S…",
+          "title": "Consultar el voto con la IA: lo que más pesa en la respuesta no es el programa electoral, eres tú",
+          "url": "https://www.xataka.com/robotica-e-ia/consultar-voto-ia-que-pesa-respuesta-no-programa-electoral-eres-tu",
+          "source": "Xataka",
+          "published_at": "2026-11-25T18:30:28Z",
+          "summary": "Parecía que no iban a llegar, pero ya casi están aquí: las elecciones del 29N son el próximo domingo. Los diferentes partidos han ido lanzando propuestas, todas reunidas en sus respectivos programas electorales. Como dic…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-24-the-clock-is-running-out-for-america-s"
+          "id": "xataka-2026-11-25-consultar-el-voto-con-la-ia-lo-que"
         },
         {
-          "title": "Amazon is knocking almost $50 off six months of Apple TV",
-          "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+          "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-11-24T19:00:00Z",
-          "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming s…",
+          "published_at": "2026-11-25T18:00:00Z",
+          "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, es…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-24-amazon-is-knocking-almost-50-off-six-months"
+          "id": "theverge-2026-11-25-the-fairphone-6-plus-is-modular-repairable-and"
+        },
+        {
+          "title": "The loneliest peptide party in New York",
+          "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+          "source": "The Verge",
+          "published_at": "2026-11-25T18:00:00Z",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-25-the-loneliest-peptide-party-in-new-york"
+        },
+        {
+          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "source": "The Verge",
+          "published_at": "2026-11-25T17:44:51Z",
+          "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing t…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-25-fcc-signs-off-on-spacex-s-plan-to"
+        },
+        {
+          "title": "Amazon está negociando con Meta abrirle la puerta a Muse: el verdadero problema es que una IA no se para a ver anuncios",
+          "url": "https://www.xataka.com/robotica-e-ia/amazon-esta-negociando-meta-abrirle-puerta-a-muse-verdadero-problema-que-ia-no-se-para-a-ver-anuncios",
+          "source": "Xataka",
+          "published_at": "2026-11-25T14:49:32Z",
+          "summary": "A finales de septiembre, quien pedía a Muse que comprase algo en Amazon se encontraba con un muro que el agente no podía traspasar. Según el gigante del ecommerce, un agente de IA no autorizado incumplía las condiciones …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-25-amazon-esta-negociando-con-meta-abrirle-la-puerta"
+        },
+        {
+          "title": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
+          "url": "https://www.xataka.com/robotica-e-ia/que-vale-pena-tener-acceso-a-modelo-ia-censura-yo-me-reservo-uno-para-tareas-delicadas",
+          "source": "Xataka",
+          "published_at": "2026-11-25T13:30:23Z",
+          "summary": "Tener acceso a una IA no suele ser suficiente, por diversos motivos. Si eres como yo y utilizas los modelos para multitud de tareas, el uso se agota más rápido que las patatas fritas en un buffet libre. Además, no todas …",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-25-por-que-vale-la-pena-tener-acceso-a"
         },
         {
           "title": "\"Demasiado grande para caer\": EEUU ha trazado una línea clarísima salvando a Jensen Huang y, por tanto, a Nvidia",
@@ -653,7 +570,7 @@
           "id": "xataka-2026-11-24-el-jefe-de-ia-de-meta-duda-de"
         },
         {
-          "title": "Ahorrar dinero no es lo único que importa, el tiempo también es valioso. Con ChatGPT espero conseguir ambos este Black Friday",
+          "title": "Antes buscaba los chollos, ahora vienen a mí: he programado a ChatGPT para que le saque partido a Black Friday",
           "url": "https://www.xataka.com/robotica-e-ia/no-se-que-movil-quiero-se-como-quiero-asi-uso-chatgpt-para-encontrar-chollos-este-black-friday",
           "source": "Xataka",
           "published_at": "2026-11-24T13:30:00Z",
@@ -663,7 +580,7 @@
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-24-ahorrar-dinero-no-es-lo-unico-que-importa"
+          "id": "xataka-2026-11-24-antes-buscaba-los-chollos-ahora-vienen-a-mi"
         },
         {
           "title": "Carl Pei, CEO de Nothing: \"No veo ningún momento tipo iPhone para la IA de consumo a corto plazo\"",
@@ -690,32 +607,6 @@
           ],
           "category": "general",
           "id": "xataka-2026-11-24-geoffrey-hinton-nobel-y-padre-de-la-ia"
-        },
-        {
-          "title": "Una empresa española que programa el firmware de media banca dice ir 3,6 veces más rápido con IA. La pregunta es cómo lo sabe",
-          "url": "https://www.xataka.com/empresas-y-economia/empresa-espanola-que-programa-firmware-media-banca-dice-ir-3-6-veces-rapido-ia-pregunta-como-sabe",
-          "source": "Xataka",
-          "published_at": "2026-11-24T11:00:49Z",
-          "summary": "Hace tres o cuatro años, Antonio García, CEO de Teldat , quiso saber cuánto rendían sus ingenieros. Para medirlo, eligió la vara que tenía más a mano: la cantidad de líneas de código . \"Todo el mundo se llevaba las manos…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-una-empresa-espanola-que-programa-el-firmware-de"
-        },
-        {
-          "title": "Jensen Huang vuelve a ser CEO de Nvidia por decisión unánime de la junta de accionistas",
-          "url": "https://www.xataka.com/empresas-y-economia/junta-accionistas-nvidia-reincorpora-a-jensen-huang-como-ceo",
-          "source": "Xataka",
-          "published_at": "2026-11-23T14:20:00Z",
-          "summary": "Apenas once días después de su salida, Nvidia ha anunciado oficialmente que su fundador recupera los cargos de CEO y presidente de la compañía, además de su puesto en el consejo de administración. La decisión se ha tomad…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-23-jensen-huang-vuelve-a-ser-ceo-de-nvidia"
         }
       ]
     }
@@ -920,110 +811,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
-        },
-        {
-          "title": "See PR scans in action",
-          "url": "https://openai.com/business/learn/pr-scans-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-see-pr-scans-in-action"
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-deploying-daybreak-red"
-        },
-        {
-          "title": "Explore the Codex Security Plugin",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-explore-the-codex-security-plugin"
-        },
-        {
-          "title": "Get started with Daybreak Blue",
-          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T00:00:00Z",
-          "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-get-started-with-daybreak-blue"
-        },
-        {
-          "title": "The Silent Consensus",
-          "url": "https://openai.com/index/the-silent-consensus",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T10:00:00Z",
-          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-the-silent-consensus"
-        },
-        {
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "url": "https://openai.com/business/customer-stories/sumitomo-life",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-how-sumitomo-life-s-leaders-helped-teams-adopt"
-        },
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-research-acceleration-the-jagged-frontier"
-        },
-        {
-          "title": "Inside the Codex sandbox",
-          "url": "https://openai.com/index/inside-the-codex-sandbox",
-          "source": "OpenAI",
-          "published_at": "2026-11-18T08:00:00Z",
-          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-18-inside-the-codex-sandbox"
         }
       ]
     },
@@ -1101,19 +888,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-11-19-walter-isaacson-on-curiosity-and-creativity-in-the"
-        },
-        {
-          "title": "The Gemini app is now available on lower-memory Android devices.",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-          "source": "Google AI",
-          "published_at": "2026-11-18T17:00:00Z",
-          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-18-the-gemini-app-is-now-available-on-lower-memory"
         }
       ]
     },
@@ -1121,6 +895,19 @@
       "id": "deepmind",
       "name": "DeepMind",
       "items": [
+        {
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+          "source": "DeepMind",
+          "published_at": "2026-11-24T13:07:53Z",
+          "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+          "why_it_matters": "",
+          "tags": [
+            "producto"
+          ],
+          "category": "lanzamientos",
+          "id": "deepmind-2026-11-24-from-spectrum-to-structure-identifying-molecules-with-mass"
+        },
         {
           "title": "Finding faster quantum algorithms with agents and formal verification",
           "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
@@ -1133,32 +920,6 @@
           ],
           "category": "lanzamientos",
           "id": "deepmind-2026-11-23-finding-faster-quantum-algorithms-with-agents-and-formal"
-        },
-        {
-          "title": "Introducing Gemini 4 Neon",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-          "source": "DeepMind",
-          "published_at": "2026-11-18T21:35:43Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-18-introducing-gemini-4-neon"
-        },
-        {
-          "title": "Genie 4 is now available",
-          "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-          "source": "DeepMind",
-          "published_at": "2026-11-18T18:13:42Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "deepmind-2026-11-18-genie-4-is-now-available"
         }
       ]
     }
