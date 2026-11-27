@@ -1,72 +1,72 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T06:38:34.509940Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:38:25.732905Z",
   "title": "Resumen diario de IA",
   "top": [
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face",
-      "published_at": "2026-11-26T05:05:36Z",
-      "summary": "Qué pasó: (resumen pendiente)",
-      "why_it_matters": "",
-      "tags": [
-        "herramientas"
-      ],
-      "category": "herramientas",
-      "id": "huggingface-2026-11-26-building-on-nemotron-3-5-parse-open-data"
-    },
-    {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "source": "The Verge",
-      "published_at": "2026-11-26T00:04:34Z",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
+      "title": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio",
+      "url": "https://www.xataka.com/espacio/carrera-inteligencia-artificial-no-se-libra-solo-tierra-china-acaba-dar-otro-paso-espacio",
+      "source": "Xataka",
+      "published_at": "2026-11-27T06:02:16Z",
+      "summary": "Cuando hablamos del espacio, estamos acostumbrados a pensar en satélites que nos permiten anticipar el tiempo que hará mañana, comunicarnos con lugares remotos o estudiar la superficie de nuestro planeta. También en tele…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-26-now-google-s-familiar-faces-ai-feature-works"
+      "id": "xataka-2026-11-27-la-carrera-por-la-inteligencia-artificial-ya-no"
     },
     {
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "source": "The Verge",
-      "published_at": "2026-11-25T23:56:44Z",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav…",
+      "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
+      "url": "https://www.xataka.com/seguridad/tenemos-que-prepararnos-para-proximos-meses-presidente-microsoft-alerta-riesgo-caidas-ligado-a-ia",
+      "source": "Xataka",
+      "published_at": "2026-11-26T21:00:29Z",
+      "summary": "Mantener en funcionamiento los servicios digitales que utilizamos a diario exige encontrar un equilibrio entre dos necesidades: proteger los sistemas frente a posibles ataques y garantizar que las intervenciones destinad…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-25-amazon-loses-its-latest-attempt-to-get-out"
+      "id": "xataka-2026-11-26-tenemos-que-prepararnos-para-los-proximos-meses-el"
     },
     {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
       "source": "The Verge",
-      "published_at": "2026-11-25T21:51:26Z",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The…",
+      "published_at": "2026-11-26T21:00:00Z",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-25-google-s-patent-for-custom-ai-video-feeds"
+      "id": "theverge-2026-11-26-netflix-s-coziest-show-has-made-a-very"
     },
     {
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
       "source": "The Verge",
-      "published_at": "2026-11-25T21:48:00Z",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
+      "published_at": "2026-11-26T19:00:00Z",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its O…",
       "why_it_matters": "",
       "tags": [
         "ia"
       ],
       "category": "general",
-      "id": "theverge-2026-11-25-the-verge-s-2026-holiday-gift-guide-for"
+      "id": "theverge-2026-11-26-the-garmin-forerunner-265s-is-down-to-300"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-26T17:07:00Z",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to …",
+      "why_it_matters": "",
+      "tags": [
+        "ia"
+      ],
+      "category": "general",
+      "id": "theverge-2026-11-26-the-macbook-neo-is-receiving-a-rare-100"
     }
   ],
   "sections": [
@@ -254,84 +254,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-20-combatting-adversarial-distillation"
-        },
-        {
-          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-          "url": "https://openai.com/business/customer-stories/hebbia",
-          "source": "OpenAI",
-          "published_at": "2026-11-20T00:00:00Z",
-          "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-20-hebbia-sees-improvements-in-financial-research-with-gpt-6"
-        },
-        {
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "url": "https://openai.com/index/introducing-medchembench",
-          "source": "OpenAI",
-          "published_at": "2026-11-20T00:00:00Z",
-          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-20-can-ai-help-scientists-identify-promising-drug-candidates"
-        },
-        {
-          "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-          "url": "https://www.anthropic.com/news/ipo-close",
-          "source": "Anthropic",
-          "published_at": "2026-11-20T00:00:00Z",
-          "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by…",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "anthropic-2026-11-20-anthropic-announces-closing-of-initial-public-offering-including"
-        },
-        {
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-          "source": "Google AI",
-          "published_at": "2026-11-19T18:00:00Z",
-          "summary": "Gemini spark on a space background",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-19-introducing-tool-retrieval-in-the-gemini-api"
-        },
-        {
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-          "source": "Google AI",
-          "published_at": "2026-11-19T17:00:00Z",
-          "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-19-walter-isaacson-on-curiosity-and-creativity-in-the"
-        },
-        {
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T08:00:00Z",
-          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
         }
       ]
     },
@@ -339,23 +261,49 @@
       "name": "Investigación",
       "items": [
         {
-          "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-          "url": "https://spectrum.ieee.org/swahili-speech-recognition",
-          "source": "IEEE Spectrum",
-          "published_at": "2026-11-24T12:00:03Z",
-          "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher …",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "source": "Hugging Face",
+          "published_at": "2026-11-26T11:37:17Z",
+          "summary": "Qué pasó: (resumen pendiente)",
           "why_it_matters": "",
           "tags": [
             "investigación"
           ],
           "category": "investigación",
-          "id": "ieee-2026-11-24-why-does-voice-ai-still-struggle-with-kenyans"
+          "id": "huggingface-2026-11-26-introducing-the-llama-cpp-benchmark-dashboard-for-amd"
         }
       ]
     },
     {
       "name": "Herramientas",
       "items": [
+        {
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face",
+          "published_at": "2026-11-26T05:05:36Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-26-building-on-nemotron-3-5-parse-open-data"
+        },
+        {
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "source": "Hugging Face",
+          "published_at": "2026-11-26T00:00:00Z",
+          "summary": "Qué pasó: (resumen pendiente)",
+          "why_it_matters": "",
+          "tags": [
+            "herramientas"
+          ],
+          "category": "herramientas",
+          "id": "huggingface-2026-11-26-swarms-flocks-gangs-how-to-build-train-and"
+        },
         {
           "title": "Where scientists draw the line on AI agents",
           "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -381,19 +329,6 @@
           ],
           "category": "herramientas",
           "id": "huggingface-2026-11-25-an-indic-voice-agent-with-cuga"
-        },
-        {
-          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-          "source": "Hugging Face",
-          "published_at": "2026-11-25T00:00:00Z",
-          "summary": "Qué pasó: (resumen pendiente)",
-          "why_it_matters": "",
-          "tags": [
-            "herramientas"
-          ],
-          "category": "herramientas",
-          "id": "huggingface-2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx"
         }
       ]
     },
@@ -401,95 +336,147 @@
       "name": "General",
       "items": [
         {
-          "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-          "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+          "title": "Android app developers will soon have to share their address publicly",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
           "source": "The Verge",
-          "published_at": "2026-11-25T20:31:48Z",
-          "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platf…",
+          "published_at": "2026-11-26T17:06:24Z",
+          "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to m…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-25-whatsapp-s-new-scheduled-messages-let-you-choose"
+          "id": "theverge-2026-11-26-android-app-developers-will-soon-have-to-share"
         },
         {
-          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-          "source": "The Verge",
-          "published_at": "2026-11-25T19:45:51Z",
-          "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today …",
+          "title": "La inseguridad se ha convertido en una condición estructural de Internet",
+          "url": "https://www.xataka.com/opinion/inseguridad-se-ha-convertido-condicion-estructural-internet",
+          "source": "Xataka",
+          "published_at": "2026-11-26T17:00:25Z",
+          "summary": "Llevo años escuchando la cantinela de que la ciberseguridad es, sobre todo, un problema técnico. Lo primero que nos dicen los expertos es instalar actualizaciones, usar contraseñas complejas y distintas, activar la verif…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-25-epa-reports-zero-airborne-lead-following-controlled-army"
+          "id": "xataka-2026-11-26-la-inseguridad-se-ha-convertido-en-una-condicion"
         },
         {
-          "title": "1Password breach leaked customer names and emails, but not passwords",
-          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+          "title": "The best Black Friday deals we’ve already found",
+          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
           "source": "The Verge",
-          "published_at": "2026-11-25T19:10:15Z",
-          "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk…",
+          "published_at": "2026-11-26T16:55:00Z",
+          "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "theverge-2026-11-25-1password-breach-leaked-customer-names-and-emails-but"
+          "id": "theverge-2026-11-26-the-best-black-friday-deals-we-ve-already"
         },
         {
-          "title": "Consultar el voto con la IA: lo que más pesa en la respuesta no es el programa electoral, eres tú",
+          "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+          "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+          "source": "The Verge",
+          "published_at": "2026-11-26T16:38:00Z",
+          "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First A…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-26-federal-judge-blocks-the-fcc-from-reviewing-abc"
+        },
+        {
+          "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+          "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+          "source": "The Verge",
+          "published_at": "2026-11-26T16:00:00Z",
+          "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some strea…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-26-disney-plus-hulu-and-hbo-max-are-all"
+        },
+        {
+          "title": "GTA VI developers vote against unionization",
+          "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+          "source": "The Verge",
+          "published_at": "2026-11-26T15:55:24Z",
+          "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of G…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-26-gta-vi-developers-vote-against-unionization"
+        },
+        {
+          "title": "Why GTA VI’s version of Florida feels so real",
+          "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+          "source": "The Verge",
+          "published_at": "2026-11-26T15:00:00Z",
+          "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-26-why-gta-vi-s-version-of-florida-feels"
+        },
+        {
+          "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+          "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published_at": "2026-11-26T14:00:00Z",
+          "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical a…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "theverge-2026-11-26-here-s-where-you-can-save-a-little"
+        },
+        {
+          "title": "Abrió la veda de los agentes de IA gratuitos y acaba de cumplir un año: OpenClaw ha hecho fácil lo difícil",
+          "url": "https://www.xataka.com/robotica-e-ia/hace-ano-instale-openclaw-he-matado-agentes-que-tamagotchis-sigo-convencido-que-cambio-ia",
+          "source": "Xataka",
+          "published_at": "2026-11-26T12:00:00Z",
+          "summary": "Pocos cambios han sido tan bruscos, y a la vez tan progresivos, como el que ha traído la IA. Darle conversación a ChatGPT se ha vuelto una rutina, igual que generar una imagen sintética o crear una aplicación sin saber p…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-26-abrio-la-veda-de-los-agentes-de-ia"
+        },
+        {
+          "title": "Hay un modelo de IA local que está causando furor. Se llama Inkling 2 Mini y tenemos sorpresa: no es chino",
+          "url": "https://www.xataka.com/robotica-e-ia/hay-modelo-ia-local-que-esta-causando-furor-se-llama-inkling-2-mini-tenemos-sorpresa-no-chino",
+          "source": "Xataka",
+          "published_at": "2026-11-26T08:15:38Z",
+          "summary": "&nbsp;El pasado 5 de noviembre Thinking Machines Lab , la startup de Mira Murati, presentaba su modelo Inkling 2 Mini sin demasiada fanfarria. En tan solo tres semanas el modelo se ha convertido en una de las sensaciones…",
+          "why_it_matters": "",
+          "tags": [
+            "ia"
+          ],
+          "category": "general",
+          "id": "xataka-2026-11-26-hay-un-modelo-de-ia-local-que-esta"
+        },
+        {
+          "title": "Dos amigos hacen la misma pregunta electoral a una IA. La diferencia puede estar en lo que le contaron antes",
           "url": "https://www.xataka.com/robotica-e-ia/consultar-voto-ia-que-pesa-respuesta-no-programa-electoral-eres-tu",
           "source": "Xataka",
-          "published_at": "2026-11-25T18:30:28Z",
+          "published_at": "2026-11-25T18:30:00Z",
           "summary": "Parecía que no iban a llegar, pero ya casi están aquí: las elecciones del 29N son el próximo domingo. Los diferentes partidos han ido lanzando propuestas, todas reunidas en sus respectivos programas electorales. Como dic…",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-25-consultar-el-voto-con-la-ia-lo-que"
-        },
-        {
-          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-          "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-11-25T18:00:00Z",
-          "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, es…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-25-the-fairphone-6-plus-is-modular-repairable-and"
-        },
-        {
-          "title": "The loneliest peptide party in New York",
-          "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-          "source": "The Verge",
-          "published_at": "2026-11-25T18:00:00Z",
-          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-25-the-loneliest-peptide-party-in-new-york"
-        },
-        {
-          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-          "source": "The Verge",
-          "published_at": "2026-11-25T17:44:51Z",
-          "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing t…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "theverge-2026-11-25-fcc-signs-off-on-spacex-s-plan-to"
+          "id": "xataka-2026-11-25-dos-amigos-hacen-la-misma-pregunta-electoral-a"
         },
         {
           "title": "Amazon está negociando con Meta abrirle la puerta a Muse: el verdadero problema es que una IA no se para a ver anuncios",
@@ -505,108 +492,17 @@
           "id": "xataka-2026-11-25-amazon-esta-negociando-con-meta-abrirle-la-puerta"
         },
         {
-          "title": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
+          "title": "Cuando ChatGPT ve un problema donde no lo hay, pido una segunda opinión. La IA 'sin censura' viene al rescate",
           "url": "https://www.xataka.com/robotica-e-ia/que-vale-pena-tener-acceso-a-modelo-ia-censura-yo-me-reservo-uno-para-tareas-delicadas",
           "source": "Xataka",
-          "published_at": "2026-11-25T13:30:23Z",
+          "published_at": "2026-11-25T13:30:00Z",
           "summary": "Tener acceso a una IA no suele ser suficiente, por diversos motivos. Si eres como yo y utilizas los modelos para multitud de tareas, el uso se agota más rápido que las patatas fritas en un buffet libre. Además, no todas …",
           "why_it_matters": "",
           "tags": [
             "ia"
           ],
           "category": "general",
-          "id": "xataka-2026-11-25-por-que-vale-la-pena-tener-acceso-a"
-        },
-        {
-          "title": "\"Demasiado grande para caer\": EEUU ha trazado una línea clarísima salvando a Jensen Huang y, por tanto, a Nvidia",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-demasiado-grande-como-para-caer-riesgo-que-todo-ecosistema-ia-eeuu-dependa-sola-empresa",
-          "source": "Xataka",
-          "published_at": "2026-11-24T17:52:00Z",
-          "summary": "Tras once días marcados por las caídas bursátiles casi continuadas, el domingo por la noche, el consejo de Nvidia recibió una llamada poco habitual: la de Donald Trump. De acuerdo a lo publicado por Semafor , el presiden…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-demasiado-grande-para-caer-eeuu-ha-trazado-una"
-        },
-        {
-          "title": "He vivido en el futuro de la IA para todos gracias al MSI EdgeMesa con la RTX Spark de Nvidia y 128 GB de memoria",
-          "url": "https://www.xataka.com/analisis/msi-edgemesa-n1x-nvidia-rtx-spark-analisis-caracteristicas-precio-especificaciones",
-          "source": "Xataka",
-          "published_at": "2026-11-24T16:01:02Z",
-          "summary": "Probar el nuevo MSI EdgeMesa con la Nvidia RTX Spark ha sido como volver a los inicios de Internet en casa. Los recuerdos del módem “ bipeando ” tras un grito a mi madre para que dejara de hablar por teléfono y no ocupar…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-he-vivido-en-el-futuro-de-la-ia"
-        },
-        {
-          "title": "China se hizo un hueco regalando sus modelos de IA. Para competir con OpenAI y Anthropic, Z.ai lanza GLM-5.4 primero de pago",
-          "url": "https://www.xataka.com/robotica-e-ia/china-se-hizo-hueco-regalando-sus-modelos-ia-para-competir-openai-anthropic-z-ai-lanza-glm-5-4-primero-pago",
-          "source": "Xataka",
-          "published_at": "2026-11-24T15:30:59Z",
-          "summary": "En cuestión de laboratorios de IA, hay actualmente dos estilos principales: los que acostumbran a liberar los pesos y aquellos que prefieren mantenerlos cerrados y cobrar por usarlos. La tendencia había colocado a los la…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-china-se-hizo-un-hueco-regalando-sus-modelos"
-        },
-        {
-          "title": "El jefe de IA de Meta duda de que podamos controlar una superinteligencia \"1.000 veces más inteligente\". Hay quien lo llama \"locura de mierda\"",
-          "url": "https://www.xataka.com/robotica-e-ia/jefe-ia-meta-duda-que-podamos-controlar-superinteligencia-1-000-veces-inteligente-hay-quien-llama-locura-mierda",
-          "source": "Xataka",
-          "published_at": "2026-11-24T14:31:03Z",
-          "summary": "Alexandr Wang es uno de los 'Galácticos' de la IA. Es el jefe de IA en Meta y el \"niño prodigio\" que fundó la Scale AI que Zuckerberg adquirió por 14.300 millones de dólares con el único objetivo de que Wang pusiera orde…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-el-jefe-de-ia-de-meta-duda-de"
-        },
-        {
-          "title": "Antes buscaba los chollos, ahora vienen a mí: he programado a ChatGPT para que le saque partido a Black Friday",
-          "url": "https://www.xataka.com/robotica-e-ia/no-se-que-movil-quiero-se-como-quiero-asi-uso-chatgpt-para-encontrar-chollos-este-black-friday",
-          "source": "Xataka",
-          "published_at": "2026-11-24T13:30:00Z",
-          "summary": "Para los compradores compulsivos de tecnología se aproxima la fecha marcada en rojo en nuestro calendario: el Black Friday . Con los años he aprendido a ser algo más comedido en el gasto, aunque tengo claro que hay que a…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-antes-buscaba-los-chollos-ahora-vienen-a-mi"
-        },
-        {
-          "title": "Carl Pei, CEO de Nothing: \"No veo ningún momento tipo iPhone para la IA de consumo a corto plazo\"",
-          "url": "https://www.xataka.com/auriculares/nuevos-auriculares-nothing-quieren-ser-tu-secretario-ia-su-ceo-advierte-no-espereis-momento-iphone",
-          "source": "Xataka",
-          "published_at": "2026-11-24T11:47:00Z",
-          "summary": "Llevaban un tiempo rumiándolo , pero finalmente Nothing ya tiene listo su primer dispositivo diseñado en torno a la IA. En este caso son un par de auriculares inalámbricos que pueden grabar y transcribir tanto llamadas c…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-carl-pei-ceo-de-nothing-no-veo-ningun"
-        },
-        {
-          "title": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\"",
-          "url": "https://www.xataka.com/robotica-e-ia/geoffrey-hinton-nobel-padre-ia-historia-humanidad-fuera-dia-probablemente-estariamos-ultimo-segundo",
-          "source": "Xataka",
-          "published_at": "2026-11-24T11:30:00Z",
-          "summary": "Durante décadas, algunos de los mejores científicos del mundo trabajaron para conseguir que las máquinas aprendieran a pensar. Ahora que empiezan a conseguirlo, una parte de esos mismos investigadores está pidiendo que s…",
-          "why_it_matters": "",
-          "tags": [
-            "ia"
-          ],
-          "category": "general",
-          "id": "xataka-2026-11-24-geoffrey-hinton-nobel-y-padre-de-la-ia"
+          "id": "xataka-2026-11-25-cuando-chatgpt-ve-un-problema-donde-no-lo"
         }
       ]
     }
@@ -772,45 +668,6 @@
           ],
           "category": "lanzamientos",
           "id": "openai-2026-11-20-combatting-adversarial-distillation"
-        },
-        {
-          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-          "url": "https://openai.com/business/customer-stories/hebbia",
-          "source": "OpenAI",
-          "published_at": "2026-11-20T00:00:00Z",
-          "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-20-hebbia-sees-improvements-in-financial-research-with-gpt-6"
-        },
-        {
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "url": "https://openai.com/index/introducing-medchembench",
-          "source": "OpenAI",
-          "published_at": "2026-11-20T00:00:00Z",
-          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-20-can-ai-help-scientists-identify-promising-drug-candidates"
-        },
-        {
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "source": "OpenAI",
-          "published_at": "2026-11-19T08:00:00Z",
-          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "openai-2026-11-19-how-openai-s-performance-factory-keeps-chatgpt-fast"
         }
       ]
     },
@@ -862,32 +719,6 @@
           ],
           "category": "lanzamientos",
           "id": "googleai-2026-11-23-a-more-tailored-google-search-that-s-uniquely"
-        },
-        {
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-          "source": "Google AI",
-          "published_at": "2026-11-19T18:00:00Z",
-          "summary": "Gemini spark on a space background",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-19-introducing-tool-retrieval-in-the-gemini-api"
-        },
-        {
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-          "source": "Google AI",
-          "published_at": "2026-11-19T17:00:00Z",
-          "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-          "why_it_matters": "",
-          "tags": [
-            "producto"
-          ],
-          "category": "lanzamientos",
-          "id": "googleai-2026-11-19-walter-isaacson-on-curiosity-and-creativity-in-the"
         }
       ]
     },
